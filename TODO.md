@@ -43,6 +43,7 @@ every such file will re-explain the same thing badly.
 | **Zahnarzt/Zahnärztin** | Approbation, and a strong private-practice economy. Pairs with [Arzt](jobs/healthcare/arzt-aerztin.md). |
 | **Medizinische/r Fachangestellte/r (MFA)** | Very large occupation, very low pay, Ärztekammer exam. The primary-care counterpart to [MT/MTA](jobs/healthcare/medizinische-technologin-mt-mta.md). |
 | **PTA** | Reformed by the PTA-Reformgesetz. Sits under [Apotheker](jobs/healthcare/apotheker-in.md) the way MFA sits under Arzt — and the ADEXA/ADA table already verified in the Apotheker file covers PTA and PKA pay, so that groundwork is done. |
+| **Pflegefachassistenz / Pflegehelfer/in** | The tier directly below [nursing](jobs/healthcare/pflegefachfrau-pflegefachmann.md), 1–2 years and **state-regulated rather than federal**. Matters disproportionately here: it is what foreign nurses are actually hired as while recognition runs, and the file already warns about getting stuck there without documenting what "there" is. |
 | **ATA / OTA** | Anaesthesia and surgical assistants — **newly federally regulated in 2022**, previously a patchwork. A recent, clean example of regulation arriving. |
 | **Logopäde/in, Ergotherapeut/in** | Same pending-academisation story as [Physiotherapie](jobs/healthcare/physiotherapeut-in.md); probably one combined "therapy professions" file rather than three thin ones. |
 
@@ -105,6 +106,15 @@ repo currently implies it only ever tightens.
 | **Fachkraft für Veranstaltungstechnik** | IHK, not Handwerk, with real safety-law responsibility (rigging, Versammlungsstättenverordnung). |
 | **Bauzeichner/in** | IHK rather than Handwerk, and the desk-side counterpart to the trades above — pairs with [Ingenieur](jobs/engineering/ingenieur-in.md). |
 
+## 5d. Services and other sectors — no category exists yet
+
+| Profession | Why |
+|---|---|
+| **Gebäudereiniger/in** | **The largest Handwerk trade by headcount**, and absent entirely. Anlage B1, so no Meisterpflicht — a useful contrast with the Anlage A trades. Has its own **AEntG-declared Mindestlohn** above the statutory one, and is the sector where outsourcing, minimum-wage compliance and migrant labour intersect most visibly. The [hotel file](jobs/hospitality/hotelfachmann-frau.md) already gestures at this when it warns that housekeeping is usually contracted out. |
+| **Fachkraft für Schutz und Sicherheit** | A **third instance of activity-gating**: §34a GewO requires a Sachkundeprüfung and reliability check to work in security at all, regardless of job title — after [Bankkaufmann](jobs/commercial/bankkaufmann-frau.md) (BaFin) and [Berufskraftfahrer](jobs/logistics/berufskraftfahrer-in.md) (licence). Three cases is enough to promote the pattern from a footnote to its own README section. |
+| **Landwirt/in** | Agriculture runs on **Saisonarbeitskräfte** under the 70-day short-term employment rule — a labour model with no parallel elsewhere in the repo, and a documented history of enforcement problems. |
+| **Wissenschaftliche/r Mitarbeiter/in** | The **WissZeitVG** permits serial fixed-term contracts for years, and German academia is built on them. A well-known structural feature that anyone considering a research career in Germany should read before committing. |
+
 ## 6. Commercial
 
 | Profession | Why |
@@ -165,12 +175,49 @@ repo currently implies it only ever tightens.
   adopted, and directly relevant to a repo that keeps comparing vocational and academic
   routes. It is also the main earnings lever in the trades, and for Anlage A the *only*
   route to self-employment.
+- **`reference/shift-work-and-supplements.md`** — **8 of 23 profession files** describe shift
+  work, and [pay.md](reference/pay.md) explicitly states that its table understates every
+  shift-working profession because supplements sit outside base pay. The **TVöD
+  Zeitzuschläge are published and verifiable** — night, Sunday, public holiday, Wechselschicht
+  and Rufbereitschaft rates — so this can be an exact document rather than an estimated one,
+  and it would repair the pay table's largest known distortion.
+- **`reference/bundeslaender.md`** — **8 files tell the reader to "choose the Bundesland"**
+  and none helps them do it. Should compare: Besoldung levels (state law since 2006),
+  recognition practice and processing times, Verbeamtung policy for teachers, A13-für-alle
+  status, cost of living against nominal pay, and where the public-sector tariffs buy most.
+  The repo's most repeated instruction is currently its least actionable one.
+- **`reference/health-insurance.md`** — **zero mentions across 23 files, which is itself the
+  finding.** GKV vs PKV, the JAEG threshold above which you may leave the statutory system,
+  Familienversicherung covering non-earning dependants free, and the one-way-door problem of
+  switching to private. It interlocks with things the repo already covers: **Beihilfe** for
+  [Beamte](reference/beamte-vs-angestellte.md), and self-employment for
+  [Meister](#7-reference-documents) and pharmacy owners. For anyone actually moving to
+  Germany this ranks above several profession files.
+- **`reference/glossary.md`** — the repo is written in English and deliberately keeps ~100
+  German terms inline. A single alphabetical glossary would cost little and save every
+  reader repeated lookups.
 - **`reference/recognition-authorities.md`** — which body is competent per profession and
   Bundesland. The single most repeated paragraph across the profession files.
 - **`reference/employment-basics.md`** — Probezeit, notice periods, Arbeitszeitgesetz,
   statutory leave, Kündigungsschutz, Arbeitszeugnis. Currently scattered.
 
 ---
+
+## 8. Repo hygiene
+
+- **No LICENSE.** It matters for a reference corpus that might be shared or contributed to.
+  CC BY-SA 4.0 fits the content better than a code licence.
+- **Automate the checks.** Every commit in this repo has been verified by hand with the same
+  two scripts — internal links resolve, and all three cross-reference tables cover every
+  profession. A `make check` plus a CI job would make that a guarantee rather than a habit,
+  and it is the check most likely to be skipped once someone else contributes.
+- **Category READMEs.** Only [hospitality](jobs/hospitality/README.md) has one, and it earns
+  its place by holding the facts common to the whole sector. Healthcare (recognition is
+  near-identical across five professions) and skilled trades (Anlage A, Handwerksrolle) would
+  benefit the same way and would let the profession files stop repeating themselves.
+- **TEMPLATE.md has drifted.** It predates the verified-figures convention, the validity
+  windows and the "market estimate vs tariff-verified" labelling. Anyone following it today
+  would produce a file inconsistent with the last ten commits.
 
 ## Maintenance
 
