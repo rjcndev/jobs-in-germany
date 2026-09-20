@@ -70,6 +70,7 @@ difficulty.
 | [Bäcker/in](../jobs/skilled-trades/baecker-in.md) | €2,400 – €3,000 | €2,900 – €3,500 | €3,500 – €4,500 (Meister) | €28,800 – €36,000 |
 | [Restaurant- und Veranstaltungsgastronomie](../jobs/hospitality/fachmann-frau-restaurants-veranstaltungsgastronomie.md) | €2,400 – €3,000 | €2,900 – €3,500 | €3,300 – €4,300 (Restaurantleitung) | €28,800 – €36,000 |
 | [Koch / Köchin](../jobs/hospitality/koch-koechin.md) | €2,400 – €2,900 | €2,900 – €3,500 | €3,800 – €5,500 (Küchenchef) | €28,800 – €34,800 |
+| [Pflegefachassistenz / Pflegehelfer/in](../jobs/healthcare/pflegefachassistenz-pflegehelfer-in.md) | €2,400 – €2,900 | €2,900 – €3,400 | €3,600 (two-year qualification, tariff) | €28,800 – €34,800 |
 | [Hotelfachmann/-frau](../jobs/hospitality/hotelfachmann-frau.md) | €2,300 – €2,900 | €2,900 – €3,500 | €4,500 – €8,000+ (hotel mgmt) | €27,600 – €34,800 |
 | [Barkeeper/in](../jobs/hospitality/barkeeper-in.md) | €2,300 – €2,900 | €2,700 – €3,400 | €3,200 – €4,200 (Bar manager) | €27,600 – €34,800 |
 | [MFA — Medizinische/r Fachangestellte/r](../jobs/healthcare/medizinische-fachangestellte-r.md) | €2,400 – €2,800 | €2,800 – €3,400 | €3,600 – €4,500 (Fachwirt/Praxismanagement) | €28,800 – €33,600 |
