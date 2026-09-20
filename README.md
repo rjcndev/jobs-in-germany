@@ -35,6 +35,12 @@ Once you are comparing professions rather than reading up on one, start here:
 - **[Language requirements](reference/language-requirements.md)** — what each authority
   legally demands vs. what the job realistically takes. The two differ, and the gap is
   where people misjudge their preparation.
+- **[Language certificates](reference/language-certificates.md)** — which paper proves it:
+  Goethe vs telc vs TestDaF vs DSH and who accepts which, what the **Fachsprachprüfung**
+  actually is, and the **funded Berufssprachkurse** most arrivals never claim.
+- **[Employment basics](reference/employment-basics.md)** — Probezeit, the notice ladder,
+  the **three-week deadline** for contesting a dismissal, working-time and holiday law, and
+  how to read the coded grading in an **Arbeitszeugnis**.
 - **[Visa and residence routes](reference/visa-routes.md)** — which AufenthG paragraph
   applies per profession, whether the EU Blue Card is reachable, and the recognition
   requirement that applies **even to unregulated work**.
@@ -48,6 +54,13 @@ Once you are comparing professions rather than reading up on one, start here:
 - **[The Meisterbrief](reference/meister.md)** — the ladder above it, why Anlage A trades
   need it to open a business, the four ways in *without* one, how the state funds it, and
   why it ranks with a Bachelor.
+- **[Occupational certificates](reference/occupational-certificates.md)** — the short
+  tickets that gate the *activity* rather than the title: Staplerschein, ADR, Code 95,
+  Hochvolt, §34a, EFK. Cheap, usually employer-funded, mostly expiring, almost never
+  transferable.
+- **[How retraining is paid for](reference/weiterbildung-funding.md)** — Bildungsgutschein,
+  Aufstiegs-BAföG, the unclaimed **Bildungsurlaub**, and **Qualifizierungsgeld** for sectors
+  that are shrinking under the people working in them.
 - **[Who recognises your qualification](reference/recognition-authorities.md)** — three
   chamber systems, the Kammern of the freie Berufe, the state authorities, and why ZAB/anabin
   is **not** professional recognition. Plus the professions where no procedure exists at all.
@@ -58,12 +71,21 @@ Once you are comparing professions rather than reading up on one, start here:
 - **[Health insurance](reference/health-insurance.md)** — GKV vs PKV, why free family cover
   has no private equivalent, and why going private is a decision for the next forty years
   rather than the next payslip.
+- **[Versorgungswerke](reference/versorgungswerke.md)** — the Kammerberufe are exempt from
+  the statutory pension and belong to their profession's own scheme instead. The exemption
+  must be applied for, and re-applied for on every job change.
+- **[Minijob and geringfügige Beschäftigung](reference/minijob-und-geringfuegige-beschaeftigung.md)**
+  — the ceiling is indexed to the Mindestlohn, the pension opt-out is a trap, and a Minijob
+  builds **no unemployment entitlement at all**.
 - **[Tax and net pay](reference/taxes-and-net-pay.md)** — what comes off the gross figures
   in this repo, the Steuerklasse III/V trap, the Kirchensteuer question on your Anmeldung
   form, and the income here that is not taxed at all.
 - **[Choosing a Bundesland](reference/bundeslaender.md)** — which professions the state
   decides and which it barely touches, what else is state law, and why tariff-paid workers
   are better off in low-cost regions.
+- **[The Bauhauptgewerbe](reference/bauhauptgewerbe.md)** — construction's own architecture:
+  **SOKA-BAU**, which makes holiday travel between employers, the AEntG minimum wage above
+  the statutory one, and a funded winter.
 - **[Glossary](reference/glossary.md)** — the German terms this repo keeps in place, defined
   and cross-linked.
 - **[Pay](reference/pay.md)** — every profession on one comparable monthly-gross scale,
