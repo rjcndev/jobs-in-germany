@@ -133,6 +133,7 @@ See the [sector overview](jobs/healthcare/README.md) — recognition is near-ide
 |---|---|---|
 | [Ingenieur/in](jobs/engineering/ingenieur-in.md) | Title only | No — but title use is restricted |
 | [Architekt/in](jobs/engineering/architekt-in.md) | **Title yes** (state law) — and **Bauvorlage is a reserved activity** | Listing needs a degree **plus ~2 years' practice** |
+| [Bauzeichner/in](jobs/engineering/bauzeichner-in.md) | No | No to work; **yes for the visa** — IHK FOSA |
 
 ### industrial
 See the [sector overview](jobs/industrial/README.md) for the Handwerk vs. Industrie divide — different chamber, tariff, pay and self-employment rights.

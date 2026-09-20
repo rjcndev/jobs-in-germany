@@ -65,6 +65,7 @@ difficulty.
 | [Steuerfachangestellte/r](../jobs/commercial/steuerfachangestellte-r.md) | €2,800 – €3,400 | €3,500 – €4,500 | **€5,500 – €8,000** (Steuerberater) | €33,600 – €40,800 |
 | [Spedition und Logistik](../jobs/logistics/kaufmann-frau-spedition-logistikdienstleistung.md) | €2,800 – €3,400 | €3,400 – €4,300 | €5,500 – €8,000 (branch mgmt) | €33,600 – €40,800 |
 | [Fliesen-, Platten- und Mosaikleger/in](../jobs/skilled-trades/fliesenleger-in.md) | €2,800 – €3,400 | €3,300 – €4,000 | €4,000 – €5,000 (Meister) | €33,600 – €40,800 |
+| [Bauzeichner/in](../jobs/engineering/bauzeichner-in.md) | €2,800 – €3,400 | €3,400 – €4,200 | €4,500 – €5,800 (BIM-Koordination) | €33,600 – €40,800 |
 | [Elektroniker/in EGT](../jobs/skilled-trades/elektroniker-in-energie-und-gebaeudetechnik.md) | €2,800 – €3,300 | €3,300 – €4,000 | €4,000 – €5,000 (Meister) | €33,600 – €39,600 |
 | [Fachkraft für Schutz und Sicherheit](../jobs/security/fachkraft-fuer-schutz-und-sicherheit.md) | €2,700 – €3,400 | €3,100 – €3,900 | €4,000 – €5,200 (Meister) | €32,400 – €40,800 |
 | [Anlagenmechaniker/in SHK](../jobs/skilled-trades/anlagenmechaniker-in-shk.md) | €2,700 – €3,200 | €3,200 – €3,900 | €3,900 – €4,900 (Meister) | €32,400 – €38,400 |

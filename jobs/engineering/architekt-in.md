@@ -98,7 +98,7 @@ one qualification:
 |---|---|
 | **Bauingenieur/in** | A different qualification. Structural and civil engineering. May hold a **Bauvorlageberechtigung** in its own right in most states — sometimes a "kleine" one limited by building class |
 | **Bautechniker/in** | A Techniker, not a degree. May not use either protected title |
-| **Bauzeichner/in** | The **3-year Ausbildung** that produces the drawings. Frequently mistaken abroad for a junior architect |
+| **Bauzeichner/in** | The [3-year Ausbildung](bauzeichner-in.md) that produces the drawings. Frequently mistaken abroad for a junior architect |
 | **Architekt im Praktikum / Absolvent** | Holds the degree, **not** the title. May not sign anything |
 | **Softwarearchitekt/in** | Unaffected — the protection lives in building law, and IT usage is not read as claiming it |
 

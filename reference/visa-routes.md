@@ -51,6 +51,7 @@ Two mechanisms worth knowing independently of route:
 | [Apotheker/in](../jobs/healthcare/apotheker-in.md) | §16d → §18b | Borderline in Offizin, yes in industry | Approbation, plus a separate Betriebserlaubnis to own a pharmacy |
 | [Ingenieur/in](../jobs/engineering/ingenieur-in.md) | **§18g** | **Yes** | Shortage field lowers the threshold; anabin check on the degree |
 | [Architekt/in](../jobs/engineering/architekt-in.md) | **§18b** | Yes at experienced level, often not at entry pay | **Automatic EU recognition** — the only non-medical profession with it. Third-country: Architektenkammer, individually |
+| [Bauzeichner/in](../jobs/engineering/bauzeichner-in.md) | §18a or §16a | No | IHK FOSA. **If you hold an architecture or engineering degree, check §18b first** — this role is easy to get stuck in |
 | [Pilot/in](../jobs/logistics/pilot-in.md) | **No clean route** — employer-arranged permit | No | An ATPL is not a vocational qualification, so §18a fits badly; **EASA licence + EU right to work is the norm** |
 | [Fluglotse / Fluglotsin](../jobs/logistics/fluglotse-fluglotsin.md) | **No practical route** into training | No | One employer, an age limit in the mid-twenties, and a security clearance — EU right to work in practice |
 | [Industriekaufmann/-frau](../jobs/commercial/industriekaufmann-frau.md) | §18a | Possible at senior level | Degree holders can reach the threshold; entry pay cannot |
