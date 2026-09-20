@@ -77,6 +77,8 @@ Once you are comparing professions rather than reading up on one, start here:
 | [Kaufmann/-frau für Büromanagement](jobs/commercial/kaufmann-frau-fuer-bueromanagement.md) | No | No to work; **yes for the visa** |
 | [Industriekaufmann/-frau](jobs/commercial/industriekaufmann-frau.md) | No | No to work; **yes for the visa** |
 | [Steuerfachangestellte/r](jobs/commercial/steuerfachangestellte-r.md) | No — but Steuerberater above it is | No to work; **yes for the visa** |
+| [Rechtsanwaltsfachangestellte/r](jobs/commercial/rechtsanwaltsfachangestellte-r.md) | No — but Rechtsanwalt above it is | No to work; **yes for the visa** |
+| [Bankkaufmann/-frau](jobs/commercial/bankkaufmann-frau.md) | Title no — **advisory activity yes (BaFin)** | No to work; registration to advise |
 
 ### logistics
 | Profession | Regulated | Recognition needed to work |
@@ -105,10 +107,12 @@ German professions fall into three groups, and conflating them wastes people mon
 3. **Free professions** — IT, commercial and logistics roles, hospitality. No licence, no
    recognition, no title protection. The only paperwork is the visa.
 
-A fourth pattern sits outside the three: **Berufskraftfahrer/in**, where the *title* is
-free but the *licence* is tightly regulated, and a third-country C/CE licence usually
-cannot be exchanged at all. Regulation does not always attach to the job title — check what
-is actually being controlled.
+A fourth pattern sits outside the three: regulation that attaches to **an activity or a
+licence rather than the job title**. [Berufskraftfahrer/in](jobs/logistics/berufskraftfahrer-in.md)
+has a free title but a tightly regulated licence, and a third-country C/CE licence usually
+cannot be exchanged at all. [Bankkaufmann/-frau](jobs/commercial/bankkaufmann-frau.md) has a
+free title, but giving investment advice requires personal BaFin registration. Check what is
+actually being controlled, not what it is called.
 
 Handwerk trades are a special case: free to be *employed* in, licence-bound to be
 *self-employed* in.

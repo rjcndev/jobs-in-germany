@@ -54,6 +54,8 @@ Two mechanisms worth knowing independently of route:
 | [Erzieher/in](../jobs/education/erzieher-in.md) | §16d → §18a | No | **Choose the Bundesland before starting** — procedures differ in substance |
 | [Physiotherapeut/in](../jobs/healthcare/physiotherapeut-in.md) | §16d → §18a | No — below threshold | Ordinary skilled-worker permit only |
 | [Steuerfachangestellte/r](../jobs/commercial/steuerfachangestellte-r.md) | §18a | No | Foreign accounting qualifications transfer poorly; C1 German is the real gate |
+| [Bankkaufmann/-frau](../jobs/commercial/bankkaufmann-frau.md) | §18a | Specialist/corporate only | To **advise**, you also need Sachkunde + BaFin registration — separate from the visa |
+| [Rechtsanwaltsfachangestellte/r](../jobs/commercial/rechtsanwaltsfachangestellte-r.md) | §18a | No | Equivalence sits with the **Rechtsanwaltskammer**, not IHK FOSA |
 | [Kaufmann/-frau für Büromanagement](../jobs/commercial/kaufmann-frau-fuer-bueromanagement.md) | §18a | No | Foreign business degrees often only partly equivalent to a dual qualification |
 | [Elektroniker/in EGT](../jobs/skilled-trades/elektroniker-in-energie-und-gebaeudetechnik.md) | §18a or **§16a** | No | Employment needs no recognition; **self-employment needs the Meister** |
 | [Anlagenmechaniker/in SHK](../jobs/skilled-trades/anlagenmechaniker-in-shk.md) | §18a or **§16a** | No | Same Handwerk split as above |
@@ -70,6 +72,13 @@ obstacle is the **driving licence**. Third-country C/CE/D licences generally **c
 exchanged** and require the full German theory and practical test. Non-EU drivers employed
 by EU hauliers additionally need a **Fahrerbescheinigung**. Budget months and several
 thousand euros, and ask about a Bildungsgutschein before paying anything.
+
+**Two occupations gate the activity, not the job.** A
+[Bankkaufmann/-frau](../jobs/commercial/bankkaufmann-frau.md) needs no permission to be
+employed, but giving investment advice requires a Sachkundenachweis and personal **BaFin
+registration** under §87 WpHG. A [driver](../jobs/logistics/berufskraftfahrer-in.md) needs
+no professional recognition, but needs a licence Germany may not exchange. In both cases the
+visa is the easy part.
 
 **Handwerk trades split on employment vs. self-employment.** The visa treats them as
 ordinary skilled work. The **Handwerksordnung** separately requires Meister-level

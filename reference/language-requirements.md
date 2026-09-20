@@ -36,6 +36,8 @@ vary in what they accept — check with the specific body, not with a general li
 |---|---|---|---|
 | [Arzt / Ärztin](../jobs/healthcare/arzt-aerztin.md) | **B2 general + C1 medical** (Fachsprachprüfung) | C1 | The FSP, not clinical knowledge, is the usual failure point |
 | [Steuerfachangestellte/r](../jobs/commercial/steuerfachangestellte-r.md) | None — unregulated | **C1** | Tax law, Finanzamt correspondence, client advice |
+| [Rechtsanwaltsfachangestellte/r](../jobs/commercial/rechtsanwaltsfachangestellte-r.md) | None — unregulated | **C1** | ZPO deadlines and court correspondence; unforgiving of error |
+| [Bankkaufmann/-frau](../jobs/commercial/bankkaufmann-frau.md) | None for the title | **C1** | Advisory conversations carry legal weight and are documented |
 | [Erzieher/in](../jobs/education/erzieher-in.md) | **B2**, several states **C1** | C1 | Higher bar than pay suggests: supporting children's language development |
 | [Kaufmann/-frau für Büromanagement](../jobs/commercial/kaufmann-frau-fuer-bueromanagement.md) | None — unregulated | **B2–C1** | Correspondence and phone work are the job |
 | [Pflegefachfrau/-mann](../jobs/healthcare/pflegefachfrau-pflegefachmann.md) | **B2** | B2–C1 | Some states and employers add a care-specific test |
@@ -55,8 +57,8 @@ vary in what they accept — check with the specific body, not with a general li
 
 ## Patterns worth noticing
 
-**Language difficulty does not track pay.** Steuerfachangestellte and Erzieher/in both
-demand C1 at mid-range salaries, while software development pays the most and can require
+**Language difficulty does not track pay.** Steuerfachangestellte,
+Rechtsanwaltsfachangestellte and Erzieher/in all demand C1 at mid-range salaries, while software development pays the most and can require
 no German at all. If German is your constraint, this table is a better guide to what to
 aim at than any salary table.
 
