@@ -46,6 +46,7 @@ Two mechanisms worth knowing independently of route:
 |---|---|---|---|
 | [Softwareentwickler/in](../jobs/it/softwareentwickler-in.md) | **§18g** or **§19c(2)** | **Yes, easily** | §19c(2) is the underused route for self-taught developers — no degree, no German |
 | [Arzt / Ärztin](../jobs/healthcare/arzt-aerztin.md) | §16d → §18b | **Yes, comfortably** | Approbation first; Berufserlaubnis is the interim |
+| [Apotheker/in](../jobs/healthcare/apotheker-in.md) | §16d → §18b | Borderline in Offizin, yes in industry | Approbation, plus a separate Betriebserlaubnis to own a pharmacy |
 | [Ingenieur/in](../jobs/engineering/ingenieur-in.md) | **§18g** | **Yes** | Shortage field lowers the threshold; anabin check on the degree |
 | [Industriekaufmann/-frau](../jobs/commercial/industriekaufmann-frau.md) | §18a | Possible at senior level | Degree holders can reach the threshold; entry pay cannot |
 | [Spedition und Logistikdienstleistung](../jobs/logistics/kaufmann-frau-spedition-logistikdienstleistung.md) | §18a | Specialist/management only | Most foreigner-friendly of the non-IT roles |

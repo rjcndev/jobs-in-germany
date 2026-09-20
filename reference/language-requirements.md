@@ -35,6 +35,7 @@ vary in what they accept — check with the specific body, not with a general li
 | Profession | Legally required | Realistically needed | Notes |
 |---|---|---|---|
 | [Arzt / Ärztin](../jobs/healthcare/arzt-aerztin.md) | **B2 general + C1 medical** (Fachsprachprüfung) | C1 | The FSP, not clinical knowledge, is the usual failure point |
+| [Apotheker/in](../jobs/healthcare/apotheker-in.md) | **B2 general + C1 professional** (Fachsprachprüfung) | C1 | German pharmacy law and reimbursement are the exam's substance |
 | [Steuerfachangestellte/r](../jobs/commercial/steuerfachangestellte-r.md) | None — unregulated | **C1** | Tax law, Finanzamt correspondence, client advice |
 | [Rechtsanwaltsfachangestellte/r](../jobs/commercial/rechtsanwaltsfachangestellte-r.md) | None — unregulated | **C1** | ZPO deadlines and court correspondence; unforgiving of error |
 | [Bankkaufmann/-frau](../jobs/commercial/bankkaufmann-frau.md) | None for the title | **C1** | Advisory conversations carry legal weight and are documented |
@@ -74,4 +75,5 @@ commercial roles.
 
 **Medical German is a separate skill.** The Fachsprachprüfung tests register-switching
 between patient, colleague and documentation. Doctors with strong everyday German fail it
-routinely. Prepare for it specifically.
+routinely. Prepare for it specifically. Pharmacists sit an equivalent exam at the
+Apothekerkammer, and it is the usual obstacle for them too.

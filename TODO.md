@@ -30,12 +30,11 @@ a hard stop for many readers of this repo), and Beamter-on-probation vs. for-lif
 
 | Profession | Why it is worth a file |
 |---|---|
-| **Apotheker/in** | Approbation under the **BApO**, 4 years' study + Praktisches Jahr. The interesting part is the **Fremdbesitzverbot**: only a pharmacist may own a pharmacy, and only up to four. A reserved *ownership* rule, unlike anything currently in the repo. |
 | **Hebamme** | **Fully academised in 2020** — the Ausbildung route was abolished outright and replaced by a Bachelor, under EU directive pressure. The cleanest example of a profession changing its entry route wholesale. |
 | **Psychotherapeut/in** | Reformed in 2020 into a direct-study Approbation route. Then the **Kassensitz** problem: a licence to treat statutory patients is scarce and effectively traded. |
 | **Zahnarzt/Zahnärztin** | Approbation, and a strong private-practice economy. Pairs with [Arzt](jobs/healthcare/arzt-aerztin.md). |
 | **Medizinische/r Fachangestellte/r (MFA)** | Very large occupation, very low pay, Ärztekammer exam. The primary-care counterpart to [MT/MTA](jobs/healthcare/medizinische-technologin-mt-mta.md). |
-| **PTA** | Reformed by the PTA-Reformgesetz. Sits under Apotheker the way MFA sits under Arzt. |
+| **PTA** | Reformed by the PTA-Reformgesetz. Sits under [Apotheker](jobs/healthcare/apotheker-in.md) the way MFA sits under Arzt — and the ADEXA/ADA table already verified in the Apotheker file covers PTA and PKA pay, so that groundwork is done. |
 | **ATA / OTA** | Anaesthesia and surgical assistants — **newly federally regulated in 2022**, previously a patchwork. A recent, clean example of regulation arriving. |
 | **Logopäde/in, Ergotherapeut/in** | Same pending-academisation story as [Physiotherapie](jobs/healthcare/physiotherapeut-in.md); probably one combined "therapy professions" file rather than three thin ones. |
 

@@ -24,6 +24,7 @@ difficulty.
 | [Arzt / Ärztin](../jobs/healthcare/arzt-aerztin.md) | €5,722 – €6,046 | €6,680 – €7,158 | €9,460 – €10,811 (Oberarzt) |
 | [Ingenieur/in](../jobs/engineering/ingenieur-in.md) | €4,330 – €5,170 | €5,420 – €6,670 | €8,330+ (senior/lead) |
 | [Softwareentwickler/in](../jobs/it/softwareentwickler-in.md) | €4,170 – €5,170 | €5,420 – €6,830 | €9,170 – €11,670 (staff) |
+| [Apotheker/in](../jobs/healthcare/apotheker-in.md) | €4,166 – €4,236 | €4,528 – €4,922 | €4,901 – €7,552 (hospital EG 13–14) |
 | [Notfallsanitäter/in](../jobs/healthcare/notfallsanitaeter-in.md) | €3,701 – €3,863 | €4,076 – €4,489 | €3,780 – €5,753 (Wachleitung) |
 | [MT / MTA](../jobs/healthcare/medizinische-technologin-mt-mta.md) | €3,659 – €3,878 | €4,098 – €4,587 | €4,697 – €4,980 |
 | [Erzieher/in](../jobs/education/erzieher-in.md) | €3,509 – €3,738 | €4,207 – €4,669 | €3,649 – €6,963 (Kita-Leitung) |
@@ -73,6 +74,11 @@ about €4,961.
 The verification pass sharpened this: **MT/MTA rose four places** in the entry ranking once
 checked against the real TVöD-K scale, and now out-earns nursing and Erzieher/in at entry.
 It remains the flattest ladder of the three.
+
+[Apotheker/in](../jobs/healthcare/apotheker-in.md) is flat too, and unusually so for a
+licensed profession: the ADEXA/ADA ladder reaches its top step at €4,922 after eleven
+years. The way up is ownership or industry, not seniority — and ownership is legally
+reserved to pharmacists and capped at four pharmacies.
 
 **Capped** — a fourth shape, and the one worth checking for before committing years to a
 qualification. [Rechtsanwaltsfachangestellte/r](../jobs/commercial/rechtsanwaltsfachangestellte-r.md)
@@ -144,6 +150,7 @@ estimates, and each carries its validity window — they expire.
 | **TVöD EG N** (= P 8, Anlage D.14 TVöD-V) | [Notfallsanitäter/in](../jobs/healthcare/notfallsanitaeter-in.md); Rettungssanitäter EG 4, Wachleitung EG 9a–10 | 01.05.2026 – 31.03.2027 |
 | **TVöD SuE** | [Erzieher/in](../jobs/education/erzieher-in.md) (S8a–S18) | 01.05.2026 – 31.03.2027 |
 | **TVöD-S** | [Bankkaufmann/-frau](../jobs/commercial/bankkaufmann-frau.md), Sparkassen only (EG 6–9a) — shares the VKA scale | 01.05.2026 – 31.03.2027 |
+| **ADEXA/ADA** | [Apotheker/in](../jobs/healthcare/apotheker-in.md) in public pharmacies — **not** Nordrhein or Sachsen | 01.01.2026 – 31.12.2026 |
 | **TV-Ärzte/VKA** | [Arzt / Ärztin](../jobs/healthcare/arzt-aerztin.md) (Stufen I–IV) | 01.06.2026 – 31.12.2026 |
 | **TV-N NW** | Bus drivers, NRW only (EG 5–7) | 01.05.2026 – 31.12.2026 |
 

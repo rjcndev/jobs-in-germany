@@ -47,6 +47,7 @@ Once you are comparing professions rather than reading up on one, start here:
 | [Medizinische/r Technologe/Technologin (MT / MTA)](jobs/healthcare/medizinische-technologin-mt-mta.md) | Yes | Yes |
 | [Pflegefachfrau / Pflegefachmann](jobs/healthcare/pflegefachfrau-pflegefachmann.md) | Yes | Yes |
 | [Arzt / Ärztin](jobs/healthcare/arzt-aerztin.md) | Yes | Yes — Approbation |
+| [Apotheker/in](jobs/healthcare/apotheker-in.md) | Yes | Yes — Approbation; **ownership also reserved** |
 | [Notfallsanitäter/in](jobs/healthcare/notfallsanitaeter-in.md) | Yes | Yes |
 | [Physiotherapeut/in](jobs/healthcare/physiotherapeut-in.md) | Yes | Yes |
 
