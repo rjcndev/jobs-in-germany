@@ -61,6 +61,8 @@ Two mechanisms worth knowing independently of route:
 | [Rechtsanwaltsfachangestellte/r](../jobs/commercial/rechtsanwaltsfachangestellte-r.md) | §18a | No | Equivalence sits with the **Rechtsanwaltskammer**, not IHK FOSA |
 | [Kaufmann/-frau für Büromanagement](../jobs/commercial/kaufmann-frau-fuer-bueromanagement.md) | §18a | No | Foreign business degrees often only partly equivalent to a dual qualification |
 | [Elektroniker/in EGT](../jobs/skilled-trades/elektroniker-in-energie-und-gebaeudetechnik.md) | §18a or **§16a** | No | Employment needs no recognition; **self-employment needs the Meister** |
+| [Elektroniker/in Betriebstechnik](../jobs/industrial/elektroniker-in-betriebstechnik.md) | §18a or §16a | No | Industrial, not Handwerk — **confers no right to open a business** |
+| [Mechatroniker/in](../jobs/industrial/mechatroniker-in.md) | §18a or §16a | No | The most internationally portable trade qualification here |
 | [Anlagenmechaniker/in SHK](../jobs/skilled-trades/anlagenmechaniker-in-shk.md) | §18a or **§16a** | No | Same Handwerk split as above |
 | [Fachinformatiker/in](../jobs/it/fachinformatiker-in.md) | **§16a** | Not without a degree | Train here, paid, at B1–B2 German |
 | [Hotelfachmann/-frau](../jobs/hospitality/hotelfachmann-frau.md) | §18a, **§26(2) BeschV**, §16a | No | Westbalkanregelung heavily used in the sector |

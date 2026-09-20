@@ -17,6 +17,7 @@ jobs/
 ├── it/
 ├── engineering/
 ├── skilled-trades/
+├── industrial/
 ├── commercial/
 ├── logistics/
 └── hospitality/
@@ -71,6 +72,14 @@ Once you are comparing professions rather than reading up on one, start here:
 | Profession | Regulated | Recognition needed to work |
 |---|---|---|
 | [Ingenieur/in](jobs/engineering/ingenieur-in.md) | Title only | No — but title use is restricted |
+
+### industrial
+See the [sector overview](jobs/industrial/README.md) for the Handwerk vs. Industrie divide — different chamber, tariff, pay and self-employment rights.
+
+| Profession | Regulated | Recognition needed to work |
+|---|---|---|
+| [Elektroniker/in für Betriebstechnik](jobs/industrial/elektroniker-in-betriebstechnik.md) | No — but DGUV V3 gates the work | No to work; **yes for the visa** |
+| [Mechatroniker/in](jobs/industrial/mechatroniker-in.md) | No | No to work; **yes for the visa** |
 
 ### skilled-trades
 | Profession | Regulated | Recognition needed to work |

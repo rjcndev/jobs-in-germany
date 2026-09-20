@@ -113,7 +113,7 @@ repo currently implies it only ever tightens.
 | **Friseur/in** | Anlage A, and the clearest case of a trade sitting **at the Mindestlohn** despite a full Ausbildung. |
 | **Bäcker/in, Konditor/in** | Night work, severe shortage, collapsing training numbers. |
 | **Fachkraft für Veranstaltungstechnik** | IHK, not Handwerk, with real safety-law responsibility (rigging, Versammlungsstättenverordnung). |
-| **Elektroniker/in für Betriebstechnik** | **The real gap in the electrical family.** The repo's existing [Elektroniker file](jobs/skilled-trades/elektroniker-in-energie-und-gebaeudetechnik.md) is the *Handwerk* one — Anlage A, Meister for self-employment, Handwerkskammer. Betriebstechnik is the *industrial* counterpart: maintenance and plant electrics inside manufacturers, **IG Metall tariff rather than Handwerk**, 35-hour week, 13th month. Same trade name, materially better pay, and a completely different regulatory and bargaining world — the clearest same-name/different-sector contrast available. Automatisierungstechnik and the newer **Gebäudesystemintegration** (introduced 2021) are adjacent Fachrichtungen; **Industrieelektriker** is the 2-year tier beneath, mirroring Fachlagerist vs Fachkraft. |
+| **Elektroniker/in für Automatisierungstechnik, Gebäudesystemintegration (2021), Industrieelektriker** | The remaining electrical Fachrichtungen, now that [Betriebstechnik](jobs/industrial/elektroniker-in-betriebstechnik.md) and the [industrial category](jobs/industrial/README.md) exist. Industrieelektriker is the 2-year tier beneath, mirroring Fachlagerist vs Fachkraft. |
 | **Bauzeichner/in** | IHK rather than Handwerk, and the desk-side counterpart to the trades above — pairs with [Ingenieur](jobs/engineering/ingenieur-in.md). |
 
 ## 5d. Services and other sectors — no category exists yet
@@ -298,7 +298,8 @@ are **Gebäudereiniger/in**, **Reinigungskraft** and **Raumpfleger/in**.
   two scripts — internal links resolve, and all three cross-reference tables cover every
   profession. A `make check` plus a CI job would make that a guarantee rather than a habit,
   and it is the check most likely to be skipped once someone else contributes.
-- **Category READMEs.** Only [hospitality](jobs/hospitality/README.md) has one, and it earns
+- **Category READMEs.** [hospitality](jobs/hospitality/README.md) and
+  [industrial](jobs/industrial/README.md) have one, and it earns
   its place by holding the facts common to the whole sector. Healthcare (recognition is
   near-identical across five professions) and skilled trades (Anlage A, Handwerksrolle) would
   benefit the same way and would let the profession files stop repeating themselves.

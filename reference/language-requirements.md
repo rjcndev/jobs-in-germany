@@ -51,6 +51,8 @@ vary in what they accept — check with the specific body, not with a general li
 | [Ingenieur/in](../jobs/engineering/ingenieur-in.md) | None | **B2+**, varies sharply | English viable in corporate R&D; German essential in Mittelstand and construction |
 | [Hotelfachmann/-frau](../jobs/hospitality/hotelfachmann-frau.md) | None | **B1–B2** | English an asset, not a substitute |
 | [Elektroniker/in EGT](../jobs/skilled-trades/elektroniker-in-energie-und-gebaeudetechnik.md) | None to be employed | **B1–B2** | Site safety and VDE norms are in German |
+| [Elektroniker/in Betriebstechnik](../jobs/industrial/elektroniker-in-betriebstechnik.md) | None | **B1–B2** | Safety instruction, VDE and shift handover in German |
+| [Mechatroniker/in](../jobs/industrial/mechatroniker-in.md) | None | **B1–B2** | Commissioning teams abroad often work in English |
 | [Anlagenmechaniker/in SHK](../jobs/skilled-trades/anlagenmechaniker-in-shk.md) | None to be employed | **B1–B2** | Constant customer contact in people's homes |
 | [Berufskraftfahrer/in](../jobs/logistics/berufskraftfahrer-in.md) | None directly — but the **theory test** is a real gate | **B1** | Test language availability varies by authority |
 | [Koch / Köchin](../jobs/hospitality/koch-koechin.md) | None | **B1**, B2 to progress | Kitchen German is learnable on the job; HACCP paperwork is not |

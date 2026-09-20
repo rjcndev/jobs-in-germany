@@ -33,6 +33,8 @@ difficulty.
 | [Industriekaufmann/-frau](../jobs/commercial/industriekaufmann-frau.md) | €3,200 – €4,000 | €4,000 – €5,000 | €6,000+ |
 | [Bankkaufmann/-frau](../jobs/commercial/bankkaufmann-frau.md) | €3,200 – €3,800 | €3,900 – €5,000 | €5,500 – €8,000 (branch mgmt) |
 | [Fachinformatiker/in](../jobs/it/fachinformatiker-in.md) | €3,170 – €3,830 | €4,000 – €5,000 | €5,000 – €6,250+ |
+| [Mechatroniker/in](../jobs/industrial/mechatroniker-in.md) | €3,400 – €4,000 | €4,000 – €4,800 | €4,800 – €6,000 (Meister/Techniker) |
+| [Elektroniker/in Betriebstechnik](../jobs/industrial/elektroniker-in-betriebstechnik.md) | €3,300 – €3,900 | €3,900 – €4,700 | €5,500 – €6,800 (Instandhaltungsleitung) |
 | [Steuerfachangestellte/r](../jobs/commercial/steuerfachangestellte-r.md) | €2,800 – €3,400 | €3,500 – €4,500 | **€5,500 – €8,000** (Steuerberater) |
 | [Spedition und Logistik](../jobs/logistics/kaufmann-frau-spedition-logistikdienstleistung.md) | €2,800 – €3,400 | €3,400 – €4,300 | €5,500 – €8,000 (branch mgmt) |
 | [Elektroniker/in EGT](../jobs/skilled-trades/elektroniker-in-energie-und-gebaeudetechnik.md) | €2,800 – €3,300 | €3,300 – €4,000 | €4,000 – €5,000 (Meister) |
@@ -53,6 +55,12 @@ can all substantially exceed the employed figures above.
 
 Ranking by entry pay is the wrong way to read this table. Three different shapes hide
 inside it:
+
+**The Handwerk/Industrie gap is the clearest same-work pay difference in this table.**
+[Elektroniker Betriebstechnik](../jobs/industrial/elektroniker-in-betriebstechnik.md) starts
+around €500/month above the [Handwerk electrician](../jobs/skilled-trades/elektroniker-in-energie-und-gebaeudetechnik.md)
+doing comparable work, before the 13th month and the 35-hour week. The Handwerk route buys
+something else instead: the legal right to run your own business.
 
 **Steep** — low entry, high ceiling, gated by a hard exam or qualification.
 [Steuerfachangestellte](../jobs/commercial/steuerfachangestellte-r.md) starts below a nurse
@@ -183,7 +191,7 @@ specific corrections were larger than a simple uplift:
 | Agreement | Applies to | Why |
 |---|---|---|
 | **TV-N** | Bus drivers outside NRW | Separate agreements for Bayern, Berlin and NRW (NRW also covers BW and Niedersachsen). Eingruppierung varies by operator. |
-| **IG Metall / IG BCE** | [Industriekaufmann/-frau](../jobs/commercial/industriekaufmann-frau.md), [Ingenieur/in](../jobs/engineering/ingenieur-in.md), tariff-bound Büromanagement | Multiple regional Tarifgebiete, each negotiating separately, with ERA grading that varies by employer. |
+| **IG Metall / IG BCE** | [Industriekaufmann/-frau](../jobs/commercial/industriekaufmann-frau.md), [Ingenieur/in](../jobs/engineering/ingenieur-in.md), the [industrial trades](../jobs/industrial/README.md), tariff-bound Büromanagement | Multiple regional Tarifgebiete, each negotiating separately, with ERA grading that varies by employer. |
 
 These were listed as "verifiable" in the first version of this file. That was wrong — there
 is no one scale to check them against, only a region-and-employer-specific one.
