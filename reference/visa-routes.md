@@ -110,6 +110,7 @@ Two mechanisms worth knowing independently of route:
 | [Restaurant- und Veranstaltungsgastronomie](../jobs/hospitality/fachmann-frau-restaurants-veranstaltungsgastronomie.md) | §18a, **§26(2) BeschV**, §16a | No | Easy to work unqualified; **the visa still needs the qualification** |
 | [Fachkraft für Lagerlogistik](../jobs/logistics/fachkraft-fuer-lagerlogistik.md) | §18a, **§26(2) BeschV** | No | Lowest language bar; Westbalkanregelung common |
 | [Gebäudereiniger/in](../jobs/services/gebaeudereiniger-in.md) | §18a, §16a, or §26(2) BeschV | No | Handwerkskammer equivalence. **Anlage B1 — self-employment needs no Meister**, one of the easiest routes here |
+| [Fachkraft für Veranstaltungstechnik](../jobs/services/fachkraft-fuer-veranstaltungstechnik.md) | §18a or §16a | No | IHK FOSA. **The Meister and the rigging Sachkunde are German and do not transfer** |
 | [Reinigungskraft](../jobs/services/reinigungskraft.md) | **None** | No | **Unqualified work supports no skilled-worker permit.** Check what your existing permit allows |
 | [Haushaltshilfe](../jobs/services/haushaltshilfe.md) | **None** | No | No §18a route. **Undeclared work can jeopardise residence status** — a risk the household does not share |
 | [Berufskraftfahrer/in](../jobs/logistics/berufskraftfahrer-in.md) | §18a, **§26(2) BeschV** | No | **The licence, not the visa, is the hard part** — see below |

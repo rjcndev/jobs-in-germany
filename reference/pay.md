@@ -76,6 +76,7 @@ difficulty.
 | [Fleischer/in — Metzger/in](../jobs/skilled-trades/fleischer-in.md) | €2,600 – €3,200 | €3,100 – €3,800 | €3,900 – €4,900 (Meister) | €31,200 – €38,400 |
 | [Tischler/in — Schreiner/in](../jobs/skilled-trades/tischler-in.md) | €2,600 – €3,100 | €3,100 – €3,800 | €3,900 – €4,900 (Meister) | €31,200 – €37,200 |
 | [Fachkraft für Lagerlogistik](../jobs/logistics/fachkraft-fuer-lagerlogistik.md) | €2,600 – €3,100 | €3,100 – €3,700 | €4,200 – €5,500 (Meister) | €31,200 – €37,200 |
+| [Fachkraft für Veranstaltungstechnik](../jobs/services/fachkraft-fuer-veranstaltungstechnik.md) | €2,600 – €3,100 | €3,100 – €3,800 | €4,000 – €5,200 (Meister) | €31,200 – €37,200 |
 | [Physiotherapeut/in](../jobs/healthcare/physiotherapeut-in.md) | €2,600 – €3,000 | €3,000 – €3,600 | €3,295 – €4,980 (public sector) | €31,200 – €36,000 |
 | [Logopädie / Ergotherapie](../jobs/healthcare/therapieberufe-logopaedie-ergotherapie.md) | €2,600 – €3,000 | €3,000 – €3,600 | €3,295 – €4,980 (public sector) | €31,200 – €36,000 |
 | [Kaufmann/-frau für Büromanagement](../jobs/commercial/kaufmann-frau-fuer-bueromanagement.md) | €2,500 – €3,000 | €3,000 – €3,700 | €3,300 – €4,200 (tariff industry) | €30,000 – €36,000 |

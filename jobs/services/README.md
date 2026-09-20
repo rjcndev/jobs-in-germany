@@ -33,6 +33,9 @@ different law, different pay floors and different enforcement.
 - **[Wissenschaftliche/r Mitarbeiter/in](wissenschaftliche-r-mitarbeiter-in.md)** — German
   academia, and the **WissZeitVG**, which exists to permit serial fixed-term contracts for
   years where ordinary employment law would not.
+- **[Fachkraft für Veranstaltungstechnik](fachkraft-fuer-veranstaltungstechnik.md)** — event
+  and stage technology: IHK rather than Handwerk, with a **legally required competent person**
+  in every larger venue.
 
 ## Common threads
 
@@ -52,3 +55,4 @@ different law, different pay floors and different enforcement.
 - [Reinigungskraft](reinigungskraft.md)
 - [Haushaltshilfe](haushaltshilfe.md)
 - [Wissenschaftliche/r Mitarbeiter/in](wissenschaftliche-r-mitarbeiter-in.md)
+- [Fachkraft für Veranstaltungstechnik](fachkraft-fuer-veranstaltungstechnik.md)

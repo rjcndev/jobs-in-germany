@@ -206,6 +206,7 @@ See the [sector overview](jobs/services/README.md) — the folder for occupation
 | [Reinigungskraft](jobs/services/reinigungskraft.md) | No — **no qualification exists** | None to work; **and none supports a visa** |
 | [Haushaltshilfe](jobs/services/haushaltshilfe.md) | No — **no qualification exists** | None; the legal question is **declared or not** |
 | [Wissenschaftliche/r Mitarbeiter/in](jobs/services/wissenschaftliche-r-mitarbeiter-in.md) | No — but the **WissZeitVG** modifies employment law | No; **§18d is the route built for researchers** |
+| [Fachkraft für Veranstaltungstechnik](jobs/services/fachkraft-fuer-veranstaltungstechnik.md) | No — **but the venue's competent person must hold the Meister** | No to work; **yes for the visa** |
 
 ### public-service
 See the [sector overview](jobs/public-service/README.md) — Beamten careers: you are appointed as a paid Anwärter, not hired into a job.

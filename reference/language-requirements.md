@@ -101,6 +101,7 @@ vary in what they accept — check with the specific body, not with a general li
 | [Restaurant- und Veranstaltungsgastronomie](../jobs/hospitality/fachmann-frau-restaurants-veranstaltungsgastronomie.md) | None | **B1**, B2 to progress | Casual service can run on English; wine advice and event coordination cannot |
 | [Fachkraft für Lagerlogistik](../jobs/logistics/fachkraft-fuer-lagerlogistik.md) | None | **A2–B1**, B2 to supervise | Lowest bar in the repo; employers must still ensure safety instruction is understood |
 | [Gebäudereiniger/in](../jobs/services/gebaeudereiniger-in.md) | None | **A2–B1**, B2 to supervise | Hazard communication, chemical labelling and hygiene protocols |
+| [Fachkraft für Veranstaltungstechnik](../jobs/services/fachkraft-fuer-veranstaltungstechnik.md) | None | **B1–B2** | Touring runs on English; the German venue, its fire officer and its paperwork do not |
 | [Reinigungskraft](../jobs/services/reinigungskraft.md) | None — **no qualification exists** | **A2**, B1 for better sites | Hazard labels and chemical instructions are German |
 | [Haushaltshilfe](../jobs/services/haushaltshilfe.md) | None — **no qualification exists** | **A2** | More if you arrange the work yourself |
 | [Fachinformatiker/in](../jobs/it/fachinformatiker-in.md) | **B1–B2** if training here | B1–B2 | Berufsschule and its exam are in German, without exception |
