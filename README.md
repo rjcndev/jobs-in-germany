@@ -179,6 +179,7 @@ See the [sector overview](jobs/skilled-trades/README.md) for the Anlage A rule: 
 | [Steuerfachangestellte/r](jobs/commercial/steuerfachangestellte-r.md) | No — but Steuerberater above it is | No to work; **yes for the visa** |
 | [Rechtsanwaltsfachangestellte/r](jobs/commercial/rechtsanwaltsfachangestellte-r.md) | No — but Rechtsanwalt above it is | No to work; **yes for the visa** |
 | [Bankkaufmann/-frau](jobs/commercial/bankkaufmann-frau.md) | Title no — **advisory activity yes (BaFin)** | No to work; registration to advise |
+| [Immobilienkaufmann/-frau](jobs/commercial/immobilienkaufmann-frau.md) | Title no — **activity yes (§34c GewO)** | No to work; **yes for the visa**. The permit is the firm's |
 
 ### logistics
 | Profession | Regulated | Recognition needed to work |

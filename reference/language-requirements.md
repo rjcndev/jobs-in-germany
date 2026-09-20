@@ -47,6 +47,7 @@ vary in what they accept — check with the specific body, not with a general li
 | [Steuerfachangestellte/r](../jobs/commercial/steuerfachangestellte-r.md) | None — unregulated | **C1** | Tax law, Finanzamt correspondence, client advice |
 | [Rechtsanwaltsfachangestellte/r](../jobs/commercial/rechtsanwaltsfachangestellte-r.md) | None — unregulated | **C1** | ZPO deadlines and court correspondence; unforgiving of error |
 | [Bankkaufmann/-frau](../jobs/commercial/bankkaufmann-frau.md) | None for the title | **C1** | Advisory conversations carry legal weight and are documented |
+| [Immobilienkaufmann/-frau](../jobs/commercial/immobilienkaufmann-frau.md) | None for the title | **C1** | Tenancy law, service-charge accounting and owners' meetings — adversarial and documented |
 | [Erzieher/in](../jobs/education/erzieher-in.md) | **B2**, several states **C1** | C1 | Higher bar than pay suggests: supporting children's language development |
 | [Sozialarbeiter/in](../jobs/education/sozialarbeiter-in.md) | **C1** in practice, set by the state Anerkennung | **C1** | Case documentation is evidential and court reports are read by judges |
 | [Kaufmann/-frau für Büromanagement](../jobs/commercial/kaufmann-frau-fuer-bueromanagement.md) | None — unregulated | **B2–C1** | Correspondence and phone work are the job |
