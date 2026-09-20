@@ -43,6 +43,7 @@ difficulty.
 | [Steuerfachangestellte/r](../jobs/commercial/steuerfachangestellte-r.md) | €2,800 – €3,400 | €3,500 – €4,500 | **€5,500 – €8,000** (Steuerberater) |
 | [Spedition und Logistik](../jobs/logistics/kaufmann-frau-spedition-logistikdienstleistung.md) | €2,800 – €3,400 | €3,400 – €4,300 | €5,500 – €8,000 (branch mgmt) |
 | [Elektroniker/in EGT](../jobs/skilled-trades/elektroniker-in-energie-und-gebaeudetechnik.md) | €2,800 – €3,300 | €3,300 – €4,000 | €4,000 – €5,000 (Meister) |
+| [Fachkraft für Schutz und Sicherheit](../jobs/security/fachkraft-fuer-schutz-und-sicherheit.md) | €2,700 – €3,400 | €3,100 – €3,900 | €4,000 – €5,200 (Meister) |
 | [Anlagenmechaniker/in SHK](../jobs/skilled-trades/anlagenmechaniker-in-shk.md) | €2,700 – €3,200 | €3,200 – €3,900 | €3,900 – €4,900 (Meister) |
 | [Metallbauer/in](../jobs/skilled-trades/metallbauer-in.md) | €2,700 – €3,200 | €3,200 – €3,900 | €4,000 – €5,000 (Meister) |
 | [Berufskraftfahrer/in](../jobs/logistics/berufskraftfahrer-in.md) | €2,600 – €3,300 | €3,000 – €3,800 | €3,400 – €4,500 (ADR/heavy) |
@@ -60,6 +61,7 @@ difficulty.
 | [Hotelfachmann/-frau](../jobs/hospitality/hotelfachmann-frau.md) | €2,300 – €2,900 | €2,900 – €3,500 | €4,500 – €8,000+ (hotel mgmt) |
 | [Barkeeper/in](../jobs/hospitality/barkeeper-in.md) | €2,300 – €2,900 | €2,700 – €3,400 | €3,200 – €4,200 (Bar manager) |
 | [Friseur/in](../jobs/skilled-trades/friseur-in.md) | €2,300 – €2,800 | €2,600 – €3,200 | €3,000 – €4,000 (Meister) |
+| [Sicherheitsmitarbeiter/in](../jobs/security/sicherheitsmitarbeiter-in.md) | €2,200 – €2,800 | €2,400 – €3,100 | €3,300 – €4,300 (Objektleitung) |
 
 Self-employment ceilings are excluded because they are not comparable: a Steuerberater with
 their own practice, a Meister with a well-run Betrieb, or a practice-owning physiotherapist

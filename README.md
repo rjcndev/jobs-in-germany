@@ -18,6 +18,7 @@ jobs/
 ├── engineering/
 ├── skilled-trades/
 ├── green/
+├── security/
 ├── industrial/
 ├── commercial/
 ├── logistics/
@@ -131,6 +132,14 @@ See the [sector overview](jobs/green/README.md) — a **third chamber system**: 
 | Profession | Regulated | Recognition needed to work |
 |---|---|---|
 | [Forstwirt/in](jobs/green/forstwirt-in.md) | No — but chainsaw and pesticide certification gate the work | No to work; **yes for the visa** |
+
+### security
+See the [sector overview](jobs/security/README.md) — **§34a GewO** gates the activity, not the title: a 40-hour Unterrichtung for basic guarding, an IHK **Sachkundeprüfung** for door work, patrols and retail.
+
+| Profession | Regulated | Recognition needed to work |
+|---|---|---|
+| [Sicherheitsmitarbeiter/in](jobs/security/sicherheitsmitarbeiter-in.md) | **Activity-gated (§34a)** | §34a compliance; **Unterrichtung is not a qualification for the visa** |
+| [Fachkraft für Schutz und Sicherheit](jobs/security/fachkraft-fuer-schutz-und-sicherheit.md) | Activity-gated (§34a) | No to work; **recognisable for §18a** |
 
 ### hospitality
 See the [sector overview](jobs/hospitality/README.md) for the 2022 restructuring, minimum wage and working-time facts.

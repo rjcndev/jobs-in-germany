@@ -57,6 +57,8 @@ Two mechanisms worth knowing independently of route:
 | [Lehrer/in](../jobs/education/lehrer-in.md) | §16d → §18b | Possible at A13/E13 | Recognition is achievable; **Verbeamtung is not**, without EU citizenship |
 | [Physiotherapeut/in](../jobs/healthcare/physiotherapeut-in.md) | §16d → §18a | No — below threshold | Ordinary skilled-worker permit only |
 | [Steuerfachangestellte/r](../jobs/commercial/steuerfachangestellte-r.md) | §18a | No | Foreign accounting qualifications transfer poorly; C1 German is the real gate |
+| [Fachkraft für Schutz und Sicherheit](../jobs/security/fachkraft-fuer-schutz-und-sicherheit.md) | §18a | No | Recognisable, unlike the §34a courses |
+| [Sicherheitsmitarbeiter/in](../jobs/security/sicherheitsmitarbeiter-in.md) | **§26(2) BeschV**, or qualify first | No | §34a compliance is not a qualification — **no §18a route on its own** |
 | [Bankkaufmann/-frau](../jobs/commercial/bankkaufmann-frau.md) | §18a | Specialist/corporate only | To **advise**, you also need Sachkunde + BaFin registration — separate from the visa |
 | [Rechtsanwaltsfachangestellte/r](../jobs/commercial/rechtsanwaltsfachangestellte-r.md) | §18a | No | Equivalence sits with the **Rechtsanwaltskammer**, not IHK FOSA |
 | [Kaufmann/-frau für Büromanagement](../jobs/commercial/kaufmann-frau-fuer-bueromanagement.md) | §18a | No | Foreign business degrees often only partly equivalent to a dual qualification |
@@ -99,7 +101,14 @@ exchanged** and require the full German theory and practical test. Non-EU driver
 by EU hauliers additionally need a **Fahrerbescheinigung**. Budget months and several
 thousand euros, and ask about a Bildungsgutschein before paying anything.
 
-**Two occupations gate the activity, not the job.** A
+**Three occupations gate the activity, not the job.** Private security is the clearest:
+**§34a GewO** requires an Unterrichtung or, for door work, patrols and retail protection, an
+IHK **Sachkundeprüfung**, plus a reliability check and Bewacherregister entry — none of which
+is a *qualification* for visa purposes. The
+[3-year Fachkraft](../jobs/security/fachkraft-fuer-schutz-und-sicherheit.md) is, which is the whole difference for a
+non-EU candidate.
+
+**Two more gate the activity, not the job.** A
 [Bankkaufmann/-frau](../jobs/commercial/bankkaufmann-frau.md) needs no permission to be
 employed, but giving investment advice requires a Sachkundenachweis and personal **BaFin
 registration** under §87 WpHG. A [driver](../jobs/logistics/berufskraftfahrer-in.md) needs
