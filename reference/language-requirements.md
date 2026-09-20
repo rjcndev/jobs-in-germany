@@ -84,6 +84,7 @@ vary in what they accept — check with the specific body, not with a general li
 | [Forstwirt/in](../jobs/green/forstwirt-in.md) | None | **B1–B2** | Felling coordination and emergency communication — a misunderstanding is not harmless |
 | [Landwirt/in](../jobs/green/landwirt-in.md) | None | **B1–B2** | Machinery safety, animal health, and a great deal of German documentation |
 | [Gärtner/in](../jobs/green/gaertner-in.md) | None | **B1–B2** | Plant names in German and Latin; GaLaBau adds private customers |
+| [Winzer/in](../jobs/green/winzer-in.md) | None | **B1–B2 to work, C1 to sell** | Direct sales are half the job at a small estate |
 | [Metallbauer/in](../jobs/skilled-trades/metallbauer-in.md) | None to be employed | **B2** | In customers' buildings daily — more language-dependent than the industrial metal trades |
 | [Maurer/in](../jobs/skilled-trades/maurer-in.md) | None to be employed | **B1–B2** | Site instruction and safety briefings; the Bau Berufsschule is unadapted German |
 | [Zimmerer / Zimmerin](../jobs/skilled-trades/zimmerer-zimmerin.md) | None to be employed | **B1–B2** | Crane signalling, structural drawings and site coordination |

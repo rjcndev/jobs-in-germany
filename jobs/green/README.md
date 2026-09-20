@@ -35,3 +35,4 @@ Identify the competent body for your target Bundesland before anything else.
 - [Landwirt/in](landwirt-in.md)
 - [Forstwirt/in](forstwirt-in.md)
 - [Gärtner/in](gaertner-in.md)
+- [Winzer/in](winzer-in.md)
