@@ -29,6 +29,7 @@ difficulty.
 | [Ingenieur/in](../jobs/engineering/ingenieur-in.md) | €4,330 – €5,170 | €5,420 – €6,670 | €8,330+ (senior/lead) | €51,960 – €62,040 |
 | [Softwareentwickler/in](../jobs/it/softwareentwickler-in.md) | €4,170 – €5,170 | €5,420 – €6,830 | €9,170 – €11,670 (staff) | €50,040 – €62,040 |
 | [Apotheker/in](../jobs/healthcare/apotheker-in.md) | €4,166 – €4,236 | €4,528 – €4,922 | €4,901 – €7,552 (hospital EG 13–14) | €49,992 – €50,832 |
+| [Architekt/in](../jobs/engineering/architekt-in.md) | €3,700 – €4,600 | €4,600 – €6,000 | €6,000 – €8,000 (Büroleitung) | €44,400 – €55,200 |
 | [Notfallsanitäter/in](../jobs/healthcare/notfallsanitaeter-in.md) | €3,701 – €3,863 | €4,076 – €4,489 | €3,780 – €5,753 (Wachleitung) | €44,412 – €46,356 |
 | [MT / MTA](../jobs/healthcare/medizinische-technologin-mt-mta.md) | €3,659 – €3,878 | €4,098 – €4,587 | €4,697 – €4,980 | €43,908 – €46,536 |
 | [Mechatroniker/in](../jobs/industrial/mechatroniker-in.md) | €3,400 – €4,000 | €4,000 – €4,800 | €4,800 – €6,000 (Meister/Techniker) | €40,800 – €48,000 |
