@@ -91,6 +91,7 @@ See the [sector overview](jobs/industrial/README.md) for the Handwerk vs. Indust
 | [Elektroniker/in Energie- und Gebäudetechnik](jobs/skilled-trades/elektroniker-in-energie-und-gebaeudetechnik.md) | Self-employment only | No to be employed; yes to run a business |
 | [Anlagenmechaniker/in SHK](jobs/skilled-trades/anlagenmechaniker-in-shk.md) | Self-employment only | No to be employed; yes to run a business |
 | [Kraftfahrzeugmechatroniker/in](jobs/skilled-trades/kraftfahrzeugmechatroniker-in.md) | Self-employment only | No to be employed; **HV work is separately gated** |
+| [Metallbauer/in](jobs/skilled-trades/metallbauer-in.md) | Self-employment only | No to be employed; yes to run a business |
 
 ### commercial
 | Profession | Regulated | Recognition needed to work |

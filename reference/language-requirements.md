@@ -59,6 +59,7 @@ vary in what they accept — check with the specific body, not with a general li
 | [Konstruktionsmechaniker/in](../jobs/industrial/konstruktionsmechaniker-in.md) | None | **B1–B2** | Welding procedure specs and site safety coordination in German |
 | [Anlagenmechaniker/in SHK](../jobs/skilled-trades/anlagenmechaniker-in-shk.md) | None to be employed | **B1–B2** | Constant customer contact in people's homes |
 | [Kfz-Mechatroniker/in](../jobs/skilled-trades/kraftfahrzeugmechatroniker-in.md) | None to be employed | **B1–B2** | Diagnostic software and manufacturer documentation are in German |
+| [Metallbauer/in](../jobs/skilled-trades/metallbauer-in.md) | None to be employed | **B2** | In customers' buildings daily — more language-dependent than the industrial metal trades |
 | [Berufskraftfahrer/in](../jobs/logistics/berufskraftfahrer-in.md) | None directly — but the **theory test** is a real gate | **B1** | Test language availability varies by authority |
 | [Koch / Köchin](../jobs/hospitality/koch-koechin.md) | None | **B1**, B2 to progress | Kitchen German is learnable on the job; HACCP paperwork is not |
 | [Fachkraft für Lagerlogistik](../jobs/logistics/fachkraft-fuer-lagerlogistik.md) | None | **A2–B1**, B2 to supervise | Lowest bar in the repo; employers must still ensure safety instruction is understood |
