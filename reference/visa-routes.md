@@ -91,6 +91,7 @@ Two mechanisms worth knowing independently of route:
 | [Maurer/in](../jobs/skilled-trades/maurer-in.md) | §18a, **§16a**, or §26(2) BeschV | No | Handwerkskammer equivalence. **Check whether you are employed or posted** — it changes your social insurance |
 | [Zimmerer / Zimmerin](../jobs/skilled-trades/zimmerer-zimmerin.md) | §18a, **§16a**, or §26(2) BeschV | No | Handwerkskammer equivalence; **German building physics is where assessments find the gap** |
 | [Dachdecker/in](../jobs/skilled-trades/dachdecker-in.md) | §18a, **§16a**, or §26(2) BeschV | No | Handwerkskammer equivalence; **fall-protection training is German and must be re-sat** |
+| [Gerüstbauer/in](../jobs/skilled-trades/geruestbauer-in.md) | §18a, **§16a**, or §26(2) BeschV | No | **Documented German erection training is required whatever your qualification**; posted work is common |
 | [Tischler/in — Schreiner/in](../jobs/skilled-trades/tischler-in.md) | §18a or §16a | No | Handwerkskammer equivalence; search **both** titles, they are regional variants |
 | [Fleischer/in — Metzger/in](../jobs/skilled-trades/fleischer-in.md) | §18a or §16a | No | **Three** regional titles; check whether a vacancy is Handwerk or industrial |
 | [Bäcker/in](../jobs/skilled-trades/baecker-in.md) | §18a or §16a | No | Low language bar makes it a realistic entry occupation |

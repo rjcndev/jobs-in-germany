@@ -158,6 +158,7 @@ See the [sector overview](jobs/skilled-trades/README.md) for the Anlage A rule: 
 | [Maurer/in](jobs/skilled-trades/maurer-in.md) | Self-employment only | No to be employed; **and read the Bauhauptgewerbe reference first** |
 | [Zimmerer / Zimmerin](jobs/skilled-trades/zimmerer-zimmerin.md) | Self-employment only | No to be employed; **Bauhauptgewerbe, unlike Tischler** |
 | [Dachdecker/in](jobs/skilled-trades/dachdecker-in.md) | Self-employment only | No to be employed; **own sector fund (SOKA-DACH), not SOKA-BAU** |
+| [Gerüstbauer/in](jobs/skilled-trades/geruestbauer-in.md) | Self-employment only | No to be employed; **but erecting scaffold requires German training** |
 | [Tischler/in — Schreiner/in](jobs/skilled-trades/tischler-in.md) | Self-employment only | No to be employed; yes to run a business |
 | [Fleischer/in — Metzger/in](jobs/skilled-trades/fleischer-in.md) | Self-employment only | No to be employed; yes to run a business |
 | [Bäcker/in](jobs/skilled-trades/baecker-in.md) | Self-employment only | No to be employed; yes to run a business |

@@ -55,6 +55,7 @@ difficulty.
 | [Zimmerer / Zimmerin](../jobs/skilled-trades/zimmerer-zimmerin.md) | €3,100 – €3,700 | €3,600 – €4,400 | €4,400 – €5,600 (Polier / Meister) | €37,200 – €44,400 |
 | [Feuerwehrmann / Feuerwehrfrau](../jobs/public-service/feuerwehrmann-frau.md) — verbeamtet | €3,216 – €3,438 | €3,694 – €4,295 | €4,505 – €6,381 (A 12–13) | €38,592 – €41,256 |
 | [Dachdecker/in](../jobs/skilled-trades/dachdecker-in.md) | €3,000 – €3,600 | €3,500 – €4,200 | €4,300 – €5,400 (Meister) | €36,000 – €43,200 |
+| [Gerüstbauer/in](../jobs/skilled-trades/geruestbauer-in.md) | €3,000 – €3,600 | €3,500 – €4,200 | €4,400 – €5,600 (Meister) | €36,000 – €43,200 |
 | [Steuerbeamte/r](../jobs/public-service/steuerbeamte-r.md) — verbeamtet | €3,128 – €3,438 | €3,694 – €5,257 | €5,221 – €6,381 (A 13) | €37,536 – €41,256 |
 | [Forstwirt/in](../jobs/green/forstwirt-in.md) | €3,124 – €3,318 | €3,681 – €4,045 | €4,980 (Forstwirtschaftsmeister) | €37,488 – €39,816 |
 | [Zollbeamte/r](../jobs/public-service/zollbeamte-r.md) — verbeamtet | €2,918 – €3,455 | €3,683 – €4,918 | €5,198 – €6,621 (A 13) | €35,016 – €41,460 |
