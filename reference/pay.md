@@ -42,6 +42,7 @@ difficulty.
 | [Fachinformatiker/in](../jobs/it/fachinformatiker-in.md) | €3,170 – €3,830 | €4,000 – €5,000 | €5,000 – €6,250+ |
 | [Feuerwehrmann / Feuerwehrfrau](../jobs/public-service/feuerwehrmann-frau.md) — verbeamtet | €3,216 – €3,438 | €3,694 – €4,295 | €4,505 – €6,381 (A 12–13) |
 | [Forstwirt/in](../jobs/green/forstwirt-in.md) | €3,124 – €3,318 | €3,681 – €4,045 | €4,980 (Forstwirtschaftsmeister) |
+| [Zollbeamte/r](../jobs/public-service/zollbeamte-r.md) — verbeamtet | €2,918 – €3,455 | €3,683 – €4,918 | €5,198 – €6,621 (A 13) |
 | [Steuerfachangestellte/r](../jobs/commercial/steuerfachangestellte-r.md) | €2,800 – €3,400 | €3,500 – €4,500 | **€5,500 – €8,000** (Steuerberater) |
 | [Spedition und Logistik](../jobs/logistics/kaufmann-frau-spedition-logistikdienstleistung.md) | €2,800 – €3,400 | €3,400 – €4,300 | €5,500 – €8,000 (branch mgmt) |
 | [Elektroniker/in EGT](../jobs/skilled-trades/elektroniker-in-energie-und-gebaeudetechnik.md) | €2,800 – €3,300 | €3,300 – €4,000 | €4,000 – €5,000 (Meister) |
@@ -190,6 +191,7 @@ estimates, and each carries its validity window — they expire.
 | **TVöD-P** | [Pflegefachfrau/-mann](../jobs/healthcare/pflegefachfrau-pflegefachmann.md) (P7–P10) | 01.05.2026 – 31.03.2027 |
 | **TVöD EG N** (= P 8, Anlage D.14 TVöD-V) | [Notfallsanitäter/in](../jobs/healthcare/notfallsanitaeter-in.md); Rettungssanitäter EG 4, Wachleitung EG 9a–10 | 01.05.2026 – 31.03.2027 |
 | **TVöD SuE** | [Erzieher/in](../jobs/education/erzieher-in.md) (S8a–S18) | 01.05.2026 – 31.03.2027 |
+| **Bundesbesoldung (A 6–A 13)** | [Zollbeamte/r](../jobs/public-service/zollbeamte-r.md) — federal, uniform nationwide. **Last enacted table; a retroactive rise from 05/2026 was still pending** | 01.04.2025 – 30.04.2026 |
 | **TVöD-S** | [Bankkaufmann/-frau](../jobs/commercial/bankkaufmann-frau.md), Sparkassen only (EG 6–9a) — shares the VKA scale | 01.05.2026 – 31.03.2027 |
 | **Besoldung NRW (A 9–A 15)** | [Lehrer/in](../jobs/education/lehrer-in.md) and [Polizist/in](../jobs/public-service/polizist-in.md) as Beamte — **state law, NRW only** | 01.04.2026 – 28.02.2027 |
 | **TV-L (E 11–E 13)** | [Lehrer/in](../jobs/education/lehrer-in.md) as Angestellte; all states except Hessen | 01.04.2026 – 28.02.2027 |
