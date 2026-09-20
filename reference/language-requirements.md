@@ -51,6 +51,7 @@ vary in what they accept — check with the specific body, not with a general li
 | [Notfallsanitäter/in](../jobs/healthcare/notfallsanitaeter-in.md) | **B2** | **C1** | Handover, radio and documentation are time-critical and unforgiving |
 | [Pflegefachfrau/-mann](../jobs/healthcare/pflegefachfrau-pflegefachmann.md) | **B2** | B2–C1 | Some states and employers add a care-specific test |
 | [MT / MTA](../jobs/healthcare/medizinische-technologin-mt-mta.md) | **B2** | B2–C1 | C1 more often expected in patient-facing MTR |
+| [ATA / OTA](../jobs/healthcare/ata-ota.md) | **B2** | B2–C1 | Theatre communication is terse, fast and safety-critical; the swab count is called aloud |
 | [Hebamme](../jobs/healthcare/hebamme.md) | **B2** | **C1** | Consent, escalation and handover under time pressure |
 | [Physiotherapeut/in](../jobs/healthcare/physiotherapeut-in.md) | **B2** | B2 | Patient instruction is continuous |
 | [Pflegefachassistenz / Pflegehelfer/in](../jobs/healthcare/pflegefachassistenz-pflegehelfer-in.md) | None federally — **state-set** | **B1** | A2 is enough to enter under an Anerkennungspartnerschaft; handover and documentation need more |
