@@ -98,6 +98,7 @@ difficulty.
 | [MFA — Medizinische/r Fachangestellte/r](../jobs/healthcare/medizinische-fachangestellte-r.md) | €2,400 – €2,800 | €2,800 – €3,400 | €3,600 – €4,500 (Fachwirt/Praxismanagement) | €28,800 – €33,600 |
 | [Friseur/in](../jobs/skilled-trades/friseur-in.md) | €2,300 – €2,800 | €2,600 – €3,200 | €3,000 – €4,000 (Meister) | €27,600 – €33,600 |
 | [Sicherheitsmitarbeiter/in](../jobs/security/sicherheitsmitarbeiter-in.md) | €2,200 – €2,800 | €2,400 – €3,100 | €3,300 – €4,300 (Objektleitung) | €26,400 – €33,600 |
+| [Pferdewirt/in](../jobs/green/pferdewirt-in.md) | €2,200 – €2,800 | €2,600 – €3,200 | €3,400 – €4,500 (Meister / Yard management) | €26,400 – €33,600 |
 | [Reinigungskraft](../jobs/services/reinigungskraft.md) | €2,100 – €2,400 | €2,600 – €3,100 | €2,700 – €3,100 (public employer) | €25,200 – €28,800 |
 | [Haushaltshilfe](../jobs/services/haushaltshilfe.md) | €2,100 – €2,400 — **full-time equivalent only; almost nobody works it full time** | — | — | €25,200 – €28,800 |
 
