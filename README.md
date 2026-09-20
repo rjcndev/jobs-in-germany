@@ -51,6 +51,10 @@ Once you are comparing professions rather than reading up on one, start here:
 - **[Who recognises your qualification](reference/recognition-authorities.md)** — three
   chamber systems, the Kammern of the freie Berufe, the state authorities, and why ZAB/anabin
   is **not** professional recognition. Plus the professions where no procedure exists at all.
+- **[Shift work and supplements](reference/shift-work-and-supplements.md)** — what the pay
+  table leaves out: the verified TVöD Zeitzuschläge and Schichtzulagen, and the fact that
+  **§3b EStG makes most of them tax-free**, so they are worth more than the same euro of
+  salary.
 - **[Pay](reference/pay.md)** — every profession on one comparable monthly-gross scale,
   what the base figures leave out (shift supplements, tax-free Spesen, the 13th month),
   and an explicit account of which figures are checkable against a published tariff and

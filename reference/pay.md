@@ -140,7 +140,10 @@ demand the most German for the least money at entry.
 
 Five things, each of which can move real income by more than the differences in the table:
 
-**1. Supplements are not in the base.** Shift, night, weekend and on-call pay are excluded
+**1. Supplements are not in the base** — quantified in
+[shift work and supplements](shift-work-and-supplements.md), which works through a nurse on
+P 7 arriving at roughly **14% above** the figure shown here, most of it tax-free under
+§3b EStG. Shift, night, weekend and on-call pay are excluded
 throughout. For a [nurse](../jobs/healthcare/pflegefachfrau-pflegefachmann.md) or
 [MTR](../jobs/healthcare/medizinische-technologin-mt-mta.md) on rotation, or a
 [warehouse worker](../jobs/logistics/fachkraft-fuer-lagerlogistik.md) on three shifts, these
