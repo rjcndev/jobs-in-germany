@@ -19,7 +19,7 @@
 
 In most professions in this repo, the qualification is the normal way in. Here it is not.
 The great majority of restaurant service in Germany is done by **unqualified staff** —
-students, [Minijobbers](../../TODO.md), seasonal workers and career changers — while the
+students, [Minijobbers](../../reference/minijob-und-geringfuegige-beschaeftigung.md), seasonal workers and career changers — while the
 three-year Ausbildung is held by a minority concentrated in hotels, fine dining and event
 catering.
 

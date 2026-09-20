@@ -27,7 +27,7 @@ Handwerkskammer in each region uses its own term, as do job adverts. **Search bo
 and do not read a regional variant on a certificate as a different qualification.
 
 This is a geographic split, not a historical one like
-[Schlosser](metallbauer-in.md) or [Lehrling](../../TODO.md) — both words are current.
+[Schlosser](metallbauer-in.md) or [Lehrling](../../reference/glossary.md#lehrling) — both words are current.
 
 ## Not Zimmerer, and not Holzmechaniker
 
