@@ -39,14 +39,15 @@ been announced repeatedly. Verify its current state before relying on anything h
 
 ## Pay
 
-The weak point of the profession, and the reason for chronic attrition. Approximate gross
-monthly, 2026:
+The weak point of the profession, and the reason for chronic attrition. Gross monthly, 2026.
+Only the public-sector row is tariff-verified (TVöD VKA, valid 01.05.2026 – 31.03.2027);
+the private-practice figures are market estimates:
 
 | Setting | Gross/month |
 |---|---|
 | Private practice, newly qualified | €2,600 – €3,000 |
 | Private practice, experienced | €3,000 – €3,600 |
-| Hospital / public sector (TVöD EG 7–9a) | €3,100 – €4,200 |
+| Hospital / public sector (TVöD EG 7–9a) | €3,295 – €4,980 |
 | Self-employed practice owner | Highly variable; depends on private-pay share |
 
 Public-sector employment pays better than private practice, which is the reverse of what

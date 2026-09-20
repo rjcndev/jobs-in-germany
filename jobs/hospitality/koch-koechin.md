@@ -49,7 +49,7 @@ The sector's weak point, and the reason for its staffing crisis. Approximate gro
 | Experienced (Chef de Partie) | €2,900 – €3,500 |
 | Sous-chef | €3,400 – €4,200 |
 | Küchenchef | €3,800 – €5,500 |
-| Public-sector kitchens (TVöD EG 5–7) | €3,000 – €3,900 |
+| Public-sector kitchens (TVöD EG 5–7) | €3,124 – €4,045 |
 
 Fine dining pays **worse** than these figures at junior levels, not better — the trade
 historically substitutes prestige and training for money. Canteens, hospitals and staff

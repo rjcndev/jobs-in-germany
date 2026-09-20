@@ -39,7 +39,7 @@ manufacturer and a city council give the same job title completely different sub
 |---|---|
 | Newly qualified, private sector | €2,500 – €3,000 |
 | Experienced | €3,000 – €3,700 |
-| Public sector (TVöD EG 5–6) | €3,000 – €3,700 |
+| Public sector (TVöD EG 5–6) | €3,124 – €3,926 |
 | Tariff-bound industry (IG Metall etc.) | €3,300 – €4,200 |
 
 The spread here is driven almost entirely by **who employs you**, not by how good you are.

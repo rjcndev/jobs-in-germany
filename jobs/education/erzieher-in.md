@@ -65,13 +65,14 @@ to state recognition as well. Better paid at the top end, less common in ordinar
 
 Public and church employers pay under **TVöD SuE** (Sozial- und Erziehungsdienst). A
 qualified Erzieher/in normally enters at **S8a**; Kita leadership runs S9–S18 scaled by
-facility size. Approximate gross monthly, 2026:
+facility size. Gross monthly, from the table valid **01.05.2026 – 31.03.2027**, verified
+against the published TVöD SuE scale 2026-09:
 
 | Stage | Gross/month |
 |---|---|
-| Newly qualified (S8a Stufe 1–2) | €3,300 – €3,700 |
-| Experienced (S8a Stufe 4–6) | €4,000 – €4,600 |
-| Kita-Leitung (small to large) | €4,300 – €6,000+ |
+| Newly qualified (S8a Stufe 1–2) | €3,509 – €3,738 |
+| Experienced (S8a Stufe 4–6) | €4,207 – €4,669 |
+| Kita-Leitung (S9 to S18, by facility size) | €3,649 – €6,963 |
 
 Plus the **SuE-Zulage** (a monthly allowance), and two additional
 **Regenerationstage** per year won in collective bargaining. Church providers use AVR

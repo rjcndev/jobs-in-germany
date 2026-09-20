@@ -48,15 +48,19 @@ out of pocket without first asking both.
 | Nahverkehr / regional distribution | €2,600 – €3,300 |
 | Fernverkehr (long distance) | €3,000 – €3,800 |
 | ADR / Gefahrgut, tanker, heavy haulage | €3,400 – €4,500 |
-| Bus — public transport (TV-N) | €3,000 – €3,900 |
+| Bus — public transport (TV-N NW, EG 5–7) | €3,215 – €4,382 |
 
 **Spesen change the picture.** Tax-free per-diems (Verpflegungsmehraufwand) for time away
 — currently €14 for a partial day and €28 for a full day — plus an overnight allowance
 form a large, untaxed share of a long-distance driver's take-home. Compare offers on
 *net* including Spesen, not on gross.
 
-Public transport bus driving pays a little less but offers regular rosters, TV-N
-conditions and a pension — attractive to drivers leaving long distance.
+Public transport bus driving offers regular rosters, TV-N conditions and a pension, and on
+the tariff scale it is competitive with long-distance haulage rather than behind it —
+attractive to drivers leaving Fernverkehr. **There is no national TV-N.** Separate
+agreements cover Bayern, Berlin and Nordrhein-Westfalen (the NRW agreement also applies in
+Baden-Württemberg and Niedersachsen), and Eingruppierung varies by operator, so the figure
+above is NRW-specific (verified 2026-09, table valid 01.05.2026 – 31.12.2026).
 
 ## Demand
 

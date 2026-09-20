@@ -37,16 +37,18 @@ written summary, including this one.
 ## Pay
 
 Hospital doctors are covered by dedicated collective agreements — **TV-Ärzte/VKA**
-(municipal hospitals) or **TV-Ärzte/TdL** (university hospitals). Approximate gross monthly,
-2026, excluding on-call:
+(municipal hospitals) or **TV-Ärzte/TdL** (university hospitals). Figures below are
+**TV-Ärzte/VKA**, from the table valid **01.06.2026 – 31.12.2026**, verified 2026-09,
+excluding on-call. The agreement grades by **Stufe**, not by calendar year, and TdL
+differs:
 
 | Stage | Gross/month |
 |---|---|
-| Assistenzarzt, year 1 | €5,200 – €5,800 |
-| Assistenzarzt, year 5 | €6,500 – €7,000 |
-| Facharzt | €7,000 – €8,200 |
-| Oberarzt | €8,500 – €10,000 |
-| Chefarzt | Individually negotiated, often well into six figures annually |
+| Assistenzarzt (Stufe I, 1→6) | €5,722 – €7,355 |
+| Facharzt (Stufe II) | €7,552 – €9,699 |
+| Oberarzt (Stufe III) | €9,460 – €10,811 |
+| Leitender Oberarzt (Stufe IV) | €11,128 – €11,923 |
+| Chefarzt | Individually negotiated, outside the agreement |
 
 **Bereitschaftsdienst and Rufbereitschaft** (on-call) add substantially — for many
 Assistenzärzte this is 20–30% on top. Note that on-call pay is a perennial source of

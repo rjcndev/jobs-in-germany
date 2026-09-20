@@ -62,14 +62,15 @@ vocational route remains dominant and is what employers expect.
 
 ## Pay
 
-Public hospitals pay under **TVöD-K**, typically **Entgeltgruppe 9a**. Approximate gross
-monthly, as of 2026:
+Public hospitals pay under **TVöD-K**, typically **Entgeltgruppe 9a**. Gross monthly, from
+the table valid **01.05.2026 – 31.03.2027**, verified against the published TVöD VKA
+scale 2026-09:
 
 | Stage | Gross/month |
 |---|---|
-| Entry (Stufe 1–2) | €3,200 – €3,600 |
-| Mid-career | €3,700 – €4,200 |
-| Experienced (Stufe 5–6) | €4,200 – €4,700 |
+| Entry (Stufe 1–2) | €3,659 – €3,878 |
+| Mid-career (Stufe 3–4) | €4,098 – €4,587 |
+| Experienced (Stufe 5–6) | €4,697 – €4,980 |
 
 On top of that: shift supplements (Schichtzulage), night and weekend rates, on-call pay,
 and in radiology sometimes a radiation-exposure allowance. For MTR with regular night

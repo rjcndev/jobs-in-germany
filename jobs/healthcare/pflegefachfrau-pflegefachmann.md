@@ -48,13 +48,15 @@ and leads to the same licence plus a degree. Uptake is low but growing.
 ## Pay
 
 Public-sector employers pay under **TVöD-P**. A newly qualified nurse starts around **P7**;
-specialists and team leads sit higher. Approximate gross monthly, 2026:
+specialists and team leads sit higher. Gross monthly, from the table valid
+**01.05.2026 – 31.03.2027**, verified against the published TVöD-P scale 2026-09.
+Note that **P7 has no Stufe 1** — the ladder starts at Stufe 2:
 
 | Stage | Gross/month |
 |---|---|
-| Newly qualified (P7 Stufe 1–2) | €3,300 – €3,700 |
-| Experienced (P7 Stufe 4–6) | €4,000 – €4,600 |
-| Specialist — ITS, anaesthesia, OR (P9–P10) | €4,400 – €5,400 |
+| Newly qualified (P7 Stufe 2–3) | €3,510 – €3,701 |
+| Experienced (P7 Stufe 4–6) | €3,998 – €4,305 |
+| Specialist — ITS, anaesthesia, OR (P9–P10) | €3,992 – €4,961 |
 
 Plus shift supplements, night rates (significant), weekend and public-holiday pay, and in
 many states a **Pflegezulage**. Actual take-home for a full-time rotating nurse is well

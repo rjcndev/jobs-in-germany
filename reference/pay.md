@@ -3,6 +3,10 @@
 Cross-reference over every profile in this repo. Figures are drawn from the individual
 files — if the two disagree, the profession file is the source of truth.
 
+**Tariff figures were verified against published pay scales on 2026-09** and are exact;
+everything else is a market estimate. The two are separated in [reliability of these
+figures](#reliability-of-these-figures) — read it before treating any row as precise.
+
 **All figures are gross monthly (brutto), 2026, full-time.** The IT and engineering files
 quote annual salaries because that is how those sectors negotiate; they are converted to
 monthly here at ÷12 so the comparison works. See [what this table does not
@@ -17,21 +21,21 @@ difficulty.
 
 | Profession | Entry | Experienced | Ceiling (employed) |
 |---|---|---|---|
-| [Arzt / Ärztin](../jobs/healthcare/arzt-aerztin.md) | €5,200 – €5,800 | €6,500 – €7,000 | €8,500 – €10,000 (Oberarzt) |
+| [Arzt / Ärztin](../jobs/healthcare/arzt-aerztin.md) | €5,722 – €6,046 | €6,680 – €7,158 | €9,460 – €10,811 (Oberarzt) |
 | [Ingenieur/in](../jobs/engineering/ingenieur-in.md) | €4,330 – €5,170 | €5,420 – €6,670 | €8,330+ (senior/lead) |
 | [Softwareentwickler/in](../jobs/it/softwareentwickler-in.md) | €4,170 – €5,170 | €5,420 – €6,830 | €9,170 – €11,670 (staff) |
+| [MT / MTA](../jobs/healthcare/medizinische-technologin-mt-mta.md) | €3,659 – €3,878 | €4,098 – €4,587 | €4,697 – €4,980 |
+| [Erzieher/in](../jobs/education/erzieher-in.md) | €3,509 – €3,738 | €4,207 – €4,669 | €3,649 – €6,963 (Kita-Leitung) |
+| [Pflegefachfrau/-mann](../jobs/healthcare/pflegefachfrau-pflegefachmann.md) | €3,510 – €3,701 | €3,998 – €4,305 | €3,992 – €4,961 (specialist) |
 | [Industriekaufmann/-frau](../jobs/commercial/industriekaufmann-frau.md) | €3,200 – €4,000 | €4,000 – €5,000 | €6,000+ |
-| [Pflegefachfrau/-mann](../jobs/healthcare/pflegefachfrau-pflegefachmann.md) | €3,300 – €3,700 | €4,000 – €4,600 | €4,400 – €5,400 (specialist) |
-| [Erzieher/in](../jobs/education/erzieher-in.md) | €3,300 – €3,700 | €4,000 – €4,600 | €4,300 – €6,000+ (Kita-Leitung) |
 | [Fachinformatiker/in](../jobs/it/fachinformatiker-in.md) | €3,170 – €3,830 | €4,000 – €5,000 | €5,000 – €6,250+ |
-| [MT / MTA](../jobs/healthcare/medizinische-technologin-mt-mta.md) | €3,200 – €3,600 | €3,700 – €4,200 | €4,200 – €4,700 |
 | [Steuerfachangestellte/r](../jobs/commercial/steuerfachangestellte-r.md) | €2,800 – €3,400 | €3,500 – €4,500 | **€5,500 – €8,000** (Steuerberater) |
 | [Spedition und Logistik](../jobs/logistics/kaufmann-frau-spedition-logistikdienstleistung.md) | €2,800 – €3,400 | €3,400 – €4,300 | €5,500 – €8,000 (branch mgmt) |
 | [Elektroniker/in EGT](../jobs/skilled-trades/elektroniker-in-energie-und-gebaeudetechnik.md) | €2,800 – €3,300 | €3,300 – €4,000 | €4,000 – €5,000 (Meister) |
 | [Anlagenmechaniker/in SHK](../jobs/skilled-trades/anlagenmechaniker-in-shk.md) | €2,700 – €3,200 | €3,200 – €3,900 | €3,900 – €4,900 (Meister) |
 | [Berufskraftfahrer/in](../jobs/logistics/berufskraftfahrer-in.md) | €2,600 – €3,300 | €3,000 – €3,800 | €3,400 – €4,500 (ADR/heavy) |
 | [Fachkraft für Lagerlogistik](../jobs/logistics/fachkraft-fuer-lagerlogistik.md) | €2,600 – €3,100 | €3,100 – €3,700 | €4,200 – €5,500 (Meister) |
-| [Physiotherapeut/in](../jobs/healthcare/physiotherapeut-in.md) | €2,600 – €3,000 | €3,000 – €3,600 | €3,100 – €4,200 (public sector) |
+| [Physiotherapeut/in](../jobs/healthcare/physiotherapeut-in.md) | €2,600 – €3,000 | €3,000 – €3,600 | €3,295 – €4,980 (public sector) |
 | [Kaufmann/-frau für Büromanagement](../jobs/commercial/kaufmann-frau-fuer-bueromanagement.md) | €2,500 – €3,000 | €3,000 – €3,700 | €3,300 – €4,200 (tariff industry) |
 | [Koch / Köchin](../jobs/hospitality/koch-koechin.md) | €2,400 – €2,900 | €2,900 – €3,500 | €3,800 – €5,500 (Küchenchef) |
 | [Hotelfachmann/-frau](../jobs/hospitality/hotelfachmann-frau.md) | €2,300 – €2,900 | €2,900 – €3,500 | €4,500 – €8,000+ (hotel mgmt) |
@@ -54,10 +58,16 @@ management. The ceiling is real but conditional — most people do not reach it.
 
 **Flat** — decent entry, compressed ceiling, pay set by a tariff ladder rather than
 performance. [MT/MTA](../jobs/healthcare/medizinische-technologin-mt-mta.md),
+[Pflege](../jobs/healthcare/pflegefachfrau-pflegefachmann.md),
 [Physiotherapie](../jobs/healthcare/physiotherapeut-in.md), and operational
 [warehouse work](../jobs/logistics/fachkraft-fuer-lagerlogistik.md). You know your salary in
 fifteen years, roughly, on day one. Predictability is worth something; the ceiling is
-genuinely low.
+genuinely low — a P7 nurse tops out around €4,305, and specialist grades only reach
+about €4,961.
+
+The verification pass sharpened this: **MT/MTA rose four places** in the entry ranking once
+checked against the real TVöD-K scale, and now out-earns nursing and Erzieher/in at entry.
+It remains the flattest ladder of the three.
 
 **High and steep** — [medicine](../jobs/healthcare/arzt-aerztin.md),
 [engineering](../jobs/engineering/ingenieur-in.md),
@@ -106,36 +116,63 @@ regions — a genuinely useful arbitrage.
 
 ## Reliability of these figures
 
-Since this file concentrates every salary estimate in the repo, it should be explicit about
-which ones can be checked and which cannot.
+Since this file concentrates every salary estimate in the repo, it is explicit about which
+figures are exact and which are not.
 
-**Verifiable against published tables** — these come from collective agreements with
-public pay scales, so they can be confirmed exactly:
+### Verified against published tables (2026-09)
 
-| Professions | Agreement |
-|---|---|
-| Pflegefachfrau/-mann | TVöD-P |
-| MT / MTA | TVöD-K |
-| Erzieher/in | TVöD SuE |
-| Arzt / Ärztin | TV-Ärzte/VKA, TV-Ärzte/TdL |
-| Physiotherapeut/in (public sector) | TVöD EG 7–9a |
-| Büromanagement (public sector) | TVöD EG 5–6 |
-| Bus drivers | TV-N |
-| Industriekaufmann/-frau, Ingenieur/in (tariff) | IG Metall, IG BCE regional agreements |
+Checked directly against the current collective-agreement scales. These are **exact**, not
+estimates, and each carries its validity window — they expire.
 
-Sources: [oeffentlicher-dienst.info](https://oeffentlicher-dienst.info) for public-sector
-tables, the respective union for industrial ones.
+| Agreement | Applies to | Table valid |
+|---|---|---|
+| **TVöD VKA** (+2.8%) | MT/MTA (EG 9a), Physio public (EG 7–9a), Büromanagement public (EG 5–6), public kitchens (EG 5–7) | 01.05.2026 – 31.03.2027 |
+| **TVöD-P** | [Pflegefachfrau/-mann](../jobs/healthcare/pflegefachfrau-pflegefachmann.md) (P7–P10) | 01.05.2026 – 31.03.2027 |
+| **TVöD SuE** | [Erzieher/in](../jobs/education/erzieher-in.md) (S8a–S18) | 01.05.2026 – 31.03.2027 |
+| **TV-Ärzte/VKA** | [Arzt / Ärztin](../jobs/healthcare/arzt-aerztin.md) (Stufen I–IV) | 01.06.2026 – 31.12.2026 |
+| **TV-N NW** | Bus drivers, NRW only (EG 5–7) | 01.05.2026 – 31.12.2026 |
 
-**Market estimates, not verifiable against any single published source** — private-sector
-pay for Softwareentwickler, Fachinformatiker, Steuerfachangestellte, Spedition, the trades,
-hospitality, road haulage and private-practice physiotherapy. These are ranges drawn from
-general knowledge, not from a survey. Treat them as indicative of *relative position*
-rather than as accurate figures.
+Source: [oeffentlicher-dienst.info](https://oeffentlicher-dienst.info).
 
-**Known perishable values in this repo:** the Mindestlohn (€13.90/hour from January 2026,
-with a further rise scheduled for 2027), driver Spesen rates, and EU Blue Card thresholds,
-which reset every January. See [visa routes](visa-routes.md).
+**What the check found.** The public-sector figures were **understated almost everywhere**,
+because two TVöD increases had landed that the original estimates did not reflect: +3.0%
+from 01.04.2025 and +2.8% from 01.05.2026. The error was systematic, not random. Three
+specific corrections were larger than a simple uplift:
 
-**None of the figures in this repo have been verified against a live source.** They were
-written from knowledge and dated 2026-09. Before relying on any of them, check the
-agreement above where one exists, or a current salary survey where one does not.
+- **MT/MTA** was low by roughly €450 at entry and moved up four places in the ranking.
+- **Facharzt and Oberarzt** were low by €1,500 and €800 at the top; a whole grade
+  (Stufe IV, leitender Oberarzt) had been omitted.
+- **Nursing was the exception — it was *over*stated at the top.** The P7 ceiling is €4,305,
+  not €4,600, and the P9–P10 specialist band is €3,992–€4,961, not €4,400–€5,400.
+  A P7 ladder also **has no Stufe 1**; it starts at Stufe 2.
+
+### Regionally fragmented — no single table to verify against
+
+| Agreement | Applies to | Why |
+|---|---|---|
+| **TV-N** | Bus drivers outside NRW | Separate agreements for Bayern, Berlin and NRW (NRW also covers BW and Niedersachsen). Eingruppierung varies by operator. |
+| **IG Metall / IG BCE** | [Industriekaufmann/-frau](../jobs/commercial/industriekaufmann-frau.md), [Ingenieur/in](../jobs/engineering/ingenieur-in.md), tariff-bound Büromanagement | Multiple regional Tarifgebiete, each negotiating separately, with ERA grading that varies by employer. |
+
+These were listed as "verifiable" in the first version of this file. That was wrong — there
+is no one scale to check them against, only a region-and-employer-specific one.
+
+### Market estimates — not verifiable against any published source
+
+Private-sector pay for [Softwareentwickler/in](../jobs/it/softwareentwickler-in.md),
+[Fachinformatiker/in](../jobs/it/fachinformatiker-in.md),
+[Steuerfachangestellte/r](../jobs/commercial/steuerfachangestellte-r.md),
+[Spedition](../jobs/logistics/kaufmann-frau-spedition-logistikdienstleistung.md), the
+[trades](../jobs/skilled-trades/elektroniker-in-energie-und-gebaeudetechnik.md),
+[hospitality](../jobs/hospitality/koch-koechin.md), road haulage, and private-practice
+physiotherapy. Ranges drawn from general knowledge, not from a survey. Treat them as
+indicative of **relative position**, not as accurate figures.
+
+Given that the verified public-sector numbers turned out to be systematically low, these
+estimates are **more likely to be understated than overstated** — they were written at the
+same time, from the same knowledge, and nothing has corrected them.
+
+### Still unverified elsewhere in the repo
+
+The **Mindestlohn** (€13.90/hour from January 2026, further rise scheduled for 2027),
+driver **Spesen** rates, and **EU Blue Card thresholds**, which reset every January. See
+[visa routes](visa-routes.md).
