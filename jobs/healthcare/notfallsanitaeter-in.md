@@ -129,7 +129,8 @@ teaching.
 - **§2a scope is regional.** Ask the prospective employer for the ÄLRD's current
   algorithms before assuming what you may do.
 - **The Feuerwehr route needs separate training** — paramedic qualification alone does not
-  make you a Feuerwehrbeamter.
+  make you a Feuerwehrbeamter. See [Feuerwehrmann/-frau](../public-service/feuerwehrmann-frau.md):
+  the mittlerer Dienst also requires a completed trade Ausbildung before you may apply.
 - **Psychological load is the profession's real occupational hazard.** Ask what supervision
   and post-incident support actually exist, not whether they exist on paper.
 

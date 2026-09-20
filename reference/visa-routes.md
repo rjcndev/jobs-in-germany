@@ -52,6 +52,7 @@ Two mechanisms worth knowing independently of route:
 | [Spedition und Logistikdienstleistung](../jobs/logistics/kaufmann-frau-spedition-logistikdienstleistung.md) | §18a | Specialist/management only | Most foreigner-friendly of the non-IT roles |
 | [Pflegefachfrau/-mann](../jobs/healthcare/pflegefachfrau-pflegefachmann.md) | **§16d** or **§16d(3)** | No — below threshold | Anerkennungspartnerschaft lets you enter at A2; accelerated procedure widely used |
 | [MT / MTA](../jobs/healthcare/medizinische-technologin-mt-mta.md) | §16d → §18a | No | Shortage lists help; recognition is state-bound |
+| [Feuerwehrmann / Feuerwehrfrau](../jobs/public-service/feuerwehrmann-frau.md) | Recognise a **trade** first, then apply | No | No firefighting qualification is recognised; the volunteer service needs nothing |
 | [Notfallsanitäter/in](../jobs/healthcare/notfallsanitaeter-in.md) | §16d → §18a | No | Also needs a **C1 driving licence**, which a third country's generally cannot be exchanged for |
 | [Erzieher/in](../jobs/education/erzieher-in.md) | §16d → §18a | No | **Choose the Bundesland before starting** — procedures differ in substance |
 | [Lehrer/in](../jobs/education/lehrer-in.md) | §16d → §18b | Possible at A13/E13 | Recognition is achievable; **Verbeamtung is not**, without EU citizenship |

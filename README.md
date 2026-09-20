@@ -140,6 +140,7 @@ See the [sector overview](jobs/public-service/README.md) — Beamten careers: yo
 | Profession | Regulated | Recognition needed to work |
 |---|---|---|
 | [Polizist/in](jobs/public-service/polizist-in.md) | Yes — Beamtenrecht | **No recognition route exists**; citizenship is the gate |
+| [Feuerwehrmann / Feuerwehrfrau](jobs/public-service/feuerwehrmann-frau.md) | Yes in the professional service | **A recognised trade comes first**; volunteer service is open to anyone |
 
 ### security
 See the [sector overview](jobs/security/README.md) — **§34a GewO** gates the activity, not the title: a 40-hour Unterrichtung for basic guarding, an IHK **Sachkundeprüfung** for door work, patrols and retail.
