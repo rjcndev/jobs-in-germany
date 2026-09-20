@@ -42,3 +42,4 @@ association.
 - [Elektroniker/in für Betriebstechnik](elektroniker-in-betriebstechnik.md)
 - [Mechatroniker/in](mechatroniker-in.md)
 - [Industriemechaniker/in](industriemechaniker-in.md)
+- [Zerspanungsmechaniker/in](zerspanungsmechaniker-in.md)
