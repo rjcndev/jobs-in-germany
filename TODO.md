@@ -125,9 +125,46 @@ repo currently implies it only ever tightens.
   through the months when site work stops; **posted workers** under the AEntG, since
   construction is where EU posting and its documented exploitation problems concentrate;
   and **BG BAU**, given the sector's accident and occupational-disease rates.
-- **`reference/qualification-ladders.md`** — Ausbildung → Fachwirt → Meister → Betriebswirt,
-  mapped onto **DQR levels**, and how they compare to degrees. Several files gesture at
-  this ladder; none explains it.
+- **`reference/ausbildung.md`** — the dual system itself, from the trainee's side. **The
+  most-leaned-on unexplained concept in the repo: 15 of 23 profession files state a monthly
+  training wage without ever saying what an Ausbildung legally is.** Should cover: the
+  **BBiG** and HwO as legal basis; the Ausbildungsvertrag and the Kammer's supervising role;
+  the **Mindestausbildungsvergütung** (§17 BBiG, statutory since 2020 and indexed annually)
+  — every "paid throughout" figure in this repo sits above a floor the files never mention;
+  Probezeit of one to four months, after which the employer effectively cannot terminate;
+  **Berufsschulpflicht** and the right to paid release for it; the
+  **Jugendarbeitsschutzgesetz** for under-18s; **Verkürzung** with Abitur or a prior
+  qualification; Zwischenprüfung vs. the gestreckte Abschlussprüfung; and **Übernahme** —
+  there is no automatic right to be kept on, though works councils often negotiate one.
+  For this repo's audience it should also cover Ausbildung as the **§16a immigration
+  route**, and the flat fact that Berufsschule is taught and examined in German.
+
+  Terminology note worth making: **"Lehrling" is historical** in Germany — the legal term
+  since the 1969 BBiG is **Auszubildende/r** (Azubi). It survives colloquially in the
+  Handwerk and remains the standard term in Austria. Same treatment the repo gives
+  MTA → MT and the Gastgewerbe renamings.
+
+- **`reference/meister.md`** — the Meisterbrief and the Aufstiegsfortbildung ladder above
+  it. Referenced across four trade files (Meisterbrief ×4, Meisterpflicht ×3,
+  Aufstiegs-BAföG ×2, Meisterprämie ×2) and explained in none. Should cover: the
+  **four parts of the Meisterprüfung** — practical, technical theory,
+  business/legal, and **Teil IV, the AEVO**, which is what licenses you to train
+  apprentices and so links straight back to `ausbildung.md`; **Anlage A vs Anlage B** and
+  the 2020 re-regulation in §5b; **Handwerksrolle** entry, the **Betriebsleiter**
+  alternative, §8 Ausnahmebewilligung and §9 HwO for EU nationals; funding via
+  **Aufstiegs-BAföG (AFBG)** and the state-specific **Meisterprämie**, which in several
+  Bundesländer refunds the fees outright; and the **IHK parallel ladder** —
+  Industriemeister, Logistikmeister, Küchenmeister, Fachwirt, Betriebswirt — which the
+  [Lagerlogistik](jobs/logistics/fachkraft-fuer-lagerlogistik.md) and
+  [Koch](jobs/hospitality/koch-koechin.md) files already invoke.
+
+  The framing that makes it worth its own file: **a Meister sits at DQR level 6, the same
+  level as a Bachelor.** Since the 2020 Berufsbildungsmodernisierungsgesetz the optional
+  titles **Geprüfte/r Berufsspezialist/in** (DQR 5), **Bachelor Professional** (6) and
+  **Master Professional** (7) exist alongside the traditional ones — contested, unevenly
+  adopted, and directly relevant to a repo that keeps comparing vocational and academic
+  routes. It is also the main earnings lever in the trades, and for Anlage A the *only*
+  route to self-employment.
 - **`reference/recognition-authorities.md`** — which body is competent per profession and
   Bundesland. The single most repeated paragraph across the profession files.
 - **`reference/employment-basics.md`** — Probezeit, notice periods, Arbeitszeitgesetz,
