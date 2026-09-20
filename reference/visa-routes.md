@@ -79,6 +79,7 @@ Two mechanisms worth knowing independently of route:
 | [Sicherheitsmitarbeiter/in](../jobs/security/sicherheitsmitarbeiter-in.md) | **§26(2) BeschV**, or qualify first | No | §34a compliance is not a qualification — **no §18a route on its own** |
 | [Bankkaufmann/-frau](../jobs/commercial/bankkaufmann-frau.md) | §18a | Specialist/corporate only | To **advise**, you also need Sachkunde + BaFin registration — separate from the visa |
 | [Immobilienkaufmann/-frau](../jobs/commercial/immobilienkaufmann-frau.md) | §18a or §16a | No | IHK FOSA. **The §34c permit belongs to the business, not to you** — unlike BaFin registration |
+| [Versicherungen und Finanzanlagen](../jobs/commercial/kaufmann-frau-versicherungen-finanzanlagen.md) | §18a or §16a | Senior head-office roles only | IHK FOSA. **Tied agents need no permit; brokers need their own**, plus PI insurance and a register entry |
 | [Rechtsanwaltsfachangestellte/r](../jobs/commercial/rechtsanwaltsfachangestellte-r.md) | §18a | No | Equivalence sits with the **Rechtsanwaltskammer**, not IHK FOSA |
 | [Kaufmann/-frau für Büromanagement](../jobs/commercial/kaufmann-frau-fuer-bueromanagement.md) | §18a | No | Foreign business degrees often only partly equivalent to a dual qualification |
 | [Elektroniker/in EGT](../jobs/skilled-trades/elektroniker-in-energie-und-gebaeudetechnik.md) | §18a or **§16a** | No | Employment needs no recognition; **self-employment needs the Meister** |

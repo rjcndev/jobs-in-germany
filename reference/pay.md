@@ -60,6 +60,7 @@ difficulty.
 | [Feuerwehrmann / Feuerwehrfrau](../jobs/public-service/feuerwehrmann-frau.md) — verbeamtet | €3,216 – €3,438 | €3,694 – €4,295 | €4,505 – €6,381 (A 12–13) | €38,592 – €41,256 |
 | [Dachdecker/in](../jobs/skilled-trades/dachdecker-in.md) | €3,000 – €3,600 | €3,500 – €4,200 | €4,300 – €5,400 (Meister) | €36,000 – €43,200 |
 | [Gerüstbauer/in](../jobs/skilled-trades/geruestbauer-in.md) | €3,000 – €3,600 | €3,500 – €4,200 | €4,400 – €5,600 (Meister) | €36,000 – €43,200 |
+| [Versicherungen und Finanzanlagen](../jobs/commercial/kaufmann-frau-versicherungen-finanzanlagen.md) | €3,000 – €3,600 | €3,700 – €4,700 | €4,500 – €6,500 (industrial broking) | €36,000 – €43,200 |
 | [Steuerbeamte/r](../jobs/public-service/steuerbeamte-r.md) — verbeamtet | €3,128 – €3,438 | €3,694 – €5,257 | €5,221 – €6,381 (A 13) | €37,536 – €41,256 |
 | [Gärtner/in](../jobs/green/gaertner-in.md) | €2,900 – €3,600 (GaLaBau) | €3,400 – €4,200 | €4,000 – €5,000 (Meister) | €34,800 – €43,200 |
 | [Forstwirt/in](../jobs/green/forstwirt-in.md) | €3,124 – €3,318 | €3,681 – €4,045 | €4,980 (Forstwirtschaftsmeister) | €37,488 – €39,816 |
