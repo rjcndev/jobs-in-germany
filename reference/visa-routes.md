@@ -89,6 +89,7 @@ Two mechanisms worth knowing independently of route:
 | [Forstwirt/in](../jobs/green/forstwirt-in.md) | §18a or §16a | No | Equivalence sits with the **Landwirtschaftskammer** or a state body — a third system |
 | [Metallbauer/in](../jobs/skilled-trades/metallbauer-in.md) | §18a or §16a | No | Handwerkskammer equivalence; **self-employment needs the Meister**, unlike its industrial twin |
 | [Maurer/in](../jobs/skilled-trades/maurer-in.md) | §18a, **§16a**, or §26(2) BeschV | No | Handwerkskammer equivalence. **Check whether you are employed or posted** — it changes your social insurance |
+| [Zimmerer / Zimmerin](../jobs/skilled-trades/zimmerer-zimmerin.md) | §18a, **§16a**, or §26(2) BeschV | No | Handwerkskammer equivalence; **German building physics is where assessments find the gap** |
 | [Dachdecker/in](../jobs/skilled-trades/dachdecker-in.md) | §18a, **§16a**, or §26(2) BeschV | No | Handwerkskammer equivalence; **fall-protection training is German and must be re-sat** |
 | [Tischler/in — Schreiner/in](../jobs/skilled-trades/tischler-in.md) | §18a or §16a | No | Handwerkskammer equivalence; search **both** titles, they are regional variants |
 | [Fleischer/in — Metzger/in](../jobs/skilled-trades/fleischer-in.md) | §18a or §16a | No | **Three** regional titles; check whether a vacancy is Handwerk or industrial |

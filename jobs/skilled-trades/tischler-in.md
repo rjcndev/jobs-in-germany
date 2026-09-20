@@ -36,7 +36,7 @@ English flattens three distinct German occupations into "carpenter":
 | Occupation | System | What it is |
 |---|---|---|
 | **Tischler/Schreiner** | Handwerk, Anlage A | Furniture, interiors, windows, doors — *joiner/cabinetmaker* |
-| **Zimmerer/Zimmerin** | Handwerk, Anlage A | **Structural** timber: roofs, timber frame, Holzbau — *carpenter* |
+| **[Zimmerer/Zimmerin](zimmerer-zimmerin.md)** | Handwerk, Anlage A | **Structural** timber: roofs, timber frame, Holzbau — *carpenter* |
 | **Holzmechaniker/in** | **Industrie, IHK** | Series production in the furniture and wood-products industry |
 
 Holzmechaniker is the industrial twin, making this the **fourth Handwerk/Industrie pairing**
