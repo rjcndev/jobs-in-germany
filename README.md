@@ -106,6 +106,7 @@ See the [sector overview](jobs/healthcare/README.md) — recognition is near-ide
 | [Apotheker/in](jobs/healthcare/apotheker-in.md) | Yes | Yes — Approbation; **ownership also reserved** |
 | [Notfallsanitäter/in](jobs/healthcare/notfallsanitaeter-in.md) | Yes | Yes |
 | [Physiotherapeut/in](jobs/healthcare/physiotherapeut-in.md) | Yes | Yes |
+| [Hebamme](jobs/healthcare/hebamme.md) | Yes | Yes — and **a doctor may not conduct a birth without one** |
 
 ### education
 | Profession | Regulated | Recognition needed to work |

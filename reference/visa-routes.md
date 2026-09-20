@@ -53,6 +53,7 @@ Two mechanisms worth knowing independently of route:
 | [Spedition und Logistikdienstleistung](../jobs/logistics/kaufmann-frau-spedition-logistikdienstleistung.md) | §18a | Specialist/management only | Most foreigner-friendly of the non-IT roles |
 | [Pflegefachfrau/-mann](../jobs/healthcare/pflegefachfrau-pflegefachmann.md) | **§16d** or **§16d(3)** | No — below threshold | Anerkennungspartnerschaft lets you enter at A2; accelerated procedure widely used |
 | [MT / MTA](../jobs/healthcare/medizinische-technologin-mt-mta.md) | §16d → §18a | No | Shortage lists help; recognition is state-bound |
+| [Hebamme](../jobs/healthcare/hebamme.md) | §16d → **§18b** | Possible — it is now a degree | **Automatic EU recognition**; the 2020 academisation moved this off the §18a route |
 | [Feuerwehrmann / Feuerwehrfrau](../jobs/public-service/feuerwehrmann-frau.md) | Recognise a **trade** first, then apply | No | No firefighting qualification is recognised; the volunteer service needs nothing |
 | [Zollbeamte/r](../jobs/public-service/zollbeamte-r.md) | Beamten appointment, not a visa route | No | **EU/EEA/Swiss nationals are eligible** under §7 BBG — a lower bar than policing |
 | [Steuerbeamte/r](../jobs/public-service/steuerbeamte-r.md) | Beamten appointment, not a visa route | No | §7 BeamtStG; varies by Bundesland for posts exercising state authority |

@@ -49,6 +49,7 @@ vary in what they accept — check with the specific body, not with a general li
 | [Notfallsanitäter/in](../jobs/healthcare/notfallsanitaeter-in.md) | **B2** | **C1** | Handover, radio and documentation are time-critical and unforgiving |
 | [Pflegefachfrau/-mann](../jobs/healthcare/pflegefachfrau-pflegefachmann.md) | **B2** | B2–C1 | Some states and employers add a care-specific test |
 | [MT / MTA](../jobs/healthcare/medizinische-technologin-mt-mta.md) | **B2** | B2–C1 | C1 more often expected in patient-facing MTR |
+| [Hebamme](../jobs/healthcare/hebamme.md) | **B2** | **C1** | Consent, escalation and handover under time pressure |
 | [Physiotherapeut/in](../jobs/healthcare/physiotherapeut-in.md) | **B2** | B2 | Patient instruction is continuous |
 | [Industriekaufmann/-frau](../jobs/commercial/industriekaufmann-frau.md) | None | **B2–C1** | Purchasing and sales often need German *and* English |
 | [Spedition und Logistikdienstleistung](../jobs/logistics/kaufmann-frau-spedition-logistikdienstleistung.md) | None | **B2** | English is genuinely half the job — a rare case |

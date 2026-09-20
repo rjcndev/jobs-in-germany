@@ -32,6 +32,7 @@ difficulty.
 | [Architekt/in](../jobs/engineering/architekt-in.md) | €3,700 – €4,600 | €4,600 – €6,000 | €6,000 – €8,000 (Büroleitung) | €44,400 – €55,200 |
 | [Notfallsanitäter/in](../jobs/healthcare/notfallsanitaeter-in.md) | €3,701 – €3,863 | €4,076 – €4,489 | €3,780 – €5,753 (Wachleitung) | €44,412 – €46,356 |
 | [MT / MTA](../jobs/healthcare/medizinische-technologin-mt-mta.md) | €3,659 – €3,878 | €4,098 – €4,587 | €4,697 – €4,980 | €43,908 – €46,536 |
+| [Hebamme](../jobs/healthcare/hebamme.md) | €3,659 – €3,878 | €4,098 – €4,587 | €3,780 – €5,753 (Leitung Kreißsaal) | €43,908 – €46,536 |
 | [Mechatroniker/in](../jobs/industrial/mechatroniker-in.md) | €3,400 – €4,000 | €4,000 – €4,800 | €4,800 – €6,000 (Meister/Techniker) | €40,800 – €48,000 |
 | [Erzieher/in](../jobs/education/erzieher-in.md) | €3,509 – €3,738 | €4,207 – €4,669 | €3,649 – €6,963 (Kita-Leitung) | €42,108 – €44,856 |
 | [Pflegefachfrau/-mann](../jobs/healthcare/pflegefachfrau-pflegefachmann.md) | €3,510 – €3,701 | €3,998 – €4,305 | €3,992 – €4,961 (specialist) | €42,120 – €44,412 |
