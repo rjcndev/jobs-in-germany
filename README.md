@@ -19,6 +19,47 @@ jobs/
 
 One file per profession, named after the German job title in kebab-case.
 
+## Professions covered
+
+### healthcare
+| Profession | Regulated | Recognition needed to work |
+|---|---|---|
+| [Medizinische/r Technologe/Technologin (MT / MTA)](jobs/healthcare/medizinische-technologin-mt-mta.md) | Yes | Yes |
+| [Pflegefachfrau / Pflegefachmann](jobs/healthcare/pflegefachfrau-pflegefachmann.md) | Yes | Yes |
+| [Arzt / Ärztin](jobs/healthcare/arzt-aerztin.md) | Yes | Yes — Approbation |
+| [Physiotherapeut/in](jobs/healthcare/physiotherapeut-in.md) | Yes | Yes |
+
+### it
+| Profession | Regulated | Recognition needed to work |
+|---|---|---|
+| [Softwareentwickler/in](jobs/it/softwareentwickler-in.md) | No | No |
+| [Fachinformatiker/in](jobs/it/fachinformatiker-in.md) | No | No |
+
+### engineering
+| Profession | Regulated | Recognition needed to work |
+|---|---|---|
+| [Ingenieur/in](jobs/engineering/ingenieur-in.md) | Title only | No — but title use is restricted |
+
+### skilled-trades
+| Profession | Regulated | Recognition needed to work |
+|---|---|---|
+| [Elektroniker/in Energie- und Gebäudetechnik](jobs/skilled-trades/elektroniker-in-energie-und-gebaeudetechnik.md) | Self-employment only | No to be employed; yes to run a business |
+| [Anlagenmechaniker/in SHK](jobs/skilled-trades/anlagenmechaniker-in-shk.md) | Self-employment only | No to be employed; yes to run a business |
+
+## The one distinction that matters
+
+German professions fall into three groups, and conflating them wastes people months:
+
+1. **Regulated professions** (reglementierte Berufe) — healthcare above all. You need a
+   state licence before you may work at all. Recognition is mandatory, state-bound, and
+   slow.
+2. **Title-protected only** — Ingenieur. You may do the work; you may not use the word.
+3. **Free professions** — IT. No licence, no recognition, no title protection. The only
+   paperwork is the visa.
+
+Handwerk trades are a special case: free to be *employed* in, licence-bound to be
+*self-employed* in.
+
 ## Adding a profession
 
 Copy [`TEMPLATE.md`](TEMPLATE.md) into the right category folder and fill it in. Sections
