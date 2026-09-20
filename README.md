@@ -34,6 +34,10 @@ Once you are comparing professions rather than reading up on one, start here:
 - **[Visa and residence routes](reference/visa-routes.md)** — which AufenthG paragraph
   applies per profession, whether the EU Blue Card is reachable, and the recognition
   requirement that applies **even to unregulated work**.
+- **[Pay](reference/pay.md)** — every profession on one comparable monthly-gross scale,
+  what the base figures leave out (shift supplements, tax-free Spesen, the 13th month),
+  and an explicit account of which figures are checkable against a published tariff and
+  which are market estimates.
 
 ## Professions covered
 
