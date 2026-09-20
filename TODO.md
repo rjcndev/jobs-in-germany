@@ -133,7 +133,6 @@ are **Gebäudereiniger/in**, **Reinigungskraft** and **Raumpfleger/in**.
 | **Reinigungskraft** (commercial) | **No qualification.** Employed by cleaning contractors, paid the AEntG Gebäudereiniger minimum, frequently part-time, Minijob or Leiharbeit. This is most of the sector by headcount and one of the most common first jobs for new arrivals — which is exactly why it deserves an honest file rather than omission. |
 | **Haushaltshilfe** (private household) | The narrowest case, and the one with a genuine legal story: **the overwhelming majority of domestic cleaning in Germany is undeclared.** The legal route is the **Haushaltsscheck** via the Minijob-Zentrale, and **§35a EStG** lets the household deduct a share of the cost from its tax — which makes declaring it far cheaper than most people assume. Worth writing precisely because the default is Schwarzarbeit, with no accident cover, no pension credit and no sick pay for the worker. |
 | **Fachkraft für Schutz und Sicherheit** | A **third instance of activity-gating**: §34a GewO requires a Sachkundeprüfung and reliability check to work in security at all, regardless of job title — after [Bankkaufmann](jobs/commercial/bankkaufmann-frau.md) (BaFin) and [Berufskraftfahrer](jobs/logistics/berufskraftfahrer-in.md) (licence). Three cases is enough to promote the pattern from a footnote to its own README section. |
-| **Landwirt/in** | Agriculture runs on **Saisonarbeitskräfte** under the 70-day short-term employment rule — a labour model with no parallel elsewhere in the repo, and a documented history of enforcement problems. |
 | **Wissenschaftliche/r Mitarbeiter/in** | The **WissZeitVG** permits serial fixed-term contracts for years, and German academia is built on them. A well-known structural feature that anyone considering a research career in Germany should read before committing. |
 
 ## 5e. Built environment — the design side
@@ -141,6 +140,44 @@ are **Gebäudereiniger/in**, **Reinigungskraft** and **Raumpfleger/in**.
 | Profession | Why |
 |---|---|
 | **Architekt/in** | **High priority — it introduces more new patterns than anything else left in this list.** (1) It is the **second** profession whose title is protected by **sixteen state laws** rather than federal law, after [Ingenieur](jobs/engineering/ingenieur-in.md), with entry in the state Architektenkammer's **Architektenliste** required to use the title — two instances is enough to promote that pattern into the README beside activity-gating. (2) **Bauvorlageberechtigung**, already cross-referenced from the Ingenieur file, is a genuine reserved activity. (3) A degree alone is not enough: Kammer entry requires roughly **two years of documented practice** afterwards. (4) **Architecture is one of only seven professions with automatic EU recognition** under Directive 2005/36/EC — and **the only non-medical one**, alongside doctor, dentist, nurse, midwife, vet and pharmacist. The repo already contains four of those six, so the contrast writes itself. (5) The **HOAI** fee schedule stopped being binding after the **ECJ struck down its mandatory minimum and maximum rates in 2019** (C-377/17), implemented 2021 — a structural change to the profession's economics with no parallel elsewhere in the repo. Separate Fachrichtungen (Innenarchitektur, Landschaftsarchitektur, Stadtplanung) are listed separately by the Kammer. |
+
+## 5f. Grüne Berufe — agriculture, forestry and horticulture
+
+An entire sector, absent, and the one that introduces **a third chamber system**. The repo
+names the Handwerkskammer 18 times and the IHK 30, and the **Landwirtschaftskammer zero** —
+yet it is the competent body for training, examination and foreign-qualification equivalence
+across all of these. And only in some Bundesländer: elsewhere a state ministry or
+Regierungspräsidium does the job. **Add it to
+[`reference/recognition-authorities.md`](#7-reference-documents) before writing any of these
+files**, or each will explain it badly on its own.
+
+The occupations are collectively the **Grüne Berufe**, fourteen of them. The ones worth
+files:
+
+| Profession | Why |
+|---|---|
+| **Landwirt/in** | The anchor file. Also where the **Saisonarbeitskräfte** model lives: the **70-day short-term employment rule**, which is social-insurance-free and dominates the asparagus and fruit harvests. It is a labour model with no parallel elsewhere in this repo, overwhelmingly staffed from Romania and Poland, and with a documented enforcement and exploitation record. Write it honestly. |
+| **Forstwirt/in** | The most structurally interesting. Employment is largely **public sector** (Landesforsten), so tariff pay is verifiable. It also has a ladder that crosses into [Beamte](reference/beamte-vs-angestellte.md): **Forstwirt** (Ausbildung, manual) → **Forstwirtschaftsmeister** → **Förster / Revierleiter** (Bachelor, gehobener Forstdienst, frequently verbeamtet). Three different things English calls "forester". Also one of Germany's **most dangerous occupations** — felling accidents — with mandatory chainsaw certification (Motorsägenlehrgang, DGUV). |
+| **Gärtner/in** | Seven Fachrichtungen, and the largest by employment is **Garten- und Landschaftsbau (GaLaBau)**, which is booming on urban greening, stormwater and climate-adaptation work. The commercially strongest of the green trades. |
+| **Winzer/in** | Viticulture, regionally concentrated (Rheinland-Pfalz, Baden, Franken), with its own Kammer structures and a strong family-succession dynamic — closer to [pharmacy](jobs/healthcare/apotheker-in.md) ownership economics than to a wage trade. |
+| **Tierwirt/in** | Livestock, five Fachrichtungen including Imkerei and Schäferei. Schäferei in particular is a tiny, subsidised, culturally protected occupation — an interesting edge case. |
+| **Pferdewirt/in** | Five Fachrichtungen. Poor pay, long hours, heavy demand from people who love horses — a profession where the repo's honesty convention matters most. |
+| **Fachkraft Agrarservice** | The contractor side: large machinery, harvest services. Better paid than farm employment and less visible. |
+| **Fischwirt/in** | Aquaculture and fisheries; small but distinct. |
+| **Hauswirtschafter/in** | Formally a green profession, largely employed in care homes, schools and institutions. Sits oddly close to the [cleaning tiers](#5d-services-and-other-sectors--no-category-exists-yet). |
+
+### What these add beyond more professions
+
+- **A third chamber**, above.
+- **Pflanzenschutz-Sachkunde** — applying pesticides commercially requires a certificate of
+  competence. That is a **seventh instance** of qualification-gates-the-work, after EFK,
+  BaFin, §34a, driving licences, Hochvolt and welding certificates. Enough that the README
+  section on it is overdue.
+- **Seasonal migrant labour** as a structural employment model, which the repo currently
+  does not describe anywhere.
+- **The Forstwirt → Förster → Beamter ladder**, linking a manual trade to civil-servant
+  status — a bridge between two parts of the repo that currently do not touch.
+- **Weather and physical risk** as everyday working conditions rather than a footnote.
 
 ## 6. Commercial
 
@@ -219,7 +256,10 @@ are **Gebäudereiniger/in**, **Reinigungskraft** and **Raumpfleger/in**.
   German terms inline. A single alphabetical glossary would cost little and save every
   reader repeated lookups.
 - **`reference/recognition-authorities.md`** — which body is competent per profession and
-  Bundesland. The single most repeated paragraph across the profession files.
+  Bundesland. Must cover **three** chamber systems, not two: IHK, Handwerkskammer and the
+  **Landwirtschaftskammer** (see §5f), plus the Kammern of the freie Berufe
+  (Ärzte-, Apotheker-, Rechtsanwalts-, Steuerberater-, Architekten-, Ingenieurkammer) and the
+  state authorities that handle the licensed healthcare professions. The single most repeated paragraph across the profession files.
 - **`reference/employment-basics.md`** — Probezeit, notice periods, Arbeitszeitgesetz,
   statutory leave, Kündigungsschutz, Arbeitszeugnis. Currently scattered.
 
