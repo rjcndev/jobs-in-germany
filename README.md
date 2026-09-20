@@ -125,6 +125,9 @@ you without it; the Ausländerbehörde will not issue the permit. Sort recogniti
 
 ## Adding a profession
 
+Planned additions and maintenance deadlines live in [TODO.md](TODO.md).
+
+
 Copy [`TEMPLATE.md`](TEMPLATE.md) into the right category folder and fill it in. Sections
 that genuinely do not apply can be dropped; do not leave empty headings.
 
