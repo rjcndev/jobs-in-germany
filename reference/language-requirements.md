@@ -53,6 +53,7 @@ vary in what they accept — check with the specific body, not with a general li
 | [MT / MTA](../jobs/healthcare/medizinische-technologin-mt-mta.md) | **B2** | B2–C1 | C1 more often expected in patient-facing MTR |
 | [Hebamme](../jobs/healthcare/hebamme.md) | **B2** | **C1** | Consent, escalation and handover under time pressure |
 | [Physiotherapeut/in](../jobs/healthcare/physiotherapeut-in.md) | **B2** | B2 | Patient instruction is continuous |
+| [PTA — Pharmazeutisch-technische/r Assistent/in](../jobs/healthcare/pharmazeutisch-technische-r-assistent-in.md) | **B2** | B2–C1 | Dispensing advice is patient-facing and a wrong dose instruction is a safety event |
 | [MFA — Medizinische/r Fachangestellte/r](../jobs/healthcare/medizinische-fachangestellte-r.md) | None — unregulated | **B2** | Telephone triage, distressed patients and precise documentation — a high bar at low pay |
 | [Industriekaufmann/-frau](../jobs/commercial/industriekaufmann-frau.md) | None | **B2–C1** | Purchasing and sales often need German *and* English |
 | [Spedition und Logistikdienstleistung](../jobs/logistics/kaufmann-frau-spedition-logistikdienstleistung.md) | None | **B2** | English is genuinely half the job — a rare case |
