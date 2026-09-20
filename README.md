@@ -34,6 +34,10 @@ Once you are comparing professions rather than reading up on one, start here:
 - **[Visa and residence routes](reference/visa-routes.md)** — which AufenthG paragraph
   applies per profession, whether the EU Blue Card is reachable, and the recognition
   requirement that applies **even to unregulated work**.
+- **[Beamte vs. Angestellte](reference/beamte-vs-angestellte.md)** — civil-servant status:
+  Besoldung instead of tariff, Ruhegehalt instead of a pension, no right to strike, and an
+  **EU-citizenship requirement** that permanently changes the deal for third-country
+  candidates in teaching, policing and the fire service.
 - **[Pay](reference/pay.md)** — every profession on one comparable monthly-gross scale,
   what the base figures leave out (shift supplements, tax-free Spesen, the 13th month),
   and an explicit account of which figures are checkable against a published tariff and
@@ -54,6 +58,7 @@ Once you are comparing professions rather than reading up on one, start here:
 ### education
 | Profession | Regulated | Recognition needed to work |
 |---|---|---|
+| [Lehrer/in](jobs/education/lehrer-in.md) | Yes — under **state** law | Yes; and Verbeamtung needs EU citizenship |
 | [Erzieher/in](jobs/education/erzieher-in.md) | Yes — under **state** law | Yes, and it varies by Bundesland |
 
 ### it

@@ -11,7 +11,16 @@ slot into.
 
 ---
 
-## 1. The biggest structural gap: Beamte
+## 1. Beamte — reference written, professions outstanding
+
+[`reference/beamte-vs-angestellte.md`](reference/beamte-vs-angestellte.md) now exists, so
+Beamten professions can be added without re-explaining the status each time.
+**Polizist/in**, **Zollbeamte/r**, **Feuerwehrbeamte/r** and **Steuerbeamte/r** are the
+obvious next ones; each is state- or federal-specific and needs its own Besoldung check.
+
+<details><summary>Original note on why this had to come first</summary>
+
+
 
 The repo currently describes only employees. **Civil-servant status (Verbeamtung)** is a
 parallel world with its own pay system (**Besoldung**, not tariff), its own pension
@@ -21,10 +30,9 @@ firefighters, customs officers — and, already in the repo,
 [Notfallsanitäter](jobs/healthcare/notfallsanitaeter-in.md) working for a Berufsfeuerwehr.
 
 **Write `reference/beamte-vs-angestellte.md` before adding any Beamten profession**, or
-every such file will re-explain the same thing badly. It should cover: A-Besoldung grades,
-Laufbahngruppen (einfacher/mittlerer/gehobener/höherer Dienst), why net pay is much higher
-than gross suggests, the age and nationality limits (generally EU citizenship required —
-a hard stop for many readers of this repo), and Beamter-on-probation vs. for-life.
+every such file will re-explain the same thing badly.
+
+</details>
 
 ## 2. Healthcare
 
@@ -42,7 +50,6 @@ a hard stop for many readers of this repo), and Beamter-on-probation vs. for-lif
 
 | Profession | Why |
 |---|---|
-| **Lehrer/in** | The largest gap after Beamte. Two Staatsexamen, Referendariat, usually Verbeamtung, and **sixteen state systems** that barely recognise each other — worse fragmentation than [Erzieher/in](jobs/education/erzieher-in.md). Also **Quereinstieg**, the lateral-entry route that shortage has forced open. |
 | **Sozialarbeiter/in** | Bachelor plus **staatliche Anerkennung** — a degree that needs a separate recognition step. Pairs with Erzieher/in. |
 
 ## 4. Logistics and transport
@@ -73,7 +80,6 @@ a hard stop for many readers of this repo), and Beamter-on-probation vs. for-lif
 
 ## 7. Reference documents
 
-- **`reference/beamte-vs-angestellte.md`** — see §1. Highest value in the repo.
 - **`reference/qualification-ladders.md`** — Ausbildung → Fachwirt → Meister → Betriebswirt,
   mapped onto **DQR levels**, and how they compare to degrees. Several files gesture at
   this ladder; none explains it.

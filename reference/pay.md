@@ -22,6 +22,7 @@ difficulty.
 | Profession | Entry | Experienced | Ceiling (employed) |
 |---|---|---|---|
 | [Arzt / Ärztin](../jobs/healthcare/arzt-aerztin.md) | €5,722 – €6,046 | €6,680 – €7,158 | €9,460 – €10,811 (Oberarzt) |
+| [Lehrer/in](../jobs/education/lehrer-in.md) — verbeamtet | €4,505 – €5,221 | €5,771 – €6,381 | €6,356 – €7,906 (Schulleitung) |
 | [Ingenieur/in](../jobs/engineering/ingenieur-in.md) | €4,330 – €5,170 | €5,420 – €6,670 | €8,330+ (senior/lead) |
 | [Softwareentwickler/in](../jobs/it/softwareentwickler-in.md) | €4,170 – €5,170 | €5,420 – €6,830 | €9,170 – €11,670 (staff) |
 | [Apotheker/in](../jobs/healthcare/apotheker-in.md) | €4,166 – €4,236 | €4,528 – €4,922 | €4,901 – €7,552 (hospital EG 13–14) |
@@ -108,6 +109,13 @@ throughout. For a [nurse](../jobs/healthcare/pflegefachfrau-pflegefachmann.md) o
 are a large and regular part of take-home. Assistenzärzte commonly add 20–30% from
 Bereitschaftsdienst. The table systematically understates every shift-working profession.
 
+**1b. Beamte gross is not comparable to anyone else's gross.** The
+[Lehrer/in](../jobs/education/lehrer-in.md) row is Besoldung. Beamte pay no pension or
+unemployment contributions and receive Beihilfe instead of a full health premium, so the
+same gross nets several hundred euros more per month, and the pension is far better.
+Besoldung is also **state law** — the NRW figures here do not transfer to other
+Bundesländer. See [beamte-vs-angestellte](beamte-vs-angestellte.md).
+
 **2. Tax-free components distort the comparison further.** A long-distance
 [driver's](../jobs/logistics/berufskraftfahrer-in.md) Spesen — €14/€28 per day — are
 untaxed, so they are worth far more than the same amount of gross salary. Tips in
@@ -150,6 +158,8 @@ estimates, and each carries its validity window — they expire.
 | **TVöD EG N** (= P 8, Anlage D.14 TVöD-V) | [Notfallsanitäter/in](../jobs/healthcare/notfallsanitaeter-in.md); Rettungssanitäter EG 4, Wachleitung EG 9a–10 | 01.05.2026 – 31.03.2027 |
 | **TVöD SuE** | [Erzieher/in](../jobs/education/erzieher-in.md) (S8a–S18) | 01.05.2026 – 31.03.2027 |
 | **TVöD-S** | [Bankkaufmann/-frau](../jobs/commercial/bankkaufmann-frau.md), Sparkassen only (EG 6–9a) — shares the VKA scale | 01.05.2026 – 31.03.2027 |
+| **Besoldung NRW (A 12–A 15)** | [Lehrer/in](../jobs/education/lehrer-in.md) as Beamte — **state law, NRW only** | 01.04.2026 – 28.02.2027 |
+| **TV-L (E 11–E 13)** | [Lehrer/in](../jobs/education/lehrer-in.md) as Angestellte; all states except Hessen | 01.04.2026 – 28.02.2027 |
 | **ADEXA/ADA** | [Apotheker/in](../jobs/healthcare/apotheker-in.md) in public pharmacies — **not** Nordrhein or Sachsen | 01.01.2026 – 31.12.2026 |
 | **TV-Ärzte/VKA** | [Arzt / Ärztin](../jobs/healthcare/arzt-aerztin.md) (Stufen I–IV) | 01.06.2026 – 31.12.2026 |
 | **TV-N NW** | Bus drivers, NRW only (EG 5–7) | 01.05.2026 – 31.12.2026 |

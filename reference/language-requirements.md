@@ -35,6 +35,7 @@ vary in what they accept — check with the specific body, not with a general li
 | Profession | Legally required | Realistically needed | Notes |
 |---|---|---|---|
 | [Arzt / Ärztin](../jobs/healthcare/arzt-aerztin.md) | **B2 general + C1 medical** (Fachsprachprüfung) | C1 | The FSP, not clinical knowledge, is the usual failure point |
+| [Lehrer/in](../jobs/education/lehrer-in.md) | **C1 minimum, C2 commonly required** | **C2** | The highest bar here — you model the language of instruction |
 | [Apotheker/in](../jobs/healthcare/apotheker-in.md) | **B2 general + C1 professional** (Fachsprachprüfung) | C1 | German pharmacy law and reimbursement are the exam's substance |
 | [Steuerfachangestellte/r](../jobs/commercial/steuerfachangestellte-r.md) | None — unregulated | **C1** | Tax law, Finanzamt correspondence, client advice |
 | [Rechtsanwaltsfachangestellte/r](../jobs/commercial/rechtsanwaltsfachangestellte-r.md) | None — unregulated | **C1** | ZPO deadlines and court correspondence; unforgiving of error |

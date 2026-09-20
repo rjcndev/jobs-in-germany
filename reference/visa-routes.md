@@ -54,6 +54,7 @@ Two mechanisms worth knowing independently of route:
 | [MT / MTA](../jobs/healthcare/medizinische-technologin-mt-mta.md) | §16d → §18a | No | Shortage lists help; recognition is state-bound |
 | [Notfallsanitäter/in](../jobs/healthcare/notfallsanitaeter-in.md) | §16d → §18a | No | Also needs a **C1 driving licence**, which a third country's generally cannot be exchanged for |
 | [Erzieher/in](../jobs/education/erzieher-in.md) | §16d → §18a | No | **Choose the Bundesland before starting** — procedures differ in substance |
+| [Lehrer/in](../jobs/education/lehrer-in.md) | §16d → §18b | Possible at A13/E13 | Recognition is achievable; **Verbeamtung is not**, without EU citizenship |
 | [Physiotherapeut/in](../jobs/healthcare/physiotherapeut-in.md) | §16d → §18a | No — below threshold | Ordinary skilled-worker permit only |
 | [Steuerfachangestellte/r](../jobs/commercial/steuerfachangestellte-r.md) | §18a | No | Foreign accounting qualifications transfer poorly; C1 German is the real gate |
 | [Bankkaufmann/-frau](../jobs/commercial/bankkaufmann-frau.md) | §18a | Specialist/corporate only | To **advise**, you also need Sachkunde + BaFin registration — separate from the visa |
@@ -86,6 +87,13 @@ visa is the easy part.
 ordinary skilled work. The **Handwerksordnung** separately requires Meister-level
 qualification to *run a business* in an Anlage A trade. Two different systems, two
 different procedures — people register a business and discover the second one too late.
+
+**A residence permit is not the same as full access.** A third-country
+[teacher](../jobs/education/lehrer-in.md) can be recognised, licensed, hired and settled —
+and still never be made a **Beamter**, because §7 BeamtStG restricts appointment to
+EU/EEA/Swiss nationals. The result is permanently lower net pay and the statutory pension
+instead of Ruhegehalt, for identical work. The same gate applies to policing and the fire
+service. See [beamte-vs-angestellte](beamte-vs-angestellte.md).
 
 **Erzieher/in is state-fragmented.** Unlike the federally regulated healthcare professions,
 recognition rests on sixteen separate Länder laws. The Bundesland choice is a substantive
