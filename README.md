@@ -107,6 +107,7 @@ See the [sector overview](jobs/healthcare/README.md) — recognition is near-ide
 | [Notfallsanitäter/in](jobs/healthcare/notfallsanitaeter-in.md) | Yes | Yes |
 | [Physiotherapeut/in](jobs/healthcare/physiotherapeut-in.md) | Yes | Yes |
 | [Hebamme](jobs/healthcare/hebamme.md) | Yes | Yes — and **a doctor may not conduct a birth without one** |
+| [Psychotherapeut/in](jobs/healthcare/psychotherapeut-in.md) | Yes — Approbation | Yes; **and the statutory-patient licence is separately rationed** |
 
 ### education
 | Profession | Regulated | Recognition needed to work |

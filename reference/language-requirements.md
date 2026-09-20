@@ -35,6 +35,7 @@ vary in what they accept — check with the specific body, not with a general li
 | Profession | Legally required | Realistically needed | Notes |
 |---|---|---|---|
 | [Arzt / Ärztin](../jobs/healthcare/arzt-aerztin.md) | **B2 general + C1 medical** (Fachsprachprüfung) | C1 | The FSP, not clinical knowledge, is the usual failure point |
+| [Psychotherapeut/in](../jobs/healthcare/psychotherapeut-in.md) | **C1**, assessed in the Approbation procedure | **C1** | Language *is* the treatment — nuance and register are the working instrument |
 | [Lehrer/in](../jobs/education/lehrer-in.md) | **C1 minimum, C2 commonly required** | **C2** | The highest bar here — you model the language of instruction |
 | [Polizist/in](../jobs/public-service/polizist-in.md) | **C1 minimum**, tested in selection | **Near-native** | Statements and reports are evidential; de-escalation happens under stress |
 | [Feuerwehrmann / Feuerwehrfrau](../jobs/public-service/feuerwehrmann-frau.md) | **C1** | C1 | Radio traffic, incident command and casualty handover are time-critical |

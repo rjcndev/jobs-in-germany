@@ -25,6 +25,7 @@ difficulty.
 | Profession | Entry | Experienced | Ceiling (employed) | Annual, entry (×12) |
 |---|---|---|---|---|
 | [Arzt / Ärztin](../jobs/healthcare/arzt-aerztin.md) | €5,722 – €6,046 | €6,680 – €7,158 | €9,460 – €10,811 (Oberarzt) | €68,664 – €72,552 |
+| [Psychotherapeut/in](../jobs/healthcare/psychotherapeut-in.md) | €4,901 – €5,600 | €5,600 – €6,500 | €7,552 (EG 14); own Kassensitz is not comparable | €58,812 – €67,200 |
 | [Lehrer/in](../jobs/education/lehrer-in.md) — verbeamtet | €4,505 – €5,221 | €5,771 – €6,381 | €6,356 – €7,906 (Schulleitung) | €54,060 – €62,652 |
 | [Ingenieur/in](../jobs/engineering/ingenieur-in.md) | €4,330 – €5,170 | €5,420 – €6,670 | €8,330+ (senior/lead) | €51,960 – €62,040 |
 | [Softwareentwickler/in](../jobs/it/softwareentwickler-in.md) | €4,170 – €5,170 | €5,420 – €6,830 | €9,170 – €11,670 (staff) | €50,040 – €62,040 |
