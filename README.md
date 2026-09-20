@@ -10,6 +10,7 @@ on authority websites, and in application forms, so translating them away is unh
 ## Structure
 
 ```
+reference/          cross-cutting tables — start here if you are choosing a profession
 jobs/
 ├── healthcare/
 ├── education/
@@ -22,6 +23,17 @@ jobs/
 ```
 
 One file per profession, named after the German job title in kebab-case.
+
+## Cross-reference tables
+
+Once you are comparing professions rather than reading up on one, start here:
+
+- **[Language requirements](reference/language-requirements.md)** — what each authority
+  legally demands vs. what the job realistically takes. The two differ, and the gap is
+  where people misjudge their preparation.
+- **[Visa and residence routes](reference/visa-routes.md)** — which AufenthG paragraph
+  applies per profession, whether the EU Blue Card is reachable, and the recognition
+  requirement that applies **even to unregulated work**.
 
 ## Professions covered
 
