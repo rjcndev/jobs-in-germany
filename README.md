@@ -201,6 +201,7 @@ See the [sector overview](jobs/green/README.md) — a **third chamber system**: 
 | [Winzer/in](jobs/green/winzer-in.md) | No | No to work; **yes for the visa** — and the competent body differs by wine region |
 | [Tierwirt/in](jobs/green/tierwirt-in.md) | No | No to work; **yes for the visa** |
 | [Pferdewirt/in](jobs/green/pferdewirt-in.md) | No | No to work; **yes for the visa — and a Trainer licence is not one** |
+| [Fachkraft Agrarservice](jobs/green/fachkraft-agrarservice.md) | No — but **driving licences gate the work** | No to work; **yes for the visa** |
 
 ### services
 See the [sector overview](jobs/services/README.md) — the folder for occupations that belong to no chamber-defined sector, including **two files with no qualification to write about**.
