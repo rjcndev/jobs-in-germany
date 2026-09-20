@@ -63,6 +63,7 @@ Two mechanisms worth knowing independently of route:
 | [Elektroniker/in EGT](../jobs/skilled-trades/elektroniker-in-energie-und-gebaeudetechnik.md) | §18a or **§16a** | No | Employment needs no recognition; **self-employment needs the Meister** |
 | [Elektroniker/in Betriebstechnik](../jobs/industrial/elektroniker-in-betriebstechnik.md) | §18a or §16a | No | Industrial, not Handwerk — **confers no right to open a business** |
 | [Mechatroniker/in](../jobs/industrial/mechatroniker-in.md) | §18a or §16a | No | The most internationally portable trade qualification here |
+| [Industriemechaniker/in](../jobs/industrial/industriemechaniker-in.md) | §18a or §16a | No | Welding certificates do not transfer — expect to re-sit them |
 | [Anlagenmechaniker/in SHK](../jobs/skilled-trades/anlagenmechaniker-in-shk.md) | §18a or **§16a** | No | Same Handwerk split as above |
 | [Kfz-Mechatroniker/in](../jobs/skilled-trades/kraftfahrzeugmechatroniker-in.md) | §18a or §16a | No | Equivalence sits with the **Handwerkskammer**; HV qualification does not transfer |
 | [Fachinformatiker/in](../jobs/it/fachinformatiker-in.md) | **§16a** | Not without a degree | Train here, paid, at B1–B2 German |

@@ -53,6 +53,7 @@ vary in what they accept — check with the specific body, not with a general li
 | [Elektroniker/in EGT](../jobs/skilled-trades/elektroniker-in-energie-und-gebaeudetechnik.md) | None to be employed | **B1–B2** | Site safety and VDE norms are in German |
 | [Elektroniker/in Betriebstechnik](../jobs/industrial/elektroniker-in-betriebstechnik.md) | None | **B1–B2** | Safety instruction, VDE and shift handover in German |
 | [Mechatroniker/in](../jobs/industrial/mechatroniker-in.md) | None | **B1–B2** | Commissioning teams abroad often work in English |
+| [Industriemechaniker/in](../jobs/industrial/industriemechaniker-in.md) | None | **B1–B2** | Drawings and shift handover in German; Montage abroad often English |
 | [Anlagenmechaniker/in SHK](../jobs/skilled-trades/anlagenmechaniker-in-shk.md) | None to be employed | **B1–B2** | Constant customer contact in people's homes |
 | [Kfz-Mechatroniker/in](../jobs/skilled-trades/kraftfahrzeugmechatroniker-in.md) | None to be employed | **B1–B2** | Diagnostic software and manufacturer documentation are in German |
 | [Berufskraftfahrer/in](../jobs/logistics/berufskraftfahrer-in.md) | None directly — but the **theory test** is a real gate | **B1** | Test language availability varies by authority |

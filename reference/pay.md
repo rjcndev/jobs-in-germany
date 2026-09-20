@@ -28,13 +28,14 @@ difficulty.
 | [Apotheker/in](../jobs/healthcare/apotheker-in.md) | €4,166 – €4,236 | €4,528 – €4,922 | €4,901 – €7,552 (hospital EG 13–14) |
 | [Notfallsanitäter/in](../jobs/healthcare/notfallsanitaeter-in.md) | €3,701 – €3,863 | €4,076 – €4,489 | €3,780 – €5,753 (Wachleitung) |
 | [MT / MTA](../jobs/healthcare/medizinische-technologin-mt-mta.md) | €3,659 – €3,878 | €4,098 – €4,587 | €4,697 – €4,980 |
+| [Mechatroniker/in](../jobs/industrial/mechatroniker-in.md) | €3,400 – €4,000 | €4,000 – €4,800 | €4,800 – €6,000 (Meister/Techniker) |
 | [Erzieher/in](../jobs/education/erzieher-in.md) | €3,509 – €3,738 | €4,207 – €4,669 | €3,649 – €6,963 (Kita-Leitung) |
 | [Pflegefachfrau/-mann](../jobs/healthcare/pflegefachfrau-pflegefachmann.md) | €3,510 – €3,701 | €3,998 – €4,305 | €3,992 – €4,961 (specialist) |
+| [Elektroniker/in Betriebstechnik](../jobs/industrial/elektroniker-in-betriebstechnik.md) | €3,300 – €3,900 | €3,900 – €4,700 | €5,500 – €6,800 (Instandhaltungsleitung) |
+| [Industriemechaniker/in](../jobs/industrial/industriemechaniker-in.md) | €3,300 – €3,900 | €3,900 – €4,700 | €5,500 – €6,800 (Instandhaltungsleitung) |
 | [Industriekaufmann/-frau](../jobs/commercial/industriekaufmann-frau.md) | €3,200 – €4,000 | €4,000 – €5,000 | €6,000+ |
 | [Bankkaufmann/-frau](../jobs/commercial/bankkaufmann-frau.md) | €3,200 – €3,800 | €3,900 – €5,000 | €5,500 – €8,000 (branch mgmt) |
 | [Fachinformatiker/in](../jobs/it/fachinformatiker-in.md) | €3,170 – €3,830 | €4,000 – €5,000 | €5,000 – €6,250+ |
-| [Mechatroniker/in](../jobs/industrial/mechatroniker-in.md) | €3,400 – €4,000 | €4,000 – €4,800 | €4,800 – €6,000 (Meister/Techniker) |
-| [Elektroniker/in Betriebstechnik](../jobs/industrial/elektroniker-in-betriebstechnik.md) | €3,300 – €3,900 | €3,900 – €4,700 | €5,500 – €6,800 (Instandhaltungsleitung) |
 | [Steuerfachangestellte/r](../jobs/commercial/steuerfachangestellte-r.md) | €2,800 – €3,400 | €3,500 – €4,500 | **€5,500 – €8,000** (Steuerberater) |
 | [Spedition und Logistik](../jobs/logistics/kaufmann-frau-spedition-logistikdienstleistung.md) | €2,800 – €3,400 | €3,400 – €4,300 | €5,500 – €8,000 (branch mgmt) |
 | [Elektroniker/in EGT](../jobs/skilled-trades/elektroniker-in-energie-und-gebaeudetechnik.md) | €2,800 – €3,300 | €3,300 – €4,000 | €4,000 – €5,000 (Meister) |

@@ -80,6 +80,7 @@ See the [sector overview](jobs/industrial/README.md) for the Handwerk vs. Indust
 |---|---|---|
 | [Elektroniker/in für Betriebstechnik](jobs/industrial/elektroniker-in-betriebstechnik.md) | No — but DGUV V3 gates the work | No to work; **yes for the visa** |
 | [Mechatroniker/in](jobs/industrial/mechatroniker-in.md) | No | No to work; **yes for the visa** |
+| [Industriemechaniker/in](jobs/industrial/industriemechaniker-in.md) | No | No to work; **yes for the visa** |
 
 ### skilled-trades
 | Profession | Regulated | Recognition needed to work |
