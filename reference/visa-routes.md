@@ -63,6 +63,7 @@ Two mechanisms worth knowing independently of route:
 | [Erzieher/in](../jobs/education/erzieher-in.md) | §16d → §18a | No | **Choose the Bundesland before starting** — procedures differ in substance |
 | [Lehrer/in](../jobs/education/lehrer-in.md) | §16d → §18b | Possible at A13/E13 | Recognition is achievable; **Verbeamtung is not**, without EU citizenship |
 | [Physiotherapeut/in](../jobs/healthcare/physiotherapeut-in.md) | §16d → §18a | No — below threshold | Ordinary skilled-worker permit only |
+| [MFA — Medizinische/r Fachangestellte/r](../jobs/healthcare/medizinische-fachangestellte-r.md) | §18a | No | Equivalence sits with the **Ärztekammer**, not IHK FOSA — the most common wasted application |
 | [Steuerfachangestellte/r](../jobs/commercial/steuerfachangestellte-r.md) | §18a | No | Foreign accounting qualifications transfer poorly; C1 German is the real gate |
 | [Fachkraft für Schutz und Sicherheit](../jobs/security/fachkraft-fuer-schutz-und-sicherheit.md) | §18a | No | Recognisable, unlike the §34a courses |
 | [Sicherheitsmitarbeiter/in](../jobs/security/sicherheitsmitarbeiter-in.md) | **§26(2) BeschV**, or qualify first | No | §34a compliance is not a qualification — **no §18a route on its own** |

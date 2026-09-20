@@ -45,7 +45,7 @@ surgery, prosthetics, prevention and professional cleaning, paediatric dentistry
 increasingly — digital workflow: intraoral scanning, CAD/CAM, and chairside milling.
 
 You work with dental assistants
-(**Zahnmedizinische Fachangestellte** — the dental counterpart of the **MFA**), dental hygienists and a **Zahntechniker** laboratory,
+(**Zahnmedizinische Fachangestellte** — the dental counterpart of the [MFA](medizinische-fachangestellte-r.md)), dental hygienists and a **Zahntechniker** laboratory,
 which is a separate Handwerk trade with its own Meister.
 
 Most dentists work in **private practice** — their own, a Berufsausübungsgemeinschaft, or as

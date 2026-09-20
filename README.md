@@ -109,6 +109,7 @@ See the [sector overview](jobs/healthcare/README.md) — recognition is near-ide
 | [Hebamme](jobs/healthcare/hebamme.md) | Yes | Yes — and **a doctor may not conduct a birth without one** |
 | [Psychotherapeut/in](jobs/healthcare/psychotherapeut-in.md) | Yes — Approbation | Yes; **and the statutory-patient licence is separately rationed** |
 | [Zahnarzt / Zahnärztin](jobs/healthcare/zahnarzt-zahnaerztin.md) | Yes — Approbation | Yes; **plus two years' Vorbereitungszeit for an own licence** |
+| [MFA — Medizinische/r Fachangestellte/r](jobs/healthcare/medizinische-fachangestellte-r.md) | No | No to work; **yes for the visa — via the Ärztekammer** |
 
 ### education
 | Profession | Regulated | Recognition needed to work |
