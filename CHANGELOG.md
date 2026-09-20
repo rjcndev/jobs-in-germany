@@ -15,19 +15,19 @@ frame is employment status and enforcement rather than recognition.
 
 **Profession profiles**
 
-- *healthcare* (9) — Hebamme (the 2020 academisation), Psychotherapeut (the 2020 reform and
+- *healthcare* (8) — Hebamme (the 2020 academisation), Psychotherapeut (the 2020 reform and
   the Kassensitz), Zahnarzt, MFA, PTA, Pflegefachassistenz, ATA/OTA (regulated only since
   2022), Logopädie und Ergotherapie as one file
 - *engineering* (2) — **Architekt** and Bauzeichner
 - *education* (1) — Sozialarbeiter
 - *logistics* (3) — Triebfahrzeugführer, Pilot, Fluglotse
-- *skilled-trades* (6) — the Bauhauptgewerbe cluster: Maurer, Dachdecker, Zimmerer,
+- *skilled-trades* (7) — the Bauhauptgewerbe cluster: Maurer, Dachdecker, Zimmerer,
   Gerüstbauer, Straßenbauer und Beton-/Stahlbetonbauer — plus Raumausstatter and
   Fliesenleger as the **2020 re-regulation** case studies
 - *industrial* (1) — the remaining Elektroniker Fachrichtungen and Industrieelektriker
 - *services* (5) — Gebäudereiniger, Reinigungskraft, Haushaltshilfe, Wissenschaftliche/r
   Mitarbeiter/in, Fachkraft für Veranstaltungstechnik
-- *green* (7) — Landwirt (with the 70-day rule), Gärtner, Winzer, Tierwirt, Pferdewirt,
+- *green* (8) — Landwirt (with the 70-day rule), Gärtner, Winzer, Tierwirt, Pferdewirt,
   Fachkraft Agrarservice, Fischwirt, Hauswirtschafter
 - *commercial* (4) — Immobilienkaufmann, Versicherungen und Finanzanlagen,
   Wirtschaftsprüfer, Notar
