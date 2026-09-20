@@ -57,6 +57,7 @@ difficulty.
 | [Bäcker/in](../jobs/skilled-trades/baecker-in.md) | €2,400 – €3,000 | €2,900 – €3,500 | €3,500 – €4,500 (Meister) |
 | [Koch / Köchin](../jobs/hospitality/koch-koechin.md) | €2,400 – €2,900 | €2,900 – €3,500 | €3,800 – €5,500 (Küchenchef) |
 | [Hotelfachmann/-frau](../jobs/hospitality/hotelfachmann-frau.md) | €2,300 – €2,900 | €2,900 – €3,500 | €4,500 – €8,000+ (hotel mgmt) |
+| [Friseur/in](../jobs/skilled-trades/friseur-in.md) | €2,300 – €2,800 | €2,600 – €3,200 | €3,000 – €4,000 (Meister) |
 
 Self-employment ceilings are excluded because they are not comparable: a Steuerberater with
 their own practice, a Meister with a well-run Betrieb, or a practice-owning physiotherapist

@@ -74,6 +74,7 @@ Two mechanisms worth knowing independently of route:
 | [Tischler/in — Schreiner/in](../jobs/skilled-trades/tischler-in.md) | §18a or §16a | No | Handwerkskammer equivalence; search **both** titles, they are regional variants |
 | [Fleischer/in — Metzger/in](../jobs/skilled-trades/fleischer-in.md) | §18a or §16a | No | **Three** regional titles; check whether a vacancy is Handwerk or industrial |
 | [Bäcker/in](../jobs/skilled-trades/baecker-in.md) | §18a or §16a | No | Low language bar makes it a realistic entry occupation |
+| [Friseur/in](../jobs/skilled-trades/friseur-in.md) | §18a or §16a | No | Handwerkskammer equivalence; **Stuhlmiete needs Handwerksrolle entry** |
 | [Konditor/in](../jobs/skilled-trades/konditor-in.md) | §18a or §16a | No | Patisserie skill transfers internationally better than most trades here |
 | [Fachinformatiker/in](../jobs/it/fachinformatiker-in.md) | **§16a** | Not without a degree | Train here, paid, at B1–B2 German |
 | [Hotelfachmann/-frau](../jobs/hospitality/hotelfachmann-frau.md) | §18a, **§26(2) BeschV**, §16a | No | Westbalkanregelung heavily used in the sector |

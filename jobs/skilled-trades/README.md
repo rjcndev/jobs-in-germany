@@ -49,6 +49,7 @@ load-bearing structure. These rarely transfer from abroad and are often the real
 - [Kraftfahrzeugmechatroniker/in](kraftfahrzeugmechatroniker-in.md)
 - [Metallbauer/in](metallbauer-in.md)
 - [Tischler/in — Schreiner/in](tischler-in.md)
+- [Friseur/in](friseur-in.md)
 
 ### Nahrungsmittelhandwerk
 

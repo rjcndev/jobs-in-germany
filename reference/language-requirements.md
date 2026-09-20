@@ -61,6 +61,7 @@ vary in what they accept — check with the specific body, not with a general li
 | [Kfz-Mechatroniker/in](../jobs/skilled-trades/kraftfahrzeugmechatroniker-in.md) | None to be employed | **B1–B2** | Diagnostic software and manufacturer documentation are in German |
 | [Forstwirt/in](../jobs/green/forstwirt-in.md) | None | **B1–B2** | Felling coordination and emergency communication — a misunderstanding is not harmless |
 | [Metallbauer/in](../jobs/skilled-trades/metallbauer-in.md) | None to be employed | **B2** | In customers' buildings daily — more language-dependent than the industrial metal trades |
+| [Friseur/in](../jobs/skilled-trades/friseur-in.md) | None to be employed | **B2** | **The highest language bar at the lowest pay in this repo** — consultation is the work |
 | [Tischler/in — Schreiner/in](../jobs/skilled-trades/tischler-in.md) | None to be employed | **B2** | Measuring and agreeing changes in customers' homes |
 | [Konditor/in](../jobs/skilled-trades/konditor-in.md) | None to be employed | **B1–B2** | B1 for production; B2 for occasion-cake consultations |
 | [Fleischer/in — Metzger/in](../jobs/skilled-trades/fleischer-in.md) | None to be employed | **B1–B2** | More needed in a counter-facing role |
@@ -73,7 +74,9 @@ vary in what they accept — check with the specific body, not with a general li
 
 ## Patterns worth noticing
 
-**Language difficulty does not track pay.** Steuerfachangestellte,
+**Language difficulty does not track pay.** [Friseur/in](../jobs/skilled-trades/friseur-in.md)
+is the extreme case — the lowest entry pay in the repo and a B2 requirement, because
+consultation *is* the work. Steuerfachangestellte,
 Rechtsanwaltsfachangestellte and Erzieher/in all demand C1 at mid-range salaries, while software development pays the most and can require
 no German at all. If German is your constraint, this table is a better guide to what to
 aim at than any salary table.

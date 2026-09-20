@@ -107,6 +107,7 @@ See the [sector overview](jobs/skilled-trades/README.md) for the Anlage A rule: 
 | [Fleischer/in — Metzger/in](jobs/skilled-trades/fleischer-in.md) | Self-employment only | No to be employed; yes to run a business |
 | [Bäcker/in](jobs/skilled-trades/baecker-in.md) | Self-employment only | No to be employed; yes to run a business |
 | [Konditor/in](jobs/skilled-trades/konditor-in.md) | Self-employment only | No to be employed; yes to run a business |
+| [Friseur/in](jobs/skilled-trades/friseur-in.md) | Self-employment only | No to be employed; **Stuhlmiete counts as self-employment** |
 
 ### commercial
 | Profession | Regulated | Recognition needed to work |
