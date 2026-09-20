@@ -43,6 +43,21 @@ if pay.exists():
         if a[1] < b[1]:
             note(f"pay.md: out of order — {a[0]} ({a[1]}) before {b[0]} ({b[1]})")
 
+# 3b. every markdown table has a consistent column count
+for f in sorted(root.rglob('*.md')):
+    lines = f.read_text().split('\n')
+    i = 0
+    while i < len(lines):
+        if lines[i].startswith('|') and i + 1 < len(lines) and set(lines[i+1].replace('|', '').replace(' ', '')) <= set('-:') and '-' in lines[i+1]:
+            width = lines[i].count('|')
+            for j in range(i, len(lines)):
+                if not lines[j].startswith('|'):
+                    break
+                if lines[j].count('|') != width:
+                    note(f"{f.relative_to(root)}:{j+1}: table row has {lines[j].count('|')} pipes, header has {width}")
+            i = j
+        i += 1
+
 # 4. every profession file carries a Last reviewed date
 for p in sorted(root.glob('jobs/*/*.md')):
     if p.name == 'README.md':

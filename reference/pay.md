@@ -7,7 +7,10 @@ files — if the two disagree, the profession file is the source of truth.
 everything else is a market estimate. The two are separated in [reliability of these
 figures](#reliability-of-these-figures) — read it before treating any row as precise.
 
-**All figures are gross monthly (brutto), 2026, full-time.** The IT and engineering files
+**All figures are gross monthly (brutto), 2026, full-time**, with an annual column derived
+as ×12. That conversion is conservative — see
+[what this table does not show](#what-this-table-does-not-show) for the 13th-month payments
+it omits. The IT and engineering files
 quote annual salaries because that is how those sectors negotiate; they are converted to
 monthly here at ÷12 so the comparison works. See [what this table does not
 show](#what-this-table-does-not-show) before drawing conclusions — the conversion is not as
@@ -19,52 +22,52 @@ Sorted by entry-level midpoint. Ranked this way, the table mostly reflects *cred
 length* — six years of medicine, a degree, a three-year Ausbildung — rather than skill or
 difficulty.
 
-| Profession | Entry | Experienced | Ceiling (employed) |
-|---|---|---|---|
-| [Arzt / Ärztin](../jobs/healthcare/arzt-aerztin.md) | €5,722 – €6,046 | €6,680 – €7,158 | €9,460 – €10,811 (Oberarzt) |
-| [Lehrer/in](../jobs/education/lehrer-in.md) — verbeamtet | €4,505 – €5,221 | €5,771 – €6,381 | €6,356 – €7,906 (Schulleitung) |
-| [Ingenieur/in](../jobs/engineering/ingenieur-in.md) | €4,330 – €5,170 | €5,420 – €6,670 | €8,330+ (senior/lead) |
-| [Softwareentwickler/in](../jobs/it/softwareentwickler-in.md) | €4,170 – €5,170 | €5,420 – €6,830 | €9,170 – €11,670 (staff) |
-| [Apotheker/in](../jobs/healthcare/apotheker-in.md) | €4,166 – €4,236 | €4,528 – €4,922 | €4,901 – €7,552 (hospital EG 13–14) |
-| [Notfallsanitäter/in](../jobs/healthcare/notfallsanitaeter-in.md) | €3,701 – €3,863 | €4,076 – €4,489 | €3,780 – €5,753 (Wachleitung) |
-| [MT / MTA](../jobs/healthcare/medizinische-technologin-mt-mta.md) | €3,659 – €3,878 | €4,098 – €4,587 | €4,697 – €4,980 |
-| [Mechatroniker/in](../jobs/industrial/mechatroniker-in.md) | €3,400 – €4,000 | €4,000 – €4,800 | €4,800 – €6,000 (Meister/Techniker) |
-| [Erzieher/in](../jobs/education/erzieher-in.md) | €3,509 – €3,738 | €4,207 – €4,669 | €3,649 – €6,963 (Kita-Leitung) |
-| [Pflegefachfrau/-mann](../jobs/healthcare/pflegefachfrau-pflegefachmann.md) | €3,510 – €3,701 | €3,998 – €4,305 | €3,992 – €4,961 (specialist) |
-| [Elektroniker/in Betriebstechnik](../jobs/industrial/elektroniker-in-betriebstechnik.md) | €3,300 – €3,900 | €3,900 – €4,700 | €5,500 – €6,800 (Instandhaltungsleitung) |
-| [Industriemechaniker/in](../jobs/industrial/industriemechaniker-in.md) | €3,300 – €3,900 | €3,900 – €4,700 | €5,500 – €6,800 (Instandhaltungsleitung) |
-| [Zerspanungsmechaniker/in](../jobs/industrial/zerspanungsmechaniker-in.md) | €3,300 – €3,900 | €3,900 – €4,800 | €4,700 – €5,800 (Meister/Techniker) |
-| [Werkzeugmechaniker/in](../jobs/industrial/werkzeugmechaniker-in.md) | €3,300 – €3,900 | €4,000 – €4,900 | €5,500 – €7,000 (Werkzeugbauleitung) |
-| [Industriekaufmann/-frau](../jobs/commercial/industriekaufmann-frau.md) | €3,200 – €4,000 | €4,000 – €5,000 | €6,000+ |
-| [Polizist/in](../jobs/public-service/polizist-in.md) — verbeamtet | €3,438 – €3,694 | €4,048 – €4,784 | €5,221 – €6,381 (A 13) |
-| [Konstruktionsmechaniker/in](../jobs/industrial/konstruktionsmechaniker-in.md) | €3,200 – €3,800 | €3,800 – €4,600 | €4,700 – €5,800 (Meister/Techniker) |
-| [Bankkaufmann/-frau](../jobs/commercial/bankkaufmann-frau.md) | €3,200 – €3,800 | €3,900 – €5,000 | €5,500 – €8,000 (branch mgmt) |
-| [Fachinformatiker/in](../jobs/it/fachinformatiker-in.md) | €3,170 – €3,830 | €4,000 – €5,000 | €5,000 – €6,250+ |
-| [Feuerwehrmann / Feuerwehrfrau](../jobs/public-service/feuerwehrmann-frau.md) — verbeamtet | €3,216 – €3,438 | €3,694 – €4,295 | €4,505 – €6,381 (A 12–13) |
-| [Forstwirt/in](../jobs/green/forstwirt-in.md) | €3,124 – €3,318 | €3,681 – €4,045 | €4,980 (Forstwirtschaftsmeister) |
-| [Zollbeamte/r](../jobs/public-service/zollbeamte-r.md) — verbeamtet | €2,918 – €3,455 | €3,683 – €4,918 | €5,198 – €6,621 (A 13) |
-| [Steuerfachangestellte/r](../jobs/commercial/steuerfachangestellte-r.md) | €2,800 – €3,400 | €3,500 – €4,500 | **€5,500 – €8,000** (Steuerberater) |
-| [Spedition und Logistik](../jobs/logistics/kaufmann-frau-spedition-logistikdienstleistung.md) | €2,800 – €3,400 | €3,400 – €4,300 | €5,500 – €8,000 (branch mgmt) |
-| [Elektroniker/in EGT](../jobs/skilled-trades/elektroniker-in-energie-und-gebaeudetechnik.md) | €2,800 – €3,300 | €3,300 – €4,000 | €4,000 – €5,000 (Meister) |
-| [Fachkraft für Schutz und Sicherheit](../jobs/security/fachkraft-fuer-schutz-und-sicherheit.md) | €2,700 – €3,400 | €3,100 – €3,900 | €4,000 – €5,200 (Meister) |
-| [Anlagenmechaniker/in SHK](../jobs/skilled-trades/anlagenmechaniker-in-shk.md) | €2,700 – €3,200 | €3,200 – €3,900 | €3,900 – €4,900 (Meister) |
-| [Metallbauer/in](../jobs/skilled-trades/metallbauer-in.md) | €2,700 – €3,200 | €3,200 – €3,900 | €4,000 – €5,000 (Meister) |
-| [Berufskraftfahrer/in](../jobs/logistics/berufskraftfahrer-in.md) | €2,600 – €3,300 | €3,000 – €3,800 | €3,400 – €4,500 (ADR/heavy) |
-| [Kfz-Mechatroniker/in](../jobs/skilled-trades/kraftfahrzeugmechatroniker-in.md) | €2,600 – €3,200 | €3,200 – €3,900 | €4,000 – €5,000 (Meister) |
-| [Fleischer/in — Metzger/in](../jobs/skilled-trades/fleischer-in.md) | €2,600 – €3,200 | €3,100 – €3,800 | €3,900 – €4,900 (Meister) |
-| [Tischler/in — Schreiner/in](../jobs/skilled-trades/tischler-in.md) | €2,600 – €3,100 | €3,100 – €3,800 | €3,900 – €4,900 (Meister) |
-| [Fachkraft für Lagerlogistik](../jobs/logistics/fachkraft-fuer-lagerlogistik.md) | €2,600 – €3,100 | €3,100 – €3,700 | €4,200 – €5,500 (Meister) |
-| [Physiotherapeut/in](../jobs/healthcare/physiotherapeut-in.md) | €2,600 – €3,000 | €3,000 – €3,600 | €3,295 – €4,980 (public sector) |
-| [Kaufmann/-frau für Büromanagement](../jobs/commercial/kaufmann-frau-fuer-bueromanagement.md) | €2,500 – €3,000 | €3,000 – €3,700 | €3,300 – €4,200 (tariff industry) |
-| [Konditor/in](../jobs/skilled-trades/konditor-in.md) | €2,400 – €3,100 | €3,000 – €3,700 | €3,600 – €4,600 (Meister) |
-| [Rechtsanwaltsfachangestellte/r](../jobs/commercial/rechtsanwaltsfachangestellte-r.md) | €2,400 – €3,000 | €3,000 – €3,800 | €4,500 – €6,000 (Bürovorsteher) |
-| [Bäcker/in](../jobs/skilled-trades/baecker-in.md) | €2,400 – €3,000 | €2,900 – €3,500 | €3,500 – €4,500 (Meister) |
-| [Restaurant- und Veranstaltungsgastronomie](../jobs/hospitality/fachmann-frau-restaurants-veranstaltungsgastronomie.md) | €2,400 – €3,000 | €2,900 – €3,500 | €3,300 – €4,300 (Restaurantleitung) |
-| [Koch / Köchin](../jobs/hospitality/koch-koechin.md) | €2,400 – €2,900 | €2,900 – €3,500 | €3,800 – €5,500 (Küchenchef) |
-| [Hotelfachmann/-frau](../jobs/hospitality/hotelfachmann-frau.md) | €2,300 – €2,900 | €2,900 – €3,500 | €4,500 – €8,000+ (hotel mgmt) |
-| [Barkeeper/in](../jobs/hospitality/barkeeper-in.md) | €2,300 – €2,900 | €2,700 – €3,400 | €3,200 – €4,200 (Bar manager) |
-| [Friseur/in](../jobs/skilled-trades/friseur-in.md) | €2,300 – €2,800 | €2,600 – €3,200 | €3,000 – €4,000 (Meister) |
-| [Sicherheitsmitarbeiter/in](../jobs/security/sicherheitsmitarbeiter-in.md) | €2,200 – €2,800 | €2,400 – €3,100 | €3,300 – €4,300 (Objektleitung) |
+| Profession | Entry | Experienced | Ceiling (employed) | Annual, entry (×12) |
+|---|---|---|---|---|
+| [Arzt / Ärztin](../jobs/healthcare/arzt-aerztin.md) | €5,722 – €6,046 | €6,680 – €7,158 | €9,460 – €10,811 (Oberarzt) | €68,664 – €72,552 |
+| [Lehrer/in](../jobs/education/lehrer-in.md) — verbeamtet | €4,505 – €5,221 | €5,771 – €6,381 | €6,356 – €7,906 (Schulleitung) | €54,060 – €62,652 |
+| [Ingenieur/in](../jobs/engineering/ingenieur-in.md) | €4,330 – €5,170 | €5,420 – €6,670 | €8,330+ (senior/lead) | €51,960 – €62,040 |
+| [Softwareentwickler/in](../jobs/it/softwareentwickler-in.md) | €4,170 – €5,170 | €5,420 – €6,830 | €9,170 – €11,670 (staff) | €50,040 – €62,040 |
+| [Apotheker/in](../jobs/healthcare/apotheker-in.md) | €4,166 – €4,236 | €4,528 – €4,922 | €4,901 – €7,552 (hospital EG 13–14) | €49,992 – €50,832 |
+| [Notfallsanitäter/in](../jobs/healthcare/notfallsanitaeter-in.md) | €3,701 – €3,863 | €4,076 – €4,489 | €3,780 – €5,753 (Wachleitung) | €44,412 – €46,356 |
+| [MT / MTA](../jobs/healthcare/medizinische-technologin-mt-mta.md) | €3,659 – €3,878 | €4,098 – €4,587 | €4,697 – €4,980 | €43,908 – €46,536 |
+| [Mechatroniker/in](../jobs/industrial/mechatroniker-in.md) | €3,400 – €4,000 | €4,000 – €4,800 | €4,800 – €6,000 (Meister/Techniker) | €40,800 – €48,000 |
+| [Erzieher/in](../jobs/education/erzieher-in.md) | €3,509 – €3,738 | €4,207 – €4,669 | €3,649 – €6,963 (Kita-Leitung) | €42,108 – €44,856 |
+| [Pflegefachfrau/-mann](../jobs/healthcare/pflegefachfrau-pflegefachmann.md) | €3,510 – €3,701 | €3,998 – €4,305 | €3,992 – €4,961 (specialist) | €42,120 – €44,412 |
+| [Elektroniker/in Betriebstechnik](../jobs/industrial/elektroniker-in-betriebstechnik.md) | €3,300 – €3,900 | €3,900 – €4,700 | €5,500 – €6,800 (Instandhaltungsleitung) | €39,600 – €46,800 |
+| [Industriemechaniker/in](../jobs/industrial/industriemechaniker-in.md) | €3,300 – €3,900 | €3,900 – €4,700 | €5,500 – €6,800 (Instandhaltungsleitung) | €39,600 – €46,800 |
+| [Zerspanungsmechaniker/in](../jobs/industrial/zerspanungsmechaniker-in.md) | €3,300 – €3,900 | €3,900 – €4,800 | €4,700 – €5,800 (Meister/Techniker) | €39,600 – €46,800 |
+| [Werkzeugmechaniker/in](../jobs/industrial/werkzeugmechaniker-in.md) | €3,300 – €3,900 | €4,000 – €4,900 | €5,500 – €7,000 (Werkzeugbauleitung) | €39,600 – €46,800 |
+| [Industriekaufmann/-frau](../jobs/commercial/industriekaufmann-frau.md) | €3,200 – €4,000 | €4,000 – €5,000 | €6,000+ | €38,400 – €48,000 |
+| [Polizist/in](../jobs/public-service/polizist-in.md) — verbeamtet | €3,438 – €3,694 | €4,048 – €4,784 | €5,221 – €6,381 (A 13) | €41,256 – €44,328 |
+| [Konstruktionsmechaniker/in](../jobs/industrial/konstruktionsmechaniker-in.md) | €3,200 – €3,800 | €3,800 – €4,600 | €4,700 – €5,800 (Meister/Techniker) | €38,400 – €45,600 |
+| [Bankkaufmann/-frau](../jobs/commercial/bankkaufmann-frau.md) | €3,200 – €3,800 | €3,900 – €5,000 | €5,500 – €8,000 (branch mgmt) | €38,400 – €45,600 |
+| [Fachinformatiker/in](../jobs/it/fachinformatiker-in.md) | €3,170 – €3,830 | €4,000 – €5,000 | €5,000 – €6,250+ | €38,040 – €45,960 |
+| [Feuerwehrmann / Feuerwehrfrau](../jobs/public-service/feuerwehrmann-frau.md) — verbeamtet | €3,216 – €3,438 | €3,694 – €4,295 | €4,505 – €6,381 (A 12–13) | €38,592 – €41,256 |
+| [Forstwirt/in](../jobs/green/forstwirt-in.md) | €3,124 – €3,318 | €3,681 – €4,045 | €4,980 (Forstwirtschaftsmeister) | €37,488 – €39,816 |
+| [Zollbeamte/r](../jobs/public-service/zollbeamte-r.md) — verbeamtet | €2,918 – €3,455 | €3,683 – €4,918 | €5,198 – €6,621 (A 13) | €35,016 – €41,460 |
+| [Steuerfachangestellte/r](../jobs/commercial/steuerfachangestellte-r.md) | €2,800 – €3,400 | €3,500 – €4,500 | **€5,500 – €8,000** (Steuerberater) | €33,600 – €40,800 |
+| [Spedition und Logistik](../jobs/logistics/kaufmann-frau-spedition-logistikdienstleistung.md) | €2,800 – €3,400 | €3,400 – €4,300 | €5,500 – €8,000 (branch mgmt) | €33,600 – €40,800 |
+| [Elektroniker/in EGT](../jobs/skilled-trades/elektroniker-in-energie-und-gebaeudetechnik.md) | €2,800 – €3,300 | €3,300 – €4,000 | €4,000 – €5,000 (Meister) | €33,600 – €39,600 |
+| [Fachkraft für Schutz und Sicherheit](../jobs/security/fachkraft-fuer-schutz-und-sicherheit.md) | €2,700 – €3,400 | €3,100 – €3,900 | €4,000 – €5,200 (Meister) | €32,400 – €40,800 |
+| [Anlagenmechaniker/in SHK](../jobs/skilled-trades/anlagenmechaniker-in-shk.md) | €2,700 – €3,200 | €3,200 – €3,900 | €3,900 – €4,900 (Meister) | €32,400 – €38,400 |
+| [Metallbauer/in](../jobs/skilled-trades/metallbauer-in.md) | €2,700 – €3,200 | €3,200 – €3,900 | €4,000 – €5,000 (Meister) | €32,400 – €38,400 |
+| [Berufskraftfahrer/in](../jobs/logistics/berufskraftfahrer-in.md) | €2,600 – €3,300 | €3,000 – €3,800 | €3,400 – €4,500 (ADR/heavy) | €31,200 – €39,600 |
+| [Kfz-Mechatroniker/in](../jobs/skilled-trades/kraftfahrzeugmechatroniker-in.md) | €2,600 – €3,200 | €3,200 – €3,900 | €4,000 – €5,000 (Meister) | €31,200 – €38,400 |
+| [Fleischer/in — Metzger/in](../jobs/skilled-trades/fleischer-in.md) | €2,600 – €3,200 | €3,100 – €3,800 | €3,900 – €4,900 (Meister) | €31,200 – €38,400 |
+| [Tischler/in — Schreiner/in](../jobs/skilled-trades/tischler-in.md) | €2,600 – €3,100 | €3,100 – €3,800 | €3,900 – €4,900 (Meister) | €31,200 – €37,200 |
+| [Fachkraft für Lagerlogistik](../jobs/logistics/fachkraft-fuer-lagerlogistik.md) | €2,600 – €3,100 | €3,100 – €3,700 | €4,200 – €5,500 (Meister) | €31,200 – €37,200 |
+| [Physiotherapeut/in](../jobs/healthcare/physiotherapeut-in.md) | €2,600 – €3,000 | €3,000 – €3,600 | €3,295 – €4,980 (public sector) | €31,200 – €36,000 |
+| [Kaufmann/-frau für Büromanagement](../jobs/commercial/kaufmann-frau-fuer-bueromanagement.md) | €2,500 – €3,000 | €3,000 – €3,700 | €3,300 – €4,200 (tariff industry) | €30,000 – €36,000 |
+| [Konditor/in](../jobs/skilled-trades/konditor-in.md) | €2,400 – €3,100 | €3,000 – €3,700 | €3,600 – €4,600 (Meister) | €28,800 – €37,200 |
+| [Rechtsanwaltsfachangestellte/r](../jobs/commercial/rechtsanwaltsfachangestellte-r.md) | €2,400 – €3,000 | €3,000 – €3,800 | €4,500 – €6,000 (Bürovorsteher) | €28,800 – €36,000 |
+| [Bäcker/in](../jobs/skilled-trades/baecker-in.md) | €2,400 – €3,000 | €2,900 – €3,500 | €3,500 – €4,500 (Meister) | €28,800 – €36,000 |
+| [Restaurant- und Veranstaltungsgastronomie](../jobs/hospitality/fachmann-frau-restaurants-veranstaltungsgastronomie.md) | €2,400 – €3,000 | €2,900 – €3,500 | €3,300 – €4,300 (Restaurantleitung) | €28,800 – €36,000 |
+| [Koch / Köchin](../jobs/hospitality/koch-koechin.md) | €2,400 – €2,900 | €2,900 – €3,500 | €3,800 – €5,500 (Küchenchef) | €28,800 – €34,800 |
+| [Hotelfachmann/-frau](../jobs/hospitality/hotelfachmann-frau.md) | €2,300 – €2,900 | €2,900 – €3,500 | €4,500 – €8,000+ (hotel mgmt) | €27,600 – €34,800 |
+| [Barkeeper/in](../jobs/hospitality/barkeeper-in.md) | €2,300 – €2,900 | €2,700 – €3,400 | €3,200 – €4,200 (Bar manager) | €27,600 – €34,800 |
+| [Friseur/in](../jobs/skilled-trades/friseur-in.md) | €2,300 – €2,800 | €2,600 – €3,200 | €3,000 – €4,000 (Meister) | €27,600 – €33,600 |
+| [Sicherheitsmitarbeiter/in](../jobs/security/sicherheitsmitarbeiter-in.md) | €2,200 – €2,800 | €2,400 – €3,100 | €3,300 – €4,300 (Objektleitung) | €26,400 – €33,600 |
 
 Self-employment ceilings are excluded because they are not comparable: a Steuerberater with
 their own practice, a Meister with a well-run Betrieb, or a practice-owning physiotherapist
@@ -156,12 +159,22 @@ untaxed, so they are worth far more than the same amount of gross salary. Tips i
 [hospitality](../jobs/hospitality/koch-koechin.md) are tax-free without limit under §3
 Nr. 51 EStG. Compare on *net including these*, not on gross.
 
-**3. The ÷12 conversion understates tariff employment.** Tariff-bound employers —
-IG Metall, TVöD, IG BCE — typically pay a **13th-month payment** plus holiday pay, so
-annual income is roughly 13× monthly, not 12×. The IT and engineering figures here were
-converted from annual at ÷12, and those annual numbers often already include a bonus. Net
-effect: **tariff professions in this table are undervalued relative to the IT and
-engineering rows by roughly 8%.**
+**3. The annual column is ×12, and that is deliberately conservative.** Many employers pay a
+13th-month equivalent on top, so real annual income exceeds the figure shown. What to add:
+
+| Employer type | On top of ×12 |
+|---|---|
+| **TVöD** (verified 2026) | **Jahressonderzahlung: 85% of a month for EG 1–8, 70.28% for EG 9a–12, 51.78% for EG 13–15** |
+| **IG Metall / IG BCE** | A 13th-month payment **plus** holiday pay — the largest uplift here |
+| **ADEXA/ADA** ([pharmacy](../jobs/healthcare/apotheker-in.md)) | A full month, paid in November — though it may be halved where the pharmacy's result falls 10% below the prior year |
+| **Beamte** ([police](../jobs/public-service/polizist-in.md), [fire](../jobs/public-service/feuerwehrmann-frau.md), [customs](../jobs/public-service/zollbeamte-r.md), [teachers](../jobs/education/lehrer-in.md)) | Usually **nothing** — most Länder abolished the Sonderzahlung or folded it into the monthly tables |
+| Non-tariff private employers | Often nothing, or a discretionary bonus |
+
+Two consequences. **Tariff professions are understated by the annual column by up to
+roughly 8%**, while Beamte largely are not — so the gap between them is wider than ×12
+suggests. And the IT and engineering rows were themselves converted *from* annual figures
+that often already included a bonus, so they are the rows least likely to gain anything
+further.
 
 **4. Gross differences compress heavily after tax.** German income tax is steeply
 progressive and social contributions are substantial. As a rough guide, net is around
