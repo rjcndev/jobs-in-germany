@@ -112,18 +112,17 @@ repo currently implies it only ever tightens.
 |---|---|
 | **Gebäudereiniger/in** | **The largest Handwerk trade by headcount**, and absent entirely. Anlage B1, so no Meisterpflicht — a useful contrast with the Anlage A trades. Has its own **AEntG-declared Mindestlohn** above the statutory one, and is the sector where outsourcing, minimum-wage compliance and migrant labour intersect most visibly. The [hotel file](jobs/hospitality/hotelfachmann-frau.md) already gestures at this when it warns that housekeeping is usually contracted out. |
 
-**Cleaning needs three entries, not one.** "Putzfrau" is colloquial and covers three legally
-distinct situations that the repo would otherwise conflate. It also breaks the usual file
-shape: for two of the three there is **no qualification, so no recognition and no
-equivalence step** — the frame becomes employment status, minimum wage and enforcement
-instead. Neutral titles are **Reinigungskraft** and **Raumpfleger/in**; note the colloquial
-term the way the repo already notes Lehrling and MTA.
+**Cleaning needs three entries, not one.** The work covers three legally distinct
+situations that the repo would otherwise conflate. It also breaks the usual file shape: for
+two of the three there is **no qualification, so no recognition and no equivalence step** —
+the frame becomes employment status, minimum wage and enforcement instead. The titles to use
+are **Gebäudereiniger/in**, **Reinigungskraft** and **Raumpfleger/in**.
 
 | Tier | What it actually is |
 |---|---|
 | **Gebäudereiniger/in** | The skilled trade above — 3-year Ausbildung, IHK/HWK exam, Anlage B1. A real profession with a career ladder to Objektleitung and Meister. |
 | **Reinigungskraft** (commercial) | **No qualification.** Employed by cleaning contractors, paid the AEntG Gebäudereiniger minimum, frequently part-time, Minijob or Leiharbeit. This is most of the sector by headcount and one of the most common first jobs for new arrivals — which is exactly why it deserves an honest file rather than omission. |
-| **Haushaltshilfe** (private household) | The narrowest sense of "Putzfrau", and the one with a genuine legal story: **the overwhelming majority of domestic cleaning in Germany is undeclared.** The legal route is the **Haushaltsscheck** via the Minijob-Zentrale, and **§35a EStG** lets the household deduct a share of the cost from its tax — which makes declaring it far cheaper than most people assume. Worth writing precisely because the default is Schwarzarbeit, with no accident cover, no pension credit and no sick pay for the worker. |
+| **Haushaltshilfe** (private household) | The narrowest case, and the one with a genuine legal story: **the overwhelming majority of domestic cleaning in Germany is undeclared.** The legal route is the **Haushaltsscheck** via the Minijob-Zentrale, and **§35a EStG** lets the household deduct a share of the cost from its tax — which makes declaring it far cheaper than most people assume. Worth writing precisely because the default is Schwarzarbeit, with no accident cover, no pension credit and no sick pay for the worker. |
 | **Fachkraft für Schutz und Sicherheit** | A **third instance of activity-gating**: §34a GewO requires a Sachkundeprüfung and reliability check to work in security at all, regardless of job title — after [Bankkaufmann](jobs/commercial/bankkaufmann-frau.md) (BaFin) and [Berufskraftfahrer](jobs/logistics/berufskraftfahrer-in.md) (licence). Three cases is enough to promote the pattern from a footnote to its own README section. |
 | **Landwirt/in** | Agriculture runs on **Saisonarbeitskräfte** under the 70-day short-term employment rule — a labour model with no parallel elsewhere in the repo, and a documented history of enforcement problems. |
 | **Wissenschaftliche/r Mitarbeiter/in** | The **WissZeitVG** permits serial fixed-term contracts for years, and German academia is built on them. A well-known structural feature that anyone considering a research career in Germany should read before committing. |
