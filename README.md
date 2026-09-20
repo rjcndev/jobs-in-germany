@@ -156,6 +156,7 @@ See the [sector overview](jobs/skilled-trades/README.md) for the Anlage A rule: 
 | [Kraftfahrzeugmechatroniker/in](jobs/skilled-trades/kraftfahrzeugmechatroniker-in.md) | Self-employment only | No to be employed; **HV work is separately gated** |
 | [Metallbauer/in](jobs/skilled-trades/metallbauer-in.md) | Self-employment only | No to be employed; yes to run a business |
 | [Maurer/in](jobs/skilled-trades/maurer-in.md) | Self-employment only | No to be employed; **and read the Bauhauptgewerbe reference first** |
+| [Dachdecker/in](jobs/skilled-trades/dachdecker-in.md) | Self-employment only | No to be employed; **own sector fund (SOKA-DACH), not SOKA-BAU** |
 | [Tischler/in — Schreiner/in](jobs/skilled-trades/tischler-in.md) | Self-employment only | No to be employed; yes to run a business |
 | [Fleischer/in — Metzger/in](jobs/skilled-trades/fleischer-in.md) | Self-employment only | No to be employed; yes to run a business |
 | [Bäcker/in](jobs/skilled-trades/baecker-in.md) | Self-employment only | No to be employed; yes to run a business |

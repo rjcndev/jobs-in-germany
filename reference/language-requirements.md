@@ -81,6 +81,7 @@ vary in what they accept — check with the specific body, not with a general li
 | [Forstwirt/in](../jobs/green/forstwirt-in.md) | None | **B1–B2** | Felling coordination and emergency communication — a misunderstanding is not harmless |
 | [Metallbauer/in](../jobs/skilled-trades/metallbauer-in.md) | None to be employed | **B2** | In customers' buildings daily — more language-dependent than the industrial metal trades |
 | [Maurer/in](../jobs/skilled-trades/maurer-in.md) | None to be employed | **B1–B2** | Site instruction and safety briefings; the Bau Berufsschule is unadapted German |
+| [Dachdecker/in](../jobs/skilled-trades/dachdecker-in.md) | None to be employed | **B1–B2** | Safety coordination at height, and constant customer contact on domestic roofs |
 | [Friseur/in](../jobs/skilled-trades/friseur-in.md) | None to be employed | **B2** | **The highest language bar at the lowest pay in this repo** — consultation is the work |
 | [Tischler/in — Schreiner/in](../jobs/skilled-trades/tischler-in.md) | None to be employed | **B2** | Measuring and agreeing changes in customers' homes |
 | [Konditor/in](../jobs/skilled-trades/konditor-in.md) | None to be employed | **B1–B2** | B1 for production; B2 for occasion-cake consultations |
