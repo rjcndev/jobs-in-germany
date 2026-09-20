@@ -52,6 +52,7 @@ Two mechanisms worth knowing independently of route:
 | [Ingenieur/in](../jobs/engineering/ingenieur-in.md) | **§18g** | **Yes** | Shortage field lowers the threshold; anabin check on the degree |
 | [Architekt/in](../jobs/engineering/architekt-in.md) | **§18b** | Yes at experienced level, often not at entry pay | **Automatic EU recognition** — the only non-medical profession with it. Third-country: Architektenkammer, individually |
 | [Pilot/in](../jobs/logistics/pilot-in.md) | **No clean route** — employer-arranged permit | No | An ATPL is not a vocational qualification, so §18a fits badly; **EASA licence + EU right to work is the norm** |
+| [Fluglotse / Fluglotsin](../jobs/logistics/fluglotse-fluglotsin.md) | **No practical route** into training | No | One employer, an age limit in the mid-twenties, and a security clearance — EU right to work in practice |
 | [Industriekaufmann/-frau](../jobs/commercial/industriekaufmann-frau.md) | §18a | Possible at senior level | Degree holders can reach the threshold; entry pay cannot |
 | [Spedition und Logistikdienstleistung](../jobs/logistics/kaufmann-frau-spedition-logistikdienstleistung.md) | §18a | Specialist/management only | Most foreigner-friendly of the non-IT roles |
 | [Pflegefachfrau/-mann](../jobs/healthcare/pflegefachfrau-pflegefachmann.md) | **§16d** or **§16d(3)** | No — below threshold | Anerkennungspartnerschaft lets you enter at A2; accelerated procedure widely used |
