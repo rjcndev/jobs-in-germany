@@ -62,6 +62,9 @@ vary in what they accept — check with the specific body, not with a general li
 | [Forstwirt/in](../jobs/green/forstwirt-in.md) | None | **B1–B2** | Felling coordination and emergency communication — a misunderstanding is not harmless |
 | [Metallbauer/in](../jobs/skilled-trades/metallbauer-in.md) | None to be employed | **B2** | In customers' buildings daily — more language-dependent than the industrial metal trades |
 | [Tischler/in — Schreiner/in](../jobs/skilled-trades/tischler-in.md) | None to be employed | **B2** | Measuring and agreeing changes in customers' homes |
+| [Konditor/in](../jobs/skilled-trades/konditor-in.md) | None to be employed | **B1–B2** | B1 for production; B2 for occasion-cake consultations |
+| [Fleischer/in — Metzger/in](../jobs/skilled-trades/fleischer-in.md) | None to be employed | **B1–B2** | More needed in a counter-facing role |
+| [Bäcker/in](../jobs/skilled-trades/baecker-in.md) | None to be employed | **B1** | Production work is among the least language-dependent here |
 | [Berufskraftfahrer/in](../jobs/logistics/berufskraftfahrer-in.md) | None directly — but the **theory test** is a real gate | **B1** | Test language availability varies by authority |
 | [Koch / Köchin](../jobs/hospitality/koch-koechin.md) | None | **B1**, B2 to progress | Kitchen German is learnable on the job; HACCP paperwork is not |
 | [Fachkraft für Lagerlogistik](../jobs/logistics/fachkraft-fuer-lagerlogistik.md) | None | **A2–B1**, B2 to supervise | Lowest bar in the repo; employers must still ensure safety instruction is understood |

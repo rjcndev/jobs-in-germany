@@ -49,3 +49,15 @@ load-bearing structure. These rarely transfer from abroad and are often the real
 - [Kraftfahrzeugmechatroniker/in](kraftfahrzeugmechatroniker-in.md)
 - [Metallbauer/in](metallbauer-in.md)
 - [Tischler/in — Schreiner/in](tischler-in.md)
+
+### Nahrungsmittelhandwerk
+
+All three are Anlage A, all three need the §43 IfSG Infektionsschutz-Belehrung before first
+handling food, and all three share the same sector shape: **collapsing business numbers and
+an even faster collapse in trainee numbers**, so qualified staff are scarce inside a
+shrinking trade. Counter sales is a separate occupation in each —
+Fachverkäufer/in im Lebensmittelhandwerk.
+
+- [Fleischer/in — Metzger/in — Schlachter/in](fleischer-in.md)
+- [Bäcker/in](baecker-in.md)
+- [Konditor/in](konditor-in.md)

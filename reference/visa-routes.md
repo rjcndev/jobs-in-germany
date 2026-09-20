@@ -72,6 +72,9 @@ Two mechanisms worth knowing independently of route:
 | [Forstwirt/in](../jobs/green/forstwirt-in.md) | §18a or §16a | No | Equivalence sits with the **Landwirtschaftskammer** or a state body — a third system |
 | [Metallbauer/in](../jobs/skilled-trades/metallbauer-in.md) | §18a or §16a | No | Handwerkskammer equivalence; **self-employment needs the Meister**, unlike its industrial twin |
 | [Tischler/in — Schreiner/in](../jobs/skilled-trades/tischler-in.md) | §18a or §16a | No | Handwerkskammer equivalence; search **both** titles, they are regional variants |
+| [Fleischer/in — Metzger/in](../jobs/skilled-trades/fleischer-in.md) | §18a or §16a | No | **Three** regional titles; check whether a vacancy is Handwerk or industrial |
+| [Bäcker/in](../jobs/skilled-trades/baecker-in.md) | §18a or §16a | No | Low language bar makes it a realistic entry occupation |
+| [Konditor/in](../jobs/skilled-trades/konditor-in.md) | §18a or §16a | No | Patisserie skill transfers internationally better than most trades here |
 | [Fachinformatiker/in](../jobs/it/fachinformatiker-in.md) | **§16a** | Not without a degree | Train here, paid, at B1–B2 German |
 | [Hotelfachmann/-frau](../jobs/hospitality/hotelfachmann-frau.md) | §18a, **§26(2) BeschV**, §16a | No | Westbalkanregelung heavily used in the sector |
 | [Koch / Köchin](../jobs/hospitality/koch-koechin.md) | §18a, **§26(2) BeschV**, §16a | No | IHK FOSA recognition is mandatory for §18a — experience will not do |

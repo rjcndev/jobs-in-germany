@@ -47,11 +47,14 @@ difficulty.
 | [Metallbauer/in](../jobs/skilled-trades/metallbauer-in.md) | €2,700 – €3,200 | €3,200 – €3,900 | €4,000 – €5,000 (Meister) |
 | [Berufskraftfahrer/in](../jobs/logistics/berufskraftfahrer-in.md) | €2,600 – €3,300 | €3,000 – €3,800 | €3,400 – €4,500 (ADR/heavy) |
 | [Kfz-Mechatroniker/in](../jobs/skilled-trades/kraftfahrzeugmechatroniker-in.md) | €2,600 – €3,200 | €3,200 – €3,900 | €4,000 – €5,000 (Meister) |
+| [Fleischer/in — Metzger/in](../jobs/skilled-trades/fleischer-in.md) | €2,600 – €3,200 | €3,100 – €3,800 | €3,900 – €4,900 (Meister) |
 | [Tischler/in — Schreiner/in](../jobs/skilled-trades/tischler-in.md) | €2,600 – €3,100 | €3,100 – €3,800 | €3,900 – €4,900 (Meister) |
 | [Fachkraft für Lagerlogistik](../jobs/logistics/fachkraft-fuer-lagerlogistik.md) | €2,600 – €3,100 | €3,100 – €3,700 | €4,200 – €5,500 (Meister) |
 | [Physiotherapeut/in](../jobs/healthcare/physiotherapeut-in.md) | €2,600 – €3,000 | €3,000 – €3,600 | €3,295 – €4,980 (public sector) |
 | [Kaufmann/-frau für Büromanagement](../jobs/commercial/kaufmann-frau-fuer-bueromanagement.md) | €2,500 – €3,000 | €3,000 – €3,700 | €3,300 – €4,200 (tariff industry) |
+| [Konditor/in](../jobs/skilled-trades/konditor-in.md) | €2,400 – €3,100 | €3,000 – €3,700 | €3,600 – €4,600 (Meister) |
 | [Rechtsanwaltsfachangestellte/r](../jobs/commercial/rechtsanwaltsfachangestellte-r.md) | €2,400 – €3,000 | €3,000 – €3,800 | €4,500 – €6,000 (Bürovorsteher) |
+| [Bäcker/in](../jobs/skilled-trades/baecker-in.md) | €2,400 – €3,000 | €2,900 – €3,500 | €3,500 – €4,500 (Meister) |
 | [Koch / Köchin](../jobs/hospitality/koch-koechin.md) | €2,400 – €2,900 | €2,900 – €3,500 | €3,800 – €5,500 (Küchenchef) |
 | [Hotelfachmann/-frau](../jobs/hospitality/hotelfachmann-frau.md) | €2,300 – €2,900 | €2,900 – €3,500 | €4,500 – €8,000+ (hotel mgmt) |
 

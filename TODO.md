@@ -110,7 +110,6 @@ repo currently implies it only ever tightens.
 | Profession | Why |
 |---|---|
 | **Friseur/in** | Anlage A, and the clearest case of a trade sitting **at the Mindestlohn** despite a full Ausbildung. |
-| **Bäcker/in, Konditor/in** | Night work, severe shortage, collapsing training numbers. |
 | **Fachkraft für Veranstaltungstechnik** | IHK, not Handwerk, with real safety-law responsibility (rigging, Versammlungsstättenverordnung). |
 | **Elektroniker/in für Automatisierungstechnik, Gebäudesystemintegration (2021), Industrieelektriker** | The remaining electrical Fachrichtungen, now that [Betriebstechnik](jobs/industrial/elektroniker-in-betriebstechnik.md) and the [industrial category](jobs/industrial/README.md) exist. Industrieelektriker is the 2-year tier beneath, mirroring Fachlagerist vs Fachkraft. |
 | **Bauzeichner/in** | IHK rather than Handwerk, and the desk-side counterpart to the trades above — pairs with [Ingenieur](jobs/engineering/ingenieur-in.md). |
