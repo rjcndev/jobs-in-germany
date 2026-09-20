@@ -18,6 +18,7 @@ jobs/
 ├── engineering/
 ├── skilled-trades/
 ├── green/
+├── services/
 ├── security/
 ├── public-service/
 ├── industrial/
@@ -195,6 +196,15 @@ See the [sector overview](jobs/green/README.md) — a **third chamber system**: 
 | Profession | Regulated | Recognition needed to work |
 |---|---|---|
 | [Forstwirt/in](jobs/green/forstwirt-in.md) | No — but chainsaw and pesticide certification gate the work | No to work; **yes for the visa** |
+
+### services
+See the [sector overview](jobs/services/README.md) — the folder for occupations that belong to no chamber-defined sector, including **two files with no qualification to write about**.
+
+| Profession | Regulated | Recognition needed to work |
+|---|---|---|
+| [Gebäudereiniger/in](jobs/services/gebaeudereiniger-in.md) | No — **Anlage B1**, so self-employment is free too | No to work; **yes for the visa** |
+| [Reinigungskraft](jobs/services/reinigungskraft.md) | No — **no qualification exists** | None to work; **and none supports a visa** |
+| [Haushaltshilfe](jobs/services/haushaltshilfe.md) | No — **no qualification exists** | None; the legal question is **declared or not** |
 
 ### public-service
 See the [sector overview](jobs/public-service/README.md) — Beamten careers: you are appointed as a paid Anwärter, not hired into a job.

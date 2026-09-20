@@ -99,6 +99,9 @@ vary in what they accept — check with the specific body, not with a general li
 | [Koch / Köchin](../jobs/hospitality/koch-koechin.md) | None | **B1**, B2 to progress | Kitchen German is learnable on the job; HACCP paperwork is not |
 | [Restaurant- und Veranstaltungsgastronomie](../jobs/hospitality/fachmann-frau-restaurants-veranstaltungsgastronomie.md) | None | **B1**, B2 to progress | Casual service can run on English; wine advice and event coordination cannot |
 | [Fachkraft für Lagerlogistik](../jobs/logistics/fachkraft-fuer-lagerlogistik.md) | None | **A2–B1**, B2 to supervise | Lowest bar in the repo; employers must still ensure safety instruction is understood |
+| [Gebäudereiniger/in](../jobs/services/gebaeudereiniger-in.md) | None | **A2–B1**, B2 to supervise | Hazard communication, chemical labelling and hygiene protocols |
+| [Reinigungskraft](../jobs/services/reinigungskraft.md) | None — **no qualification exists** | **A2**, B1 for better sites | Hazard labels and chemical instructions are German |
+| [Haushaltshilfe](../jobs/services/haushaltshilfe.md) | None — **no qualification exists** | **A2** | More if you arrange the work yourself |
 | [Fachinformatiker/in](../jobs/it/fachinformatiker-in.md) | **B1–B2** if training here | B1–B2 | Berufsschule and its exam are in German, without exception |
 | [Softwareentwickler/in](../jobs/it/softwareentwickler-in.md) | **None** — explicitly none on the §19c(2) route | Often none | The only profession here where you can build a career without German |
 
