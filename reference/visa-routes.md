@@ -25,6 +25,7 @@ professions. Experience alone, however long, does not substitute.
 | **§18b AufenthG** | Skilled worker with academic training | Recognised/comparable degree + job offer |
 | **§18g AufenthG** | **EU Blue Card** | Degree + salary above an annually-set threshold; lower threshold for shortage occupations |
 | **§19c(2) AufenthG** | **IT specialists without a formal degree** | Documented IT experience + job offer above a salary floor. **No German requirement** since the 2023 reform |
+| **§18d AufenthG** | **Researchers** | A hosting agreement with a recognised research institution. Carries EU mobility for research stays elsewhere |
 | **§16a AufenthG** | Vocational training (Ausbildung) | Training place + B1–B2 German for Berufsschule |
 | **§16d AufenthG** | Entry to pursue recognition | Recognition procedure underway + a plan to close gaps |
 | **§16d(3) AufenthG** | **Anerkennungspartnerschaft** | Since March 2024: enter with **A2** German and a contract, pursue recognition after arrival |
@@ -50,6 +51,7 @@ Two mechanisms worth knowing independently of route:
 | [Psychotherapeut/in](../jobs/healthcare/psychotherapeut-in.md) | §16d → **§18b** | Yes in clinic employment | **No** automatic EU recognition; a Kassensitz is a separate, rationed licence |
 | [Apotheker/in](../jobs/healthcare/apotheker-in.md) | §16d → §18b | Borderline in Offizin, yes in industry | Approbation, plus a separate Betriebserlaubnis to own a pharmacy |
 | [Ingenieur/in](../jobs/engineering/ingenieur-in.md) | **§18g** | **Yes** | Shortage field lowers the threshold; anabin check on the degree |
+| [Wissenschaftliche/r Mitarbeiter/in](../jobs/services/wissenschaftliche-r-mitarbeiter-in.md) | **§18d** — the researcher permit | Yes at full-time E 13; **no at 50%** | Hosting agreement, EU mobility. **A Stipendium is not employment** and carries no social insurance |
 | [Architekt/in](../jobs/engineering/architekt-in.md) | **§18b** | Yes at experienced level, often not at entry pay | **Automatic EU recognition** — the only non-medical profession with it. Third-country: Architektenkammer, individually |
 | [Bauzeichner/in](../jobs/engineering/bauzeichner-in.md) | §18a or §16a | No | IHK FOSA. **If you hold an architecture or engineering degree, check §18b first** — this role is easy to get stuck in |
 | [Pilot/in](../jobs/logistics/pilot-in.md) | **No clean route** — employer-arranged permit | No | An ATPL is not a vocational qualification, so §18a fits badly; **EASA licence + EU right to work is the norm** |

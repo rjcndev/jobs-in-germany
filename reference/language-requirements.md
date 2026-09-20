@@ -63,6 +63,7 @@ vary in what they accept — check with the specific body, not with a general li
 | [Industriekaufmann/-frau](../jobs/commercial/industriekaufmann-frau.md) | None | **B2–C1** | Purchasing and sales often need German *and* English |
 | [Spedition und Logistikdienstleistung](../jobs/logistics/kaufmann-frau-spedition-logistikdienstleistung.md) | None | **B2** | English is genuinely half the job — a rare case |
 | [Ingenieur/in](../jobs/engineering/ingenieur-in.md) | None | **B2+**, varies sharply | English viable in corporate R&D; German essential in Mittelstand and construction |
+| [Wissenschaftliche/r Mitarbeiter/in](../jobs/services/wissenschaftliche-r-mitarbeiter-in.md) | None | **Discipline-dependent** — English viable in the sciences, C1 German in the humanities | **Teaching duties are usually in German**; establish this before accepting |
 | [Architekt/in](../jobs/engineering/architekt-in.md) | None to do the work; Kammer entry is assessed in German | **C1** | Building law, authority correspondence and site instruction that becomes evidence |
 | [Bauzeichner/in](../jobs/engineering/bauzeichner-in.md) | None — unregulated | **B2** | Drawings are annotated in German and the norms are German |
 | [Pilot/in](../jobs/logistics/pilot-in.md) | **ICAO English Level 4** — German not legally required | **B2 German** to be hired here | The licence runs on English; German carriers hire on German |

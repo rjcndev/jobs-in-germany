@@ -31,7 +31,7 @@ the document is your evidence when something is later disputed.
 - **Befristung** — fixed term. Without an objective reason a fixed term is capped at two
   years, with at most three extensions inside it; with a reason (cover, project, seasonal)
   it can run longer. Academic contracts are the extreme case — see the
-  **WissZeitVG**.
+  [WissZeitVG](../jobs/services/wissenschaftliche-r-mitarbeiter-in.md).
 - **Ausschlussfristen** — clauses requiring claims to be raised within, typically, three
   months. They are common, they are usually valid, and they quietly destroy unpaid-overtime
   claims.

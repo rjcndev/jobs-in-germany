@@ -27,6 +27,7 @@ difficulty.
 | [Fluglotse / Fluglotsin](../jobs/logistics/fluglotse-fluglotsin.md) | €6,000 – €7,500 | €8,500 – €11,000 | €11,000 – €13,000+ (supervisor) | €72,000 – €90,000 |
 | [Pilot/in](../jobs/logistics/pilot-in.md) | €5,500 – €7,000 (network FO) | €7,000 – €9,500 | €10,000 – €16,000+ (Captain) | €66,000 – €84,000 |
 | [Arzt / Ärztin](../jobs/healthcare/arzt-aerztin.md) | €5,722 – €6,046 | €6,680 – €7,158 | €9,460 – €10,811 (Oberarzt) | €68,664 – €72,552 |
+| [Wissenschaftliche/r Mitarbeiter/in](../jobs/services/wissenschaftliche-r-mitarbeiter-in.md) | €4,759 – €6,765 (E 13, **full-time**) | €4,759 – €7,300 | W 2 / W 3 professorship, if you get one | €57,108 – €81,180 |
 | [Zahnarzt / Zahnärztin](../jobs/healthcare/zahnarzt-zahnaerztin.md) | €4,500 – €6,500 | €6,000 – €9,000 | Practice ownership is not comparable | €54,000 – €78,000 |
 | [Psychotherapeut/in](../jobs/healthcare/psychotherapeut-in.md) | €4,901 – €5,600 | €5,600 – €6,500 | €7,552 (EG 14); own Kassensitz is not comparable | €58,812 – €67,200 |
 | [Lehrer/in](../jobs/education/lehrer-in.md) — verbeamtet | €4,505 – €5,221 | €5,771 – €6,381 | €6,356 – €7,906 (Schulleitung) | €54,060 – €62,652 |

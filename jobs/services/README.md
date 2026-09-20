@@ -28,6 +28,12 @@ wage and enforcement** — which is what actually determines whether the work is
 Conflating them — as English usually does, with one word — hides the fact that they sit under
 different law, different pay floors and different enforcement.
 
+## What else is here
+
+- **[Wissenschaftliche/r Mitarbeiter/in](wissenschaftliche-r-mitarbeiter-in.md)** — German
+  academia, and the **WissZeitVG**, which exists to permit serial fixed-term contracts for
+  years where ordinary employment law would not.
+
 ## Common threads
 
 - **[Minijob and geringfügige Beschäftigung](../../reference/minijob-und-geringfuegige-beschaeftigung.md)**
@@ -45,3 +51,4 @@ different law, different pay floors and different enforcement.
 - [Gebäudereiniger/in](gebaeudereiniger-in.md)
 - [Reinigungskraft](reinigungskraft.md)
 - [Haushaltshilfe](haushaltshilfe.md)
+- [Wissenschaftliche/r Mitarbeiter/in](wissenschaftliche-r-mitarbeiter-in.md)
