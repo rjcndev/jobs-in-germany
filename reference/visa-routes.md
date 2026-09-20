@@ -79,6 +79,7 @@ Two mechanisms worth knowing independently of route:
 | [Sicherheitsmitarbeiter/in](../jobs/security/sicherheitsmitarbeiter-in.md) | **§26(2) BeschV**, or qualify first | No | §34a compliance is not a qualification — **no §18a route on its own** |
 | [Bankkaufmann/-frau](../jobs/commercial/bankkaufmann-frau.md) | §18a | Specialist/corporate only | To **advise**, you also need Sachkunde + BaFin registration — separate from the visa |
 | [Wirtschaftsprüfer/in](../jobs/commercial/wirtschaftspruefer-in.md) | **§18b** | **Yes, comfortably** | **EU auditors sit an aptitude test, not the full exam.** ACCA/CPA confer nothing here |
+| [Notar/in](../jobs/commercial/notar-in.md) | **A public office, not a visa route** | No | **EU citizens may be appointed** since the 2011 ECJ ruling; third-country nationals may not. Both German state exams required |
 | [Immobilienkaufmann/-frau](../jobs/commercial/immobilienkaufmann-frau.md) | §18a or §16a | No | IHK FOSA. **The §34c permit belongs to the business, not to you** — unlike BaFin registration |
 | [Versicherungen und Finanzanlagen](../jobs/commercial/kaufmann-frau-versicherungen-finanzanlagen.md) | §18a or §16a | Senior head-office roles only | IHK FOSA. **Tied agents need no permit; brokers need their own**, plus PI insurance and a register entry |
 | [Rechtsanwaltsfachangestellte/r](../jobs/commercial/rechtsanwaltsfachangestellte-r.md) | §18a | No | Equivalence sits with the **Rechtsanwaltskammer**, not IHK FOSA |

@@ -39,6 +39,7 @@ vary in what they accept — check with the specific body, not with a general li
 | [Psychotherapeut/in](../jobs/healthcare/psychotherapeut-in.md) | **C1**, assessed in the Approbation procedure | **C1** | Language *is* the treatment — nuance and register are the working instrument |
 | [Wirtschaftsprüfer/in](../jobs/commercial/wirtschaftspruefer-in.md) | **C1** — the examination is in German | **C1** | The audit opinion is a German legal document |
 | [Lehrer/in](../jobs/education/lehrer-in.md) | **C1 minimum, C2 commonly required** | **C2** | The highest bar here — you model the language of instruction |
+| [Notar/in](../jobs/commercial/notar-in.md) | **Both German state law examinations** | **Near-native** | The office is drafting, reading aloud and explaining instruments to non-lawyers |
 | [Fluglotse / Fluglotsin](../jobs/logistics/fluglotse-fluglotsin.md) | **ICAO English Level 4 _and_ German**, both tested | **Near-native German** plus fluent English | The only double language requirement in this repo; domestic VFR traffic is worked in German |
 | [Polizist/in](../jobs/public-service/polizist-in.md) | **C1 minimum**, tested in selection | **Near-native** | Statements and reports are evidential; de-escalation happens under stress |
 | [Feuerwehrmann / Feuerwehrfrau](../jobs/public-service/feuerwehrmann-frau.md) | **C1** | C1 | Radio traffic, incident command and casualty handover are time-critical |

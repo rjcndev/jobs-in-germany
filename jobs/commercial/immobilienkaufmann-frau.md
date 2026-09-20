@@ -51,7 +51,7 @@ The Ausbildung is broader than "estate agent", and most holders never broker any
 | **Mietverwaltung** | Managing rented housing for owners: tenancies, rent, repairs, service-charge accounting (**Betriebskostenabrechnung**), arrears, terminations |
 | **WEG-Verwaltung** | Managing blocks under the **Wohnungseigentumsgesetz**: owners' meetings, resolutions, reserve funds, maintenance planning. Legally intricate and the hardest part of the occupation |
 | **Vermietung** | Marketing, viewings, tenant selection, contracts |
-| **Verkauf / Makler** | Valuation, marketing, negotiation, notarial completion — with the **Notar** doing the authentication |
+| **Verkauf / Makler** | Valuation, marketing, negotiation, notarial completion — with the [Notar](notar-in.md) doing the authentication |
 | **Bestandsmanagement** | For housing companies and cooperatives — portfolio strategy, modernisation, energy retrofit programmes |
 | **Projektentwicklung** | Development support |
 

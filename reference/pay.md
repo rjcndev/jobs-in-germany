@@ -31,6 +31,7 @@ difficulty.
 | [Wissenschaftliche/r Mitarbeiter/in](../jobs/services/wissenschaftliche-r-mitarbeiter-in.md) | €4,759 – €6,765 (E 13, **full-time**) | €4,759 – €7,300 | W 2 / W 3 professorship, if you get one | €57,108 – €81,180 |
 | [Zahnarzt / Zahnärztin](../jobs/healthcare/zahnarzt-zahnaerztin.md) | €4,500 – €6,500 | €6,000 – €9,000 | Practice ownership is not comparable | €54,000 – €78,000 |
 | [Psychotherapeut/in](../jobs/healthcare/psychotherapeut-in.md) | €4,901 – €5,600 | €5,600 – €6,500 | €7,552 (EG 14); own Kassensitz is not comparable | €58,812 – €67,200 |
+| [Notar/in](../jobs/commercial/notar-in.md) | €4,500 – €6,000 (Notarassessor) | Fee income less office costs — not comparable | — | €54,000 – €72,000 |
 | [Lehrer/in](../jobs/education/lehrer-in.md) — verbeamtet | €4,505 – €5,221 | €5,771 – €6,381 | €6,356 – €7,906 (Schulleitung) | €54,060 – €62,652 |
 | [Ingenieur/in](../jobs/engineering/ingenieur-in.md) | €4,330 – €5,170 | €5,420 – €6,670 | €8,330+ (senior/lead) | €51,960 – €62,040 |
 | [Softwareentwickler/in](../jobs/it/softwareentwickler-in.md) | €4,170 – €5,170 | €5,420 – €6,830 | €9,170 – €11,670 (staff) | €50,040 – €62,040 |

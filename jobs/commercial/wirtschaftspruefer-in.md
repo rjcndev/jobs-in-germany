@@ -24,7 +24,7 @@ a registered audit firm.
 
 This is a genuine legal monopoly of the same kind as the
 [architect's Bauvorlageberechtigung](../engineering/architekt-in.md) and the
-**notary's authentication**, and it is what underwrites the profession's
+[notary's authentication](notar-in.md), and it is what underwrites the profession's
 economics. A WP may also do everything a **Steuerberater** may do — tax advice and
 representation — which makes the qualification strictly broader than the one below it.
 
