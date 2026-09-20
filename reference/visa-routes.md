@@ -94,6 +94,7 @@ Two mechanisms worth knowing independently of route:
 | [Landwirt/in](../jobs/green/landwirt-in.md) | §18a, §16a, or §26(2) BeschV | No | **Landwirtschaftskammer**, not IHK FOSA. Seasonal work is a separate, limited permission that leads nowhere |
 | [Gärtner/in](../jobs/green/gaertner-in.md) | §18a, §16a, or §26(2) BeschV | No | **Landwirtschaftskammer**; chainsaw and climbing certification must be re-sat in Germany |
 | [Winzer/in](../jobs/green/winzer-in.md) | §18a, §16a, or §26(2) BeschV | No | Landwirtschaftskammer — **or the DLR in Rheinland-Pfalz**, which has no chamber |
+| [Tierwirt/in](../jobs/green/tierwirt-in.md) | §18a, §16a, or §26(2) BeschV | No | Landwirtschaftskammer. **Eastern Germany is where the employed jobs are** |
 | [Metallbauer/in](../jobs/skilled-trades/metallbauer-in.md) | §18a or §16a | No | Handwerkskammer equivalence; **self-employment needs the Meister**, unlike its industrial twin |
 | [Maurer/in](../jobs/skilled-trades/maurer-in.md) | §18a, **§16a**, or §26(2) BeschV | No | Handwerkskammer equivalence. **Check whether you are employed or posted** — it changes your social insurance |
 | [Zimmerer / Zimmerin](../jobs/skilled-trades/zimmerer-zimmerin.md) | §18a, **§16a**, or §26(2) BeschV | No | Handwerkskammer equivalence; **German building physics is where assessments find the gap** |

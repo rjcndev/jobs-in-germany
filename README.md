@@ -199,6 +199,7 @@ See the [sector overview](jobs/green/README.md) — a **third chamber system**: 
 | [Landwirt/in](jobs/green/landwirt-in.md) | No — but **Pflanzenschutz-Sachkunde gates pesticide work** | No to work; **yes for the visa** |
 | [Gärtner/in](jobs/green/gaertner-in.md) | No — but pesticide and chainsaw certification gate parts of the work | No to work; **yes for the visa** |
 | [Winzer/in](jobs/green/winzer-in.md) | No | No to work; **yes for the visa** — and the competent body differs by wine region |
+| [Tierwirt/in](jobs/green/tierwirt-in.md) | No | No to work; **yes for the visa** |
 
 ### services
 See the [sector overview](jobs/services/README.md) — the folder for occupations that belong to no chamber-defined sector, including **two files with no qualification to write about**.
