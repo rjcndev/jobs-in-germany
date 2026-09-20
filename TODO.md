@@ -162,73 +162,9 @@ are **Gebäudereiniger/in**, **Reinigungskraft** and **Raumpfleger/in**.
   through the months when site work stops; **posted workers** under the AEntG, since
   construction is where EU posting and its documented exploitation problems concentrate;
   and **BG BAU**, given the sector's accident and occupational-disease rates.
-- **`reference/ausbildung.md`** — the dual system itself, from the trainee's side. **The
-  most-leaned-on unexplained concept in the repo: 15 of 23 profession files state a monthly
-  training wage without ever saying what an Ausbildung legally is.** Should cover: the
-  **BBiG** and HwO as legal basis; the Ausbildungsvertrag and the Kammer's supervising role;
-  the **Mindestausbildungsvergütung** (§17 BBiG, statutory since 2020 and indexed annually)
-  — every "paid throughout" figure in this repo sits above a floor the files never mention;
-  Probezeit of one to four months, after which the employer effectively cannot terminate;
-  **Berufsschulpflicht** and the right to paid release for it; the
-  **Jugendarbeitsschutzgesetz** for under-18s; **Verkürzung** with Abitur or a prior
-  qualification; Zwischenprüfung vs. the gestreckte Abschlussprüfung; and **Übernahme** —
-  there is no automatic right to be kept on, though works councils often negotiate one.
-  For this repo's audience it should also cover Ausbildung as the **§16a immigration
-  route**, and the flat fact that Berufsschule is taught and examined in German.
+- ~~`reference/ausbildung.md`~~ — [written](reference/ausbildung.md).
+- ~~`reference/meister.md`~~ — [written](reference/meister.md), including the §7b HwO Altgesellenregelung, which lets a Geselle with six years' experience run an Anlage A business without a Meisterbrief and was missing from every trade file.
 
-  Terminology note worth making: **"Lehrling" is historical** in Germany — the legal term
-  since the 1969 BBiG is **Auszubildende/r** (Azubi). It survives colloquially in the
-  Handwerk and remains the standard term in Austria. Same treatment the repo gives
-  MTA → MT and the Gastgewerbe renamings.
-
-- **`reference/meister.md`** — the Meisterbrief and the Aufstiegsfortbildung ladder above
-  it. Referenced across four trade files (Meisterbrief ×4, Meisterpflicht ×3,
-  Aufstiegs-BAföG ×2, Meisterprämie ×2) and explained in none. Should cover: the
-  **four parts of the Meisterprüfung** — practical, technical theory,
-  business/legal, and **Teil IV, the AEVO**, which is what licenses you to train
-  apprentices and so links straight back to `ausbildung.md`; **Anlage A vs Anlage B** and
-  the 2020 re-regulation in §5b; **Handwerksrolle** entry, the **Betriebsleiter**
-  alternative, §8 Ausnahmebewilligung and §9 HwO for EU nationals; funding via
-  **Aufstiegs-BAföG (AFBG)** and the state-specific **Meisterprämie**, which in several
-  Bundesländer refunds the fees outright; and the **IHK parallel ladder** —
-  Industriemeister, Logistikmeister, Küchenmeister, Fachwirt, Betriebswirt — which the
-  [Lagerlogistik](jobs/logistics/fachkraft-fuer-lagerlogistik.md) and
-  [Koch](jobs/hospitality/koch-koechin.md) files already invoke.
-
-  The framing that makes it worth its own file: **a Meister sits at DQR level 6, the same
-  level as a Bachelor.** Since the 2020 Berufsbildungsmodernisierungsgesetz the optional
-  titles **Geprüfte/r Berufsspezialist/in** (DQR 5), **Bachelor Professional** (6) and
-  **Master Professional** (7) exist alongside the traditional ones — contested, unevenly
-  adopted, and directly relevant to a repo that keeps comparing vocational and academic
-  routes. It is also the main earnings lever in the trades, and for Anlage A the *only*
-  route to self-employment.
-- **`reference/shift-work-and-supplements.md`** — **8 of 23 profession files** describe shift
-  work, and [pay.md](reference/pay.md) explicitly states that its table understates every
-  shift-working profession because supplements sit outside base pay. The **TVöD
-  Zeitzuschläge are published and verifiable** — night, Sunday, public holiday, Wechselschicht
-  and Rufbereitschaft rates — so this can be an exact document rather than an estimated one,
-  and it would repair the pay table's largest known distortion.
-- **`reference/bundeslaender.md`** — **8 files tell the reader to "choose the Bundesland"**
-  and none helps them do it. Should compare: Besoldung levels (state law since 2006),
-  recognition practice and processing times, Verbeamtung policy for teachers, A13-für-alle
-  status, cost of living against nominal pay, and where the public-sector tariffs buy most.
-  The repo's most repeated instruction is currently its least actionable one.
-- **`reference/health-insurance.md`** — **zero mentions across 23 files, which is itself the
-  finding.** GKV vs PKV, the JAEG threshold above which you may leave the statutory system,
-  Familienversicherung covering non-earning dependants free, and the one-way-door problem of
-  switching to private. It interlocks with things the repo already covers: **Beihilfe** for
-  [Beamte](reference/beamte-vs-angestellte.md), and self-employment for
-  [Meister](#7-reference-documents) and pharmacy owners. For anyone actually moving to
-  Germany this ranks above several profession files.
-- **`reference/minijob-und-geringfuegige-beschaeftigung.md`** — **Minijob had zero mentions
-  across all 23 files** in the §8 audit, and the cleaning entries above cannot be written
-  without it. Should cover: the **earnings threshold, which has been indexed to the
-  Mindestlohn since 2024** and therefore moves every time the minimum wage does — compute or
-  check it rather than quoting a figure; Midijob and the Übergangsbereich above it; what a
-  Minijob does and does not build (no unemployment entitlement, minimal pension credit unless
-  you opt in); the **Haushaltsscheck** procedure for private households; and **§35a EStG**.
-  Relevant well beyond cleaning — it is how a large share of hospitality, retail and student
-  work is structured.
 - **`reference/language-certificates.md`** — **the Fachsprachprüfung is the single
   most-cited certificate in the repo, at 8 mentions, and is explained nowhere.** It is not a
   general language certificate: it is a profession-specific oral exam at the relevant Kammer,

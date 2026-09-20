@@ -39,6 +39,12 @@ Once you are comparing professions rather than reading up on one, start here:
   Besoldung instead of tariff, Ruhegehalt instead of a pension, no right to strike, and an
   **EU-citizenship requirement** that permanently changes the deal for third-country
   candidates in teaching, policing and the fire service.
+- **[Ausbildung](reference/ausbildung.md)** — the dual system: what "3 years, paid" legally
+  means, the statutory minimum training wage, what the contract protects, and Ausbildung as
+  the §16a immigration route.
+- **[The Meisterbrief](reference/meister.md)** — the ladder above it, why Anlage A trades
+  need it to open a business, the four ways in *without* one, how the state funds it, and
+  why it ranks with a Bachelor.
 - **[Pay](reference/pay.md)** — every profession on one comparable monthly-gross scale,
   what the base figures leave out (shift supplements, tax-free Spesen, the 13th month),
   and an explicit account of which figures are checkable against a published tariff and
