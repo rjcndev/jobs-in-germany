@@ -181,6 +181,7 @@ See the [sector overview](jobs/skilled-trades/README.md) for the Anlage A rule: 
 | [Bankkaufmann/-frau](jobs/commercial/bankkaufmann-frau.md) | Title no — **advisory activity yes (BaFin)** | No to work; registration to advise |
 | [Immobilienkaufmann/-frau](jobs/commercial/immobilienkaufmann-frau.md) | Title no — **activity yes (§34c GewO)** | No to work; **yes for the visa**. The permit is the firm's |
 | [Kaufmann/-frau für Versicherungen und Finanzanlagen](jobs/commercial/kaufmann-frau-versicherungen-finanzanlagen.md) | Title no — **activity yes (§34d/f/i)** | No to work; **yes for the visa**. Supervised by the IHK, not BaFin |
+| [Wirtschaftsprüfer/in](jobs/commercial/wirtschaftspruefer-in.md) | **Yes — the statutory audit is reserved** | Yes; **EU auditors take an aptitude test instead of the full exam** |
 
 ### logistics
 | Profession | Regulated | Recognition needed to work |
