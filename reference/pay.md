@@ -36,6 +36,7 @@ difficulty.
 | [Zerspanungsmechaniker/in](../jobs/industrial/zerspanungsmechaniker-in.md) | €3,300 – €3,900 | €3,900 – €4,800 | €4,700 – €5,800 (Meister/Techniker) |
 | [Werkzeugmechaniker/in](../jobs/industrial/werkzeugmechaniker-in.md) | €3,300 – €3,900 | €4,000 – €4,900 | €5,500 – €7,000 (Werkzeugbauleitung) |
 | [Industriekaufmann/-frau](../jobs/commercial/industriekaufmann-frau.md) | €3,200 – €4,000 | €4,000 – €5,000 | €6,000+ |
+| [Konstruktionsmechaniker/in](../jobs/industrial/konstruktionsmechaniker-in.md) | €3,200 – €3,800 | €3,800 – €4,600 | €4,700 – €5,800 (Meister/Techniker) |
 | [Bankkaufmann/-frau](../jobs/commercial/bankkaufmann-frau.md) | €3,200 – €3,800 | €3,900 – €5,000 | €5,500 – €8,000 (branch mgmt) |
 | [Fachinformatiker/in](../jobs/it/fachinformatiker-in.md) | €3,170 – €3,830 | €4,000 – €5,000 | €5,000 – €6,250+ |
 | [Steuerfachangestellte/r](../jobs/commercial/steuerfachangestellte-r.md) | €2,800 – €3,400 | €3,500 – €4,500 | **€5,500 – €8,000** (Steuerberater) |

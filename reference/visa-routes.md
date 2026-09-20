@@ -66,6 +66,7 @@ Two mechanisms worth knowing independently of route:
 | [Industriemechaniker/in](../jobs/industrial/industriemechaniker-in.md) | §18a or §16a | No | Welding certificates do not transfer — expect to re-sit them |
 | [Zerspanungsmechaniker/in](../jobs/industrial/zerspanungsmechaniker-in.md) | §18a or §16a | No | Highly portable; watch being hired as a semi-skilled Maschinenbediener instead |
 | [Werkzeugmechaniker/in](../jobs/industrial/werkzeugmechaniker-in.md) | §18a or §16a | No | Portable, and German toolmaking carries reputation abroad |
+| [Konstruktionsmechaniker/in](../jobs/industrial/konstruktionsmechaniker-in.md) | §18a or §16a | No | **Welding certificates must be re-sat to EN standard** — the biggest practical obstacle here |
 | [Anlagenmechaniker/in SHK](../jobs/skilled-trades/anlagenmechaniker-in-shk.md) | §18a or **§16a** | No | Same Handwerk split as above |
 | [Kfz-Mechatroniker/in](../jobs/skilled-trades/kraftfahrzeugmechatroniker-in.md) | §18a or §16a | No | Equivalence sits with the **Handwerkskammer**; HV qualification does not transfer |
 | [Fachinformatiker/in](../jobs/it/fachinformatiker-in.md) | **§16a** | Not without a degree | Train here, paid, at B1–B2 German |

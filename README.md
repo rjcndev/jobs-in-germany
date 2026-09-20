@@ -83,6 +83,7 @@ See the [sector overview](jobs/industrial/README.md) for the Handwerk vs. Indust
 | [Industriemechaniker/in](jobs/industrial/industriemechaniker-in.md) | No | No to work; **yes for the visa** |
 | [Zerspanungsmechaniker/in](jobs/industrial/zerspanungsmechaniker-in.md) | No | No to work; **yes for the visa** |
 | [Werkzeugmechaniker/in](jobs/industrial/werkzeugmechaniker-in.md) | No | No to work; **yes for the visa** |
+| [Konstruktionsmechaniker/in](jobs/industrial/konstruktionsmechaniker-in.md) | No — **welding certificates gate the work** | No to work; **yes for the visa** |
 
 ### skilled-trades
 | Profession | Regulated | Recognition needed to work |

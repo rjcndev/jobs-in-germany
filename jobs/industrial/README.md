@@ -44,3 +44,4 @@ association.
 - [Industriemechaniker/in](industriemechaniker-in.md)
 - [Zerspanungsmechaniker/in](zerspanungsmechaniker-in.md)
 - [Werkzeugmechaniker/in](werkzeugmechaniker-in.md)
+- [Konstruktionsmechaniker/in](konstruktionsmechaniker-in.md)

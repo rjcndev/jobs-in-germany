@@ -56,6 +56,7 @@ vary in what they accept — check with the specific body, not with a general li
 | [Industriemechaniker/in](../jobs/industrial/industriemechaniker-in.md) | None | **B1–B2** | Drawings and shift handover in German; Montage abroad often English |
 | [Zerspanungsmechaniker/in](../jobs/industrial/zerspanungsmechaniker-in.md) | None | **B1–B2** | Drawings, tolerances and quality documentation in German |
 | [Werkzeugmechaniker/in](../jobs/industrial/werkzeugmechaniker-in.md) | None | **B1–B2** | Try-out is collaborative problem-solving — harder in a second language |
+| [Konstruktionsmechaniker/in](../jobs/industrial/konstruktionsmechaniker-in.md) | None | **B1–B2** | Welding procedure specs and site safety coordination in German |
 | [Anlagenmechaniker/in SHK](../jobs/skilled-trades/anlagenmechaniker-in-shk.md) | None to be employed | **B1–B2** | Constant customer contact in people's homes |
 | [Kfz-Mechatroniker/in](../jobs/skilled-trades/kraftfahrzeugmechatroniker-in.md) | None to be employed | **B1–B2** | Diagnostic software and manufacturer documentation are in German |
 | [Berufskraftfahrer/in](../jobs/logistics/berufskraftfahrer-in.md) | None directly — but the **theory test** is a real gate | **B1** | Test language availability varies by authority |
