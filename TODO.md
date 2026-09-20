@@ -255,11 +255,9 @@ files:
 - **`reference/glossary.md`** — the repo is written in English and deliberately keeps ~100
   German terms inline. A single alphabetical glossary would cost little and save every
   reader repeated lookups.
-- **`reference/recognition-authorities.md`** — which body is competent per profession and
-  Bundesland. Must cover **three** chamber systems, not two: IHK, Handwerkskammer and the
-  **Landwirtschaftskammer** (see §5f), plus the Kammern of the freie Berufe
-  (Ärzte-, Apotheker-, Rechtsanwalts-, Steuerberater-, Architekten-, Ingenieurkammer) and the
-  state authorities that handle the licensed healthcare professions. The single most repeated paragraph across the profession files.
+- ~~`reference/recognition-authorities.md`~~ — [written](reference/recognition-authorities.md),
+  covering all three chamber systems, the freie-Beruf Kammern, the state authorities, the
+  ZAB/anabin confusion, and the cases with no competent body at all. The single most repeated paragraph across the profession files.
 - **`reference/employment-basics.md`** — Probezeit, notice periods, Arbeitszeitgesetz,
   statutory leave, Kündigungsschutz, Arbeitszeugnis. Currently scattered.
 

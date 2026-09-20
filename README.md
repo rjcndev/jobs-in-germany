@@ -48,6 +48,9 @@ Once you are comparing professions rather than reading up on one, start here:
 - **[The Meisterbrief](reference/meister.md)** — the ladder above it, why Anlage A trades
   need it to open a business, the four ways in *without* one, how the state funds it, and
   why it ranks with a Bachelor.
+- **[Who recognises your qualification](reference/recognition-authorities.md)** — three
+  chamber systems, the Kammern of the freie Berufe, the state authorities, and why ZAB/anabin
+  is **not** professional recognition. Plus the professions where no procedure exists at all.
 - **[Pay](reference/pay.md)** — every profession on one comparable monthly-gross scale,
   what the base figures leave out (shift supplements, tax-free Spesen, the 13th month),
   and an explicit account of which figures are checkable against a published tariff and
