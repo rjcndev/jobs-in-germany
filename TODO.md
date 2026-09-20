@@ -109,7 +109,6 @@ repo currently implies it only ever tightens.
 
 | Profession | Why |
 |---|---|
-| **Kfz-Mechatroniker/in** | Anlage A trade in the middle of the **EV transition** — Hochvolt qualification is now the dividing line, exactly as heat pumps are for [SHK](jobs/skilled-trades/anlagenmechaniker-in-shk.md). |
 | **Friseur/in** | Anlage A, and the clearest case of a trade sitting **at the Mindestlohn** despite a full Ausbildung. |
 | **Bäcker/in, Konditor/in** | Night work, severe shortage, collapsing training numbers. |
 | **Fachkraft für Veranstaltungstechnik** | IHK, not Handwerk, with real safety-law responsibility (rigging, Versammlungsstättenverordnung). |

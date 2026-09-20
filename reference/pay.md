@@ -40,6 +40,7 @@ difficulty.
 | [Elektroniker/in EGT](../jobs/skilled-trades/elektroniker-in-energie-und-gebaeudetechnik.md) | €2,800 – €3,300 | €3,300 – €4,000 | €4,000 – €5,000 (Meister) |
 | [Anlagenmechaniker/in SHK](../jobs/skilled-trades/anlagenmechaniker-in-shk.md) | €2,700 – €3,200 | €3,200 – €3,900 | €3,900 – €4,900 (Meister) |
 | [Berufskraftfahrer/in](../jobs/logistics/berufskraftfahrer-in.md) | €2,600 – €3,300 | €3,000 – €3,800 | €3,400 – €4,500 (ADR/heavy) |
+| [Kfz-Mechatroniker/in](../jobs/skilled-trades/kraftfahrzeugmechatroniker-in.md) | €2,600 – €3,200 | €3,200 – €3,900 | €4,000 – €5,000 (Meister) |
 | [Fachkraft für Lagerlogistik](../jobs/logistics/fachkraft-fuer-lagerlogistik.md) | €2,600 – €3,100 | €3,100 – €3,700 | €4,200 – €5,500 (Meister) |
 | [Physiotherapeut/in](../jobs/healthcare/physiotherapeut-in.md) | €2,600 – €3,000 | €3,000 – €3,600 | €3,295 – €4,980 (public sector) |
 | [Kaufmann/-frau für Büromanagement](../jobs/commercial/kaufmann-frau-fuer-bueromanagement.md) | €2,500 – €3,000 | €3,000 – €3,700 | €3,300 – €4,200 (tariff industry) |
@@ -60,7 +61,10 @@ inside it:
 [Elektroniker Betriebstechnik](../jobs/industrial/elektroniker-in-betriebstechnik.md) starts
 around €500/month above the [Handwerk electrician](../jobs/skilled-trades/elektroniker-in-energie-und-gebaeudetechnik.md)
 doing comparable work, before the 13th month and the 35-hour week. The Handwerk route buys
-something else instead: the legal right to run your own business.
+something else instead: the legal right to run your own business. The same gap runs through
+[Kfz-Mechatroniker](../jobs/skilled-trades/kraftfahrzeugmechatroniker-in.md), where the
+identical technician earns €3,800–€5,200 inside a manufacturer's plant against €2,600–€3,900
+in an independent garage — one of the main reasons that trade loses people.
 
 **Steep** — low entry, high ceiling, gated by a hard exam or qualification.
 [Steuerfachangestellte](../jobs/commercial/steuerfachangestellte-r.md) starts below a nurse
