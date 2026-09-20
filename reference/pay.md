@@ -64,6 +64,7 @@ difficulty.
 | [Tischler/in — Schreiner/in](../jobs/skilled-trades/tischler-in.md) | €2,600 – €3,100 | €3,100 – €3,800 | €3,900 – €4,900 (Meister) | €31,200 – €37,200 |
 | [Fachkraft für Lagerlogistik](../jobs/logistics/fachkraft-fuer-lagerlogistik.md) | €2,600 – €3,100 | €3,100 – €3,700 | €4,200 – €5,500 (Meister) | €31,200 – €37,200 |
 | [Physiotherapeut/in](../jobs/healthcare/physiotherapeut-in.md) | €2,600 – €3,000 | €3,000 – €3,600 | €3,295 – €4,980 (public sector) | €31,200 – €36,000 |
+| [Logopädie / Ergotherapie](../jobs/healthcare/therapieberufe-logopaedie-ergotherapie.md) | €2,600 – €3,000 | €3,000 – €3,600 | €3,295 – €4,980 (public sector) | €31,200 – €36,000 |
 | [Kaufmann/-frau für Büromanagement](../jobs/commercial/kaufmann-frau-fuer-bueromanagement.md) | €2,500 – €3,000 | €3,000 – €3,700 | €3,300 – €4,200 (tariff industry) | €30,000 – €36,000 |
 | [Konditor/in](../jobs/skilled-trades/konditor-in.md) | €2,400 – €3,100 | €3,000 – €3,700 | €3,600 – €4,600 (Meister) | €28,800 – €37,200 |
 | [PTA — Pharmazeutisch-technische/r Assistent/in](../jobs/healthcare/pharmazeutisch-technische-r-assistent-in.md) | €2,600 – €2,900 | €3,000 – €3,600 | €3,400 – €4,980 (hospital / Weiterbildung) | €31,200 – €34,800 |

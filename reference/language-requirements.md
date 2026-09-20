@@ -54,6 +54,7 @@ vary in what they accept — check with the specific body, not with a general li
 | [ATA / OTA](../jobs/healthcare/ata-ota.md) | **B2** | B2–C1 | Theatre communication is terse, fast and safety-critical; the swab count is called aloud |
 | [Hebamme](../jobs/healthcare/hebamme.md) | **B2** | **C1** | Consent, escalation and handover under time pressure |
 | [Physiotherapeut/in](../jobs/healthcare/physiotherapeut-in.md) | **B2** | B2 | Patient instruction is continuous |
+| [Logopädie / Ergotherapie](../jobs/healthcare/therapieberufe-logopaedie-ergotherapie.md) | **B2** | **Near-native for Logopädie**; B2–C1 for Ergotherapie | The only profession here where German is the *object* of the work, not the medium |
 | [Pflegefachassistenz / Pflegehelfer/in](../jobs/healthcare/pflegefachassistenz-pflegehelfer-in.md) | None federally — **state-set** | **B1** | A2 is enough to enter under an Anerkennungspartnerschaft; handover and documentation need more |
 | [PTA — Pharmazeutisch-technische/r Assistent/in](../jobs/healthcare/pharmazeutisch-technische-r-assistent-in.md) | **B2** | B2–C1 | Dispensing advice is patient-facing and a wrong dose instruction is a safety event |
 | [MFA — Medizinische/r Fachangestellte/r](../jobs/healthcare/medizinische-fachangestellte-r.md) | None — unregulated | **B2** | Telephone triage, distressed patients and precise documentation — a high bar at low pay |

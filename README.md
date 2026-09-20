@@ -113,6 +113,7 @@ See the [sector overview](jobs/healthcare/README.md) — recognition is near-ide
 | [PTA — Pharmazeutisch-technische/r Assistent/in](jobs/healthcare/pharmazeutisch-technische-r-assistent-in.md) | Yes | Yes — and **the training is unpaid** |
 | [Pflegefachassistenz / Pflegehelfer/in](jobs/healthcare/pflegefachassistenz-pflegehelfer-in.md) | Under **state** law — sixteen versions | No to work; **a one-year qualification supports no visa** |
 | [ATA / OTA](jobs/healthcare/ata-ota.md) | **Yes — since 2022** | Yes; the procedure itself is new |
+| [Logopädie / Ergotherapie](jobs/healthcare/therapieberufe-logopaedie-ergotherapie.md) | Yes | Yes — and **check the Schulgeld position in your Bundesland** |
 
 ### education
 | Profession | Regulated | Recognition needed to work |
