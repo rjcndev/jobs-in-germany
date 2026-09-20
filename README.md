@@ -138,6 +138,7 @@ See the [sector overview](jobs/hospitality/README.md) for the 2022 restructuring
 | Profession | Regulated | Recognition needed to work |
 |---|---|---|
 | [Koch / Köchin](jobs/hospitality/koch-koechin.md) | No | No to work; **yes for the visa** |
+| [Fachmann/-frau Restaurants und Veranstaltungsgastronomie — "Kellner"](jobs/hospitality/fachmann-frau-restaurants-veranstaltungsgastronomie.md) | No | No to work; **yes for the visa** |
 | [Hotelfachmann/-frau](jobs/hospitality/hotelfachmann-frau.md) | No | No to work; **yes for the visa** |
 
 ## The one distinction that matters

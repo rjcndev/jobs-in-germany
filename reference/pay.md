@@ -55,6 +55,7 @@ difficulty.
 | [Konditor/in](../jobs/skilled-trades/konditor-in.md) | €2,400 – €3,100 | €3,000 – €3,700 | €3,600 – €4,600 (Meister) |
 | [Rechtsanwaltsfachangestellte/r](../jobs/commercial/rechtsanwaltsfachangestellte-r.md) | €2,400 – €3,000 | €3,000 – €3,800 | €4,500 – €6,000 (Bürovorsteher) |
 | [Bäcker/in](../jobs/skilled-trades/baecker-in.md) | €2,400 – €3,000 | €2,900 – €3,500 | €3,500 – €4,500 (Meister) |
+| [Restaurant- und Veranstaltungsgastronomie](../jobs/hospitality/fachmann-frau-restaurants-veranstaltungsgastronomie.md) | €2,400 – €3,000 | €2,900 – €3,500 | €3,300 – €4,300 (Restaurantleitung) |
 | [Koch / Köchin](../jobs/hospitality/koch-koechin.md) | €2,400 – €2,900 | €2,900 – €3,500 | €3,800 – €5,500 (Küchenchef) |
 | [Hotelfachmann/-frau](../jobs/hospitality/hotelfachmann-frau.md) | €2,300 – €2,900 | €2,900 – €3,500 | €4,500 – €8,000+ (hotel mgmt) |
 | [Friseur/in](../jobs/skilled-trades/friseur-in.md) | €2,300 – €2,800 | €2,600 – €3,200 | €3,000 – €4,000 (Meister) |

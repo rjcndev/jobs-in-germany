@@ -36,4 +36,5 @@ The 2-year Fachkraft qualification can be topped up to a 3-year one.
 ## Profiles
 
 - [Koch / Köchin](koch-koechin.md)
+- [Fachmann/-frau für Restaurants und Veranstaltungsgastronomie — "Kellner"](fachmann-frau-restaurants-veranstaltungsgastronomie.md)
 - [Hotelfachmann/-frau](hotelfachmann-frau.md)
