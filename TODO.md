@@ -203,7 +203,7 @@ files:
 - ~~`reference/meister.md`~~ — [written](reference/meister.md), including the §7b HwO Altgesellenregelung, which lets a Geselle with six years' experience run an Anlage A business without a Meisterbrief and was missing from every trade file.
 
 - ~~`reference/shift-work-and-supplements.md`~~ — [written](reference/shift-work-and-supplements.md), with the verified §8 TVöD rates and the §3b EStG finding that most shift supplements are tax-free.
-- **`reference/bundeslaender.md`** — **8 files tell the reader to "choose the Bundesland"**
+- ~~`reference/bundeslaender.md`~~ — [written](reference/bundeslaender.md). Was: **8 files tell the reader to "choose the Bundesland"**
   and none helps them do it. Should compare: Besoldung levels (state law since 2006),
   recognition practice and processing times, Verbeamtung policy for teachers, A13-für-alle
   status, cost of living against nominal pay, and where the public-sector tariffs buy most.
@@ -274,7 +274,7 @@ files:
   Rechtsanwalt, and would add Architekt — and mentions this nowhere. It matters
   disproportionately for anyone arriving mid-career or likely to leave Germany again, since
   the transfer rules are not the statutory ones.
-- **`reference/glossary.md`** — the repo is written in English and deliberately keeps ~100
+- ~~`reference/glossary.md`~~ — [written](reference/glossary.md), built from the ~250 German terms actually recurring in the repo. Was: the repo is written in English and deliberately keeps ~100
   German terms inline. A single alphabetical glossary would cost little and save every
   reader repeated lookups.
 - ~~`reference/recognition-authorities.md`~~ — [written](reference/recognition-authorities.md),

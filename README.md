@@ -61,6 +61,11 @@ Once you are comparing professions rather than reading up on one, start here:
 - **[Tax and net pay](reference/taxes-and-net-pay.md)** — what comes off the gross figures
   in this repo, the Steuerklasse III/V trap, the Kirchensteuer question on your Anmeldung
   form, and the income here that is not taxed at all.
+- **[Choosing a Bundesland](reference/bundeslaender.md)** — which professions the state
+  decides and which it barely touches, what else is state law, and why tariff-paid workers
+  are better off in low-cost regions.
+- **[Glossary](reference/glossary.md)** — the German terms this repo keeps in place, defined
+  and cross-linked.
 - **[Pay](reference/pay.md)** — every profession on one comparable monthly-gross scale,
   what the base figures leave out (shift supplements, tax-free Spesen, the 13th month),
   and an explicit account of which figures are checkable against a published tariff and
