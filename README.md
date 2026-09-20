@@ -1,4 +1,4 @@
-# German Job Descriptions
+# Jobs in Germany
 
 Reference profiles for working in Germany: what a profession actually involves, how you
 qualify for it, what it pays, and what a foreign-trained candidate has to do to be allowed
