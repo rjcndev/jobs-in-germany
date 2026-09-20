@@ -59,6 +59,7 @@ vary in what they accept — check with the specific body, not with a general li
 | [Konstruktionsmechaniker/in](../jobs/industrial/konstruktionsmechaniker-in.md) | None | **B1–B2** | Welding procedure specs and site safety coordination in German |
 | [Anlagenmechaniker/in SHK](../jobs/skilled-trades/anlagenmechaniker-in-shk.md) | None to be employed | **B1–B2** | Constant customer contact in people's homes |
 | [Kfz-Mechatroniker/in](../jobs/skilled-trades/kraftfahrzeugmechatroniker-in.md) | None to be employed | **B1–B2** | Diagnostic software and manufacturer documentation are in German |
+| [Forstwirt/in](../jobs/green/forstwirt-in.md) | None | **B1–B2** | Felling coordination and emergency communication — a misunderstanding is not harmless |
 | [Metallbauer/in](../jobs/skilled-trades/metallbauer-in.md) | None to be employed | **B2** | In customers' buildings daily — more language-dependent than the industrial metal trades |
 | [Tischler/in — Schreiner/in](../jobs/skilled-trades/tischler-in.md) | None to be employed | **B2** | Measuring and agreeing changes in customers' homes |
 | [Berufskraftfahrer/in](../jobs/logistics/berufskraftfahrer-in.md) | None directly — but the **theory test** is a real gate | **B1** | Test language availability varies by authority |

@@ -17,6 +17,7 @@ jobs/
 ├── it/
 ├── engineering/
 ├── skilled-trades/
+├── green/
 ├── industrial/
 ├── commercial/
 ├── logistics/
@@ -119,6 +120,13 @@ See the [sector overview](jobs/skilled-trades/README.md) for the Anlage A rule: 
 | [Berufskraftfahrer/in](jobs/logistics/berufskraftfahrer-in.md) | Title no — **licence yes** | Licence and code 95 are mandatory |
 | [Fachkraft für Lagerlogistik](jobs/logistics/fachkraft-fuer-lagerlogistik.md) | No | No to work; **yes for the visa** |
 | [Kaufmann/-frau für Spedition und Logistikdienstleistung](jobs/logistics/kaufmann-frau-spedition-logistikdienstleistung.md) | No | No to work; **yes for the visa** |
+
+### green (Grüne Berufe)
+See the [sector overview](jobs/green/README.md) — a **third chamber system**: the Landwirtschaftskammer, and only in some Bundesländer.
+
+| Profession | Regulated | Recognition needed to work |
+|---|---|---|
+| [Forstwirt/in](jobs/green/forstwirt-in.md) | No — but chainsaw and pesticide certification gate the work | No to work; **yes for the visa** |
 
 ### hospitality
 See the [sector overview](jobs/hospitality/README.md) for the 2022 restructuring, minimum wage and working-time facts.

@@ -69,6 +69,7 @@ Two mechanisms worth knowing independently of route:
 | [Konstruktionsmechaniker/in](../jobs/industrial/konstruktionsmechaniker-in.md) | §18a or §16a | No | **Welding certificates must be re-sat to EN standard** — the biggest practical obstacle here |
 | [Anlagenmechaniker/in SHK](../jobs/skilled-trades/anlagenmechaniker-in-shk.md) | §18a or **§16a** | No | Same Handwerk split as above |
 | [Kfz-Mechatroniker/in](../jobs/skilled-trades/kraftfahrzeugmechatroniker-in.md) | §18a or §16a | No | Equivalence sits with the **Handwerkskammer**; HV qualification does not transfer |
+| [Forstwirt/in](../jobs/green/forstwirt-in.md) | §18a or §16a | No | Equivalence sits with the **Landwirtschaftskammer** or a state body — a third system |
 | [Metallbauer/in](../jobs/skilled-trades/metallbauer-in.md) | §18a or §16a | No | Handwerkskammer equivalence; **self-employment needs the Meister**, unlike its industrial twin |
 | [Tischler/in — Schreiner/in](../jobs/skilled-trades/tischler-in.md) | §18a or §16a | No | Handwerkskammer equivalence; search **both** titles, they are regional variants |
 | [Fachinformatiker/in](../jobs/it/fachinformatiker-in.md) | **§16a** | Not without a degree | Train here, paid, at B1–B2 German |

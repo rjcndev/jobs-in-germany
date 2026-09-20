@@ -39,6 +39,7 @@ difficulty.
 | [Konstruktionsmechaniker/in](../jobs/industrial/konstruktionsmechaniker-in.md) | €3,200 – €3,800 | €3,800 – €4,600 | €4,700 – €5,800 (Meister/Techniker) |
 | [Bankkaufmann/-frau](../jobs/commercial/bankkaufmann-frau.md) | €3,200 – €3,800 | €3,900 – €5,000 | €5,500 – €8,000 (branch mgmt) |
 | [Fachinformatiker/in](../jobs/it/fachinformatiker-in.md) | €3,170 – €3,830 | €4,000 – €5,000 | €5,000 – €6,250+ |
+| [Forstwirt/in](../jobs/green/forstwirt-in.md) | €3,124 – €3,318 | €3,681 – €4,045 | €4,980 (Forstwirtschaftsmeister) |
 | [Steuerfachangestellte/r](../jobs/commercial/steuerfachangestellte-r.md) | €2,800 – €3,400 | €3,500 – €4,500 | **€5,500 – €8,000** (Steuerberater) |
 | [Spedition und Logistik](../jobs/logistics/kaufmann-frau-spedition-logistikdienstleistung.md) | €2,800 – €3,400 | €3,400 – €4,300 | €5,500 – €8,000 (branch mgmt) |
 | [Elektroniker/in EGT](../jobs/skilled-trades/elektroniker-in-energie-und-gebaeudetechnik.md) | €2,800 – €3,300 | €3,300 – €4,000 | €4,000 – €5,000 (Meister) |
@@ -185,6 +186,7 @@ estimates, and each carries its validity window — they expire.
 | **ADEXA/ADA** | [Apotheker/in](../jobs/healthcare/apotheker-in.md) in public pharmacies — **not** Nordrhein or Sachsen | 01.01.2026 – 31.12.2026 |
 | **TV-Ärzte/VKA** | [Arzt / Ärztin](../jobs/healthcare/arzt-aerztin.md) (Stufen I–IV) | 01.06.2026 – 31.12.2026 |
 | **TV-N NW** | Bus drivers, NRW only (EG 5–7) | 01.05.2026 – 31.12.2026 |
+| **TVöD VKA (EG 5–10)** | [Forstwirt/in](../jobs/green/forstwirt-in.md) and the forestry ladder; state forests use TV-L / TV-L-Forst | 01.05.2026 – 31.03.2027 |
 
 Source: [oeffentlicher-dienst.info](https://oeffentlicher-dienst.info).
 
