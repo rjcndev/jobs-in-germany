@@ -85,6 +85,14 @@ Two mechanisms worth knowing independently of route:
 
 ## Special cases
 
+**Where no qualification exists at all.** [Barkeeper/in](../jobs/hospitality/barkeeper-in.md) is the limit case of the rule
+above: bartending is **not a recognised German occupation**, so there is nothing for a foreign
+qualification to be assessed as equivalent to, and **§18a is simply unavailable**. The routes
+are to qualify in a hospitality occupation that does exist, the Westbalkanregelung, or to
+arrive on some other basis entirely.
+
+
+
 **Berufskraftfahrer/in is the outlier.** The residence permit is comparatively routine; the
 obstacle is the **driving licence**. Third-country C/CE/D licences generally **cannot be
 exchanged** and require the full German theory and practical test. Non-EU drivers employed

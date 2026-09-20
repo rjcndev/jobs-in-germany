@@ -140,6 +140,7 @@ See the [sector overview](jobs/hospitality/README.md) for the 2022 restructuring
 | [Koch / Köchin](jobs/hospitality/koch-koechin.md) | No | No to work; **yes for the visa** |
 | [Fachmann/-frau Restaurants und Veranstaltungsgastronomie — "Kellner"](jobs/hospitality/fachmann-frau-restaurants-veranstaltungsgastronomie.md) | No | No to work; **yes for the visa** |
 | [Hotelfachmann/-frau](jobs/hospitality/hotelfachmann-frau.md) | No | No to work; **yes for the visa** |
+| [Barkeeper/in](jobs/hospitality/barkeeper-in.md) | No | **No German qualification exists** — no §18a route |
 
 ## The one distinction that matters
 

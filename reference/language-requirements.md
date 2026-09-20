@@ -50,6 +50,7 @@ vary in what they accept — check with the specific body, not with a general li
 | [Spedition und Logistikdienstleistung](../jobs/logistics/kaufmann-frau-spedition-logistikdienstleistung.md) | None | **B2** | English is genuinely half the job — a rare case |
 | [Ingenieur/in](../jobs/engineering/ingenieur-in.md) | None | **B2+**, varies sharply | English viable in corporate R&D; German essential in Mittelstand and construction |
 | [Hotelfachmann/-frau](../jobs/hospitality/hotelfachmann-frau.md) | None | **B1–B2** | English an asset, not a substitute |
+| [Barkeeper/in](../jobs/hospitality/barkeeper-in.md) | None | **B1** | City bars often run in English; age-verification and licensing duties are in German |
 | [Elektroniker/in EGT](../jobs/skilled-trades/elektroniker-in-energie-und-gebaeudetechnik.md) | None to be employed | **B1–B2** | Site safety and VDE norms are in German |
 | [Elektroniker/in Betriebstechnik](../jobs/industrial/elektroniker-in-betriebstechnik.md) | None | **B1–B2** | Safety instruction, VDE and shift handover in German |
 | [Mechatroniker/in](../jobs/industrial/mechatroniker-in.md) | None | **B1–B2** | Commissioning teams abroad often work in English |
