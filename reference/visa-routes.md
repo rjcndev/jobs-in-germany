@@ -88,6 +88,7 @@ Two mechanisms worth knowing independently of route:
 | [Kfz-Mechatroniker/in](../jobs/skilled-trades/kraftfahrzeugmechatroniker-in.md) | §18a or §16a | No | Equivalence sits with the **Handwerkskammer**; HV qualification does not transfer |
 | [Forstwirt/in](../jobs/green/forstwirt-in.md) | §18a or §16a | No | Equivalence sits with the **Landwirtschaftskammer** or a state body — a third system |
 | [Metallbauer/in](../jobs/skilled-trades/metallbauer-in.md) | §18a or §16a | No | Handwerkskammer equivalence; **self-employment needs the Meister**, unlike its industrial twin |
+| [Maurer/in](../jobs/skilled-trades/maurer-in.md) | §18a, **§16a**, or §26(2) BeschV | No | Handwerkskammer equivalence. **Check whether you are employed or posted** — it changes your social insurance |
 | [Tischler/in — Schreiner/in](../jobs/skilled-trades/tischler-in.md) | §18a or §16a | No | Handwerkskammer equivalence; search **both** titles, they are regional variants |
 | [Fleischer/in — Metzger/in](../jobs/skilled-trades/fleischer-in.md) | §18a or §16a | No | **Three** regional titles; check whether a vacancy is Handwerk or industrial |
 | [Bäcker/in](../jobs/skilled-trades/baecker-in.md) | §18a or §16a | No | Low language bar makes it a realistic entry occupation |

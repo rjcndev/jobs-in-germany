@@ -51,6 +51,7 @@ difficulty.
 | [Konstruktionsmechaniker/in](../jobs/industrial/konstruktionsmechaniker-in.md) | €3,200 – €3,800 | €3,800 – €4,600 | €4,700 – €5,800 (Meister/Techniker) | €38,400 – €45,600 |
 | [Bankkaufmann/-frau](../jobs/commercial/bankkaufmann-frau.md) | €3,200 – €3,800 | €3,900 – €5,000 | €5,500 – €8,000 (branch mgmt) | €38,400 – €45,600 |
 | [Fachinformatiker/in](../jobs/it/fachinformatiker-in.md) | €3,170 – €3,830 | €4,000 – €5,000 | €5,000 – €6,250+ | €38,040 – €45,960 |
+| [Maurer/in](../jobs/skilled-trades/maurer-in.md) | €3,100 – €3,800 | €3,700 – €4,400 | €4,400 – €5,600 (Polier / Meister) | €37,200 – €45,600 |
 | [Feuerwehrmann / Feuerwehrfrau](../jobs/public-service/feuerwehrmann-frau.md) — verbeamtet | €3,216 – €3,438 | €3,694 – €4,295 | €4,505 – €6,381 (A 12–13) | €38,592 – €41,256 |
 | [Steuerbeamte/r](../jobs/public-service/steuerbeamte-r.md) — verbeamtet | €3,128 – €3,438 | €3,694 – €5,257 | €5,221 – €6,381 (A 13) | €37,536 – €41,256 |
 | [Forstwirt/in](../jobs/green/forstwirt-in.md) | €3,124 – €3,318 | €3,681 – €4,045 | €4,980 (Forstwirtschaftsmeister) | €37,488 – €39,816 |
