@@ -96,7 +96,7 @@ Once you are comparing professions rather than reading up on one, start here:
 ## Professions covered
 
 ### healthcare
-See the [sector overview](jobs/healthcare/README.md) — recognition is near-identical across these five and is collected there.
+See the [sector overview](jobs/healthcare/README.md) — recognition is near-identical across most of these and is collected there, along with the two exceptions that are not regulated at all.
 
 | Profession | Regulated | Recognition needed to work |
 |---|---|---|
