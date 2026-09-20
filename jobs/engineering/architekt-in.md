@@ -48,8 +48,8 @@ pharmacist · **architect**
 This repo already contains [Arzt](../healthcare/arzt-aerztin.md),
 [Apotheker](../healthcare/apotheker-in.md),
 [Pflegefachfrau/-mann](../healthcare/pflegefachfrau-pflegefachmann.md) and
-**Zahnarzt**, and adds
-**Hebamme** — so the contrast is visible at first hand. Compare an
+[Zahnarzt](../healthcare/zahnarzt-zahnaerztin.md), and adds
+[Hebamme](../healthcare/hebamme.md) — so the contrast is visible at first hand. Compare an
 EU-trained architect, who is listed on production of the right diploma, with an EU-trained
 [Physiotherapeut](../healthcare/physiotherapeut-in.md), who goes through a full individual
 assessment because physiotherapy is not on the list.

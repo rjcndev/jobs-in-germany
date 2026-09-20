@@ -8,7 +8,7 @@ their profession's own Versorgungswerk instead.**
 
 The repo already profiles [Arzt](../jobs/healthcare/arzt-aerztin.md) and
 [Apotheker](../jobs/healthcare/apotheker-in.md), describes the ladders to Steuerberater and
-Rechtsanwalt, and adds **Architekt** — and until now
+Rechtsanwalt, and adds [Architekt](../jobs/engineering/architekt-in.md) — and until now
 mentioned this nowhere. It matters most to exactly the people this repo is written for:
 anyone arriving mid-career, and anyone who may leave Germany again.
 
@@ -104,9 +104,9 @@ Versorgungswerk your address abroad. Entitlements are not paid to people who can
 |---|---|
 | [Arzt / Ärztin](../jobs/healthcare/arzt-aerztin.md) | Ärzteversorgung — the largest and oldest group |
 | [Apotheker/in](../jobs/healthcare/apotheker-in.md) | Apothekerversorgung |
-| **Zahnarzt / Zahnärztin** | Zahnärzteversorgung |
-| **Psychotherapeut/in** | Via the Psychotherapeutenkammer; arrangements vary by state |
-| **Architekt/in** | Architektenversorgung in most states; joint schemes in others |
+| [Zahnarzt / Zahnärztin](../jobs/healthcare/zahnarzt-zahnaerztin.md) | Zahnärzteversorgung |
+| [Psychotherapeut/in](../jobs/healthcare/psychotherapeut-in.md) | Via the Psychotherapeutenkammer; arrangements vary by state |
+| [Architekt/in](../jobs/engineering/architekt-in.md) | Architektenversorgung in most states; joint schemes in others |
 | **Rechtsanwalt/-anwältin**, **Notar/in** | Rechtsanwaltsversorgung — reachable from [Rechtsanwaltsfachangestellte/r](../jobs/commercial/rechtsanwaltsfachangestellte-r.md) |
 | **Steuerberater/in** | Steuerberaterversorgung — reachable from [Steuerfachangestellte/r](../jobs/commercial/steuerfachangestellte-r.md) |
 

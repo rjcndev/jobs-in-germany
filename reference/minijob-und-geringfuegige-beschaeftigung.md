@@ -6,7 +6,7 @@ a minimum wage and holiday entitlement, but deliberately placed outside most of 
 insurance system.
 
 It matters here for three reasons: it is how much of [hospitality](../jobs/hospitality/README.md),
-retail, cleaning and student work is
+retail, [cleaning](../jobs/services/README.md) and student work is
 structured; it is a common first job for new arrivals; and the version used in private
 households is the legal alternative to what is otherwise an overwhelmingly undeclared market.
 
@@ -131,8 +131,8 @@ Caps are set in §35a EStG and change with tax legislation; figures accessed 202
 
 ## Why the repo cares
 
-- It is the legal shape of the **Reinigungskraft**
-  and **Haushaltshilfe** tiers, where there is no
+- It is the legal shape of the [Reinigungskraft](../jobs/services/reinigungskraft.md)
+  and [Haushaltshilfe](../jobs/services/haushaltshilfe.md) tiers, where there is no
   qualification and therefore no recognition story — employment status *is* the story.
 - It underpins the flexible staffing of [hospitality](../jobs/hospitality/README.md).
 - For a new arrival, a Minijob is often the fastest legal income — and the one that builds
