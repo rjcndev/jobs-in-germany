@@ -229,6 +229,43 @@ are **Gebäudereiniger/in**, **Reinigungskraft** and **Raumpfleger/in**.
   you opt in); the **Haushaltsscheck** procedure for private households; and **§35a EStG**.
   Relevant well beyond cleaning — it is how a large share of hospitality, retail and student
   work is structured.
+- **`reference/language-certificates.md`** — **the Fachsprachprüfung is the single
+  most-cited certificate in the repo, at 8 mentions, and is explained nowhere.** It is not a
+  general language certificate: it is a profession-specific oral exam at the relevant Kammer,
+  and the [Arzt](jobs/healthcare/arzt-aerztin.md) and
+  [Apotheker](jobs/healthcare/apotheker-in.md) files both name it as the usual failure point
+  for third-country applicants. Meanwhile **Goethe, telc, TestDaF, DSH and ÖSD appear exactly
+  once each**, in one line of the [language table](reference/language-requirements.md), with
+  no guidance on which authority accepts which, what they cost, how long they stay valid, or
+  where to sit them. Should also cover **TOEFL and IELTS**, currently at **zero mentions** —
+  a real gap given the repo covers roles where English is the working language
+  ([Spedition](jobs/logistics/kaufmann-frau-spedition-logistikdienstleistung.md) calls it
+  "half the job", plus software and corporate R&D).
+
+- **`reference/occupational-certificates.md`** — the short tickets that gate specific work.
+  Roughly ten appear across the repo and **each one appears in exactly one file**, so the
+  pattern is invisible: **Staplerschein** (DGUV V68), **ADR** for hazardous goods,
+  **Code 95** plus its 35 hours every five years, **Hochvolt** for EV work, **§34a
+  Sachkunde** for security, the **§43 IfSG Infektionsschutz-Belehrung** for food handling,
+  **DVGW** for gas, **Strahlenschutz** for radiology, and the physiotherapy "certificate
+  treadmill" (Manuelle Therapie, Bobath, Lymphdrainage). Collected into one table they show
+  something the profession files individually cannot: these are short, cheap relative to a
+  qualification, **usually employer-funded, and frequently the actual gate to a role or a pay
+  step** — often mattering more to a career in the near term than the next formal
+  qualification does.
+
+- **`reference/weiterbildung-funding.md`** — how retraining is paid for. **Bildungsgutschein**
+  (3 files) and **Aufstiegs-BAföG** (4 files) both recur unexplained; keep the Meisterbrief
+  detail in `meister.md` and the general funding mechanics here. Two further instruments are
+  at **zero mentions**: **Bildungsurlaub / Bildungszeit**, statutory paid educational leave
+  which is **state law and therefore another sixteen-system case** for
+  `bundeslaender.md`; and **Qualifizierungsgeld** under the Qualifizierungschancengesetz,
+  which funds retraining in structurally changing sectors. That last one closes a loop the
+  repo already opened — [Büromanagement](jobs/commercial/kaufmann-frau-fuer-bueromanagement.md)
+  flags automation exposure, [Bankkaufmann](jobs/commercial/bankkaufmann-frau.md) a shrinking
+  branch network, and Kfz-Mechatroniker the EV transition, and none of them says there is a
+  funded way out.
+
 - **`reference/versorgungswerke.md`** — **another zero-mention concept**, and the third one
   this audit has turned up after health insurance and Minijob. Members of the
   Kammerberufe — doctors, pharmacists, lawyers, architects, tax advisers, vets, notaries —
