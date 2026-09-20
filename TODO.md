@@ -202,6 +202,28 @@ files:
 - ~~`reference/ausbildung.md`~~ — [written](reference/ausbildung.md).
 - ~~`reference/meister.md`~~ — [written](reference/meister.md), including the §7b HwO Altgesellenregelung, which lets a Geselle with six years' experience run an Anlage A business without a Meisterbrief and was missing from every trade file.
 
+- ~~`reference/shift-work-and-supplements.md`~~ — [written](reference/shift-work-and-supplements.md), with the verified §8 TVöD rates and the §3b EStG finding that most shift supplements are tax-free.
+- **`reference/bundeslaender.md`** — **8 files tell the reader to "choose the Bundesland"**
+  and none helps them do it. Should compare: Besoldung levels (state law since 2006),
+  recognition practice and processing times, Verbeamtung policy for teachers, A13-für-alle
+  status, cost of living against nominal pay, and where the public-sector tariffs buy most.
+  The repo's most repeated instruction is currently its least actionable one.
+- **`reference/health-insurance.md`** — **zero mentions across 23 files, which is itself the
+  finding.** GKV vs PKV, the JAEG threshold above which you may leave the statutory system,
+  Familienversicherung covering non-earning dependants free, and the one-way-door problem of
+  switching to private. It interlocks with things the repo already covers: **Beihilfe** for
+  [Beamte](reference/beamte-vs-angestellte.md), and self-employment for
+  [Meister](#7-reference-documents) and pharmacy owners. For anyone actually moving to
+  Germany this ranks above several profession files.
+- **`reference/minijob-und-geringfuegige-beschaeftigung.md`** — **Minijob had zero mentions
+  across all 23 files** in the §8 audit, and the cleaning entries above cannot be written
+  without it. Should cover: the **earnings threshold, which has been indexed to the
+  Mindestlohn since 2024** and therefore moves every time the minimum wage does — compute or
+  check it rather than quoting a figure; Midijob and the Übergangsbereich above it; what a
+  Minijob does and does not build (no unemployment entitlement, minimal pension credit unless
+  you opt in); the **Haushaltsscheck** procedure for private households; and **§35a EStG**.
+  Relevant well beyond cleaning — it is how a large share of hospitality, retail and student
+  work is structured.
 - **`reference/language-certificates.md`** — **the Fachsprachprüfung is the single
   most-cited certificate in the repo, at 8 mentions, and is explained nowhere.** It is not a
   general language certificate: it is a profession-specific oral exam at the relevant Kammer,
