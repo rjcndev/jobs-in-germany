@@ -95,6 +95,7 @@ Two mechanisms worth knowing independently of route:
 | [Straßenbauer / Beton- und Stahlbetonbauer](../jobs/skilled-trades/strassenbauer-betonbauer.md) | §18a, **§16a**, or §26(2) BeschV | No | Handwerkskammer **or** IHK FOSA depending on whether your qualification is Handwerk or industrial |
 | [Tischler/in — Schreiner/in](../jobs/skilled-trades/tischler-in.md) | §18a or §16a | No | Handwerkskammer equivalence; search **both** titles, they are regional variants |
 | [Raumausstatter/in](../jobs/skilled-trades/raumausstatter-in.md) | §18a, §16a, or §26(2) BeschV | No | Handwerkskammer equivalence; **the 2020 Meisterpflicht applies to you — grandfathering protects only existing businesses** |
+| [Fliesen-, Platten- und Mosaikleger/in](../jobs/skilled-trades/fliesenleger-in.md) | §18a, §16a, or §26(2) BeschV | No | **Beware "self-employment" offers** — this is the trade Scheinselbstständigkeit is documented in |
 | [Fleischer/in — Metzger/in](../jobs/skilled-trades/fleischer-in.md) | §18a or §16a | No | **Three** regional titles; check whether a vacancy is Handwerk or industrial |
 | [Bäcker/in](../jobs/skilled-trades/baecker-in.md) | §18a or §16a | No | Low language bar makes it a realistic entry occupation |
 | [Friseur/in](../jobs/skilled-trades/friseur-in.md) | §18a or §16a | No | Handwerkskammer equivalence; **Stuhlmiete needs Handwerksrolle entry** |

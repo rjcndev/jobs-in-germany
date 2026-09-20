@@ -162,6 +162,7 @@ See the [sector overview](jobs/skilled-trades/README.md) for the Anlage A rule: 
 | [Straßenbauer / Beton- und Stahlbetonbauer](jobs/skilled-trades/strassenbauer-betonbauer.md) | Self-employment only | No to be employed; **municipal Bauhof work is TVöD** |
 | [Tischler/in — Schreiner/in](jobs/skilled-trades/tischler-in.md) | Self-employment only | No to be employed; yes to run a business |
 | [Raumausstatter/in](jobs/skilled-trades/raumausstatter-in.md) | Self-employment only — **re-regulated in 2020** | No to be employed; **and Bestandsschutz means two classes of owner** |
+| [Fliesen-, Platten- und Mosaikleger/in](jobs/skilled-trades/fliesenleger-in.md) | Self-employment only — **re-regulated in 2020** | No to be employed; **knee damage is a recognised occupational disease** |
 | [Fleischer/in — Metzger/in](jobs/skilled-trades/fleischer-in.md) | Self-employment only | No to be employed; yes to run a business |
 | [Bäcker/in](jobs/skilled-trades/baecker-in.md) | Self-employment only | No to be employed; yes to run a business |
 | [Konditor/in](jobs/skilled-trades/konditor-in.md) | Self-employment only | No to be employed; yes to run a business |

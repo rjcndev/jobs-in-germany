@@ -30,7 +30,7 @@
 **Why this is worth a file.** The repo's framing treats regulation as settled — a profession
 either is or is not regulated. ATA/OTA shows the boundary moving, recently, and in the
 direction of more regulation, the same way the
-**2020 re-regulation of twelve trades** did in the
+[2020 re-regulation of twelve trades](../skilled-trades/raumausstatter-in.md) did in the
 Handwerk. Nothing here is permanent.
 
 **Practical consequences.** Qualifications obtained under the old DKG recommendation were
