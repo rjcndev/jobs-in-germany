@@ -77,6 +77,7 @@ difficulty.
 | [Kaufmann/-frau für Büromanagement](../jobs/commercial/kaufmann-frau-fuer-bueromanagement.md) | €2,500 – €3,000 | €3,000 – €3,700 | €3,300 – €4,200 (tariff industry) | €30,000 – €36,000 |
 | [Konditor/in](../jobs/skilled-trades/konditor-in.md) | €2,400 – €3,100 | €3,000 – €3,700 | €3,600 – €4,600 (Meister) | €28,800 – €37,200 |
 | [PTA — Pharmazeutisch-technische/r Assistent/in](../jobs/healthcare/pharmazeutisch-technische-r-assistent-in.md) | €2,600 – €2,900 | €3,000 – €3,600 | €3,400 – €4,980 (hospital / Weiterbildung) | €31,200 – €34,800 |
+| [Raumausstatter/in](../jobs/skilled-trades/raumausstatter-in.md) | €2,500 – €3,000 | €2,900 – €3,500 | €3,700 – €4,600 (Meister) | €30,000 – €36,000 |
 | [Rechtsanwaltsfachangestellte/r](../jobs/commercial/rechtsanwaltsfachangestellte-r.md) | €2,400 – €3,000 | €3,000 – €3,800 | €4,500 – €6,000 (Bürovorsteher) | €28,800 – €36,000 |
 | [Bäcker/in](../jobs/skilled-trades/baecker-in.md) | €2,400 – €3,000 | €2,900 – €3,500 | €3,500 – €4,500 (Meister) | €28,800 – €36,000 |
 | [Restaurant- und Veranstaltungsgastronomie](../jobs/hospitality/fachmann-frau-restaurants-veranstaltungsgastronomie.md) | €2,400 – €3,000 | €2,900 – €3,500 | €3,300 – €4,300 (Restaurantleitung) | €28,800 – €36,000 |

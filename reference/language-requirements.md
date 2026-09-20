@@ -87,6 +87,7 @@ vary in what they accept — check with the specific body, not with a general li
 | [Straßenbauer / Beton- und Stahlbetonbauer](../jobs/skilled-trades/strassenbauer-betonbauer.md) | None to be employed | **B1–B2** | Setting out, traffic-management briefings, and residents if you work for a municipality |
 | [Friseur/in](../jobs/skilled-trades/friseur-in.md) | None to be employed | **B2** | **The highest language bar at the lowest pay in this repo** — consultation is the work |
 | [Tischler/in — Schreiner/in](../jobs/skilled-trades/tischler-in.md) | None to be employed | **B2** | Measuring and agreeing changes in customers' homes |
+| [Raumausstatter/in](../jobs/skilled-trades/raumausstatter-in.md) | None to be employed | **B2** | A consultative trade practised in customers' homes — measuring, advising, agreeing changes |
 | [Konditor/in](../jobs/skilled-trades/konditor-in.md) | None to be employed | **B1–B2** | B1 for production; B2 for occasion-cake consultations |
 | [Fleischer/in — Metzger/in](../jobs/skilled-trades/fleischer-in.md) | None to be employed | **B1–B2** | More needed in a counter-facing role |
 | [Bäcker/in](../jobs/skilled-trades/baecker-in.md) | None to be employed | **B1** | Production work is among the least language-dependent here |
