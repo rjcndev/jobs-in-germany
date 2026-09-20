@@ -62,12 +62,48 @@ every such file will re-explain the same thing badly.
 
 ## 5. Skilled trades
 
+### 5a. Bauhauptgewerbe — the missing cluster
+
+The repo has two trades, [Elektroniker](jobs/skilled-trades/elektroniker-in-energie-und-gebaeudetechnik.md)
+and [SHK](jobs/skilled-trades/anlagenmechaniker-in-shk.md), and **both are building
+*services***. Actual construction — Bauhauptgewerbe — is absent, and it is not just more
+trades: it runs on its own tariff and social architecture that nothing else in the repo
+shares. **Write [`reference/bauhauptgewerbe.md`](#7-reference-documents) alongside the
+first of these**, the way [Beamte](reference/beamte-vs-angestellte.md) preceded
+[Lehrer](jobs/education/lehrer-in.md).
+
+| Profession | Why |
+|---|---|
+| **Dachdecker/in** | Anlage A. Sits on the **Energiewende** seam like SHK does — PV mounting and roof insulation are now a large share of the work. Also the clearest case of **Absturzsicherung** law and weather-dependent employment. |
+| **Zimmerer/Zimmerin** | Anlage A, and riding the **Holzbau** boom as timber construction grows for carbon reasons. High-status trade with a living Walz tradition. |
+| **Maurer/in** | Anlage A, the core Bau trade, and the standard entry point for the posted-worker and Bauhelfer routes discussed below. |
+| **Gerüstbauer/in** | Anlage A. One of the highest accident rates in German working life; safety law *is* the job. |
+| **Straßenbauer/in, Beton- und Stahlbetonbauer/in** | Infrastructure-driven demand (bridges, rail, grid). Often municipal or large-contractor employers rather than small Betriebe. |
+| **Fliesen-, Platten- und Mosaikleger/in** | See the 2020 re-regulation note below — the single best example of Germany reversing a deregulation. |
+
+### 5b. The 2020 re-regulation — a gap in the repo's own framing
+
+The README presents Anlage A (Meisterpflicht) as settled. It is not. The 2004 reform
+deregulated dozens of trades; in **2020 the Meisterpflicht was restored for twelve of
+them**, including Fliesen-, Platten- und Mosaikleger, Estrichleger, Parkettleger,
+Raumausstatter, Rollladen- und Sonnenschutztechniker, Drechsler, Böttcher, Glasveredler,
+Schilder- und Lichtreklamehersteller, Orgel- und Harmoniumbauer, and Behälter- und
+Apparatebauer.
+
+Existing businesses were grandfathered, so the same trade now contains owners operating
+under different rules depending on when they started. **Worth a short note in the README's
+"one distinction that matters" section** — regulation moves in both directions, and this
+repo currently implies it only ever tightens.
+
+### 5c. Other trades
+
 | Profession | Why |
 |---|---|
 | **Kfz-Mechatroniker/in** | Anlage A trade in the middle of the **EV transition** — Hochvolt qualification is now the dividing line, exactly as heat pumps are for [SHK](jobs/skilled-trades/anlagenmechaniker-in-shk.md). |
 | **Friseur/in** | Anlage A, and the clearest case of a trade sitting **at the Mindestlohn** despite a full Ausbildung. |
 | **Bäcker/in, Konditor/in** | Night work, severe shortage, collapsing training numbers. |
 | **Fachkraft für Veranstaltungstechnik** | IHK, not Handwerk, with real safety-law responsibility (rigging, Versammlungsstättenverordnung). |
+| **Bauzeichner/in** | IHK rather than Handwerk, and the desk-side counterpart to the trades above — pairs with [Ingenieur](jobs/engineering/ingenieur-in.md). |
 
 ## 6. Commercial
 
@@ -80,6 +116,15 @@ every such file will re-explain the same thing badly.
 
 ## 7. Reference documents
 
+- **`reference/bauhauptgewerbe.md`** — construction's own architecture, and the prerequisite
+  for §5a. Should cover: **SOKA-BAU** (the industry-wide social fund that pools holiday
+  entitlement so it travels between employers — nothing else in the repo works this way);
+  the **BRTV-Bau** framework agreement; the **Bau-Mindestlohn**, which is set by AEntG
+  declaration *above* the statutory minimum and has two Lohngruppen;
+  **Saison-Kurzarbeitergeld** and the Winterbeschäftigungsumlage, which fund employment
+  through the months when site work stops; **posted workers** under the AEntG, since
+  construction is where EU posting and its documented exploitation problems concentrate;
+  and **BG BAU**, given the sector's accident and occupational-disease rates.
 - **`reference/qualification-ladders.md`** — Ausbildung → Fachwirt → Meister → Betriebswirt,
   mapped onto **DQR levels**, and how they compare to degrees. Several files gesture at
   this ladder; none explains it.
