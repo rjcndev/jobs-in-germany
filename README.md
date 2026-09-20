@@ -231,18 +231,53 @@ German professions fall into three groups, and conflating them wastes people mon
    slow. **Erzieher/in** is regulated too, but under sixteen separate *Länder* laws rather
    than a federal one, which makes it the most fragmented case of all.
 2. **Title-protected only** — Ingenieur. You may do the work; you may not use the word.
+   **And the protection is frequently state law, not federal.**
+   [Ingenieur/in](jobs/engineering/ingenieur-in.md) and
+   [Architekt/in](jobs/engineering/architekt-in.md) are both protected by **sixteen separate
+   state statutes**, with entry in a state chamber's register as the condition of using the
+   word — so the answer to "am I allowed to call myself this?" depends on which Bundesland
+   you are standing in. [Sozialarbeiter/in](jobs/education/sozialarbeiter-in.md) works the
+   same way through the **staatliche Anerkennung**.
 3. **Free professions** — IT, commercial and logistics roles, hospitality. No licence, no
    recognition, no title protection. The only paperwork is the visa.
 
-A fourth pattern sits outside the three: regulation that attaches to **an activity or a
-licence rather than the job title**. [Berufskraftfahrer/in](jobs/logistics/berufskraftfahrer-in.md)
-has a free title but a tightly regulated licence, and a third-country C/CE licence usually
-cannot be exchanged at all. [Bankkaufmann/-frau](jobs/commercial/bankkaufmann-frau.md) has a
-free title, but giving investment advice requires personal BaFin registration. Check what is
-actually being controlled, not what it is called.
+## The fourth pattern: the gate is on the activity, not the title
+
+A fourth pattern sits outside the three, and it turns out to be the most common of all:
+regulation that attaches to **an activity or a licence rather than the job title**.
+
+[Berufskraftfahrer/in](jobs/logistics/berufskraftfahrer-in.md) has a free title but a tightly
+regulated licence, and a third-country C/CE licence usually cannot be exchanged at all.
+[Bankkaufmann/-frau](jobs/commercial/bankkaufmann-frau.md) has a free title, but giving
+investment advice requires personal BaFin registration.
+[Security work](jobs/security/README.md) is gated by **§34a GewO** whatever the job is
+called. [Architekt/in](jobs/engineering/architekt-in.md) adds a reserved activity —
+**Bauvorlageberechtigung** — to a protected title.
+
+And beneath those sit a dozen short certificates that decide, case by case, who may do a
+particular piece of work: the **Elektrofachkraft** rule under DGUV V3, **Hochvolt** for EV
+systems, **Code 95**, **ADR**, the **Staplerschein**, the **§43 IfSG** food briefing,
+**Pflanzenschutz-Sachkunde**, welding and radiation-protection certificates.
+**[Occupational certificates](reference/occupational-certificates.md)** collects them,
+because individually they look like trivia and together they are the rule rather than the
+exception.
+
+**Check what is actually being controlled, not what it is called.**
 
 Handwerk trades are a special case: free to be *employed* in, licence-bound to be
 *self-employed* in.
+
+**And none of this is permanent.** The **Anlage A** list is not a settled fact about which
+trades are dangerous or skilled; it is a political decision that has been taken twice in
+opposite directions. In **2004** Germany deregulated 53 trades. In **2020** it restored the
+Meisterpflicht for **twelve of them**, grandfathering the businesses that had opened
+meanwhile — so
+[Raumausstatter](jobs/skilled-trades/raumausstatter-in.md) and
+[Fliesenleger](jobs/skilled-trades/fliesenleger-in.md) now contain two classes of owner
+operating side by side under different rules.
+[ATA/OTA](jobs/healthcare/ata-ota.md) shows the same movement in healthcare, becoming a
+regulated profession only in **2022**. Regulation here tightens and loosens; check the
+current position rather than the general reputation of a trade.
 
 And one trap cuts across the whole "free" group: **unregulated does not mean paperwork-free
 for non-EU citizens.** Nobody needs recognition to cook or to work a hotel reception — but
