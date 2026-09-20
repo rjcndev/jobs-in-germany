@@ -40,3 +40,4 @@ Identify the competent body for your target Bundesland before anything else.
 - [Pferdewirt/in](pferdewirt-in.md)
 - [Fachkraft Agrarservice](fachkraft-agrarservice.md)
 - [Fischwirt/in](fischwirt-in.md)
+- [Hauswirtschafter/in](hauswirtschafter-in.md)

@@ -98,6 +98,7 @@ Two mechanisms worth knowing independently of route:
 | [Pferdewirt/in](../jobs/green/pferdewirt-in.md) | §18a, §16a, or §26(2) BeschV | No | **Riding qualifications and FN Trainer licences are not vocational qualifications** and support no permit |
 | [Fachkraft Agrarservice](../jobs/green/fachkraft-agrarservice.md) | §18a, §16a, or §26(2) BeschV | No | Landwirtschaftskammer. **The C/CE licence and Code 95 are the practical obstacle**, not the recognition |
 | [Fischwirt/in](../jobs/green/fischwirt-in.md) | §18a, §16a, or §26(2) BeschV | No | The most fragmented competent authority in the green sector; **maritime certificates are separate and partly portable** |
+| [Hauswirtschafter/in](../jobs/green/hauswirtschafter-in.md) | §18a, §16a, or §26(2) BeschV | No | **Landwirtschaftskammer — for a job in a care home.** Counter-intuitive, and worth checking before filing |
 | [Metallbauer/in](../jobs/skilled-trades/metallbauer-in.md) | §18a or §16a | No | Handwerkskammer equivalence; **self-employment needs the Meister**, unlike its industrial twin |
 | [Maurer/in](../jobs/skilled-trades/maurer-in.md) | §18a, **§16a**, or §26(2) BeschV | No | Handwerkskammer equivalence. **Check whether you are employed or posted** — it changes your social insurance |
 | [Zimmerer / Zimmerin](../jobs/skilled-trades/zimmerer-zimmerin.md) | §18a, **§16a**, or §26(2) BeschV | No | Handwerkskammer equivalence; **German building physics is where assessments find the gap** |

@@ -37,6 +37,15 @@ different law, different pay floors and different enforcement.
   and stage technology: IHK rather than Handwerk, with a **legally required competent person**
   in every larger venue.
 
+## The way up
+
+Both unqualified tiers have a route out, and it is worth stating where the files can be seen
+together: **[Gebäudereiniger/in](gebaeudereiniger-in.md)** for the cleaning side, and
+**[Hauswirtschafter/in](../green/hauswirtschafter-in.md)** — classified as a green profession
+but employed in care homes, schools and institutions — for anyone already doing catering,
+laundry and household work in an institution. Both are reachable by funded **Umschulung** or,
+with enough documented experience, by **Externenprüfung**.
+
 ## Common threads
 
 - **[Minijob and geringfügige Beschäftigung](../../reference/minijob-und-geringfuegige-beschaeftigung.md)**
