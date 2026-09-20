@@ -16,6 +16,8 @@ jobs/
 ├── it/
 ├── engineering/
 ├── skilled-trades/
+├── commercial/
+├── logistics/
 └── hospitality/
 ```
 
@@ -53,6 +55,20 @@ One file per profession, named after the German job title in kebab-case.
 | [Elektroniker/in Energie- und Gebäudetechnik](jobs/skilled-trades/elektroniker-in-energie-und-gebaeudetechnik.md) | Self-employment only | No to be employed; yes to run a business |
 | [Anlagenmechaniker/in SHK](jobs/skilled-trades/anlagenmechaniker-in-shk.md) | Self-employment only | No to be employed; yes to run a business |
 
+### commercial
+| Profession | Regulated | Recognition needed to work |
+|---|---|---|
+| [Kaufmann/-frau für Büromanagement](jobs/commercial/kaufmann-frau-fuer-bueromanagement.md) | No | No to work; **yes for the visa** |
+| [Industriekaufmann/-frau](jobs/commercial/industriekaufmann-frau.md) | No | No to work; **yes for the visa** |
+| [Steuerfachangestellte/r](jobs/commercial/steuerfachangestellte-r.md) | No — but Steuerberater above it is | No to work; **yes for the visa** |
+
+### logistics
+| Profession | Regulated | Recognition needed to work |
+|---|---|---|
+| [Berufskraftfahrer/in](jobs/logistics/berufskraftfahrer-in.md) | Title no — **licence yes** | Licence and code 95 are mandatory |
+| [Fachkraft für Lagerlogistik](jobs/logistics/fachkraft-fuer-lagerlogistik.md) | No | No to work; **yes for the visa** |
+| [Kaufmann/-frau für Spedition und Logistikdienstleistung](jobs/logistics/kaufmann-frau-spedition-logistikdienstleistung.md) | No | No to work; **yes for the visa** |
+
 ### hospitality
 See the [sector overview](jobs/hospitality/README.md) for the 2022 restructuring, minimum wage and working-time facts.
 
@@ -70,8 +86,13 @@ German professions fall into three groups, and conflating them wastes people mon
    slow. **Erzieher/in** is regulated too, but under sixteen separate *Länder* laws rather
    than a federal one, which makes it the most fragmented case of all.
 2. **Title-protected only** — Ingenieur. You may do the work; you may not use the word.
-3. **Free professions** — IT. No licence, no recognition, no title protection. The only
-   paperwork is the visa.
+3. **Free professions** — IT, commercial and logistics roles, hospitality. No licence, no
+   recognition, no title protection. The only paperwork is the visa.
+
+A fourth pattern sits outside the three: **Berufskraftfahrer/in**, where the *title* is
+free but the *licence* is tightly regulated, and a third-country C/CE licence usually
+cannot be exchanged at all. Regulation does not always attach to the job title — check what
+is actually being controlled.
 
 Handwerk trades are a special case: free to be *employed* in, licence-bound to be
 *self-employed* in.
