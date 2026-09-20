@@ -245,14 +245,14 @@ estimates, and each carries its validity window — they expire.
 
 | Agreement | Applies to | Table valid |
 |---|---|---|
-| **TVöD VKA** (+2.8%) | MT/MTA (EG 9a), Physio public (EG 7–9a), Büromanagement public (EG 5–6), public kitchens (EG 5–7) | 01.05.2026 – 31.03.2027 |
+| **TVöD VKA** (+2.8%) | MT/MTA (EG 9a), Physio public (EG 7–9a), Büromanagement public (EG 5–6), public kitchens (EG 5–7) — **and, since the backlog pass, the public-sector rows of 21 profession files in total** | 01.05.2026 – 31.03.2027 |
 | **TVöD-P** | [Pflegefachfrau/-mann](../jobs/healthcare/pflegefachfrau-pflegefachmann.md) (P7–P10) | 01.05.2026 – 31.03.2027 |
 | **TVöD EG N** (= P 8, Anlage D.14 TVöD-V) | [Notfallsanitäter/in](../jobs/healthcare/notfallsanitaeter-in.md); Rettungssanitäter EG 4, Wachleitung EG 9a–10 | 01.05.2026 – 31.03.2027 |
 | **TVöD SuE** | [Erzieher/in](../jobs/education/erzieher-in.md) (S8a–S18) | 01.05.2026 – 31.03.2027 |
 | **Bundesbesoldung (A 6–A 13)** | [Zollbeamte/r](../jobs/public-service/zollbeamte-r.md) — federal, uniform nationwide. **Last enacted table; a retroactive rise from 05/2026 was still pending** | 01.04.2025 – 30.04.2026 |
 | **TVöD-S** | [Bankkaufmann/-frau](../jobs/commercial/bankkaufmann-frau.md), Sparkassen only (EG 6–9a) — shares the VKA scale | 01.05.2026 – 31.03.2027 |
 | **Besoldung NRW (A 6–A 15)** | [Lehrer/in](../jobs/education/lehrer-in.md), [Polizist/in](../jobs/public-service/polizist-in.md), [Feuerwehr](../jobs/public-service/feuerwehrmann-frau.md) and [Steuerbeamte/r](../jobs/public-service/steuerbeamte-r.md) — **state law, NRW only** | 01.04.2026 – 28.02.2027 |
-| **TV-L (E 11–E 13)** | [Lehrer/in](../jobs/education/lehrer-in.md) as Angestellte; all states except Hessen | 01.04.2026 – 28.02.2027 |
+| **TV-L (E 11–E 13)** | [Lehrer/in](../jobs/education/lehrer-in.md) as Angestellte and [Wissenschaftliche/r Mitarbeiter/in](../jobs/services/wissenschaftliche-r-mitarbeiter-in.md) (E 13); all states except Hessen | 01.04.2026 – 28.02.2027 |
 | **ADEXA/ADA** | [Apotheker/in](../jobs/healthcare/apotheker-in.md) in public pharmacies — **not** Nordrhein or Sachsen | 01.01.2026 – 31.12.2026 |
 | **TV-Ärzte/VKA** | [Arzt / Ärztin](../jobs/healthcare/arzt-aerztin.md) (Stufen I–IV) | 01.06.2026 – 31.12.2026 |
 | **TV-N NW** | Bus drivers, NRW only (EG 5–7) | 01.05.2026 – 31.12.2026 |
@@ -283,6 +283,42 @@ These were listed as "verifiable" in the first version of this file. That was wr
 is no one scale to check them against, only a region-and-employer-specific one.
 
 ### Market estimates — not verifiable against any published source
+
+**This is now the larger half of the table.** The professions added in the backlog-completion
+pass are market estimates wherever they do not sit on a tariff scale already verified above.
+That includes: [Architekt](../jobs/engineering/architekt-in.md) and
+[Bauzeichner](../jobs/engineering/bauzeichner-in.md), whose offices are among the least
+tariff-covered employers here; the whole **Bauhauptgewerbe** cluster
+([Maurer](../jobs/skilled-trades/maurer-in.md),
+[Dachdecker](../jobs/skilled-trades/dachdecker-in.md),
+[Zimmerer](../jobs/skilled-trades/zimmerer-zimmerin.md),
+[Gerüstbauer](../jobs/skilled-trades/geruestbauer-in.md),
+[Straßen- und Betonbau](../jobs/skilled-trades/strassenbauer-betonbauer.md),
+[Fliesenleger](../jobs/skilled-trades/fliesenleger-in.md),
+[Raumausstatter](../jobs/skilled-trades/raumausstatter-in.md)), where the AEntG sector minima
+are real but the figures above them are not published as a single scale; the
+[green professions](../jobs/green/README.md); the
+[services folder](../jobs/services/README.md);
+[Triebfahrzeugführer](../jobs/logistics/triebfahrzeugfuehrer-in.md),
+[Pilot](../jobs/logistics/pilot-in.md) and
+[Fluglotse](../jobs/logistics/fluglotse-fluglotsin.md), all three of which have
+carrier- or employer-level agreements rather than a sector scale;
+[Zahnarzt](../jobs/healthcare/zahnarzt-zahnaerztin.md),
+[MFA](../jobs/healthcare/medizinische-fachangestellte-r.md) in private practice, and the
+private-practice rows of the therapy professions; and the commercial additions
+([Immobilien](../jobs/commercial/immobilienkaufmann-frau.md),
+[Versicherungen](../jobs/commercial/kaufmann-frau-versicherungen-finanzanlagen.md),
+[Wirtschaftsprüfer](../jobs/commercial/wirtschaftspruefer-in.md),
+[Notar](../jobs/commercial/notar-in.md)).
+
+Two rows are labelled **indicative on a verified scale** rather than estimated, because the
+agreement is verified here but the specific groups were not separately checked: the
+**S-groups** for [Sozialarbeit](../jobs/education/sozialarbeiter-in.md) and the **PTA
+groups** in the ADEXA/ADA agreement. Both are flagged in
+[TODO.md](../TODO.md#4-smaller-open-questions).
+
+The original list follows.
+
 
 Private-sector pay for [Softwareentwickler/in](../jobs/it/softwareentwickler-in.md),
 [Fachinformatiker/in](../jobs/it/fachinformatiker-in.md),
