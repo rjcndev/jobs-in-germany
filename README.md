@@ -324,6 +324,10 @@ that genuinely do not apply can be dropped; do not leave empty headings.
 cover every profession, the pay table has no duplicates and is correctly sorted, and every
 profession file carries a `Last reviewed` date. Run it before committing.
 
+It also runs automatically on every push and pull request —
+[`.github/workflows/check.yml`](.github/workflows/check.yml). That path is read by both
+GitHub Actions and Gitea Actions, so the job works on either host unchanged.
+
 ## Conventions
 
 - **Titles.** Give the German title first, English gloss second. Note whether the title is
