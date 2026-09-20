@@ -53,6 +53,7 @@ difficulty.
 | [Steuerbeamte/r](../jobs/public-service/steuerbeamte-r.md) — verbeamtet | €3,128 – €3,438 | €3,694 – €5,257 | €5,221 – €6,381 (A 13) | €37,536 – €41,256 |
 | [Forstwirt/in](../jobs/green/forstwirt-in.md) | €3,124 – €3,318 | €3,681 – €4,045 | €4,980 (Forstwirtschaftsmeister) | €37,488 – €39,816 |
 | [Zollbeamte/r](../jobs/public-service/zollbeamte-r.md) — verbeamtet | €2,918 – €3,455 | €3,683 – €4,918 | €5,198 – €6,621 (A 13) | €35,016 – €41,460 |
+| [Triebfahrzeugführer/in](../jobs/logistics/triebfahrzeugfuehrer-in.md) | €2,900 – €3,400 | €3,400 – €4,200 | €4,200 – €5,200 (Lehrlokführer, Disposition) | €34,800 – €40,800 |
 | [Steuerfachangestellte/r](../jobs/commercial/steuerfachangestellte-r.md) | €2,800 – €3,400 | €3,500 – €4,500 | **€5,500 – €8,000** (Steuerberater) | €33,600 – €40,800 |
 | [Spedition und Logistik](../jobs/logistics/kaufmann-frau-spedition-logistikdienstleistung.md) | €2,800 – €3,400 | €3,400 – €4,300 | €5,500 – €8,000 (branch mgmt) | €33,600 – €40,800 |
 | [Elektroniker/in EGT](../jobs/skilled-trades/elektroniker-in-energie-und-gebaeudetechnik.md) | €2,800 – €3,300 | €3,300 – €4,000 | €4,000 – €5,000 (Meister) | €33,600 – €39,600 |

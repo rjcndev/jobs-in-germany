@@ -84,6 +84,7 @@ vary in what they accept — check with the specific body, not with a general li
 | [Fleischer/in — Metzger/in](../jobs/skilled-trades/fleischer-in.md) | None to be employed | **B1–B2** | More needed in a counter-facing role |
 | [Bäcker/in](../jobs/skilled-trades/baecker-in.md) | None to be employed | **B1** | Production work is among the least language-dependent here |
 | [Berufskraftfahrer/in](../jobs/logistics/berufskraftfahrer-in.md) | None directly — but the **theory test** is a real gate | **B1** | Test language availability varies by authority |
+| [Triebfahrzeugführer/in](../jobs/logistics/triebfahrzeugfuehrer-in.md) | **B2 in practice** — radio wordings and rules are examined in German | **B2** | EU rules set roughly B1 as a floor; German operators ask for more, for obvious reasons |
 | [Koch / Köchin](../jobs/hospitality/koch-koechin.md) | None | **B1**, B2 to progress | Kitchen German is learnable on the job; HACCP paperwork is not |
 | [Restaurant- und Veranstaltungsgastronomie](../jobs/hospitality/fachmann-frau-restaurants-veranstaltungsgastronomie.md) | None | **B1**, B2 to progress | Casual service can run on English; wine advice and event coordination cannot |
 | [Fachkraft für Lagerlogistik](../jobs/logistics/fachkraft-fuer-lagerlogistik.md) | None | **A2–B1**, B2 to supervise | Lowest bar in the repo; employers must still ensure safety instruction is understood |
