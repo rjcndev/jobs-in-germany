@@ -47,6 +47,8 @@ Once you are comparing professions rather than reading up on one, start here:
 ## Professions covered
 
 ### healthcare
+See the [sector overview](jobs/healthcare/README.md) — recognition is near-identical across these five and is collected there.
+
 | Profession | Regulated | Recognition needed to work |
 |---|---|---|
 | [Medizinische/r Technologe/Technologin (MT / MTA)](jobs/healthcare/medizinische-technologin-mt-mta.md) | Yes | Yes |
@@ -86,6 +88,8 @@ See the [sector overview](jobs/industrial/README.md) for the Handwerk vs. Indust
 | [Konstruktionsmechaniker/in](jobs/industrial/konstruktionsmechaniker-in.md) | No — **welding certificates gate the work** | No to work; **yes for the visa** |
 
 ### skilled-trades
+See the [sector overview](jobs/skilled-trades/README.md) for the Anlage A rule: employment is free, self-employment needs the Meister.
+
 | Profession | Regulated | Recognition needed to work |
 |---|---|---|
 | [Elektroniker/in Energie- und Gebäudetechnik](jobs/skilled-trades/elektroniker-in-energie-und-gebaeudetechnik.md) | Self-employment only | No to be employed; yes to run a business |
@@ -152,6 +156,12 @@ Planned additions and maintenance deadlines live in [TODO.md](TODO.md).
 
 Copy [`TEMPLATE.md`](TEMPLATE.md) into the right category folder and fill it in. Sections
 that genuinely do not apply can be dropped; do not leave empty headings.
+
+## Checks
+
+`make check` verifies that every internal link resolves, all three cross-reference tables
+cover every profession, the pay table has no duplicates and is correctly sorted, and every
+profession file carries a `Last reviewed` date. Run it before committing.
 
 ## Conventions
 

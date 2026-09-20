@@ -289,22 +289,19 @@ are **Gebäudereiniger/in**, **Reinigungskraft** and **Raumpfleger/in**.
 
 ---
 
-## 8. Repo hygiene
+## 8. Repo hygiene — done
 
-- **No LICENSE.** It matters for a reference corpus that might be shared or contributed to.
-  CC BY-SA 4.0 fits the content better than a code licence.
-- **Automate the checks.** Every commit in this repo has been verified by hand with the same
-  two scripts — internal links resolve, and all three cross-reference tables cover every
-  profession. A `make check` plus a CI job would make that a guarantee rather than a habit,
-  and it is the check most likely to be skipped once someone else contributes.
-- **Category READMEs.** [hospitality](jobs/hospitality/README.md) and
-  [industrial](jobs/industrial/README.md) have one, and it earns
-  its place by holding the facts common to the whole sector. Healthcare (recognition is
-  near-identical across five professions) and skilled trades (Anlage A, Handwerksrolle) would
-  benefit the same way and would let the profession files stop repeating themselves.
-- **TEMPLATE.md has drifted.** It predates the verified-figures convention, the validity
-  windows and the "market estimate vs tariff-verified" labelling. Anyone following it today
-  would produce a file inconsistent with the last ten commits.
+- ~~LICENSE~~ — CC BY-SA 4.0, with the not-legal-advice notice.
+- ~~Automate the checks~~ — `make check` runs [scripts/check.py](scripts/check.py): link
+  resolution, table coverage, pay-table duplicates and sort order, and a `Last reviewed`
+  field on every profession. A CI job to run it on push is still outstanding.
+- ~~Category READMEs~~ — [healthcare](jobs/healthcare/README.md) and
+  [skilled-trades](jobs/skilled-trades/README.md) added, joining
+  [hospitality](jobs/hospitality/README.md) and [industrial](jobs/industrial/README.md).
+  Remaining categories have too few files to need one yet.
+- ~~TEMPLATE.md drift~~ — rewritten around the current conventions: verified vs estimated
+  figures, validity windows, perishable values, confusable titles, and the requirement to
+  add a row to all three cross-reference tables.
 
 ## Maintenance
 
