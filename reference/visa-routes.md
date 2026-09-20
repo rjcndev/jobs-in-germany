@@ -62,6 +62,7 @@ Two mechanisms worth knowing independently of route:
 | [Steuerbeamte/r](../jobs/public-service/steuerbeamte-r.md) | Beamten appointment, not a visa route | No | §7 BeamtStG; varies by Bundesland for posts exercising state authority |
 | [Notfallsanitäter/in](../jobs/healthcare/notfallsanitaeter-in.md) | §16d → §18a | No | Also needs a **C1 driving licence**, which a third country's generally cannot be exchanged for |
 | [Erzieher/in](../jobs/education/erzieher-in.md) | §16d → §18a | No | **Choose the Bundesland before starting** — procedures differ in substance |
+| [Sozialarbeiter/in](../jobs/education/sozialarbeiter-in.md) | §16d → **§18b** | Borderline — not at entry pay | Degree comparability **and** a separate state Anerkennung; SGB VIII is the gap every time |
 | [Lehrer/in](../jobs/education/lehrer-in.md) | §16d → §18b | Possible at A13/E13 | Recognition is achievable; **Verbeamtung is not**, without EU citizenship |
 | [Physiotherapeut/in](../jobs/healthcare/physiotherapeut-in.md) | §16d → §18a | No — below threshold | Ordinary skilled-worker permit only |
 | [Logopädie / Ergotherapie](../jobs/healthcare/therapieberufe-logopaedie-ergotherapie.md) | §16d → §18a | No | Regulated, no automatic EU recognition; **practice ownership is uncapped**, unlike psychotherapy |

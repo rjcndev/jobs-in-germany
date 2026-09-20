@@ -32,6 +32,7 @@ difficulty.
 | [Softwareentwickler/in](../jobs/it/softwareentwickler-in.md) | €4,170 – €5,170 | €5,420 – €6,830 | €9,170 – €11,670 (staff) | €50,040 – €62,040 |
 | [Apotheker/in](../jobs/healthcare/apotheker-in.md) | €4,166 – €4,236 | €4,528 – €4,922 | €4,901 – €7,552 (hospital EG 13–14) | €49,992 – €50,832 |
 | [Architekt/in](../jobs/engineering/architekt-in.md) | €3,700 – €4,600 | €4,600 – €6,000 | €6,000 – €8,000 (Büroleitung) | €44,400 – €55,200 |
+| [Sozialarbeiter/in](../jobs/education/sozialarbeiter-in.md) | €3,900 – €4,300 | €4,800 – €5,500 | €5,000 – €6,963 (Leitung) | €46,800 – €51,600 |
 | [Notfallsanitäter/in](../jobs/healthcare/notfallsanitaeter-in.md) | €3,701 – €3,863 | €4,076 – €4,489 | €3,780 – €5,753 (Wachleitung) | €44,412 – €46,356 |
 | [MT / MTA](../jobs/healthcare/medizinische-technologin-mt-mta.md) | €3,659 – €3,878 | €4,098 – €4,587 | €4,697 – €4,980 | €43,908 – €46,536 |
 | [Hebamme](../jobs/healthcare/hebamme.md) | €3,659 – €3,878 | €4,098 – €4,587 | €3,780 – €5,753 (Leitung Kreißsaal) | €43,908 – €46,536 |

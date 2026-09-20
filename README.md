@@ -120,6 +120,7 @@ See the [sector overview](jobs/healthcare/README.md) — recognition is near-ide
 |---|---|---|
 | [Lehrer/in](jobs/education/lehrer-in.md) | Yes — under **state** law | Yes; and Verbeamtung needs EU citizenship |
 | [Erzieher/in](jobs/education/erzieher-in.md) | Yes — under **state** law | Yes, and it varies by Bundesland |
+| [Sozialarbeiter/in](jobs/education/sozialarbeiter-in.md) | **Title yes — under state law** | A degree is not enough: the **staatliche Anerkennung** is a separate act |
 
 ### it
 | Profession | Regulated | Recognition needed to work |
