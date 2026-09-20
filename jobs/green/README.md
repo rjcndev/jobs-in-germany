@@ -32,4 +32,5 @@ Identify the competent body for your target Bundesland before anything else.
 
 ## Profiles
 
+- [Landwirt/in](landwirt-in.md)
 - [Forstwirt/in](forstwirt-in.md)

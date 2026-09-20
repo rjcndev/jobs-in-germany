@@ -74,6 +74,7 @@ difficulty.
 | [Berufskraftfahrer/in](../jobs/logistics/berufskraftfahrer-in.md) | €2,600 – €3,300 | €3,000 – €3,800 | €3,400 – €4,500 (ADR/heavy) | €31,200 – €39,600 |
 | [Kfz-Mechatroniker/in](../jobs/skilled-trades/kraftfahrzeugmechatroniker-in.md) | €2,600 – €3,200 | €3,200 – €3,900 | €4,000 – €5,000 (Meister) | €31,200 – €38,400 |
 | [Fleischer/in — Metzger/in](../jobs/skilled-trades/fleischer-in.md) | €2,600 – €3,200 | €3,100 – €3,800 | €3,900 – €4,900 (Meister) | €31,200 – €38,400 |
+| [Landwirt/in](../jobs/green/landwirt-in.md) | €2,600 – €3,200 | €3,100 – €3,800 | €3,900 – €5,200 (Meister / Betriebsleiter) | €31,200 – €38,400 |
 | [Tischler/in — Schreiner/in](../jobs/skilled-trades/tischler-in.md) | €2,600 – €3,100 | €3,100 – €3,800 | €3,900 – €4,900 (Meister) | €31,200 – €37,200 |
 | [Fachkraft für Lagerlogistik](../jobs/logistics/fachkraft-fuer-lagerlogistik.md) | €2,600 – €3,100 | €3,100 – €3,700 | €4,200 – €5,500 (Meister) | €31,200 – €37,200 |
 | [Fachkraft für Veranstaltungstechnik](../jobs/services/fachkraft-fuer-veranstaltungstechnik.md) | €2,600 – €3,100 | €3,100 – €3,800 | €4,000 – €5,200 (Meister) | €31,200 – €37,200 |

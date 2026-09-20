@@ -91,6 +91,7 @@ Two mechanisms worth knowing independently of route:
 | [Anlagenmechaniker/in SHK](../jobs/skilled-trades/anlagenmechaniker-in-shk.md) | §18a or **§16a** | No | Same Handwerk split as above |
 | [Kfz-Mechatroniker/in](../jobs/skilled-trades/kraftfahrzeugmechatroniker-in.md) | §18a or §16a | No | Equivalence sits with the **Handwerkskammer**; HV qualification does not transfer |
 | [Forstwirt/in](../jobs/green/forstwirt-in.md) | §18a or §16a | No | Equivalence sits with the **Landwirtschaftskammer** or a state body — a third system |
+| [Landwirt/in](../jobs/green/landwirt-in.md) | §18a, §16a, or §26(2) BeschV | No | **Landwirtschaftskammer**, not IHK FOSA. Seasonal work is a separate, limited permission that leads nowhere |
 | [Metallbauer/in](../jobs/skilled-trades/metallbauer-in.md) | §18a or §16a | No | Handwerkskammer equivalence; **self-employment needs the Meister**, unlike its industrial twin |
 | [Maurer/in](../jobs/skilled-trades/maurer-in.md) | §18a, **§16a**, or §26(2) BeschV | No | Handwerkskammer equivalence. **Check whether you are employed or posted** — it changes your social insurance |
 | [Zimmerer / Zimmerin](../jobs/skilled-trades/zimmerer-zimmerin.md) | §18a, **§16a**, or §26(2) BeschV | No | Handwerkskammer equivalence; **German building physics is where assessments find the gap** |

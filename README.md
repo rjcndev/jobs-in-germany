@@ -196,6 +196,7 @@ See the [sector overview](jobs/green/README.md) — a **third chamber system**: 
 | Profession | Regulated | Recognition needed to work |
 |---|---|---|
 | [Forstwirt/in](jobs/green/forstwirt-in.md) | No — but chainsaw and pesticide certification gate the work | No to work; **yes for the visa** |
+| [Landwirt/in](jobs/green/landwirt-in.md) | No — but **Pflanzenschutz-Sachkunde gates pesticide work** | No to work; **yes for the visa** |
 
 ### services
 See the [sector overview](jobs/services/README.md) — the folder for occupations that belong to no chamber-defined sector, including **two files with no qualification to write about**.

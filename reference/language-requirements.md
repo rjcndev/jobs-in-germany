@@ -82,6 +82,7 @@ vary in what they accept — check with the specific body, not with a general li
 | [Anlagenmechaniker/in SHK](../jobs/skilled-trades/anlagenmechaniker-in-shk.md) | None to be employed | **B1–B2** | Constant customer contact in people's homes |
 | [Kfz-Mechatroniker/in](../jobs/skilled-trades/kraftfahrzeugmechatroniker-in.md) | None to be employed | **B1–B2** | Diagnostic software and manufacturer documentation are in German |
 | [Forstwirt/in](../jobs/green/forstwirt-in.md) | None | **B1–B2** | Felling coordination and emergency communication — a misunderstanding is not harmless |
+| [Landwirt/in](../jobs/green/landwirt-in.md) | None | **B1–B2** | Machinery safety, animal health, and a great deal of German documentation |
 | [Metallbauer/in](../jobs/skilled-trades/metallbauer-in.md) | None to be employed | **B2** | In customers' buildings daily — more language-dependent than the industrial metal trades |
 | [Maurer/in](../jobs/skilled-trades/maurer-in.md) | None to be employed | **B1–B2** | Site instruction and safety briefings; the Bau Berufsschule is unadapted German |
 | [Zimmerer / Zimmerin](../jobs/skilled-trades/zimmerer-zimmerin.md) | None to be employed | **B1–B2** | Crane signalling, structural drawings and site coordination |

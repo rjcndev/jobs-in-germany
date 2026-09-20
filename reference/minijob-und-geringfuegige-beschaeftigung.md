@@ -22,9 +22,9 @@ households is the legal alternative to what is otherwise an overwhelmingly undec
 | Condition | — | Must not be *berufsmäßig* — i.e. not your livelihood |
 | Typical use | Ongoing side work | **Harvest, events, seasonal trade** |
 
-The kurzfristige form is the **70-day rule** that structures German harvest labour — see the
-[Grüne Berufe overview](../jobs/green/README.md), where it is the dominant employment model
-and carries a documented enforcement record.
+The kurzfristige form is the **70-day rule** that structures German harvest labour — see
+[Landwirt/in](../jobs/green/landwirt-in.md), where it is the dominant employment model and
+carries a documented enforcement record.
 
 ## The earnings threshold is not a fixed number
 
