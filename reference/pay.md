@@ -34,6 +34,7 @@ difficulty.
 | [Elektroniker/in Betriebstechnik](../jobs/industrial/elektroniker-in-betriebstechnik.md) | €3,300 – €3,900 | €3,900 – €4,700 | €5,500 – €6,800 (Instandhaltungsleitung) |
 | [Industriemechaniker/in](../jobs/industrial/industriemechaniker-in.md) | €3,300 – €3,900 | €3,900 – €4,700 | €5,500 – €6,800 (Instandhaltungsleitung) |
 | [Zerspanungsmechaniker/in](../jobs/industrial/zerspanungsmechaniker-in.md) | €3,300 – €3,900 | €3,900 – €4,800 | €4,700 – €5,800 (Meister/Techniker) |
+| [Werkzeugmechaniker/in](../jobs/industrial/werkzeugmechaniker-in.md) | €3,300 – €3,900 | €4,000 – €4,900 | €5,500 – €7,000 (Werkzeugbauleitung) |
 | [Industriekaufmann/-frau](../jobs/commercial/industriekaufmann-frau.md) | €3,200 – €4,000 | €4,000 – €5,000 | €6,000+ |
 | [Bankkaufmann/-frau](../jobs/commercial/bankkaufmann-frau.md) | €3,200 – €3,800 | €3,900 – €5,000 | €5,500 – €8,000 (branch mgmt) |
 | [Fachinformatiker/in](../jobs/it/fachinformatiker-in.md) | €3,170 – €3,830 | €4,000 – €5,000 | €5,000 – €6,250+ |
