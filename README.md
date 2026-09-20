@@ -55,6 +55,12 @@ Once you are comparing professions rather than reading up on one, start here:
   table leaves out: the verified TVöD Zeitzuschläge and Schichtzulagen, and the fact that
   **§3b EStG makes most of them tax-free**, so they are worth more than the same euro of
   salary.
+- **[Health insurance](reference/health-insurance.md)** — GKV vs PKV, why free family cover
+  has no private equivalent, and why going private is a decision for the next forty years
+  rather than the next payslip.
+- **[Tax and net pay](reference/taxes-and-net-pay.md)** — what comes off the gross figures
+  in this repo, the Steuerklasse III/V trap, the Kirchensteuer question on your Anmeldung
+  form, and the income here that is not taxed at all.
 - **[Pay](reference/pay.md)** — every profession on one comparable monthly-gross scale,
   what the base figures leave out (shift supplements, tax-free Spesen, the 13th month),
   and an explicit account of which figures are checkable against a published tariff and

@@ -180,7 +180,9 @@ suggests. And the IT and engineering rows were themselves converted *from* annua
 that often already included a bonus, so they are the rows least likely to gain anything
 further.
 
-**4. Gross differences compress heavily after tax.** German income tax is steeply
+**4. Gross differences compress heavily after tax** — see
+[tax and net pay](taxes-and-net-pay.md), and note that
+[health insurance](health-insurance.md) choices change the answer too. German income tax is steeply
 progressive and social contributions are substantial. As a rough guide, net is around
 60–65% of gross at these levels, and the percentage falls as gross rises. A profession
 paying twice another in gross terms does not pay twice as much in the bank. Run your own

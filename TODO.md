@@ -208,7 +208,7 @@ files:
   recognition practice and processing times, Verbeamtung policy for teachers, A13-für-alle
   status, cost of living against nominal pay, and where the public-sector tariffs buy most.
   The repo's most repeated instruction is currently its least actionable one.
-- **`reference/health-insurance.md`** — **zero mentions across 23 files, which is itself the
+- ~~`reference/health-insurance.md`~~ — [written](reference/health-insurance.md), together with [taxes-and-net-pay.md](reference/taxes-and-net-pay.md). Was: **zero mentions across 23 files, which is itself the
   finding.** GKV vs PKV, the JAEG threshold above which you may leave the statutory system,
   Familienversicherung covering non-earning dependants free, and the one-way-door problem of
   switching to private. It interlocks with things the repo already covers: **Beihilfe** for
