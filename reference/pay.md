@@ -24,6 +24,7 @@ difficulty.
 | [Arzt / Ärztin](../jobs/healthcare/arzt-aerztin.md) | €5,722 – €6,046 | €6,680 – €7,158 | €9,460 – €10,811 (Oberarzt) |
 | [Ingenieur/in](../jobs/engineering/ingenieur-in.md) | €4,330 – €5,170 | €5,420 – €6,670 | €8,330+ (senior/lead) |
 | [Softwareentwickler/in](../jobs/it/softwareentwickler-in.md) | €4,170 – €5,170 | €5,420 – €6,830 | €9,170 – €11,670 (staff) |
+| [Notfallsanitäter/in](../jobs/healthcare/notfallsanitaeter-in.md) | €3,701 – €3,863 | €4,076 – €4,489 | €3,780 – €5,753 (Wachleitung) |
 | [MT / MTA](../jobs/healthcare/medizinische-technologin-mt-mta.md) | €3,659 – €3,878 | €4,098 – €4,587 | €4,697 – €4,980 |
 | [Erzieher/in](../jobs/education/erzieher-in.md) | €3,509 – €3,738 | €4,207 – €4,669 | €3,649 – €6,963 (Kita-Leitung) |
 | [Pflegefachfrau/-mann](../jobs/healthcare/pflegefachfrau-pflegefachmann.md) | €3,510 – €3,701 | €3,998 – €4,305 | €3,992 – €4,961 (specialist) |
@@ -60,6 +61,8 @@ management. The ceiling is real but conditional — most people do not reach it.
 
 **Flat** — decent entry, compressed ceiling, pay set by a tariff ladder rather than
 performance. [MT/MTA](../jobs/healthcare/medizinische-technologin-mt-mta.md),
+[Notfallsanitäter/in](../jobs/healthcare/notfallsanitaeter-in.md) (whose EG N climbs slower
+still — no Stufe 1, and Stufe 3 only after three years in Stufe 2),
 [Pflege](../jobs/healthcare/pflegefachfrau-pflegefachmann.md),
 [Physiotherapie](../jobs/healthcare/physiotherapeut-in.md), and operational
 [warehouse work](../jobs/logistics/fachkraft-fuer-lagerlogistik.md). You know your salary in
@@ -138,6 +141,7 @@ estimates, and each carries its validity window — they expire.
 |---|---|---|
 | **TVöD VKA** (+2.8%) | MT/MTA (EG 9a), Physio public (EG 7–9a), Büromanagement public (EG 5–6), public kitchens (EG 5–7) | 01.05.2026 – 31.03.2027 |
 | **TVöD-P** | [Pflegefachfrau/-mann](../jobs/healthcare/pflegefachfrau-pflegefachmann.md) (P7–P10) | 01.05.2026 – 31.03.2027 |
+| **TVöD EG N** (= P 8, Anlage D.14 TVöD-V) | [Notfallsanitäter/in](../jobs/healthcare/notfallsanitaeter-in.md); Rettungssanitäter EG 4, Wachleitung EG 9a–10 | 01.05.2026 – 31.03.2027 |
 | **TVöD SuE** | [Erzieher/in](../jobs/education/erzieher-in.md) (S8a–S18) | 01.05.2026 – 31.03.2027 |
 | **TVöD-S** | [Bankkaufmann/-frau](../jobs/commercial/bankkaufmann-frau.md), Sparkassen only (EG 6–9a) — shares the VKA scale | 01.05.2026 – 31.03.2027 |
 | **TV-Ärzte/VKA** | [Arzt / Ärztin](../jobs/healthcare/arzt-aerztin.md) (Stufen I–IV) | 01.06.2026 – 31.12.2026 |

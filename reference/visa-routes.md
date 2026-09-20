@@ -51,6 +51,7 @@ Two mechanisms worth knowing independently of route:
 | [Spedition und Logistikdienstleistung](../jobs/logistics/kaufmann-frau-spedition-logistikdienstleistung.md) | §18a | Specialist/management only | Most foreigner-friendly of the non-IT roles |
 | [Pflegefachfrau/-mann](../jobs/healthcare/pflegefachfrau-pflegefachmann.md) | **§16d** or **§16d(3)** | No — below threshold | Anerkennungspartnerschaft lets you enter at A2; accelerated procedure widely used |
 | [MT / MTA](../jobs/healthcare/medizinische-technologin-mt-mta.md) | §16d → §18a | No | Shortage lists help; recognition is state-bound |
+| [Notfallsanitäter/in](../jobs/healthcare/notfallsanitaeter-in.md) | §16d → §18a | No | Also needs a **C1 driving licence**, which a third country's generally cannot be exchanged for |
 | [Erzieher/in](../jobs/education/erzieher-in.md) | §16d → §18a | No | **Choose the Bundesland before starting** — procedures differ in substance |
 | [Physiotherapeut/in](../jobs/healthcare/physiotherapeut-in.md) | §16d → §18a | No — below threshold | Ordinary skilled-worker permit only |
 | [Steuerfachangestellte/r](../jobs/commercial/steuerfachangestellte-r.md) | §18a | No | Foreign accounting qualifications transfer poorly; C1 German is the real gate |

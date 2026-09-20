@@ -40,6 +40,7 @@ vary in what they accept — check with the specific body, not with a general li
 | [Bankkaufmann/-frau](../jobs/commercial/bankkaufmann-frau.md) | None for the title | **C1** | Advisory conversations carry legal weight and are documented |
 | [Erzieher/in](../jobs/education/erzieher-in.md) | **B2**, several states **C1** | C1 | Higher bar than pay suggests: supporting children's language development |
 | [Kaufmann/-frau für Büromanagement](../jobs/commercial/kaufmann-frau-fuer-bueromanagement.md) | None — unregulated | **B2–C1** | Correspondence and phone work are the job |
+| [Notfallsanitäter/in](../jobs/healthcare/notfallsanitaeter-in.md) | **B2** | **C1** | Handover, radio and documentation are time-critical and unforgiving |
 | [Pflegefachfrau/-mann](../jobs/healthcare/pflegefachfrau-pflegefachmann.md) | **B2** | B2–C1 | Some states and employers add a care-specific test |
 | [MT / MTA](../jobs/healthcare/medizinische-technologin-mt-mta.md) | **B2** | B2–C1 | C1 more often expected in patient-facing MTR |
 | [Physiotherapeut/in](../jobs/healthcare/physiotherapeut-in.md) | **B2** | B2 | Patient instruction is continuous |
