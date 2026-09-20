@@ -15,8 +15,10 @@ slot into.
 
 [`reference/beamte-vs-angestellte.md`](reference/beamte-vs-angestellte.md) now exists, so
 Beamten professions can be added without re-explaining the status each time.
-**Polizist/in**, **Zollbeamte/r**, **Feuerwehrbeamte/r** and **Steuerbeamte/r** are the
-obvious next ones; each is state- or federal-specific and needs its own Besoldung check.
+~~**Polizist/in**~~ is [written](jobs/public-service/polizist-in.md), and the
+[public-service category](jobs/public-service/README.md) now holds the shared
+Anwärterdienst framework. **Zollbeamte/r**, **Feuerwehrbeamte/r** and **Steuerbeamte/r** are
+the obvious next ones; each is state- or federal-specific and needs its own Besoldung check.
 
 <details><summary>Original note on why this had to come first</summary>
 

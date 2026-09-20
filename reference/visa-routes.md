@@ -120,6 +120,13 @@ ordinary skilled work. The **Handwerksordnung** separately requires Meister-leve
 qualification to *run a business* in an Anlage A trade. Two different systems, two
 different procedures — people register a business and discover the second one too late.
 
+**Some careers are closed regardless of visa.** [Polizist/in](../jobs/public-service/polizist-in.md) has **no recognition
+procedure at all** — you do not bring a foreign police qualification to be assessed, you
+enter German training from scratch. And appointment needs citizenship: §7 BeamtStG allows
+EU/EEA/Swiss nationals, but policing exercises state authority, so **Bundespolizei and BKA
+require German citizenship and several Länder do too**. For many readers naturalisation is
+the precondition, not the paperwork.
+
 **A residence permit is not the same as full access.** A third-country
 [teacher](../jobs/education/lehrer-in.md) can be recognised, licensed, hired and settled —
 and still never be made a **Beamter**, because §7 BeamtStG restricts appointment to

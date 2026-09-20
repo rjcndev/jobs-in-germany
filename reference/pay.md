@@ -36,6 +36,7 @@ difficulty.
 | [Zerspanungsmechaniker/in](../jobs/industrial/zerspanungsmechaniker-in.md) | €3,300 – €3,900 | €3,900 – €4,800 | €4,700 – €5,800 (Meister/Techniker) |
 | [Werkzeugmechaniker/in](../jobs/industrial/werkzeugmechaniker-in.md) | €3,300 – €3,900 | €4,000 – €4,900 | €5,500 – €7,000 (Werkzeugbauleitung) |
 | [Industriekaufmann/-frau](../jobs/commercial/industriekaufmann-frau.md) | €3,200 – €4,000 | €4,000 – €5,000 | €6,000+ |
+| [Polizist/in](../jobs/public-service/polizist-in.md) — verbeamtet | €3,438 – €3,694 | €4,048 – €4,784 | €5,221 – €6,381 (A 13) |
 | [Konstruktionsmechaniker/in](../jobs/industrial/konstruktionsmechaniker-in.md) | €3,200 – €3,800 | €3,800 – €4,600 | €4,700 – €5,800 (Meister/Techniker) |
 | [Bankkaufmann/-frau](../jobs/commercial/bankkaufmann-frau.md) | €3,200 – €3,800 | €3,900 – €5,000 | €5,500 – €8,000 (branch mgmt) |
 | [Fachinformatiker/in](../jobs/it/fachinformatiker-in.md) | €3,170 – €3,830 | €4,000 – €5,000 | €5,000 – €6,250+ |
@@ -189,7 +190,7 @@ estimates, and each carries its validity window — they expire.
 | **TVöD EG N** (= P 8, Anlage D.14 TVöD-V) | [Notfallsanitäter/in](../jobs/healthcare/notfallsanitaeter-in.md); Rettungssanitäter EG 4, Wachleitung EG 9a–10 | 01.05.2026 – 31.03.2027 |
 | **TVöD SuE** | [Erzieher/in](../jobs/education/erzieher-in.md) (S8a–S18) | 01.05.2026 – 31.03.2027 |
 | **TVöD-S** | [Bankkaufmann/-frau](../jobs/commercial/bankkaufmann-frau.md), Sparkassen only (EG 6–9a) — shares the VKA scale | 01.05.2026 – 31.03.2027 |
-| **Besoldung NRW (A 12–A 15)** | [Lehrer/in](../jobs/education/lehrer-in.md) as Beamte — **state law, NRW only** | 01.04.2026 – 28.02.2027 |
+| **Besoldung NRW (A 9–A 15)** | [Lehrer/in](../jobs/education/lehrer-in.md) and [Polizist/in](../jobs/public-service/polizist-in.md) as Beamte — **state law, NRW only** | 01.04.2026 – 28.02.2027 |
 | **TV-L (E 11–E 13)** | [Lehrer/in](../jobs/education/lehrer-in.md) as Angestellte; all states except Hessen | 01.04.2026 – 28.02.2027 |
 | **ADEXA/ADA** | [Apotheker/in](../jobs/healthcare/apotheker-in.md) in public pharmacies — **not** Nordrhein or Sachsen | 01.01.2026 – 31.12.2026 |
 | **TV-Ärzte/VKA** | [Arzt / Ärztin](../jobs/healthcare/arzt-aerztin.md) (Stufen I–IV) | 01.06.2026 – 31.12.2026 |

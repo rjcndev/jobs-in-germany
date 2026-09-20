@@ -19,6 +19,7 @@ jobs/
 ├── skilled-trades/
 ├── green/
 ├── security/
+├── public-service/
 ├── industrial/
 ├── commercial/
 ├── logistics/
@@ -132,6 +133,13 @@ See the [sector overview](jobs/green/README.md) — a **third chamber system**: 
 | Profession | Regulated | Recognition needed to work |
 |---|---|---|
 | [Forstwirt/in](jobs/green/forstwirt-in.md) | No — but chainsaw and pesticide certification gate the work | No to work; **yes for the visa** |
+
+### public-service
+See the [sector overview](jobs/public-service/README.md) — Beamten careers: you are appointed as a paid Anwärter, not hired into a job.
+
+| Profession | Regulated | Recognition needed to work |
+|---|---|---|
+| [Polizist/in](jobs/public-service/polizist-in.md) | Yes — Beamtenrecht | **No recognition route exists**; citizenship is the gate |
 
 ### security
 See the [sector overview](jobs/security/README.md) — **§34a GewO** gates the activity, not the title: a 40-hour Unterrichtung for basic guarding, an IHK **Sachkundeprüfung** for door work, patrols and retail.
