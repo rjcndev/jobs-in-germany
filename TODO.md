@@ -76,7 +76,7 @@ first of these**, the way [Beamte](reference/beamte-vs-angestellte.md) preceded
 | Profession | Why |
 |---|---|
 | **Dachdecker/in** | Anlage A. Sits on the **Energiewende** seam like SHK does — PV mounting and roof insulation are now a large share of the work. Also the clearest case of **Absturzsicherung** law and weather-dependent employment. |
-| **Zimmerer/Zimmerin** | Anlage A, and riding the **Holzbau** boom as timber construction grows for carbon reasons. High-status trade with a living Walz tradition. |
+| **Zimmerer/Zimmerin** | Anlage A, now cross-referenced from [Tischler](jobs/skilled-trades/tischler-in.md), and riding the **Holzbau** boom as timber construction grows for carbon reasons. High-status trade with a living Walz tradition. |
 | **Maurer/in** | Anlage A, the core Bau trade, and the standard entry point for the posted-worker and Bauhelfer routes discussed below. |
 | **Gerüstbauer/in** | Anlage A. One of the highest accident rates in German working life; safety law *is* the job. |
 | **Straßenbauer/in, Beton- und Stahlbetonbauer/in** | Infrastructure-driven demand (bridges, rail, grid). Often municipal or large-contractor employers rather than small Betriebe. |

@@ -70,6 +70,7 @@ Two mechanisms worth knowing independently of route:
 | [Anlagenmechaniker/in SHK](../jobs/skilled-trades/anlagenmechaniker-in-shk.md) | §18a or **§16a** | No | Same Handwerk split as above |
 | [Kfz-Mechatroniker/in](../jobs/skilled-trades/kraftfahrzeugmechatroniker-in.md) | §18a or §16a | No | Equivalence sits with the **Handwerkskammer**; HV qualification does not transfer |
 | [Metallbauer/in](../jobs/skilled-trades/metallbauer-in.md) | §18a or §16a | No | Handwerkskammer equivalence; **self-employment needs the Meister**, unlike its industrial twin |
+| [Tischler/in — Schreiner/in](../jobs/skilled-trades/tischler-in.md) | §18a or §16a | No | Handwerkskammer equivalence; search **both** titles, they are regional variants |
 | [Fachinformatiker/in](../jobs/it/fachinformatiker-in.md) | **§16a** | Not without a degree | Train here, paid, at B1–B2 German |
 | [Hotelfachmann/-frau](../jobs/hospitality/hotelfachmann-frau.md) | §18a, **§26(2) BeschV**, §16a | No | Westbalkanregelung heavily used in the sector |
 | [Koch / Köchin](../jobs/hospitality/koch-koechin.md) | §18a, **§26(2) BeschV**, §16a | No | IHK FOSA recognition is mandatory for §18a — experience will not do |
