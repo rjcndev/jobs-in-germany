@@ -175,6 +175,7 @@ See the [sector overview](jobs/skilled-trades/README.md) for the Anlage A rule: 
 |---|---|---|
 | [Berufskraftfahrer/in](jobs/logistics/berufskraftfahrer-in.md) | Title no — **licence yes** | Licence and code 95 are mandatory |
 | [Triebfahrzeugführer/in](jobs/logistics/triebfahrzeugfuehrer-in.md) | Title no — **licence yes (TfV)** | The EBA licence travels; the employer's route certificate does not |
+| [Pilot/in](jobs/logistics/pilot-in.md) | Title no — **EASA licence yes** | Licence, medical and type rating; **training is self-funded at six figures** |
 | [Fachkraft für Lagerlogistik](jobs/logistics/fachkraft-fuer-lagerlogistik.md) | No | No to work; **yes for the visa** |
 | [Kaufmann/-frau für Spedition und Logistikdienstleistung](jobs/logistics/kaufmann-frau-spedition-logistikdienstleistung.md) | No | No to work; **yes for the visa** |
 

@@ -63,6 +63,7 @@ vary in what they accept — check with the specific body, not with a general li
 | [Spedition und Logistikdienstleistung](../jobs/logistics/kaufmann-frau-spedition-logistikdienstleistung.md) | None | **B2** | English is genuinely half the job — a rare case |
 | [Ingenieur/in](../jobs/engineering/ingenieur-in.md) | None | **B2+**, varies sharply | English viable in corporate R&D; German essential in Mittelstand and construction |
 | [Architekt/in](../jobs/engineering/architekt-in.md) | None to do the work; Kammer entry is assessed in German | **C1** | Building law, authority correspondence and site instruction that becomes evidence |
+| [Pilot/in](../jobs/logistics/pilot-in.md) | **ICAO English Level 4** — German not legally required | **B2 German** to be hired here | The licence runs on English; German carriers hire on German |
 | [Hotelfachmann/-frau](../jobs/hospitality/hotelfachmann-frau.md) | None | **B1–B2** | English an asset, not a substitute |
 | [Fachkraft für Schutz und Sicherheit](../jobs/security/fachkraft-fuer-schutz-und-sicherheit.md) | None — but the **§34a exam is in German** | **B2** | Reports, legal limits, DSGVO duties, liaison with authorities |
 | [Sicherheitsmitarbeiter/in](../jobs/security/sicherheitsmitarbeiter-in.md) | None — but the **§34a exam is in German** | **B1–B2** | The Sachkundeprüfung is a legal exam, and it is what separates the pay bands |
