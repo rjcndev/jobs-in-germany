@@ -113,6 +113,7 @@ repo currently implies it only ever tightens.
 | **Friseur/in** | Anlage A, and the clearest case of a trade sitting **at the Mindestlohn** despite a full Ausbildung. |
 | **Bäcker/in, Konditor/in** | Night work, severe shortage, collapsing training numbers. |
 | **Fachkraft für Veranstaltungstechnik** | IHK, not Handwerk, with real safety-law responsibility (rigging, Versammlungsstättenverordnung). |
+| **Elektroniker/in für Betriebstechnik** | **The real gap in the electrical family.** The repo's existing [Elektroniker file](jobs/skilled-trades/elektroniker-in-energie-und-gebaeudetechnik.md) is the *Handwerk* one — Anlage A, Meister for self-employment, Handwerkskammer. Betriebstechnik is the *industrial* counterpart: maintenance and plant electrics inside manufacturers, **IG Metall tariff rather than Handwerk**, 35-hour week, 13th month. Same trade name, materially better pay, and a completely different regulatory and bargaining world — the clearest same-name/different-sector contrast available. Automatisierungstechnik and the newer **Gebäudesystemintegration** (introduced 2021) are adjacent Fachrichtungen; **Industrieelektriker** is the 2-year tier beneath, mirroring Fachlagerist vs Fachkraft. |
 | **Bauzeichner/in** | IHK rather than Handwerk, and the desk-side counterpart to the trades above — pairs with [Ingenieur](jobs/engineering/ingenieur-in.md). |
 
 ## 5d. Services and other sectors — no category exists yet
@@ -247,7 +248,10 @@ are **Gebäudereiniger/in**, **Reinigungskraft** and **Raumpfleger/in**.
   pattern is invisible: **Staplerschein** (DGUV V68), **ADR** for hazardous goods,
   **Code 95** plus its 35 hours every five years, **Hochvolt** for EV work, **§34a
   Sachkunde** for security, the **§43 IfSG Infektionsschutz-Belehrung** for food handling,
-  **DVGW** for gas, **Strahlenschutz** for radiology, and the physiotherapy "certificate
+  **DVGW** for gas, **Strahlenschutz** for radiology, the **Elektrofachkraft (EFK)** vs
+  **elektrotechnisch unterwiesene Person (EuP)** distinction under DGUV V3 — which decides
+  who may legally work on electrical installations at all, and is a further activity-gating
+  case — and the physiotherapy "certificate
   treadmill" (Manuelle Therapie, Bobath, Lymphdrainage). Collected into one table they show
   something the profession files individually cannot: these are short, cheap relative to a
   qualification, **usually employer-funded, and frequently the actual gate to a role or a pay
