@@ -92,7 +92,16 @@ Schilder- und Lichtreklamehersteller, Orgel- und Harmoniumbauer, and Behälter- 
 Apparatebauer.
 
 Existing businesses were grandfathered, so the same trade now contains owners operating
-under different rules depending on when they started. **Worth a short note in the README's
+under different rules depending on when they started.
+
+**Raumausstatter/in is the file to write for this.** As a trade profile on its own it would
+largely repeat [Elektroniker](jobs/skilled-trades/elektroniker-in-energie-und-gebaeudetechnik.md)
+and [SHK](jobs/skilled-trades/anlagenmechaniker-in-shk.md) — 3-year Ausbildung, Handwerk,
+Anlage A, Meister for self-employment. What makes it worth a slot is that it is a **worked
+case study of the 2020 re-regulation**: flooring, wall coverings, decorative fitting and
+upholstery, with a workforce split between grandfathered owners and anyone starting since,
+who now needs the Meisterbrief. Write it as that, not as a generic trade file. Fliesenleger
+would serve the same purpose if a second example is ever wanted. **Worth a short note in the README's
 "one distinction that matters" section** — regulation moves in both directions, and this
 repo currently implies it only ever tightens.
 
@@ -126,6 +135,12 @@ are **Gebäudereiniger/in**, **Reinigungskraft** and **Raumpfleger/in**.
 | **Fachkraft für Schutz und Sicherheit** | A **third instance of activity-gating**: §34a GewO requires a Sachkundeprüfung and reliability check to work in security at all, regardless of job title — after [Bankkaufmann](jobs/commercial/bankkaufmann-frau.md) (BaFin) and [Berufskraftfahrer](jobs/logistics/berufskraftfahrer-in.md) (licence). Three cases is enough to promote the pattern from a footnote to its own README section. |
 | **Landwirt/in** | Agriculture runs on **Saisonarbeitskräfte** under the 70-day short-term employment rule — a labour model with no parallel elsewhere in the repo, and a documented history of enforcement problems. |
 | **Wissenschaftliche/r Mitarbeiter/in** | The **WissZeitVG** permits serial fixed-term contracts for years, and German academia is built on them. A well-known structural feature that anyone considering a research career in Germany should read before committing. |
+
+## 5e. Built environment — the design side
+
+| Profession | Why |
+|---|---|
+| **Architekt/in** | **High priority — it introduces more new patterns than anything else left in this list.** (1) It is the **second** profession whose title is protected by **sixteen state laws** rather than federal law, after [Ingenieur](jobs/engineering/ingenieur-in.md), with entry in the state Architektenkammer's **Architektenliste** required to use the title — two instances is enough to promote that pattern into the README beside activity-gating. (2) **Bauvorlageberechtigung**, already cross-referenced from the Ingenieur file, is a genuine reserved activity. (3) A degree alone is not enough: Kammer entry requires roughly **two years of documented practice** afterwards. (4) **Architecture is one of only seven professions with automatic EU recognition** under Directive 2005/36/EC — and **the only non-medical one**, alongside doctor, dentist, nurse, midwife, vet and pharmacist. The repo already contains four of those six, so the contrast writes itself. (5) The **HOAI** fee schedule stopped being binding after the **ECJ struck down its mandatory minimum and maximum rates in 2019** (C-377/17), implemented 2021 — a structural change to the profession's economics with no parallel elsewhere in the repo. Separate Fachrichtungen (Innenarchitektur, Landschaftsarchitektur, Stadtplanung) are listed separately by the Kammer. |
 
 ## 6. Commercial
 
@@ -214,6 +229,16 @@ are **Gebäudereiniger/in**, **Reinigungskraft** and **Raumpfleger/in**.
   you opt in); the **Haushaltsscheck** procedure for private households; and **§35a EStG**.
   Relevant well beyond cleaning — it is how a large share of hospitality, retail and student
   work is structured.
+- **`reference/versorgungswerke.md`** — **another zero-mention concept**, and the third one
+  this audit has turned up after health insurance and Minijob. Members of the
+  Kammerberufe — doctors, pharmacists, lawyers, architects, tax advisers, vets, notaries —
+  are generally **exempt from the statutory pension and belong to their profession's own
+  Versorgungswerk instead**, with contributions, benefits and portability that work
+  differently. The repo already contains [Arzt](jobs/healthcare/arzt-aerztin.md) and
+  [Apotheker](jobs/healthcare/apotheker-in.md), describes the ladder to Steuerberater and
+  Rechtsanwalt, and would add Architekt — and mentions this nowhere. It matters
+  disproportionately for anyone arriving mid-career or likely to leave Germany again, since
+  the transfer rules are not the statutory ones.
 - **`reference/glossary.md`** — the repo is written in English and deliberately keeps ~100
   German terms inline. A single alphabetical glossary would cost little and save every
   reader repeated lookups.
