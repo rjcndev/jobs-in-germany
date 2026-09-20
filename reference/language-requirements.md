@@ -71,6 +71,7 @@ vary in what they accept — check with the specific body, not with a general li
 | [Barkeeper/in](../jobs/hospitality/barkeeper-in.md) | None | **B1** | City bars often run in English; age-verification and licensing duties are in German |
 | [Elektroniker/in EGT](../jobs/skilled-trades/elektroniker-in-energie-und-gebaeudetechnik.md) | None to be employed | **B1–B2** | Site safety and VDE norms are in German |
 | [Elektroniker/in Betriebstechnik](../jobs/industrial/elektroniker-in-betriebstechnik.md) | None | **B1–B2** | Safety instruction, VDE and shift handover in German |
+| [Elektroniker — Automatisierung, GSI, Industrieelektriker](../jobs/industrial/elektroniker-weitere-fachrichtungen.md) | None | **B1–B2** | VDE standards and safety instruction in German; commissioning abroad often runs in English |
 | [Mechatroniker/in](../jobs/industrial/mechatroniker-in.md) | None | **B1–B2** | Commissioning teams abroad often work in English |
 | [Industriemechaniker/in](../jobs/industrial/industriemechaniker-in.md) | None | **B1–B2** | Drawings and shift handover in German; Montage abroad often English |
 | [Zerspanungsmechaniker/in](../jobs/industrial/zerspanungsmechaniker-in.md) | None | **B1–B2** | Drawings, tolerances and quality documentation in German |

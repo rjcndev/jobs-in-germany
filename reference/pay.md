@@ -40,6 +40,7 @@ difficulty.
 | [Hebamme](../jobs/healthcare/hebamme.md) | €3,659 – €3,878 | €4,098 – €4,587 | €3,780 – €5,753 (Leitung Kreißsaal) | €43,908 – €46,536 |
 | [ATA / OTA](../jobs/healthcare/ata-ota.md) | €3,659 – €3,878 | €4,098 – €4,587 | €3,780 – €5,753 (Koordination) | €43,908 – €46,536 |
 | [Mechatroniker/in](../jobs/industrial/mechatroniker-in.md) | €3,400 – €4,000 | €4,000 – €4,800 | €4,800 – €6,000 (Meister/Techniker) | €40,800 – €48,000 |
+| [Elektroniker — Automatisierung, GSI, Industrieelektriker](../jobs/industrial/elektroniker-weitere-fachrichtungen.md) | €3,400 – €4,000 (Automatisierung) | €4,100 – €4,900 | €5,600 – €7,000 (Techniker / Projektleitung) | €40,800 – €48,000 |
 | [Erzieher/in](../jobs/education/erzieher-in.md) | €3,509 – €3,738 | €4,207 – €4,669 | €3,649 – €6,963 (Kita-Leitung) | €42,108 – €44,856 |
 | [Pflegefachfrau/-mann](../jobs/healthcare/pflegefachfrau-pflegefachmann.md) | €3,510 – €3,701 | €3,998 – €4,305 | €3,992 – €4,961 (specialist) | €42,120 – €44,412 |
 | [Elektroniker/in Betriebstechnik](../jobs/industrial/elektroniker-in-betriebstechnik.md) | €3,300 – €3,900 | €3,900 – €4,700 | €5,500 – €6,800 (Instandhaltungsleitung) | €39,600 – €46,800 |

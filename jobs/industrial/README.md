@@ -45,3 +45,4 @@ association.
 - [Zerspanungsmechaniker/in](zerspanungsmechaniker-in.md)
 - [Werkzeugmechaniker/in](werkzeugmechaniker-in.md)
 - [Konstruktionsmechaniker/in](konstruktionsmechaniker-in.md)
+- [Elektroniker — the remaining Fachrichtungen, and the tier below](elektroniker-weitere-fachrichtungen.md)

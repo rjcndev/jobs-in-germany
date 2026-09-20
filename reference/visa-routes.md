@@ -79,6 +79,7 @@ Two mechanisms worth knowing independently of route:
 | [Kaufmann/-frau für Büromanagement](../jobs/commercial/kaufmann-frau-fuer-bueromanagement.md) | §18a | No | Foreign business degrees often only partly equivalent to a dual qualification |
 | [Elektroniker/in EGT](../jobs/skilled-trades/elektroniker-in-energie-und-gebaeudetechnik.md) | §18a or **§16a** | No | Employment needs no recognition; **self-employment needs the Meister** |
 | [Elektroniker/in Betriebstechnik](../jobs/industrial/elektroniker-in-betriebstechnik.md) | §18a or §16a | No | Industrial, not Handwerk — **confers no right to open a business** |
+| [Elektroniker — Automatisierung, GSI, Industrieelektriker](../jobs/industrial/elektroniker-weitere-fachrichtungen.md) | §18a or §16a | No | **Elektrofachkraft status is the real barrier**, not the paperwork; the 2-year tier still meets §18a |
 | [Mechatroniker/in](../jobs/industrial/mechatroniker-in.md) | §18a or §16a | No | The most internationally portable trade qualification here |
 | [Industriemechaniker/in](../jobs/industrial/industriemechaniker-in.md) | §18a or §16a | No | Welding certificates do not transfer — expect to re-sit them |
 | [Zerspanungsmechaniker/in](../jobs/industrial/zerspanungsmechaniker-in.md) | §18a or §16a | No | Highly portable; watch being hired as a semi-skilled Maschinenbediener instead |

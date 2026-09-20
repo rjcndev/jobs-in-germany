@@ -145,6 +145,7 @@ See the [sector overview](jobs/industrial/README.md) for the Handwerk vs. Indust
 | [Zerspanungsmechaniker/in](jobs/industrial/zerspanungsmechaniker-in.md) | No | No to work; **yes for the visa** |
 | [Werkzeugmechaniker/in](jobs/industrial/werkzeugmechaniker-in.md) | No | No to work; **yes for the visa** |
 | [Konstruktionsmechaniker/in](jobs/industrial/konstruktionsmechaniker-in.md) | No — **welding certificates gate the work** | No to work; **yes for the visa** |
+| [Elektroniker — Automatisierung, GSI, Industrieelektriker](jobs/industrial/elektroniker-weitere-fachrichtungen.md) | No — but **DGUV V3 gates the work** | No to work; **yes for the visa**. GSI is Handwerk, the others IHK |
 
 ### skilled-trades
 See the [sector overview](jobs/skilled-trades/README.md) for the Anlage A rule: employment is free, self-employment needs the Meister.
