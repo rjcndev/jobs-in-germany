@@ -91,6 +91,7 @@ difficulty.
 | [Rechtsanwaltsfachangestellte/r](../jobs/commercial/rechtsanwaltsfachangestellte-r.md) | €2,400 – €3,000 | €3,000 – €3,800 | €4,500 – €6,000 (Bürovorsteher) | €28,800 – €36,000 |
 | [Bäcker/in](../jobs/skilled-trades/baecker-in.md) | €2,400 – €3,000 | €2,900 – €3,500 | €3,500 – €4,500 (Meister) | €28,800 – €36,000 |
 | [Restaurant- und Veranstaltungsgastronomie](../jobs/hospitality/fachmann-frau-restaurants-veranstaltungsgastronomie.md) | €2,400 – €3,000 | €2,900 – €3,500 | €3,300 – €4,300 (Restaurantleitung) | €28,800 – €36,000 |
+| [Fischwirt/in](../jobs/green/fischwirt-in.md) | €2,400 – €3,000 | €3,000 – €3,800 | €3,600 – €4,600 (Meister) | €28,800 – €36,000 |
 | [Koch / Köchin](../jobs/hospitality/koch-koechin.md) | €2,400 – €2,900 | €2,900 – €3,500 | €3,800 – €5,500 (Küchenchef) | €28,800 – €34,800 |
 | [Pflegefachassistenz / Pflegehelfer/in](../jobs/healthcare/pflegefachassistenz-pflegehelfer-in.md) | €2,400 – €2,900 | €2,900 – €3,400 | €3,600 (two-year qualification, tariff) | €28,800 – €34,800 |
 | [Gebäudereiniger/in](../jobs/services/gebaeudereiniger-in.md) | €2,400 – €2,900 | €2,800 – €3,400 | €3,800 – €4,800 (Meister) | €28,800 – €34,800 |

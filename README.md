@@ -202,6 +202,7 @@ See the [sector overview](jobs/green/README.md) — a **third chamber system**: 
 | [Tierwirt/in](jobs/green/tierwirt-in.md) | No | No to work; **yes for the visa** |
 | [Pferdewirt/in](jobs/green/pferdewirt-in.md) | No | No to work; **yes for the visa — and a Trainer licence is not one** |
 | [Fachkraft Agrarservice](jobs/green/fachkraft-agrarservice.md) | No — but **driving licences gate the work** | No to work; **yes for the visa** |
+| [Fischwirt/in](jobs/green/fischwirt-in.md) | No — **but sea-going work needs maritime certificates** | No to work; **yes for the visa** |
 
 ### services
 See the [sector overview](jobs/services/README.md) — the folder for occupations that belong to no chamber-defined sector, including **two files with no qualification to write about**.

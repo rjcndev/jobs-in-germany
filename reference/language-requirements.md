@@ -88,6 +88,7 @@ vary in what they accept — check with the specific body, not with a general li
 | [Tierwirt/in](../jobs/green/tierwirt-in.md) | None | **B1–B2** | Animal health, medicine records and machinery safety |
 | [Pferdewirt/in](../jobs/green/pferdewirt-in.md) | None | **B1–B2** | Owners are customers with strong opinions; vets and transport need precision |
 | [Fachkraft Agrarservice](../jobs/green/fachkraft-agrarservice.md) | None | **B1–B2** | You are working on other people's farms — customer contact plus application documentation |
+| [Fischwirt/in](../jobs/green/fischwirt-in.md) | None | **B1–B2** | More for authority and advisory roles; sea-going safety training is in German |
 | [Metallbauer/in](../jobs/skilled-trades/metallbauer-in.md) | None to be employed | **B2** | In customers' buildings daily — more language-dependent than the industrial metal trades |
 | [Maurer/in](../jobs/skilled-trades/maurer-in.md) | None to be employed | **B1–B2** | Site instruction and safety briefings; the Bau Berufsschule is unadapted German |
 | [Zimmerer / Zimmerin](../jobs/skilled-trades/zimmerer-zimmerin.md) | None to be employed | **B1–B2** | Crane signalling, structural drawings and site coordination |
