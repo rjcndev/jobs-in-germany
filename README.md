@@ -12,9 +12,11 @@ on authority websites, and in application forms, so translating them away is unh
 ```
 jobs/
 ├── healthcare/
+├── education/
 ├── it/
 ├── engineering/
-└── skilled-trades/
+├── skilled-trades/
+└── hospitality/
 ```
 
 One file per profession, named after the German job title in kebab-case.
@@ -28,6 +30,11 @@ One file per profession, named after the German job title in kebab-case.
 | [Pflegefachfrau / Pflegefachmann](jobs/healthcare/pflegefachfrau-pflegefachmann.md) | Yes | Yes |
 | [Arzt / Ärztin](jobs/healthcare/arzt-aerztin.md) | Yes | Yes — Approbation |
 | [Physiotherapeut/in](jobs/healthcare/physiotherapeut-in.md) | Yes | Yes |
+
+### education
+| Profession | Regulated | Recognition needed to work |
+|---|---|---|
+| [Erzieher/in](jobs/education/erzieher-in.md) | Yes — under **state** law | Yes, and it varies by Bundesland |
 
 ### it
 | Profession | Regulated | Recognition needed to work |
@@ -46,19 +53,33 @@ One file per profession, named after the German job title in kebab-case.
 | [Elektroniker/in Energie- und Gebäudetechnik](jobs/skilled-trades/elektroniker-in-energie-und-gebaeudetechnik.md) | Self-employment only | No to be employed; yes to run a business |
 | [Anlagenmechaniker/in SHK](jobs/skilled-trades/anlagenmechaniker-in-shk.md) | Self-employment only | No to be employed; yes to run a business |
 
+### hospitality
+See the [sector overview](jobs/hospitality/README.md) for the 2022 restructuring, minimum wage and working-time facts.
+
+| Profession | Regulated | Recognition needed to work |
+|---|---|---|
+| [Koch / Köchin](jobs/hospitality/koch-koechin.md) | No | No to work; **yes for the visa** |
+| [Hotelfachmann/-frau](jobs/hospitality/hotelfachmann-frau.md) | No | No to work; **yes for the visa** |
+
 ## The one distinction that matters
 
 German professions fall into three groups, and conflating them wastes people months:
 
 1. **Regulated professions** (reglementierte Berufe) — healthcare above all. You need a
    state licence before you may work at all. Recognition is mandatory, state-bound, and
-   slow.
+   slow. **Erzieher/in** is regulated too, but under sixteen separate *Länder* laws rather
+   than a federal one, which makes it the most fragmented case of all.
 2. **Title-protected only** — Ingenieur. You may do the work; you may not use the word.
 3. **Free professions** — IT. No licence, no recognition, no title protection. The only
    paperwork is the visa.
 
 Handwerk trades are a special case: free to be *employed* in, licence-bound to be
 *self-employed* in.
+
+And one trap cuts across the whole "free" group: **unregulated does not mean paperwork-free
+for non-EU citizens.** Nobody needs recognition to cook or to work a hotel reception — but
+the skilled-worker *visa* requires a recognised qualification anyway. Employers will hire
+you without it; the Ausländerbehörde will not issue the permit. Sort recognition first.
 
 ## Adding a profession
 
