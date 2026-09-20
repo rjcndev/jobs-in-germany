@@ -54,6 +54,7 @@ Two mechanisms worth knowing independently of route:
 | [MT / MTA](../jobs/healthcare/medizinische-technologin-mt-mta.md) | §16d → §18a | No | Shortage lists help; recognition is state-bound |
 | [Feuerwehrmann / Feuerwehrfrau](../jobs/public-service/feuerwehrmann-frau.md) | Recognise a **trade** first, then apply | No | No firefighting qualification is recognised; the volunteer service needs nothing |
 | [Zollbeamte/r](../jobs/public-service/zollbeamte-r.md) | Beamten appointment, not a visa route | No | **EU/EEA/Swiss nationals are eligible** under §7 BBG — a lower bar than policing |
+| [Steuerbeamte/r](../jobs/public-service/steuerbeamte-r.md) | Beamten appointment, not a visa route | No | §7 BeamtStG; varies by Bundesland for posts exercising state authority |
 | [Notfallsanitäter/in](../jobs/healthcare/notfallsanitaeter-in.md) | §16d → §18a | No | Also needs a **C1 driving licence**, which a third country's generally cannot be exchanged for |
 | [Erzieher/in](../jobs/education/erzieher-in.md) | §16d → §18a | No | **Choose the Bundesland before starting** — procedures differ in substance |
 | [Lehrer/in](../jobs/education/lehrer-in.md) | §16d → §18b | Possible at A13/E13 | Recognition is achievable; **Verbeamtung is not**, without EU citizenship |

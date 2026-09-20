@@ -44,6 +44,7 @@ difficulty.
 | [Bankkaufmann/-frau](../jobs/commercial/bankkaufmann-frau.md) | €3,200 – €3,800 | €3,900 – €5,000 | €5,500 – €8,000 (branch mgmt) | €38,400 – €45,600 |
 | [Fachinformatiker/in](../jobs/it/fachinformatiker-in.md) | €3,170 – €3,830 | €4,000 – €5,000 | €5,000 – €6,250+ | €38,040 – €45,960 |
 | [Feuerwehrmann / Feuerwehrfrau](../jobs/public-service/feuerwehrmann-frau.md) — verbeamtet | €3,216 – €3,438 | €3,694 – €4,295 | €4,505 – €6,381 (A 12–13) | €38,592 – €41,256 |
+| [Steuerbeamte/r](../jobs/public-service/steuerbeamte-r.md) — verbeamtet | €3,128 – €3,438 | €3,694 – €5,257 | €5,221 – €6,381 (A 13) | €37,536 – €41,256 |
 | [Forstwirt/in](../jobs/green/forstwirt-in.md) | €3,124 – €3,318 | €3,681 – €4,045 | €4,980 (Forstwirtschaftsmeister) | €37,488 – €39,816 |
 | [Zollbeamte/r](../jobs/public-service/zollbeamte-r.md) — verbeamtet | €2,918 – €3,455 | €3,683 – €4,918 | €5,198 – €6,621 (A 13) | €35,016 – €41,460 |
 | [Steuerfachangestellte/r](../jobs/commercial/steuerfachangestellte-r.md) | €2,800 – €3,400 | €3,500 – €4,500 | **€5,500 – €8,000** (Steuerberater) | €33,600 – €40,800 |
@@ -206,7 +207,7 @@ estimates, and each carries its validity window — they expire.
 | **TVöD SuE** | [Erzieher/in](../jobs/education/erzieher-in.md) (S8a–S18) | 01.05.2026 – 31.03.2027 |
 | **Bundesbesoldung (A 6–A 13)** | [Zollbeamte/r](../jobs/public-service/zollbeamte-r.md) — federal, uniform nationwide. **Last enacted table; a retroactive rise from 05/2026 was still pending** | 01.04.2025 – 30.04.2026 |
 | **TVöD-S** | [Bankkaufmann/-frau](../jobs/commercial/bankkaufmann-frau.md), Sparkassen only (EG 6–9a) — shares the VKA scale | 01.05.2026 – 31.03.2027 |
-| **Besoldung NRW (A 9–A 15)** | [Lehrer/in](../jobs/education/lehrer-in.md) and [Polizist/in](../jobs/public-service/polizist-in.md) as Beamte — **state law, NRW only** | 01.04.2026 – 28.02.2027 |
+| **Besoldung NRW (A 6–A 15)** | [Lehrer/in](../jobs/education/lehrer-in.md), [Polizist/in](../jobs/public-service/polizist-in.md), [Feuerwehr](../jobs/public-service/feuerwehrmann-frau.md) and [Steuerbeamte/r](../jobs/public-service/steuerbeamte-r.md) — **state law, NRW only** | 01.04.2026 – 28.02.2027 |
 | **TV-L (E 11–E 13)** | [Lehrer/in](../jobs/education/lehrer-in.md) as Angestellte; all states except Hessen | 01.04.2026 – 28.02.2027 |
 | **ADEXA/ADA** | [Apotheker/in](../jobs/healthcare/apotheker-in.md) in public pharmacies — **not** Nordrhein or Sachsen | 01.01.2026 – 31.12.2026 |
 | **TV-Ärzte/VKA** | [Arzt / Ärztin](../jobs/healthcare/arzt-aerztin.md) (Stufen I–IV) | 01.06.2026 – 31.12.2026 |

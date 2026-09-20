@@ -39,6 +39,7 @@ vary in what they accept — check with the specific body, not with a general li
 | [Polizist/in](../jobs/public-service/polizist-in.md) | **C1 minimum**, tested in selection | **Near-native** | Statements and reports are evidential; de-escalation happens under stress |
 | [Feuerwehrmann / Feuerwehrfrau](../jobs/public-service/feuerwehrmann-frau.md) | **C1** | C1 | Radio traffic, incident command and casualty handover are time-critical |
 | [Zollbeamte/r](../jobs/public-service/zollbeamte-r.md) | **C1** | C1 | The gehobener Dienst training is a law degree; decisions are binding legal acts |
+| [Steuerbeamte/r](../jobs/public-service/steuerbeamte-r.md) | **C1** | C1 | Assessments are binding legal acts; appeals turn on written reasoning |
 | [Apotheker/in](../jobs/healthcare/apotheker-in.md) | **B2 general + C1 professional** (Fachsprachprüfung) | C1 | German pharmacy law and reimbursement are the exam's substance |
 | [Steuerfachangestellte/r](../jobs/commercial/steuerfachangestellte-r.md) | None — unregulated | **C1** | Tax law, Finanzamt correspondence, client advice |
 | [Rechtsanwaltsfachangestellte/r](../jobs/commercial/rechtsanwaltsfachangestellte-r.md) | None — unregulated | **C1** | ZPO deadlines and court correspondence; unforgiving of error |

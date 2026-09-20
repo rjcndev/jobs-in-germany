@@ -75,6 +75,14 @@ their employer. Negotiating position here is unusually strong.
 5. **Language: C1 in practice.** Tax law, client correspondence and Finanzamt dealings are
    linguistically demanding; this is among the highest real language bars in the repo.
 
+## The other side of the table
+
+[Steuerbeamte/r](../public-service/steuerbeamte-r.md) is this profession's mirror image —
+same body of law, applied rather than advised on, as a Beamter. Worth knowing because
+**§36 StBerG lets officials of the gehobener Dienst sit the Steuerberaterprüfung without a
+degree** after enough years in the Finanzverwaltung. A significant number of Steuerberater
+arrived that way.
+
 ## Pitfalls
 
 - **The reserved-activity rule is strict.** Do not advise clients on your own authority,
