@@ -16,7 +16,7 @@ Page layout under BASE (one Git It Write entry, branch `wordpress`, folder root)
 
 Links to anything not published (TODO.md, TEMPLATE.md, ...) point at GitHub.
 """
-import json, os, re, subprocess, sys, tempfile, pathlib, unicodedata
+import html, json, os, re, subprocess, sys, tempfile, pathlib, unicodedata
 
 BASE = '/jobs-in-germany'
 REPO = 'https://github.com/rjcndev/jobs-in-germany'
@@ -94,7 +94,7 @@ def rewrite_links(text, src, own_url):
 
 
 def link_tree(text):
-    """Turn the README's folder tree code block into a list of links."""
+    """Turn the README's folder tree code block into category cards."""
     def repl(m):
         items = []
         for line in m.group(1).split('\n'):
@@ -104,9 +104,14 @@ def link_tree(text):
             name, note = d.groups()
             if name == 'jobs':
                 continue
-            path = 'reference/README.md' if name == 'reference' else f'jobs/{name}/README.md'
-            items.append(f'- [{name}]({path})' + (f' — {note}' if note else ''))
-        return '\n'.join(items) + '\n'
+            if name == 'reference':
+                path, sub = 'reference/README.md', note
+            else:
+                path = f'jobs/{name}/README.md'
+                n = len([f for f in (root / 'jobs' / name).glob('*.md') if f.name != 'README.md'])
+                sub = f'{n} profession{"s" if n != 1 else ""}'
+            items.append(card(category_title(name), path, sub))
+        return cards(items)
     return re.sub(r'(?<=## Structure\n\n)```\n(.*?)```\n', repl, text, flags=re.S)
 
 
@@ -126,8 +131,68 @@ def landing(text):
     return link_tree(text).replace('## Structure', source + '## Structure', 1)
 
 
-def convert(src, url, text=None):
-    text = src.read_text() if text is None else text
+def first_heading(path):
+    m = re.search(r'^# (.+)$', path.read_text(), re.M)
+    return m.group(1).strip() if m else path.stem
+
+
+def category_title(name):
+    if name == 'reference':
+        return 'Reference'
+    readme = root / 'jobs' / name / 'README.md'
+    if readme.exists():
+        return first_heading(readme)
+    return {'it': 'IT'}.get(name, name.replace('-', ' ').capitalize())
+
+
+def summary(path):
+    """First sentence of a page's opening blockquote, for its card."""
+    quote = ' '.join(l[1:].strip() for l in path.read_text().split('\n') if l.startswith('>'))
+    quote = re.sub(r'\[([^\]]*)\]\([^)]*\)', r'\1', quote)  # cards are links already
+    m = re.match(r'(.+?[.!?])(\s|$)', quote)
+    return (m.group(1) if m else quote).replace('*', '')
+
+
+def card(title, href, sub=''):
+    return f'- [{title}]({href})' + (f' <span>{html.escape(sub, quote=False)}</span>' if sub else '')
+
+
+# Parsedown Extra's markdown="1" wrappers mangle blockquotes, so the stylesheet
+# hooks onto empty marker divs placed just before the element they style.
+def marker(name):
+    return f'<div class="jig-{name}"></div>'
+
+
+def cards(items):
+    return marker('cards') + '\n\n' + '\n'.join(items) + '\n'
+
+
+def file_cards(files):
+    return cards([card(first_heading(f), f.name, summary(f)) for f in files])
+
+
+def mark_facts(lines):
+    """Mark a profile's key-facts table: the first one with an empty header row."""
+    fence = False
+    for i, line in enumerate(lines):
+        if line.startswith('```'):
+            fence = not fence
+        if not fence and re.match(r'^\|\s*\|\s*\|\s*$', line):
+            return lines[:i] + [marker('facts'), ''] + lines[i:]
+    return lines
+
+
+def breadcrumbs(url):
+    parts = url[len(BASE):].strip('/').split('/')
+    if parts == ['']:
+        return ''
+    crumbs = [f'<a href="{BASE}/">Jobs in Germany</a>']
+    if len(parts) == 2:
+        crumbs.append(f'<a href="{BASE}/{parts[0]}/">{html.escape(category_title(parts[0]))}</a>')
+    return '<p class="jig-crumbs">' + ' <span>›</span> '.join(crumbs) + '</p>'
+
+
+def convert(src, url, text):
     lines = text.split('\n')
     h1 = next((i for i, l in enumerate(lines) if l.startswith('# ')), None)
     title = lines[h1][2:].strip() if h1 is not None else src.stem
@@ -138,62 +203,45 @@ def convert(src, url, text=None):
             lines[i] = f'{lines[i]} <a id="{anchor}"></a>'
     if h1 is not None:
         del lines[h1]  # the theme prints the page title itself
-    body = rewrite_links('\n'.join(lines).lstrip('\n'), src, url)
-    return f'---\ntitle: {json.dumps(title, ensure_ascii=False)}\n---\n\n{body}'
+    body = rewrite_links('\n'.join(mark_facts(lines)).strip('\n'), src, url)
+    # The page marker scopes the site's stylesheet (scripts/wordpress.css) to these pages.
+    head = '\n\n'.join(x for x in (marker('page'), breadcrumbs(url)) if x)
+    body = f'{head}\n\n{body}'
+    return f'---\ntitle: {json.dumps(title, ensure_ascii=False)}\n---\n\n{body}\n'
 
 
-def first_heading(path):
-    m = re.search(r'^# (.+)$', path.read_text(), re.M)
-    return m.group(1).strip() if m else path.stem
-
-
-def generated_index(title, intro, files, src_dir):
+def generated_index(title, intro, files):
     """Index page for a folder that has no README.md of its own."""
-    items = '\n'.join(f'- [{first_heading(f)}]({f.name})' for f in files)
-    return f'# {title}\n\n{intro}\n\n{items}\n', src_dir / 'README.md'
+    return f'# {title}\n\n{intro}\n\n{file_cards(files)}'
 
 
-# Pages to publish: (output path on the branch, source file, generated text or None)
-pages = [('jobs-in-germany/index.md', root / 'README.md', None)]
+# Pages to publish: (output path on the branch, source path, page text)
+landing_text = landing((root / 'README.md').read_text())
+pages = [('jobs-in-germany/index.md', root / 'README.md', landing_text)]
 for cat in sorted(p for p in (root / 'jobs').iterdir() if p.is_dir()):
     files = sorted(f for f in cat.glob('*.md') if f.name != 'README.md')
     readme = cat / 'README.md'
-    gen = None
-    if not readme.exists():
-        name = cat.name.replace('-', ' ').capitalize()
-        gen = generated_index(name, f'Profession profiles in the {cat.name} category.', files, cat)
-    pages.append((f'jobs-in-germany/{cat.name}/index.md', readme, gen))
-    pages += [(f'jobs-in-germany/{cat.name}/{f.name}', f, None) for f in files]
+    if readme.exists():
+        text = readme.read_text().rstrip('\n') + '\n\n## Professions in this category\n\n' + file_cards(files)
+    else:
+        text = generated_index(category_title(cat.name), 'Profession profiles in this category.', files)
+    pages.append((f'jobs-in-germany/{cat.name}/index.md', readme, text))
+    pages += [(f'jobs-in-germany/{cat.name}/{f.name}', f, f.read_text()) for f in files]
 ref = sorted((root / 'reference').glob('*.md'))
 pages.append(('jobs-in-germany/reference/index.md', root / 'reference' / 'README.md',
-              generated_index('Reference', 'Background material the profession profiles link to.',
-                              ref, root / 'reference')))
-pages += [(f'jobs-in-germany/reference/{f.name}', f, None) for f in ref]
+              generated_index('Reference', 'Background material the profession profiles link to.', ref)))
+pages += [(f'jobs-in-germany/reference/{f.name}', f, f.read_text()) for f in ref]
 
 # Anchors each page will carry, so links to #sections can be checked.
-landing_text = landing((root / 'README.md').read_text())
-anchors = {}
-for out, src, gen in pages:
-    text = gen[0] if gen else landing_text if src == root / 'README.md' else src.read_text()
-    url = page_url(src.relative_to(root).as_posix())
-    anchors[url] = {a for _, a in headings(text)}
+anchors = {page_url(src.relative_to(root).as_posix()): {a for _, a in headings(text)}
+           for _, src, text in pages}
 
 with tempfile.TemporaryDirectory() as tmp:
     tmp = pathlib.Path(tmp)
-    for out, src, gen in pages:
-        url = page_url(src.relative_to(root).as_posix())
+    for out, src, text in pages:
         dest = tmp / out
         dest.parent.mkdir(parents=True, exist_ok=True)
-        if gen:
-            with tempfile.NamedTemporaryFile('w', suffix='.md', dir=src.parent, delete=False) as g:
-                g.write(gen[0])
-            try:
-                dest.write_text(convert(pathlib.Path(g.name), url))
-            finally:
-                os.unlink(g.name)
-        else:
-            text = landing_text if src == root / 'README.md' else None
-            dest.write_text(convert(src, url, text))
+        dest.write_text(convert(src, page_url(src.relative_to(root).as_posix()), text))
 
     if problems:
         print(f'FAIL ({len(problems)} unresolved anchor{"s" if len(problems) != 1 else ""})')

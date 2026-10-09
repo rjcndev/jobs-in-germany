@@ -1,0 +1,169 @@
+/* Styles for the jobs-in-germany pages on rjcn.dev.
+ *
+ * Paste into WordPress: Appearance → Customize → Additional CSS. Every rule is
+ * scoped to pages carrying the .jig-page marker that scripts/wordpress.py puts
+ * at the top of each page, so the rest of the site is untouched. Colours come
+ * from the Kadence palette, with fallbacks. */
+
+.entry-content:has(> .jig-page) {
+  --jig-accent: var(--global-palette1, #2b6cb0);
+  --jig-ink: var(--global-palette3, #1a202c);
+  --jig-text: var(--global-palette4, #2d3748);
+  --jig-muted: var(--global-palette6, #718096);
+  --jig-line: var(--global-palette7, #edf2f7);
+  --jig-soft: var(--global-palette8, #f7fafc);
+  --jig-bg: var(--global-palette9, #fff);
+  --jig-radius: 10px;
+  color: var(--jig-text);
+  font-size: 1.0625rem;
+  line-height: 1.7;
+}
+
+/* One readable column instead of the theme's full content width. */
+.entry-content:has(> .jig-page) > * {
+  max-width: 48rem;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Breadcrumbs */
+.entry-content .jig-crumbs {
+  font-size: 0.875rem;
+  color: var(--jig-muted);
+  margin-bottom: 1.5rem;
+}
+.entry-content .jig-crumbs a { color: var(--jig-muted); text-decoration: none; }
+.entry-content .jig-crumbs a:hover { color: var(--jig-accent); text-decoration: underline; }
+.entry-content .jig-crumbs span { margin: 0 0.35em; }
+
+/* Headings */
+.entry-content:has(> .jig-page) h2 {
+  font-size: 1.6rem;
+  color: var(--jig-ink);
+  margin-top: 2.75rem;
+  padding-top: 1.25rem;
+  border-top: 1px solid var(--jig-line);
+}
+.entry-content:has(> .jig-page) h3 {
+  font-size: 1.2rem;
+  color: var(--jig-ink);
+  margin-top: 2rem;
+}
+.entry-content:has(> .jig-page) h2,
+.entry-content:has(> .jig-page) h3 { scroll-margin-top: 5rem; }
+
+/* The opening summary of a page reads as a lead paragraph. */
+.entry-content:has(> .jig-page) blockquote {
+  margin: 0 auto 1.5rem;
+  padding: 1rem 1.25rem;
+  border-left: 4px solid var(--jig-accent);
+  border-radius: 0 var(--jig-radius) var(--jig-radius) 0;
+  background: var(--jig-soft);
+  color: var(--jig-ink);
+  font-style: normal;
+}
+.entry-content .jig-page ~ .jig-crumbs + blockquote,
+.entry-content .jig-page + blockquote {
+  font-size: 1.15rem;
+  line-height: 1.6;
+}
+.entry-content:has(> .jig-page) blockquote p:last-child { margin-bottom: 0; }
+
+/* Tables: ruled rows, tinted header, sideways scroll when too wide. */
+.entry-content:has(> .jig-page) table {
+  display: block;
+  overflow-x: auto;
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.9375rem;
+  line-height: 1.5;
+  margin-bottom: 1.75rem;
+  border: 1px solid var(--jig-line);
+  border-radius: var(--jig-radius);
+}
+.entry-content:has(> .jig-page) th,
+.entry-content:has(> .jig-page) td {
+  padding: 0.6rem 0.85rem;
+  text-align: left;
+  vertical-align: top;
+  border: 0;
+  border-bottom: 1px solid var(--jig-line);
+}
+.entry-content:has(> .jig-page) th {
+  background: var(--jig-soft);
+  color: var(--jig-ink);
+  font-weight: 600;
+  white-space: nowrap;
+}
+.entry-content:has(> .jig-page) tbody tr:last-child td { border-bottom: 0; }
+.entry-content:has(> .jig-page) tbody tr:hover td { background: var(--jig-soft); }
+
+/* Key facts: a card with labels on the left, no header row. */
+.entry-content .jig-facts + table {
+  display: table;
+  background: var(--jig-bg);
+  box-shadow: 0 1px 3px rgba(26, 32, 44, 0.06);
+}
+.entry-content .jig-facts + table thead { display: none; }
+.entry-content .jig-facts + table td:first-child {
+  width: 34%;
+  color: var(--jig-muted);
+  font-size: 0.8125rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+.entry-content .jig-facts + table td:first-child strong { font-weight: 600; }
+.entry-content .jig-facts + table tbody tr:hover td { background: none; }
+
+/* Cards: category and profession lists as a grid of tiles. */
+.entry-content .jig-cards + ul {
+  list-style: none;
+  padding: 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(15rem, 1fr));
+  gap: 0.85rem;
+  margin-bottom: 2rem;
+}
+.entry-content .jig-cards + ul li {
+  position: relative;
+  margin: 0;
+  padding: 1rem 1.1rem;
+  border: 1px solid var(--jig-line);
+  border-radius: var(--jig-radius);
+  background: var(--jig-bg);
+  transition: border-color 0.15s, box-shadow 0.15s, transform 0.15s;
+}
+.entry-content .jig-cards + ul li:hover {
+  border-color: var(--jig-accent);
+  box-shadow: 0 4px 14px rgba(26, 32, 44, 0.08);
+  transform: translateY(-1px);
+}
+.entry-content .jig-cards + ul a {
+  font-weight: 600;
+  color: var(--jig-ink);
+  text-decoration: none;
+  line-height: 1.35;
+}
+.entry-content .jig-cards + ul a::after { content: ""; position: absolute; inset: 0; }  /* whole tile clicks */
+.entry-content .jig-cards + ul li:hover a { color: var(--jig-accent); }
+.entry-content .jig-cards + ul span {
+  display: block;
+  margin-top: 0.35rem;
+  font-size: 0.875rem;
+  line-height: 1.5;
+  color: var(--jig-muted);
+}
+
+/* Links in running text */
+.entry-content:has(> .jig-page) p a,
+.entry-content:has(> .jig-page) li a,
+.entry-content:has(> .jig-page) td a {
+  text-underline-offset: 0.18em;
+  text-decoration-thickness: 1px;
+}
+
+@media (max-width: 600px) {
+  .entry-content:has(> .jig-page) { font-size: 1rem; }
+  .entry-content .jig-facts + table td:first-child { width: 40%; }
+  .entry-content:has(> .jig-page) h2 { font-size: 1.35rem; }
+}
