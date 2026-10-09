@@ -209,14 +209,31 @@ def mark_facts(lines):
     return lines
 
 
-def breadcrumbs(url):
+def ancestors(url):
+    """(title, url) for each page above this one, starting at the site root."""
     parts = url[len(BASE):].strip('/').split('/')
-    if parts == ['']:
+    chain = [('Home', '/')]
+    if parts != ['']:
+        chain.append(('Jobs in Germany', f'{BASE}/'))
+        if len(parts) == 2:
+            chain.append((category_title(parts[0]), f'{BASE}/{parts[0]}/'))
+    return chain
+
+
+def breadcrumbs(url, title):
+    crumbs = [f'<a href="{href}">{html.escape(name)}</a>' for name, href in ancestors(url)]
+    crumbs.append(f'<span aria-current="page">{html.escape(title)}</span>')
+    return ('<nav class="jig-crumbs" aria-label="Breadcrumb">'
+            + ' <span aria-hidden="true">›</span> '.join(crumbs) + '</nav>')
+
+
+def back_link(url):
+    """'Back to' link to the parent page; none on the landing page."""
+    chain = ancestors(url)
+    if len(chain) < 2:
         return ''
-    crumbs = [f'<a href="{BASE}/">Jobs in Germany</a>']
-    if len(parts) == 2:
-        crumbs.append(f'<a href="{BASE}/{parts[0]}/">{html.escape(category_title(parts[0]))}</a>')
-    return '<p class="jig-crumbs">' + ' <span>›</span> '.join(crumbs) + '</p>'
+    name, href = chain[-1]
+    return f'<p class="jig-back"><a href="{href}">← Back to {html.escape(name)}</a></p>'
 
 
 def convert(src, url, text):
@@ -232,8 +249,9 @@ def convert(src, url, text):
         del lines[h1]  # the theme prints the page title itself
     body = rewrite_links('\n'.join(mark_facts(unwrap(lines))).strip('\n'), src, url)
     # The page marker scopes the site's stylesheet (scripts/wordpress.css) to these pages.
-    head = '\n\n'.join(x for x in (marker('page'), breadcrumbs(url)) if x)
-    body = f'{head}\n\n{body}'
+    body = f'{marker("page")}\n\n{breadcrumbs(url, title)}\n\n{body}'
+    if back := back_link(url):
+        body = f'{body}\n\n{back}'
     return f'---\ntitle: {json.dumps(title, ensure_ascii=False)}\n---\n\n{body}\n'
 
 

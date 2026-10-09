@@ -61,7 +61,23 @@
 }
 .entry-content .jig-crumbs a { color: var(--jig-muted); text-decoration: none; }
 .entry-content .jig-crumbs a:hover { color: var(--jig-accent); text-decoration: underline; }
-.entry-content .jig-crumbs span { margin: 0 0.35em; }
+.entry-content .jig-crumbs span[aria-hidden] { margin: 0 0.35em; }
+.entry-content .jig-crumbs span[aria-current] { color: var(--jig-text); }
+
+/* These pages carry their own breadcrumb; hide Kadence's so it isn't doubled. */
+body:has(.entry-content > .jig-page) .kadence-breadcrumbs { display: none; }
+
+/* "Back to" link at the foot of each page */
+.entry-content .jig-back {
+  margin-top: 3rem;
+  padding-top: 1.25rem;
+  border-top: 1px solid var(--jig-line);
+}
+.entry-content .jig-back a {
+  font-weight: 600;
+  text-decoration: none;
+}
+.entry-content .jig-back a:hover { text-decoration: underline; }
 
 /* Headings */
 .entry-content:has(> .jig-page) h2 {
