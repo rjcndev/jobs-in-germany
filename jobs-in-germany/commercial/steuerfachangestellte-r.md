@@ -2,9 +2,16 @@
 title: "Steuerfachangestellte/r (Tax Clerk)"
 ---
 
+<div class="jig" markdown="1">
+
+<p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/commercial/">Commercial</a></p>
+
 > Prepares bookkeeping, payroll and tax returns in a Steuerkanzlei. Unregulated itself —
 > but it sits directly beneath one of Germany's most tightly protected professions, and
 > that structure defines the whole career.
+
+
+<div class="jig-facts" markdown="1">
 
 | | |
 |---|---|
@@ -14,6 +21,9 @@ title: "Steuerfachangestellte/r (Tax Clerk)"
 | **Typical qualification** | Duale Ausbildung, 3 years, Steuerberaterkammer exam |
 | **Regulated** | No — the work is supervised, not licensed |
 | **Last reviewed** | 2026-09 |
+
+</div>
+
 
 ## The reserved-activity structure {#the-reserved-activity-structure}
 
@@ -53,6 +63,9 @@ fluency is worth more on the job market than most formal add-ons.
 
 ## Pay {#pay}
 
+
+<div class="jig-table" markdown="1">
+
 | Stage | Gross/month |
 |---|---|
 | Newly qualified | €2,800 – €3,400 |
@@ -60,6 +73,9 @@ fluency is worth more on the job market than most formal add-ons.
 | Steuerfachwirt/in | €4,200 – €5,500 |
 | Steuerberater/in (employed) | €5,500 – €8,000 |
 | Steuerberater/in (partner or own practice) | Substantially higher |
+
+</div>
+
 
 Pay has risen sharply because the shortage is severe: the profession is ageing, large
 numbers of Kanzleien face succession problems, and qualified staff can effectively choose
@@ -101,3 +117,5 @@ arrived that way.
 - Steuerberatungsgesetz (StBerG) — https://www.gesetze-im-internet.de/stberg/ , accessed 2026-09
 - Bundessteuerberaterkammer — https://www.bstbk.de , accessed 2026-09
 - BERUFENET — https://berufenet.arbeitsagentur.de , accessed 2026-09
+
+</div>

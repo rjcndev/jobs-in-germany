@@ -2,11 +2,18 @@
 title: "Landwirt/in (Farmer / Agricultural Worker)"
 ---
 
+<div class="jig" markdown="1">
+
+<p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/green/">Grüne Berufe — agriculture, forestry and horticulture</a></p>
+
 > The anchor file for the [Grüne Berufe](/jobs-in-germany/green/), and the one place in this repo where a
 > whole **labour model** has to be described alongside the profession: the **70-day rule**,
 > which makes German harvest work social-insurance-free, is staffed overwhelmingly from
 > Romania and Poland, and has a documented enforcement and exploitation record. Both things
 > are in this file, because they are both true of German agriculture.
+
+
+<div class="jig-facts" markdown="1">
 
 | | |
 |---|---|
@@ -17,6 +24,9 @@ title: "Landwirt/in (Farmer / Agricultural Worker)"
 | **Examining body** | **Landwirtschaftskammer**, or a state ministry where no chamber exists |
 | **Regulated** | No — but **Pflanzenschutz-Sachkunde gates pesticide work** |
 | **Last reviewed** | 2026-09 |
+
+</div>
+
 
 ## What the job involves {#what-the-job-involves}
 
@@ -39,11 +49,17 @@ unit are doing different work with the same qualification.
 
 This shapes what "a job in agriculture" means more than anything else:
 
+
+<div class="jig-table" markdown="1">
+
 | | **Western Germany** | **Eastern Germany** |
 |---|---|---|
 | Typical unit | **Family farm**, often under 100 ha | **Large enterprise**, frequently several hundred to several thousand hectares — successors to the LPG cooperatives |
 | Employment | Family labour; few salaried posts | **Salaried employment is normal**, with shift structures and specialised roles |
 | Route in | Succession, marriage, or buying in — all very hard | **Applying for a job**, like any other sector |
+
+</div>
+
 
 **For anyone without a farm in the family, the eastern structure is the accessible one**, and
 it is systematically overlooked. It also offers something family farms usually cannot:
@@ -67,6 +83,9 @@ defined hours, a wage, and a specialism.
 **Market estimate.** Agricultural pay follows regional agreements negotiated by IG BAU, with
 patchy coverage; many farms are not bound.
 
+
+<div class="jig-table" markdown="1">
+
 | Stage | Gross/month |
 |---|---|
 | Qualified Landwirt/in, employed | €2,600 – €3,200 |
@@ -74,6 +93,9 @@ patchy coverage; many farms are not bound.
 | **Herdenmanager/in**, large livestock unit | €3,600 – €4,500 |
 | **Landwirtschaftsmeister / Betriebsleiter** | €3,900 – €5,200 |
 | Farm owner | Not comparable — income is a business result, and in poor years it is negative |
+
+</div>
+
 
 The statutory **Mindestlohn** is the floor and is a perishable figure, not quoted here.
 
@@ -172,3 +194,5 @@ the two should not be confused — which is precisely why they are both here.
 - SVLFG, agricultural social insurance — https://www.svlfg.de , accessed 2026-09
 - Zoll, Finanzkontrolle Schwarzarbeit — https://www.zoll.de , accessed 2026-09
 - Initiative Faire Landarbeit — accessed 2026-09
+
+</div>

@@ -2,10 +2,17 @@
 title: "Fachkraft Agrarservice (Agricultural Contracting Technician)"
 ---
 
+<div class="jig" markdown="1">
+
+<p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/green/">Grüne Berufe — agriculture, forestry and horticulture</a></p>
+
 > The contractor side of agriculture, and the part nobody outside the sector sees. Farms
 > increasingly do not own the machinery that works their land — a **Lohnunternehmen** does,
 > and sends operators. It pays better than farm employment, it is more technical, and it is
 > one of the least-known qualified occupations in this repo.
+
+
+<div class="jig-facts" markdown="1">
 
 | | |
 |---|---|
@@ -16,6 +23,9 @@ title: "Fachkraft Agrarservice (Agricultural Contracting Technician)"
 | **Examining body** | **Landwirtschaftskammer**, or a state authority |
 | **Regulated** | No — but driving licences and **Pflanzenschutz-Sachkunde** gate parts of the work |
 | **Last reviewed** | 2026-09 |
+
+</div>
+
 
 ## Why contracting exists {#why-contracting-exists}
 
@@ -50,6 +60,9 @@ farm incomes.
 
 ## How it differs from Landwirt {#how-it-differs-from-landwirt}
 
+
+<div class="jig-table" markdown="1">
+
 | | **[Landwirt/in](/jobs-in-germany/green/landwirt-in/)** | **Fachkraft Agrarservice** |
 |---|---|---|
 | Breadth | Agronomy, livestock, farm business | **Machinery, application technique, logistics** |
@@ -57,6 +70,9 @@ farm incomes.
 | Animals | Often central | **None** |
 | Pay | Lower | **Higher** |
 | Seasonality | Year-round with peaks | **Campaign work** — extreme peaks, quieter winters |
+
+</div>
+
 
 If you want agriculture without livestock and with machinery at the centre, this is the
 qualification, and it is routinely overlooked by people who only know the Landwirt route.
@@ -91,12 +107,18 @@ They are short, employer-funded and directly convertible into pay — the patter
 
 **Market estimate.**
 
+
+<div class="jig-table" markdown="1">
+
 | Stage | Gross/month |
 |---|---|
 | Qualified, entry | €2,900 – €3,500 |
 | Experienced operator, main machines | €3,400 – €4,200 |
 | With CE and transport work, or team responsibility | €3,900 – €4,800 |
 | **Agrarservicemeister / Betriebsleitung** | €4,300 – €5,400 |
+
+</div>
+
 
 **Campaign overtime is where the money is**, and it should be paid or banked explicitly —
 ask which, and ask what happens to a positive balance at year end.
@@ -143,3 +165,5 @@ with machinery.
 - Düngeverordnung — https://www.gesetze-im-internet.de , accessed 2026-09
 - SVLFG — https://www.svlfg.de , accessed 2026-09
 - BERUFENET — https://berufenet.arbeitsagentur.de , accessed 2026-09
+
+</div>

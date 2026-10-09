@@ -2,9 +2,16 @@
 title: "Industriekaufmann/-frau (Industrial Clerk)"
 ---
 
+<div class="jig" markdown="1">
+
+<p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/commercial/">Commercial</a></p>
+
 > The commercial backbone of German manufacturing: purchasing, production planning, sales,
 > controlling and HR inside industrial firms. Better paid than general office work for the
 > same reason everything in German industry is — the tariff.
+
+
+<div class="jig-facts" markdown="1">
 
 | | |
 |---|---|
@@ -14,6 +21,9 @@ title: "Industriekaufmann/-frau (Industrial Clerk)"
 | **Typical qualification** | Duale Ausbildung, 3 years, IHK exam |
 | **Regulated** | No |
 | **Last reviewed** | 2026-09 |
+
+</div>
+
 
 ## What the job involves {#what-the-job-involves}
 
@@ -44,12 +54,18 @@ single most portable skill the job gives you.
 Mostly covered by **IG Metall** or **IG BCE** collective agreements, which matter more than
 individual negotiation:
 
+
+<div class="jig-table" markdown="1">
+
 | Stage | Gross/month |
 |---|---|
 | Newly qualified (tariff-bound) | €3,200 – €4,000 |
 | Experienced | €4,000 – €5,000 |
 | Specialist — controlling, strategic purchasing | €4,800 – €6,000 |
 | Team or department lead | €6,000+ |
+
+</div>
+
 
 Tariff employers add a **13th-month payment**, holiday pay, and a **35-hour week** in the
 metal and electrical industries. Compare total package, not base salary — the difference
@@ -93,3 +109,5 @@ transfer well; a career tied to one shrinking supplier does not.
 - IHK FOSA — https://www.ihk-fosa.de , accessed 2026-09
 - IG Metall tariff information — https://www.igmetall.de , accessed 2026-09
 - anabin (ZAB) — https://anabin.kmk.org , accessed 2026-09
+
+</div>

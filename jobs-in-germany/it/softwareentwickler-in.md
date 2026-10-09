@@ -2,8 +2,15 @@
 title: "Softwareentwickler/in (Software Developer)"
 ---
 
+<div class="jig" markdown="1">
+
+<p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/it/">It</a></p>
+
 > Writes and maintains software. Included here as the deliberate contrast case: almost
 > everything in the healthcare files does not apply.
+
+
+<div class="jig-facts" markdown="1">
 
 | | |
 |---|---|
@@ -13,6 +20,9 @@ title: "Softwareentwickler/in (Software Developer)"
 | **Typical qualification** | Bachelor/Master in CS, Ausbildung, or nothing formal |
 | **Regulated** | **No** — free labour market |
 | **Last reviewed** | 2026-09 |
+
+</div>
+
 
 ## Why this file is short on bureaucracy {#why-this-file-is-short-on-bureaucracy}
 
@@ -29,12 +39,18 @@ degree holder implies a degree, and "Ingenieur" is separately protected — see
 No collective agreement in most of the sector. Approximate **annual gross**, 2026 — the
 industry quotes yearly, not monthly, unlike the rest of this repo:
 
+
+<div class="jig-table" markdown="1">
+
 | Stage | Annual gross |
 |---|---|
 | Junior (0–2 yrs) | €50,000 – €62,000 |
 | Mid (3–5 yrs) | €65,000 – €82,000 |
 | Senior (6+ yrs) | €85,000 – €110,000 |
 | Staff / Principal | €110,000 – €140,000+ |
+
+</div>
+
 
 Strong regional and sectoral spread. Munich, Frankfurt, Stuttgart and Berlin pay most;
 Munich has the cost of living to match. **Industry-tariff employers** — automotive and
@@ -92,3 +108,5 @@ is an assessment of the degree, not a professional recognition procedure.
 - Make it in Germany — https://www.make-it-in-germany.com , accessed 2026-09
 - anabin (ZAB degree database) — https://anabin.kmk.org , accessed 2026-09
 - AufenthG — https://www.gesetze-im-internet.de/aufenthg_2004/ , accessed 2026-09
+
+</div>

@@ -2,10 +2,17 @@
 title: "Gerüstbauer/in (Scaffolder)"
 ---
 
+<div class="jig" markdown="1">
+
+<p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/skilled-trades/">Skilled trades (Handwerk)</a></p>
+
 > Builds the fall protection that every other trade on the site depends on, and is exposed
 > while building it. One of the highest accident rates in German working life, and the
 > clearest case in this repo of a trade where **safety law is not a constraint on the job —
 > it is the job.**
+
+
+<div class="jig-facts" markdown="1">
 
 | | |
 |---|---|
@@ -16,6 +23,9 @@ title: "Gerüstbauer/in (Scaffolder)"
 | **Examining body** | **Handwerkskammer** |
 | **Regulated** | Self-employment only — **but erecting scaffold requires documented training** |
 | **Last reviewed** | 2026-09 |
+
+</div>
+
 
 ## What the trade actually is {#what-the-trade-actually-is}
 
@@ -71,6 +81,9 @@ contract names**, because the wage tables are not the Bau ones.
 **Market estimate**, positioned against the sector minimum. That minimum is above the
 statutory one, is renegotiated on its own cycle, and is not quoted here.
 
+
+<div class="jig-table" markdown="1">
+
 | Stage | Gross/month |
 |---|---|
 | Helfer, unqualified | At or near the Gerüstbau minimum |
@@ -78,6 +91,9 @@ statutory one, is renegotiated on its own cycle, and is not quoted here.
 | Experienced | €3,500 – €4,200 |
 | **Kolonnenführer** | €4,000 – €4,900 |
 | **Meister / Aufsichtsperson** | €4,400 – €5,600 |
+
+</div>
+
 
 Plus away-site **Auslösung** and travel allowances, which are substantial in a trade that
 follows work across a region, and partly tax-free. Plus SOKA-BAU holiday and supplementary
@@ -131,3 +147,5 @@ The shortage of qualified scaffolders is severe and long-standing.
 - BG BAU — https://www.bgbau.de , accessed 2026-09
 - Bundesverband Gerüstbau — https://www.geruestbauhandwerk.de , accessed 2026-09
 - SOKA-BAU — https://www.soka-bau.de , accessed 2026-09
+
+</div>

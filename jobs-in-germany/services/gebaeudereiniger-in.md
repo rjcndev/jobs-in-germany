@@ -2,11 +2,18 @@
 title: "Gebäudereiniger/in (Building Cleaner — the skilled trade)"
 ---
 
+<div class="jig" markdown="1">
+
+<p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/services/">Services and other sectors</a></p>
+
 > **The largest Handwerk trade in Germany by headcount**, and absent from this repo until
 > now. It is **Anlage B1** — no Meisterpflicht — which makes it a useful contrast with the
 > Anlage A trades that fill the [skilled-trades](/jobs-in-germany/skilled-trades/) folder. It also has its
 > own **AEntG-declared minimum wage** above the statutory one, and it is the sector where
 > outsourcing, minimum-wage compliance and migrant labour intersect most visibly.
+
+
+<div class="jig-facts" markdown="1">
 
 | | |
 |---|---|
@@ -18,11 +25,17 @@ title: "Gebäudereiniger/in (Building Cleaner — the skilled trade)"
 | **Regulated** | **No** — Anlage B1, so self-employment is free too |
 | **Last reviewed** | 2026-09 |
 
+</div>
+
+
 ## Anlage B1 — what it means to be a trade without a Meisterpflicht {#anlage-b1--what-it-means-to-be-a-trade-without-a-meisterpflicht}
 
 The [skilled trades](/jobs-in-germany/skilled-trades/) in this repo are **Anlage A**: employment
 free, self-employment requiring the Meisterbrief. Gebäudereiniger is **Anlage B1** —
 *zulassungsfrei*. Anyone may register the trade and open a cleaning business.
+
+
+<div class="jig-table" markdown="1">
 
 | | **Anlage A** (e.g. [Elektroniker EGT](/jobs-in-germany/skilled-trades/elektroniker-in-energie-und-gebaeudetechnik/)) | **Anlage B1** (Gebäudereiniger) |
 |---|---|---|
@@ -31,6 +44,9 @@ free, self-employment requiring the Meisterbrief. Gebäudereiniger is **Anlage B
 | Ausbildung | Yes, 3–3.5 years | Yes, 3 years |
 | Meister exists? | Yes, and it is the gate | **Yes, and it is voluntary** |
 | Who may train apprentices | A Meister | A Meister or otherwise qualified trainer |
+
+</div>
+
 
 **The consequence is the sector you see.** Barrier-free entry to self-employment produces
 very large numbers of very small firms, intense price competition on contracts, and — at the
@@ -72,6 +88,9 @@ interior-cleaning group and a higher one for **glass and facade** work.
 **Both are perishable figures and are not quoted here.** Check the current rates with the
 Bundesinnungsverband or the Zoll's FKS pages.
 
+
+<div class="jig-table" markdown="1">
+
 | Stage | Gross/month — **market estimate** |
 |---|---|
 | Qualified Gebäudereiniger/in, maintenance cleaning | €2,400 – €2,900 |
@@ -80,6 +99,9 @@ Bundesinnungsverband or the Zoll's FKS pages.
 | **Objektleiter/in** | €3,200 – €4,200 |
 | **Meister/in**, employed | €3,800 – €4,800 |
 | Fachwirt / Hygienemanagement, larger contractor | €4,200 – €5,500 |
+
+</div>
+
 
 **Full-time is the exception in this sector**, which is the single most important thing the
 monthly figures hide. A large share of the workforce is part-time or on a
@@ -142,3 +164,5 @@ few of the people working in cleaning hold the qualification.
 - Bundesinnungsverband des Gebäudereiniger-Handwerks — https://www.die-gebaeudedienstleister.de , accessed 2026-09
 - Zoll, Finanzkontrolle Schwarzarbeit — https://www.zoll.de , accessed 2026-09
 - BERUFENET — https://berufenet.arbeitsagentur.de , accessed 2026-09
+
+</div>

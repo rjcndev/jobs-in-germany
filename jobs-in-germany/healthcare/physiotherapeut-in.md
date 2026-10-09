@@ -2,8 +2,15 @@
 title: "Physiotherapeut/in (Physiotherapist)"
 ---
 
+<div class="jig" markdown="1">
+
+<p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/healthcare/">Healthcare</a></p>
+
 > Treats movement and musculoskeletal disorders through manual therapy and exercise.
 > Regulated and licensed, but paid markedly less than the diagnostic professions.
+
+
+<div class="jig-facts" markdown="1">
 
 | | |
 |---|---|
@@ -13,6 +20,9 @@ title: "Physiotherapeut/in (Physiotherapist)"
 | **Typical qualification** | Ausbildung, 3 years, state exam (or Bachelor) |
 | **Regulated** | Yes — state licence required |
 | **Last reviewed** | 2026-09 |
+
+</div>
+
 
 ## What the job involves {#what-the-job-involves}
 
@@ -45,12 +55,18 @@ The weak point of the profession, and the reason for chronic attrition. Gross mo
 Only the public-sector row is tariff-verified (TVöD VKA, valid 01.05.2026 – 31.03.2027);
 the private-practice figures are market estimates:
 
+
+<div class="jig-table" markdown="1">
+
 | Setting | Gross/month |
 |---|---|
 | Private practice, newly qualified | €2,600 – €3,000 |
 | Private practice, experienced | €3,000 – €3,600 |
 | Hospital / public sector (TVöD EG 7–9a) | €3,295 – €4,980 |
 | Self-employed practice owner | Highly variable; depends on private-pay share |
+
+</div>
+
 
 Public-sector employment pays better than private practice, which is the reverse of what
 many applicants assume. Earnings improve substantially with certified specialisations —
@@ -83,3 +99,5 @@ billing positions. Employers often part-fund them; get that in writing.
 - Masseur- und Physiotherapeutengesetz (MPhG) — https://www.gesetze-im-internet.de/mphg/ , accessed 2026-09
 - Anerkennung in Deutschland — https://www.anerkennung-in-deutschland.de , accessed 2026-09
 - BERUFENET — https://berufenet.arbeitsagentur.de , accessed 2026-09
+
+</div>

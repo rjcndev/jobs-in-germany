@@ -2,6 +2,10 @@
 title: "How retraining is paid for"
 ---
 
+<div class="jig" markdown="1">
+
+<p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/reference/">Reference</a></p>
+
 **Bildungsgutschein** and **Aufstiegs-BAföG** recur through this repo without ever being
 explained, and two further instruments that matter just as much appear nowhere at all.
 Collected here, because the repo has a habit it should not have: several files name a
@@ -13,6 +17,9 @@ mechanics are here.
 
 ## The five instruments {#the-five-instruments}
 
+
+<div class="jig-table" markdown="1">
+
 | Instrument | Who it is for | What it pays | Who decides |
 |---|---|---|---|
 | **Bildungsgutschein** | Unemployed, or at risk of becoming so | **Course fees in full**, plus travel, childcare, materials | Agentur für Arbeit / Jobcenter — **discretionary** |
@@ -20,6 +27,9 @@ mechanics are here.
 | **Qualifizierungsgeld** | People in work in a **structurally changing** sector | **Wage replacement** while you retrain and stay employed | Agentur, on an employer agreement |
 | **Aufstiegs-BAföG (AFBG)** | Anyone going up the ladder: Meister, Techniker, Fachwirt, Betriebswirt, Erzieher | Fee contribution + maintenance, partly **non-repayable** | BAföG office of the Bundesland |
 | **Bildungsurlaub / Bildungszeit** | Employees, in most Bundesländer | **Paid leave** — not the course | State law; you notify the employer |
+
+</div>
+
 
 ### Bildungsgutschein — the workhorse {#bildungsgutschein--the-workhorse}
 
@@ -127,3 +137,5 @@ relate to your current or intended occupation. See
 - Qualifizierungsgeld, Bundesagentur für Arbeit — https://www.arbeitsagentur.de , accessed 2026-09
 - SBB Begabtenförderung — https://www.sbb-stipendien.de , accessed 2026-09
 - Bildungsurlaub, per-state overview — https://www.bildungsurlaub.de , accessed 2026-09
+
+</div>

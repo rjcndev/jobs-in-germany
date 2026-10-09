@@ -2,8 +2,15 @@
 title: "Kraftfahrzeugmechatroniker/in (Vehicle Mechatronics Technician)"
 ---
 
+<div class="jig" markdown="1">
+
+<p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/skilled-trades/">Skilled trades (Handwerk)</a></p>
+
 > Services and repairs vehicles. A Handwerk trade sitting directly in the path of the
 > electric transition, where a single add-on qualification now divides the workforce.
+
+
+<div class="jig-facts" markdown="1">
 
 | | |
 |---|---|
@@ -14,6 +21,9 @@ title: "Kraftfahrzeugmechatroniker/in (Vehicle Mechatronics Technician)"
 | **Typical qualification** | Duale Ausbildung, 3.5 years, HWK (or IHK) exam |
 | **Regulated** | Meisterpflicht for self-employment |
 | **Last reviewed** | 2026-09 |
+
+</div>
+
 
 ## Not the industrial Mechatroniker {#not-the-industrial-mechatroniker}
 
@@ -27,6 +37,9 @@ the rights they confer.
 
 You qualify in one focus area:
 
+
+<div class="jig-table" markdown="1">
+
 | Schwerpunkt | Scope |
 |---|---|
 | Personenkraftwagentechnik | Cars — by far the most common |
@@ -35,6 +48,9 @@ You qualify in one focus area:
 | Karosserietechnik | Bodywork and structural repair |
 | **System- und Hochvolttechnik** | Electrical systems and high-voltage — the growth area |
 | Fahrzeugkommunikationstechnik | Networked vehicle systems, diagnostics, telematics |
+
+</div>
+
 
 ## Hochvolt is the dividing line {#hochvolt-is-the-dividing-line}
 
@@ -72,6 +88,9 @@ diagnostic data.
 Low relative to the technical demands, and a standing grievance in the trade. Approximate
 gross monthly, 2026 — **market estimates**, not tariff-verified:
 
+
+<div class="jig-table" markdown="1">
+
 | Setting | Gross/month |
 |---|---|
 | Geselle, newly qualified (independent workshop) | €2,600 – €3,200 |
@@ -80,6 +99,9 @@ gross monthly, 2026 — **market estimates**, not tariff-verified:
 | Kfz-Meister (employed) | €4,000 – €5,000 |
 | **Manufacturer plant or Niederlassung (IG Metall)** | **€3,800 – €5,200** |
 | Meister with own workshop | Highly variable |
+
+</div>
+
 
 Note the last two rows. The **Handwerk/Industrie gap** documented in the
 [industrial category](/jobs-in-germany/industrial/) applies here as sharply as anywhere: the
@@ -123,3 +145,5 @@ scarcer still and command a premium.
 - DGUV Information 209-093 (Qualifizierung für Arbeiten an Fahrzeugen mit Hochvoltsystemen) — https://www.dguv.de , accessed 2026-09
 - Zentralverband Deutsches Kraffahrzeuggewerbe (ZDK) — https://www.kfzgewerbe.de , accessed 2026-09
 - BERUFENET — https://berufenet.arbeitsagentur.de , accessed 2026-09
+
+</div>

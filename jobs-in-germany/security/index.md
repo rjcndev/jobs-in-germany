@@ -2,6 +2,10 @@
 title: "Private security (Bewachungsgewerbe)"
 ---
 
+<div class="jig" markdown="1">
+
+<p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a></p>
+
 One regulated sector, several job titles. Door supervision, site guarding, patrols, retail
 protection and event security are **roles inside it**, not separate occupations.
 
@@ -13,11 +17,17 @@ professional driving. The job title is unprotected; what you may *do* is not.
 
 Three tiers, and which applies depends on the work:
 
+
+<div class="jig-table" markdown="1">
+
 | Tier | What it is | Required for |
 |---|---|---|
 | **Unterrichtung** | A **40-hour IHK instruction course**, attendance-based, no exam | Basic guarding: site protection, reception, most static roles |
 | **Sachkundeprüfung §34a** | An **IHK examination** — written and oral, covering law, powers and conduct | **Door supervision at licensed venues**, patrols in public space, retail detectives, refugee accommodation, protected large events, and **anyone running a security business** |
 | **Ausbildung** | 2-year Servicekraft or **3-year [Fachkraft für Schutz und Sicherheit](/jobs-in-germany/security/fachkraft-fuer-schutz-und-sicherheit/)** | Nothing extra legally — but it is the route to supervision and better pay |
+
+</div>
+
 
 On top of all three: a **Zuverlässigkeitsüberprüfung** (reliability check), and entry in the
 **Bewacherregister**, mandatory since 2019. Employers must verify registration before
@@ -50,3 +60,14 @@ All pay figures in these files are **market estimates**.
   qualified occupation
 - [Sicherheitsmitarbeiter/in](/jobs-in-germany/security/sicherheitsmitarbeiter-in/) — the jobs most people actually
   do: site guarding, door supervision, patrols
+
+## Professions in this category {#professions-in-this-category}
+
+<div class="jig-cards" markdown="1">
+
+- [Fachkraft für Schutz und Sicherheit (Security Specialist)](/jobs-in-germany/security/fachkraft-fuer-schutz-und-sicherheit/) <span>The three-year qualification above the §34a courses.</span>
+- [Sicherheitsmitarbeiter/in (Security Officer, Door Supervisor, Night Guard)](/jobs-in-germany/security/sicherheitsmitarbeiter-in/) <span>The jobs most people in German private security actually do.</span>
+
+</div>
+
+</div>

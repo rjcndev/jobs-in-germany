@@ -2,10 +2,17 @@
 title: "Zimmerer / Zimmerin (Carpenter — structural)"
 ---
 
+<div class="jig" markdown="1">
+
+<p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/skilled-trades/">Skilled trades (Handwerk)</a></p>
+
 > Structural timber: roofs, frames and, increasingly, whole buildings. An **Anlage A** trade
 > riding the **Holzbau** boom as timber construction expands for carbon reasons — and the
 > one trade in this repo that still sends its journeymen on the road for three years and a
 > day.
+
+
+<div class="jig-facts" markdown="1">
 
 | | |
 |---|---|
@@ -17,10 +24,16 @@ title: "Zimmerer / Zimmerin (Carpenter — structural)"
 | **Regulated** | Self-employment only |
 | **Last reviewed** | 2026-09 |
 
+</div>
+
+
 ## Zimmerer is not Tischler {#zimmerer-is-not-tischler}
 
 The distinction is obvious in German and invisible in English, where both are "carpenter",
 and it sends people to the wrong Ausbildung.
+
+
+<div class="jig-table" markdown="1">
 
 | | **Zimmerer** | **[Tischler/Schreiner](/jobs-in-germany/skilled-trades/tischler-in/)** |
 |---|---|---|
@@ -29,6 +42,9 @@ and it sends people to the wrong Ausbildung.
 | Tariff world | **Bauhauptgewerbe** — BRTV-Bau, SOKA-BAU | Ausbau / joinery agreements |
 | Scale | Buildings | Rooms and objects |
 | Both | Anlage A; Meister for self-employment | Anlage A; Meister for self-employment |
+
+</div>
+
 
 If the work holds the building up, it is Zimmerer. If it goes inside the building, it is
 Tischler.
@@ -72,6 +88,9 @@ Handwerk trades that the pay alone does not explain.
 **Market estimate**, positioned against the Bau tariff. The AEntG **Bau-Mindestlohn** is the
 floor; it is perishable and is not quoted here.
 
+
+<div class="jig-table" markdown="1">
+
 | Stage | Gross/month |
 |---|---|
 | Geselle, entry | €3,100 – €3,700 |
@@ -79,6 +98,9 @@ floor; it is perishable and is not quoted here.
 | Vorarbeiter / Polier | €4,200 – €5,200 |
 | **Meister**, employed | €4,400 – €5,600 |
 | Abbund / CAD-Konstruktion (Holzbautechniker) | €4,000 – €5,200 |
+
+</div>
+
 
 Plus the Bauhauptgewerbe additions: away-site **Auslösung**, the 13th month, and SOKA-BAU's
 holiday and supplementary pension. Minus the winter months on
@@ -142,3 +164,5 @@ Bauhaupt trades in this repo, this is the one whose long-run direction is clearl
 - Holzbau Deutschland — https://www.holzbau-deutschland.de , accessed 2026-09
 - SOKA-BAU — https://www.soka-bau.de , accessed 2026-09
 - BERUFENET — https://berufenet.arbeitsagentur.de , accessed 2026-09
+
+</div>

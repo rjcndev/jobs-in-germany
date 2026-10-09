@@ -2,8 +2,15 @@
 title: "Pflegefachfrau / Pflegefachmann (Registered Nurse)"
 ---
 
+<div class="jig" markdown="1">
+
+<p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/healthcare/">Healthcare</a></p>
+
 > Generalist nursing: assessment, treatment, medication, documentation and patient care
 > across hospital, elderly care and home care settings.
+
+
+<div class="jig-facts" markdown="1">
 
 | | |
 |---|---|
@@ -14,6 +21,9 @@ title: "Pflegefachfrau / Pflegefachmann (Registered Nurse)"
 | **Typical qualification** | Ausbildung, 3 years, state exam |
 | **Regulated** | Yes — state licence required |
 | **Last reviewed** | 2026-09 |
+
+</div>
+
 
 ## The 2020 generalist reform {#the-2020-generalist-reform}
 
@@ -54,11 +64,17 @@ specialists and team leads sit higher. Gross monthly, from the table valid
 **01.05.2026 – 31.03.2027**, verified against the published TVöD-P scale 2026-09.
 Note that **P7 has no Stufe 1** — the ladder starts at Stufe 2:
 
+
+<div class="jig-table" markdown="1">
+
 | Stage | Gross/month |
 |---|---|
 | Newly qualified (P7 Stufe 2–3) | €3,510 – €3,701 |
 | Experienced (P7 Stufe 4–6) | €3,998 – €4,305 |
 | Specialist — ITS, anaesthesia, OR (P9–P10) | €3,992 – €4,961 |
+
+</div>
+
 
 Plus shift supplements, night rates (significant), weekend and public-holiday pay, and in
 many states a **Pflegezulage**. Actual take-home for a full-time rotating nurse is well
@@ -106,3 +122,5 @@ shortage occupation in Germany and the main target of international recruitment.
 - Pflegeberufegesetz (PflBG) — https://www.gesetze-im-internet.de/pflbg/ , accessed 2026-09
 - Anerkennung in Deutschland — https://www.anerkennung-in-deutschland.de , accessed 2026-09
 - TVöD-P pay tables — https://oeffentlicher-dienst.info , accessed 2026-09
+
+</div>

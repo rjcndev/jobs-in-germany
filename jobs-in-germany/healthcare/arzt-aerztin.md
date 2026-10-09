@@ -2,8 +2,15 @@
 title: "Arzt / Ärztin (Physician)"
 ---
 
+<div class="jig" markdown="1">
+
+<p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/healthcare/">Healthcare</a></p>
+
 > Diagnoses and treats patients. The most heavily regulated profession in this repo, and
 > the one where the gap between "qualified abroad" and "allowed to work" is widest.
+
+
+<div class="jig-facts" markdown="1">
 
 | | |
 |---|---|
@@ -13,6 +20,9 @@ title: "Arzt / Ärztin (Physician)"
 | **Typical qualification** | Medical degree (~6 years) + Approbation |
 | **Regulated** | Yes — Approbation (full licence) or Berufserlaubnis (temporary) |
 | **Last reviewed** | 2026-09 |
+
+</div>
+
 
 ## Two different licences {#two-different-licences}
 
@@ -44,6 +54,9 @@ Hospital doctors are covered by dedicated collective agreements — **TV-Ärzte/
 excluding on-call. The agreement grades by **Stufe**, not by calendar year, and TdL
 differs:
 
+
+<div class="jig-table" markdown="1">
+
 | Stage | Gross/month |
 |---|---|
 | Assistenzarzt (Stufe I, 1→6) | €5,722 – €7,355 |
@@ -51,6 +64,9 @@ differs:
 | Oberarzt (Stufe III) | €9,460 – €10,811 |
 | Leitender Oberarzt (Stufe IV) | €11,128 – €11,923 |
 | Chefarzt | Individually negotiated, outside the agreement |
+
+</div>
+
 
 **Bereitschaftsdienst and Rufbereitschaft** (on-call) add substantially — for many
 Assistenzärzte this is 20–30% on top. Note that on-call pay is a perennial source of
@@ -95,3 +111,5 @@ licence to treat statutory-insurance patients.
 - Bundesärztekammer — https://www.bundesaerztekammer.de , accessed 2026-09
 - Anerkennung in Deutschland — https://www.anerkennung-in-deutschland.de , accessed 2026-09
 - Marburger Bund (collective agreements) — https://www.marburger-bund.de , accessed 2026-09
+
+</div>

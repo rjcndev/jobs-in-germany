@@ -2,10 +2,17 @@
 title: "Medizinische/r Fachangestellte/r (MFA) (Medical Assistant)"
 ---
 
+<div class="jig" markdown="1">
+
+<p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/healthcare/">Healthcare</a></p>
+
 > One of the largest occupations in German healthcare and one of the worst paid relative to
 > what it carries. Examined by the **Ärztekammer** rather than the IHK or HWK — a chamber
 > system this repo otherwise only meets at the top of the profession — and the reason a
 > doctor's practice functions at all.
+
+
+<div class="jig-facts" markdown="1">
 
 | | |
 |---|---|
@@ -17,6 +24,9 @@ title: "Medizinische/r Fachangestellte/r (MFA) (Medical Assistant)"
 | **Examining body** | **Landesärztekammer** — not IHK, not HWK |
 | **Regulated** | No — but delegated medical tasks are legally constrained |
 | **Last reviewed** | 2026-09 |
+
+</div>
+
 
 ## A fourth examining body {#a-fourth-examining-body}
 
@@ -55,12 +65,18 @@ much they delegate, which is why two MFA jobs can look like different profession
 
 ## Confusable titles {#confusable-titles}
 
+
+<div class="jig-table" markdown="1">
+
 | Title | Reality |
 |---|---|
 | **[MT / MTA](/jobs-in-germany/healthcare/medizinische-technologin-mt-mta/)** | A **regulated** profession with a state licence, working in laboratories, radiology or functional diagnostics. Higher pay, harder entry. MFA is the primary-care counterpart, not a junior version |
 | **ZFA / TFA / PKA** | The dental, veterinary and pharmacy equivalents. Separate Ausbildungen, separate chambers |
 | **Pflegefachfrau/-mann** | A [three-year regulated nursing qualification](/jobs-in-germany/healthcare/pflegefachfrau-pflegefachmann/). Not interchangeable, though practices sometimes employ either |
 | **Praxismanager/in** | A Fortbildung on top of MFA, not a separate entry qualification |
+
+</div>
+
 
 ## Qualification route {#qualification-route}
 
@@ -71,12 +87,18 @@ much they delegate, which is why two MFA jobs can look like different profession
 - **Examined by the Ärztekammer** in written and practical parts
 - **Above it**, and this is where the profession's real earning potential sits:
 
+
+<div class="jig-table" markdown="1">
+
 | Fortbildung | What it adds |
 |---|---|
 | **VERAH / NäPa** | Delegated home visits and chronic-care management in general practice. A substantive extension of scope |
 | **Fachwirt/in für ambulante medizinische Versorgung** | The Ärztekammer's Fortbildung at Meister level — practice management |
 | **Specialisations** | Ambulantes Operieren, Onkologie, Dialyse, Hygiene, Impfassistenz, Strahlenschutz |
 | **Praxismanager/in, Abrechnungsspezialist/in** | Administrative and billing leadership |
+
+</div>
+
 
 The step to [Pflege](/jobs-in-germany/healthcare/pflegefachfrau-pflegefachmann/) or to a health-sector Bachelor is
 also a common route out, and both pay more.
@@ -88,6 +110,9 @@ between the doctors' employer body and the profession's union — but it binds o
 who have joined, so for most practices it is an orientation rather than an obligation. There
 is no single binding scale to verify against.
 
+
+<div class="jig-table" markdown="1">
+
 | Stage | Gross/month |
 |---|---|
 | Entry, after the Ausbildung | €2,400 – €2,800 |
@@ -95,6 +120,9 @@ is no single binding scale to verify against.
 | With a substantive Fortbildung (VERAH, Onkologie, OP) | €3,200 – €3,800 |
 | Praxismanagement / Fachwirt, larger practice or MVZ | €3,600 – €4,500 |
 | MFA employed in a **hospital outpatient clinic or MVZ under TVöD** | **EG 5–6: €3,124 – €3,926** |
+
+</div>
+
 
 **That last row is the most useful line in this file.** The same person doing broadly the
 same work earns materially more under a public-sector tariff than in a private practice, with
@@ -157,3 +185,5 @@ adds others.
 - Verband medizinischer Fachberufe (vmf) — https://www.vmf-online.de , accessed 2026-09
 - TVöD VKA pay table — https://oeffentlicher-dienst.info , verified 2026-09
 - BERUFENET — https://berufenet.arbeitsagentur.de , accessed 2026-09
+
+</div>

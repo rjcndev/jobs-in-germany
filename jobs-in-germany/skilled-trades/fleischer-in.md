@@ -2,9 +2,16 @@
 title: "Fleischer/in — Metzger/in — Schlachter/in (Butcher)"
 ---
 
+<div class="jig" markdown="1">
+
+<p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/skilled-trades/">Skilled trades (Handwerk)</a></p>
+
 > Cuts, cures and processes meat. A Handwerk trade that has lost more of its businesses than
 > any other in this repo — and whose industrial counterpart produced one of Germany's worst
 > labour scandals.
+
+
+<div class="jig-facts" markdown="1">
 
 | | |
 |---|---|
@@ -14,6 +21,9 @@ title: "Fleischer/in — Metzger/in — Schlachter/in (Butcher)"
 | **Typical qualification** | Duale Ausbildung, 3 years, HWK exam |
 | **Regulated** | Meisterpflicht for self-employment |
 | **Last reviewed** | 2026-09 |
+
+</div>
+
 
 ## Three regional names {#three-regional-names}
 
@@ -30,12 +40,18 @@ the market.
 
 ## Two very different sectors under one job title {#two-very-different-sectors-under-one-job-title}
 
+
+<div class="jig-table" markdown="1">
+
 | | **Handwerk butchery** | **Industrial meat processing** |
 |---|---|---|
 | Work | Cutting, curing, sausage-making, counter production, catering | Line work in large slaughter and processing plants |
 | Skill | The qualified trade | Often unskilled or semi-skilled |
 | Employer | Small Metzgereien, regional chains | Large processors |
 | Pay | Modest but above minimum | Historically at or near minimum |
+
+</div>
+
 
 **The industrial side has a documented history of exploitation** — subcontracted
 **Werkverträge**, migrant labour from Romania, Bulgaria and Poland, dormitory accommodation,
@@ -77,12 +93,18 @@ Fachrichtung Fleischerei. Do not confuse the two on an application.
 
 Handwerk levels — **market estimates**, not tariff-verified:
 
+
+<div class="jig-table" markdown="1">
+
 | Stage | Gross/month |
 |---|---|
 | Geselle, newly qualified | €2,600 – €3,200 |
 | Geselle, experienced | €3,100 – €3,800 |
 | Meister (employed) | €3,900 – €4,900 |
 | Meister with own Metzgerei | Highly variable; catering and quality niches are the profitable end |
+
+</div>
+
 
 ## Demand — acute shortage inside a shrinking sector {#demand--acute-shortage-inside-a-shrinking-sector}
 
@@ -121,3 +143,5 @@ begging because there is no one to take businesses over.
 - Arbeitsschutzkontrollgesetz — https://www.gesetze-im-internet.de/arbschg/ , accessed 2026-09
 - Infektionsschutzgesetz §43 — https://www.gesetze-im-internet.de/ifsg/ , accessed 2026-09
 - Deutscher Fleischer-Verband — https://www.fleischerhandwerk.de , accessed 2026-09
+
+</div>

@@ -2,12 +2,19 @@
 title: "Pflegefachassistenz / Pflegehelfer/in (Nursing Assistant)"
 ---
 
+<div class="jig" markdown="1">
+
+<p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/healthcare/">Healthcare</a></p>
+
 > The tier directly below [nursing](/jobs-in-germany/healthcare/pflegefachfrau-pflegefachmann/): one to two years,
 > and — uniquely among the healthcare qualifications here — **regulated by the sixteen
 > Bundesländer rather than by federal law.** It matters disproportionately, because it is
 > what internationally recruited nurses are actually employed as while their recognition
 > runs, and the nursing file warns about getting stuck there without documenting what
 > "there" is.
+
+
+<div class="jig-facts" markdown="1">
 
 | | |
 |---|---|
@@ -18,6 +25,9 @@ title: "Pflegefachassistenz / Pflegehelfer/in (Nursing Assistant)"
 | **Examining body** | The **Bundesland** — a state school authority, not a chamber |
 | **Regulated** | **Under state law, and differently in each** |
 | **Last reviewed** | 2026-09 |
+
+</div>
+
 
 ## Sixteen qualifications, not one {#sixteen-qualifications-not-one}
 
@@ -74,11 +84,17 @@ covers, in your own Bundesland, in writing.
 
 **Market estimate**, except for the tariff row.
 
+
+<div class="jig-table" markdown="1">
+
 | Setting | Gross/month |
 |---|---|
 | Private or non-tariff provider | €2,400 – €2,900 |
 | Tariff-bound provider (TVöD-P, lower P-groups) | €2,900 – €3,400 |
 | Experienced, two-year qualification, with supplements | €3,100 – €3,600 |
+
+</div>
+
 
 For comparison, a qualified nurse on **TVöD-P P7** starts at **€3,510 – €3,701** and tops
 out at **€4,305** (verified, valid 01.05.2026 – 31.03.2027). The gap for adjacent work on
@@ -164,3 +180,5 @@ and well-used route. It goes wrong when nobody sets a deadline.
 - Pflegemindestlohn, Pflegekommission — https://www.bmas.de , accessed 2026-09
 - TVöD-P pay table — https://oeffentlicher-dienst.info , verified 2026-09
 - anerkennung-in-deutschland.de — https://www.anerkennung-in-deutschland.de , accessed 2026-09
+
+</div>

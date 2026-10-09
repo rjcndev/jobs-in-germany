@@ -2,9 +2,16 @@
 title: "Zollbeamte/r (Customs Officer)"
 ---
 
+<div class="jig" markdown="1">
+
+<p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/public-service/">Public service (öffentlicher Dienst) — the Beamten careers</a></p>
+
 > Collects duties, polices goods across borders — and enforces most of the labour law this
 > repo describes. **Federal**, which makes it the one public-service career here without
 > sixteen different versions.
+
+
+<div class="jig-facts" markdown="1">
 
 | | |
 |---|---|
@@ -15,6 +22,9 @@ title: "Zollbeamte/r (Customs Officer)"
 | **Typical qualification** | 2-year Vorbereitungsdienst, or a **3-year paid Bachelor** |
 | **Status** | **Bundesbeamter/-beamtin** — see [Beamte vs. Angestellte](/jobs-in-germany/reference/beamte-vs-angestellte/) |
 | **Last reviewed** | 2026-09 |
+
+</div>
+
 
 ## One employer, not sixteen {#one-employer-not-sixteen}
 
@@ -33,6 +43,9 @@ live.
 Much more than airports. The service has several quite different arms, and which one you
 land in shapes the career:
 
+
+<div class="jig-table" markdown="1">
+
 | Area | Work |
 |---|---|
 | **Zollabfertigung** | Import and export clearance, tariffs, EU customs code, origin and valuation |
@@ -42,6 +55,9 @@ land in shapes the career:
 | **FKS — Finanzkontrolle Schwarzarbeit** | **Undeclared work enforcement** — see below |
 | **Zollfahndung (ZKA)** | Criminal investigation: smuggling, money laundering, sanctions, organised crime |
 | Artenschutz, Produktsicherheit | CITES, counterfeit goods, product safety at the border |
+
+</div>
+
 
 ### The FKS is why this file matters to the rest of the repo {#the-fks-is-why-this-file-matters-to-the-rest-of-the-repo}
 
@@ -96,6 +112,9 @@ additional training and fitness requirements.
 writing, so these figures are a floor rather than current.** This repo does not quote
 forecast tables — check the current Bundesbesoldung before relying on them.
 
+
+<div class="jig-table" markdown="1">
+
 | Stage | Grade | Gross/month |
 |---|---|---|
 | Zollsekretär/in (mittlerer Dienst) | A 6 – A 7 | €2,918 – €3,795 |
@@ -103,6 +122,9 @@ forecast tables — check the current Bundesbesoldung before relying on them.
 | Zollinspektor/in (gehobener Dienst) | A 9 – A 10 | €3,455 – €4,918 |
 | Zolloberinspektor/in, Zollamtsrat/-rätin | A 11 – A 12 | €4,179 – €5,989 |
 | Senior posts | A 13 | €5,198 – €6,621 |
+
+</div>
+
 
 Anwärterbezüge apply during the Vorbereitungsdienst and are well below these figures.
 Supplements apply for shift, night and weekend duty in operational roles.
@@ -143,3 +165,5 @@ public-sector recruiters in Germany.
 - Schwarzarbeitsbekämpfungsgesetz — https://www.gesetze-im-internet.de/schwarzarbg_2004/ , accessed 2026-09
 - Zoll — https://www.zoll.de , accessed 2026-09
 - Bundesbesoldung tables — https://oeffentlicher-dienst.info , verified 2026-09
+
+</div>

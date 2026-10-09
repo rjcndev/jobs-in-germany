@@ -2,12 +2,19 @@
 title: "Raumausstatter/in (Interior Furnisher / Soft Furnishings Fitter)"
 ---
 
+<div class="jig" markdown="1">
+
+<p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/skilled-trades/">Skilled trades (Handwerk)</a></p>
+
 > Written as a **case study of the 2020 re-regulation**, not as a generic trade profile. As
 > a trade it would largely repeat [Elektroniker EGT](/jobs-in-germany/skilled-trades/elektroniker-in-energie-und-gebaeudetechnik/)
 > and [SHK](/jobs-in-germany/skilled-trades/anlagenmechaniker-in-shk/) — three years, Handwerk, Anlage A, Meister for
 > self-employment. What earns it a file is that it is one of **twelve trades whose
 > Meisterpflicht Germany abolished in 2004 and restored in 2020** — and the workforce is now
 > split between owners who need the Meisterbrief and owners who do not.
+
+
+<div class="jig-facts" markdown="1">
 
 | | |
 |---|---|
@@ -19,16 +26,25 @@ title: "Raumausstatter/in (Interior Furnisher / Soft Furnishings Fitter)"
 | **Regulated** | Self-employment only — **and only if you started after February 2020** |
 | **Last reviewed** | 2026-09 |
 
+</div>
+
+
 ## Regulation moves in both directions {#regulation-moves-in-both-directions}
 
 The repo's framing presents **Anlage A** as settled: some trades need a Meisterbrief to open
 a business, others do not. It is not settled, and this trade is the proof.
+
+
+<div class="jig-table" markdown="1">
 
 | Year | What happened |
 |---|---|
 | **2004** | A major reform of the Handwerksordnung **deregulated 53 trades**, moving them from Anlage A to **Anlage B1**. The aim was more business formation and lower barriers to entry |
 | **2004–2019** | Business numbers in the deregulated trades rose sharply — mostly **solo self-employment**, much of it precarious. **Training collapsed**: firms without a Meister cannot train, and apprentice numbers in those trades fell heavily |
 | **2020** | The **Fourth Act amending the Handwerksordnung** restored the Meisterpflicht for **twelve** of them, with effect from February 2020 |
+
+</div>
+
 
 ### The twelve {#the-twelve}
 
@@ -86,6 +102,9 @@ so it is a customer-facing trade, with the language requirement that implies.
 **Market estimate.** The Ausbau trades have regional agreements with limited coverage; most
 small firms are not bound.
 
+
+<div class="jig-table" markdown="1">
+
 | Stage | Gross/month |
 |---|---|
 | Geselle, entry | €2,500 – €3,000 |
@@ -93,6 +112,9 @@ small firms are not bound.
 | Specialist (Polsterei, restoration, high-end interiors) | €3,300 – €4,000 |
 | **Meister**, employed | €3,700 – €4,600 |
 | Meister with own business | Not comparable |
+
+</div>
+
 
 This sits at the lower end of the trades in this repo, comparable to
 [Tischler](/jobs-in-germany/skilled-trades/tischler-in/), and below the Bauhauptgewerbe trades — which have a sector
@@ -147,3 +169,5 @@ about whether the 2004 reform or the 2020 reversal did more harm is unresolved.
 - Zentralverband Raum und Ausstattung — https://www.zvr-ev.de , accessed 2026-09
 - ZDH, on the 2020 re-regulation — https://www.zdh.de , accessed 2026-09
 - BERUFENET — https://berufenet.arbeitsagentur.de , accessed 2026-09
+
+</div>

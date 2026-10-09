@@ -2,6 +2,10 @@
 title: "Occupational certificates — the short tickets that gate the work"
 ---
 
+<div class="jig" markdown="1">
+
+<p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/reference/">Reference</a></p>
+
 Roughly a dozen short certificates run through this repo, and until now **each appeared in
 exactly one profession file**, which made the pattern invisible. Collected, they show
 something no individual file can:
@@ -23,6 +27,9 @@ below are enough that it is no longer a footnote.
 
 ## The table {#the-table}
 
+
+<div class="jig-table" markdown="1">
+
 | Certificate | Legal basis | Gates | Typical length | Renewal |
 |---|---|---|---|---|
 | **Elektrofachkraft (EFK)** vs **EuP** | DGUV V3, VDE 1000-10 | **Who may work on electrical installations at all** | The Ausbildung itself confers EFK; EuP is a short briefing | Annual instruction |
@@ -39,6 +46,9 @@ below are enough that it is no longer a footnote.
 | **Strahlenschutz-Fachkunde** | StrlSchV | Operating radiation equipment | 3–4 days by module | **Every 5 years** |
 | **PSAgA / Absturzsicherung** | DGUV R 112-198/199 | Rope access, roof and scaffold work | 1–2 days | Annual |
 | **Rettungsschwimmer, Ersthelfer** | DGUV V1 | Designated first aiders | 1–2 days | **2 years** |
+
+</div>
+
 
 ## What follows from the table {#what-follows-from-the-table}
 
@@ -94,3 +104,5 @@ That is a real part of the deal, and the pay table cannot show it.
 - §34a GewO, §43 IfSG, BKrFQG, PflSchG, StrlSchV — https://www.gesetze-im-internet.de , accessed 2026-09
 - DVGW — https://www.dvgw.de , accessed 2026-09
 - BERUFENET — https://berufenet.arbeitsagentur.de , accessed 2026-09
+
+</div>

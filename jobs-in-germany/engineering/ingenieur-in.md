@@ -2,8 +2,15 @@
 title: "Ingenieur/in (Engineer)"
 ---
 
+<div class="jig" markdown="1">
+
+<p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/engineering/">Engineering</a></p>
+
 > Germany's signature profession. Unregulated as *work*, but the **title itself is legally
 > protected** — a distinction that catches out almost every newcomer.
+
+
+<div class="jig-facts" markdown="1">
 
 | | |
 |---|---|
@@ -13,6 +20,9 @@ title: "Ingenieur/in (Engineer)"
 | **Typical qualification** | Bachelor or Master in an engineering discipline |
 | **Regulated** | Title regulated; most engineering *work* is not |
 | **Last reviewed** | 2026-09 |
+
+</div>
+
 
 ## The title trap {#the-title-trap}
 
@@ -31,6 +41,9 @@ and further qualification. If your work touches structural approval, this matter
 
 ## Disciplines and where they sit {#disciplines-and-where-they-sit}
 
+
+<div class="jig-table" markdown="1">
+
 | Discipline | Typical employers |
 |---|---|
 | Maschinenbau | Automotive, machine tools, plant engineering, Mittelstand |
@@ -39,10 +52,16 @@ and further qualification. If your work touches structural approval, this matter
 | Verfahrenstechnik | Chemicals, pharma, process plant |
 | Wirtschaftsingenieurwesen | Industry-facing commercial and project roles |
 
+</div>
+
+
 ## Pay {#pay}
 
 Much of industry is covered by **IG Metall** or **IG BCE** collective agreements, which
 matter more than the individual negotiation. Approximate **annual gross**, 2026:
+
+
+<div class="jig-table" markdown="1">
 
 | Stage | Annual gross |
 |---|---|
@@ -50,6 +69,9 @@ matter more than the individual negotiation. Approximate **annual gross**, 2026:
 | 3–5 years | €65,000 – €80,000 |
 | Senior / project lead | €80,000 – €100,000 |
 | Management | €100,000+ |
+
+</div>
+
 
 Tariff-bound employers add a 13th-month payment, holiday pay, and a 35-hour week in the
 metal and electrical industries — worth substantially more than the headline figure
@@ -90,3 +112,5 @@ less than industry but with strong security and predictable hours.
 - Bundesingenieurkammer — https://www.bingk.de , accessed 2026-09
 - IG Metall tariff information — https://www.igmetall.de , accessed 2026-09
 - Make it in Germany — https://www.make-it-in-germany.com , accessed 2026-09
+
+</div>

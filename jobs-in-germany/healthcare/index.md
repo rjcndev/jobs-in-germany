@@ -2,6 +2,10 @@
 title: "Healthcare"
 ---
 
+<div class="jig" markdown="1">
+
+<p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a></p>
+
 The most heavily regulated sector in this repo. **Almost** every profession here needs a
 **state licence** before you may work at all — recognition is not optional, and the pattern
 is near-identical across them, so it is collected once here.
@@ -71,3 +75,26 @@ private operators often pay less.
 - [PTA — Pharmazeutisch-technische/r Assistent/in](/jobs-in-germany/healthcare/pharmazeutisch-technische-r-assistent-in/)
 - [MFA — Medizinische/r Fachangestellte/r](/jobs-in-germany/healthcare/medizinische-fachangestellte-r/)
 - [Pflegefachassistenz / Pflegehelfer/in](/jobs-in-germany/healthcare/pflegefachassistenz-pflegehelfer-in/)
+
+## Professions in this category {#professions-in-this-category}
+
+<div class="jig-cards" markdown="1">
+
+- [Apotheker/in (Pharmacist)](/jobs-in-germany/healthcare/apotheker-in/) <span>Dispenses and advises on medicines.</span>
+- [Arzt / Ärztin (Physician)](/jobs-in-germany/healthcare/arzt-aerztin/) <span>Diagnoses and treats patients.</span>
+- [ATA / OTA — Anästhesie- und Operationstechnische Assistenz (Anaesthesia and Surgical Assistants)](/jobs-in-germany/healthcare/ata-ota/) <span>Federally regulated since 2022, and before that not regulated at all.</span>
+- [Hebamme / Entbindungspfleger (Midwife)](/jobs-in-germany/healthcare/hebamme/) <span>The cleanest example in this repo of a profession changing its entry route wholesale: in 2020 the Ausbildung was abolished outright and replaced by a dual Bachelor, under EU pressure.</span>
+- [Medizinische/r Fachangestellte/r (MFA) (Medical Assistant)](/jobs-in-germany/healthcare/medizinische-fachangestellte-r/) <span>One of the largest occupations in German healthcare and one of the worst paid relative to what it carries.</span>
+- [Medizinische/r Technologe/Technologin (MT) — formerly MTA](/jobs-in-germany/healthcare/medizinische-technologin-mt-mta/) <span>Runs the diagnostic technology behind medical decisions: lab analyses, imaging, and functional testing.</span>
+- [Notfallsanitäter/in (Paramedic)](/jobs-in-germany/healthcare/notfallsanitaeter-in/) <span>The highest non-physician qualification in German emergency medicine.</span>
+- [Pflegefachassistenz / Pflegehelfer/in (Nursing Assistant)](/jobs-in-germany/healthcare/pflegefachassistenz-pflegehelfer-in/) <span>The tier directly below nursing: one to two years, and — uniquely among the healthcare qualifications here — regulated by the sixteen Bundesländer rather than by federal law. It matters disproportionately, because it is what internationally recruited nurses are actually employed as while their recognition runs, and the nursing file warns about getting stuck there without documenting what "there" is.</span>
+- [Pflegefachfrau / Pflegefachmann (Registered Nurse)](/jobs-in-germany/healthcare/pflegefachfrau-pflegefachmann/) <span>Generalist nursing: assessment, treatment, medication, documentation and patient care across hospital, elderly care and home care settings.</span>
+- [Pharmazeutisch-technische/r Assistent/in (PTA) (Pharmaceutical Technical Assistant)](/jobs-in-germany/healthcare/pharmazeutisch-technische-r-assistent-in/) <span>Dispenses, advises and compounds in a pharmacy, under a pharmacist's supervision — reformed in 2023 to loosen that supervision for experienced staff.</span>
+- [Physiotherapeut/in (Physiotherapist)](/jobs-in-germany/healthcare/physiotherapeut-in/) <span>Treats movement and musculoskeletal disorders through manual therapy and exercise.</span>
+- [Psychotherapeut/in (Psychotherapist)](/jobs-in-germany/healthcare/psychotherapeut-in/) <span>Reformed in 2020 into a direct-study route ending in Approbation at the end of a Master's, replacing a post-graduate training that was among the worst-paid in German professional life.</span>
+- [Logopäde/in und Ergotherapeut/in (Speech and Occupational Therapy)](/jobs-in-germany/healthcare/therapieberufe-logopaedie-ergotherapie/) <span>Two regulated professions written as one file, because their structural story is identical and it is the same one Physiotherapie tells: a state licence, a school-based training that used to charge you for it, pay that does not match the responsibility, and an academisation that has been announced for years and not delivered.</span>
+- [Zahnarzt / Zahnärztin (Dentist)](/jobs-in-germany/healthcare/zahnarzt-zahnaerztin/) <span>Approbation, like a doctor — but with two things medicine does not have: no specialist training is required to practise generally, and a large private economy sitting on top of a deliberately basic statutory entitlement. The second is what makes dentistry financially unlike the rest of healthcare in this repo.</span>
+
+</div>
+
+</div>

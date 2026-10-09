@@ -2,11 +2,18 @@
 title: "Kaufmann/-frau für Versicherungen und Finanzanlagen (Insurance and Financial Services Agent)"
 ---
 
+<div class="jig" markdown="1">
+
+<p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/commercial/">Commercial</a></p>
+
 > Completes the finance-sector permit picture. [Banking](/jobs-in-germany/commercial/bankkaufmann-frau/) is gated by
 > **BaFin**; [property](/jobs-in-germany/commercial/immobilienkaufmann-frau/) by **§34c GewO**; insurance and
 > investment intermediation by **§34d, §34f and §34i GewO**, supervised by the **IHK and the
 > trade authority — not by BaFin.** Four adjacent occupations, four different regulators, and
 > the differences decide what you may actually sell.
+
+
+<div class="jig-facts" markdown="1">
 
 | | |
 |---|---|
@@ -19,7 +26,13 @@ title: "Kaufmann/-frau für Versicherungen und Finanzanlagen (Insurance and Fina
 | **Regulated** | **Activity-gated — §34d / §34f / §34i GewO**, with a register entry and annual CPD |
 | **Last reviewed** | 2026-09 |
 
+</div>
+
+
 ## The permits, and who needs one {#the-permits-and-who-needs-one}
+
+
+<div class="jig-table" markdown="1">
 
 | Paragraph | Covers | Notes |
 |---|---|---|
@@ -27,6 +40,9 @@ title: "Kaufmann/-frau für Versicherungen und Finanzanlagen (Insurance and Fina
 | **§34f** | Investment intermediation — funds, closed-end products | Separate Sachkundeprüfung |
 | **§34i** | Residential mortgage intermediation | Separate again |
 | **§34h** | **Honorar** (fee-based) insurance advice | Mutually exclusive with commission-based §34d |
+
+</div>
+
 
 Each requires: **reliability**, **orderly financial circumstances**, **professional indemnity
 insurance**, and an **IHK Sachkundeprüfung** — the one for insurance being the
@@ -38,6 +54,9 @@ Distribution Directive and enforced through the register.
 
 ### The distinction that decides your career {#the-distinction-that-decides-your-career}
 
+
+<div class="jig-table" markdown="1">
+
 | | **Gebundener Vertreter** (tied agent) | **Makler** (broker) |
 |---|---|---|
 | Acts for | **One insurer** (or a few) | **The customer** |
@@ -45,6 +64,9 @@ Distribution Directive and enforced through the register.
 | Product range | That insurer's | The market's |
 | Liability | The insurer's | **Yours** |
 | Independence | Limited | Real, and it is the profession's selling point |
+
+</div>
+
 
 Most people start as employees or tied agents and never need their own permit. Becoming a
 broker is the step that turns this into a regulated business of your own — with the duty to
@@ -72,6 +94,9 @@ least-known corner of the sector.
 **Market estimate.** Insurers' own staff are frequently covered by the insurance industry's
 collective agreement, which is comparatively good; agency and sales roles are commission-led.
 
+
+<div class="jig-table" markdown="1">
+
 | Role | Gross/month |
 |---|---|
 | Entry, insurer's office | €3,000 – €3,600 |
@@ -80,6 +105,9 @@ collective agreement, which is comparatively good; agency and sales roles are co
 | Agency sales | Base plus commission — **highly variable**, and the base is often low |
 | Self-employed broker | A business result |
 | Head-office roles (underwriting, actuarial support, product) | €4,500 – €6,500 |
+
+</div>
+
 
 **Look hard at the commission structure** in any sales role: how much is base, when
 commission vests, and whether it is clawed back if a policy lapses. Clawback (*Stornohaftung*)
@@ -133,3 +161,5 @@ respected than one built on commercial or industrial broking.
 - Vermittlerregister, DIHK — https://www.vermittlerregister.info , accessed 2026-09
 - Verordnung über die Berufsausbildung zum Kaufmann für Versicherungen und Finanzanlagen — https://www.gesetze-im-internet.de , accessed 2026-09
 - BERUFENET — https://berufenet.arbeitsagentur.de , accessed 2026-09
+
+</div>

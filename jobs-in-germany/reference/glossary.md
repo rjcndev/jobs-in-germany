@@ -2,6 +2,10 @@
 title: "Glossary"
 ---
 
+<div class="jig" markdown="1">
+
+<p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/reference/">Reference</a></p>
+
 This repo is written in English and deliberately keeps German terms in place, because that
 is how you will meet them — in job adverts, on authority websites, and on forms. Around 250
 recur across the files. These are the ones that carry meaning.
@@ -230,3 +234,5 @@ TVöD, **largely tax-free** under §3b EStG. See
 ### Zusatzbeitrag {#zusatzbeitrag}
 The supplementary health-insurance contribution set by each individual Krankenkasse, on top
 of the 14.6% base rate.
+
+</div>

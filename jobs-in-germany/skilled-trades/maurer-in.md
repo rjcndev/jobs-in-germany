@@ -2,11 +2,18 @@
 title: "Maurer/in (Bricklayer / Mason)"
 ---
 
+<div class="jig" markdown="1">
+
+<p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/skilled-trades/">Skilled trades (Handwerk)</a></p>
+
 > The core trade of the **Bauhauptgewerbe**, and the standard entry point into German
 > construction — including for people arriving without a qualification at all. Read
 > [The Bauhauptgewerbe](/jobs-in-germany/reference/bauhauptgewerbe/) first: holiday, minimum wage,
 > winter and the identity of your employer all work differently in construction, and that
 > file carries the load for every trade here.
+
+
+<div class="jig-facts" markdown="1">
 
 | | |
 |---|---|
@@ -19,15 +26,24 @@ title: "Maurer/in (Bricklayer / Mason)"
 | **Regulated** | Self-employment only |
 | **Last reviewed** | 2026-09 |
 
+</div>
+
+
 ## The Stufenausbildung — construction trains differently {#the-stufenausbildung--construction-trains-differently}
 
 The Bau trades share a **staged** Ausbildung that the rest of the Handwerk does not:
+
+
+<div class="jig-table" markdown="1">
 
 | Stage | Result |
 |---|---|
 | **Year 1** | Common construction basics, shared across all Bau trades, much of it in an inter-company training centre (**ÜBA**) rather than on site |
 | **Year 2** | **Hochbaufacharbeiter/in** — a recognised qualification in its own right. You can stop here |
 | **Year 3** | The full trade: **Maurer/in** |
+
+</div>
+
 
 Two consequences worth knowing. The **intermediate qualification is real**, so leaving after
 two years is not leaving with nothing — but it is a lower Lohngruppe and it is not the trade.
@@ -78,6 +94,9 @@ minimum wage** — two Lohngruppen, both above the statutory minimum — is the 
 a perishable figure that this repo does not quote; check it at
 [soka-bau.de](https://www.soka-bau.de).
 
+
+<div class="jig-table" markdown="1">
+
 | Stage | Gross/month |
 |---|---|
 | Bauhelfer (Lohngruppe 1) | At or near the Bau minimum |
@@ -86,6 +105,9 @@ a perishable figure that this repo does not quote; check it at
 | Experienced, Vorarbeiter | €3,700 – €4,400 |
 | **Polier** | €4,200 – €5,200 |
 | **Meister**, employed | €4,400 – €5,600 |
+
+</div>
+
 
 What the table leaves out, and it is a lot: **Auslösung** and travel allowances on away
 sites, partly tax-free; **Bauzuschläge**; a **13th month** under the sector agreement; and
@@ -150,3 +172,5 @@ than full pay.
 - SOKA-BAU — https://www.soka-bau.de , accessed 2026-09
 - BG BAU — https://www.bgbau.de , accessed 2026-09
 - BERUFENET — https://berufenet.arbeitsagentur.de , accessed 2026-09
+
+</div>

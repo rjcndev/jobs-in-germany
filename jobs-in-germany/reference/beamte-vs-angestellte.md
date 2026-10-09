@@ -2,6 +2,10 @@
 title: "Beamte vs. Angestellte"
 ---
 
+<div class="jig" markdown="1">
+
+<p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/reference/">Reference</a></p>
+
 Two people can do the same public-sector job, at the same desk, and be employed under
 completely different legal systems with different pay, pensions, rights and restrictions.
 This is one of the largest structural facts in German working life, and nothing else in
@@ -12,6 +16,9 @@ this repo works without it.
 
 ## The two statuses {#the-two-statuses}
 
+
+<div class="jig-table" markdown="1">
+
 | | **Beamte/r** (civil servant) | **Angestellte/r** (employee) |
 |---|---|---|
 | Legal basis | Public-law appointment (BeamtStG, state laws) | Employment contract |
@@ -21,6 +28,9 @@ this repo works without it.
 | Right to strike | **None** | Yes |
 | Job security | Effectively absolute once tenured | Ordinary dismissal protection |
 | Dismissal | Only by disciplinary court proceedings | Normal employment law |
+
+</div>
+
 
 ## Why Beamte net far more than the gross suggests {#why-beamte-net-far-more-than-the-gross-suggests}
 
@@ -49,12 +59,18 @@ no steps), **R** for judges and prosecutors, **W** for professors.
 
 Careers run in **Laufbahngruppen**, each with its own entry qualification:
 
+
+<div class="jig-table" markdown="1">
+
 | Laufbahn | Typical grades | Entry |
 |---|---|---|
 | einfacher Dienst | A 2 – A 6 | Hauptschulabschluss |
 | mittlerer Dienst | A 6 – A 9 | Mittlerer Schulabschluss + Vorbereitungsdienst |
 | **gehobener Dienst** | **A 9 – A 13** | Bachelor / FH degree, often a dual study programme |
 | **höherer Dienst** | **A 13 – A 16** | Master / Staatsexamen |
+
+</div>
+
 
 During the Vorbereitungsdienst you are an **Anwärter/in** on much lower **Anwärterbezüge** —
 in NRW 2026, €1,760 (A 12) and €1,793 (A 13).
@@ -102,14 +118,22 @@ Appointment then runs **Beamter auf Probe** (usually three years) before **auf L
 
 ## Where this matters in this repo {#where-this-matters-in-this-repo}
 
+
+<div class="jig-table" markdown="1">
+
 | Profession | Status |
 |---|---|
 | [Lehrer/in](/jobs-in-germany/education/lehrer-in/) | Usually verbeamtet; Angestellte on TV-L where not |
 | [Notfallsanitäter/in](/jobs-in-germany/healthcare/notfallsanitaeter-in/) | Verbeamtet **only** via the Berufsfeuerwehr route |
 | Police, customs, tax administration, judges | Planned additions — see [TODO.md](https://github.com/rjcndev/jobs-in-germany/blob/main/TODO.md) |
 
+</div>
+
+
 ## Sources {#sources}
 
 - Beamtenstatusgesetz (BeamtStG) — https://www.gesetze-im-internet.de/beamtstg/ , accessed 2026-09
 - Bundesbesoldungsgesetz — https://www.gesetze-im-internet.de/bbesg/ , accessed 2026-09
 - State Besoldung tables — https://oeffentlicher-dienst.info , verified 2026-09
+
+</div>

@@ -2,6 +2,10 @@
 title: "Minijob and geringfügige Beschäftigung"
 ---
 
+<div class="jig" markdown="1">
+
+<p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/reference/">Reference</a></p>
+
 A large share of German employment is not a job in the sense the rest of this repo
 describes. It is **geringfügige Beschäftigung** — legally employment, with a contract,
 a minimum wage and holiday entitlement, but deliberately placed outside most of the social
@@ -16,6 +20,9 @@ households is the legal alternative to what is otherwise an overwhelmingly undec
 
 **§8 SGB IV** defines two, and they are not variants of each other:
 
+
+<div class="jig-table" markdown="1">
+
 | | **Geringfügig entlohnt** (Minijob) | **Kurzfristig** |
 |---|---|---|
 | Limit | An **earnings** ceiling per month | **3 months or 70 working days** per calendar year |
@@ -23,6 +30,9 @@ households is the legal alternative to what is otherwise an overwhelmingly undec
 | Duration cap | None | Yes |
 | Condition | — | Must not be *berufsmäßig* — i.e. not your livelihood |
 | Typical use | Ongoing side work | **Harvest, events, seasonal trade** |
+
+</div>
+
 
 The kurzfristige form is the **70-day rule** that structures German harvest labour — see
 [Landwirt/in](/jobs-in-germany/green/landwirt-in/), where it is the dominant employment model and
@@ -54,6 +64,9 @@ Two practical points the formula hides:
 This is the part that is routinely misunderstood, usually in the worker's favour and
 against their interest.
 
+
+<div class="jig-facts" markdown="1">
+
 | | |
 |---|---|
 | **Income tax** | Normally none — the employer pays a 2% flat Pauschsteuer instead |
@@ -61,6 +74,9 @@ against their interest.
 | **Unemployment insurance** | **Nothing at all.** Minijobs are exempt, so no Minijob-year ever counts toward an ALG I claim, however many you hold and however long |
 | **Pension** | Compulsory *by default*, and you contribute a small top-up — **but you may opt out** with a Befreiungsantrag, and most people do |
 | **Accident insurance** | Full cover, employer-funded, including in private households |
+
+</div>
+
 
 **The opt-out is the trap.** Signing the Befreiung raises your take-home by a few euro a
 month and costs you the pension credit, the entitlement periods that pension credit
@@ -115,11 +131,17 @@ commercial Minijob.
 **Then §35a EStG gives most of it back.** The household deducts **20% of the cost directly
 from its tax bill** — not from taxable income, from the tax:
 
+
+<div class="jig-table" markdown="1">
+
 | Route | Deduction | Annual cap on the deduction |
 |---|---|---|
 | **Haushaltsscheck Minijob** | 20% of costs | **€510** |
 | Employed above the Minijob limit, or an invoiced cleaning firm / self-employed cleaner | 20% of costs | **€4,000** |
 | **Handwerkerleistungen** — tradesman's labour in the home | 20% of the **labour** element | **€1,200** |
+
+</div>
+
 
 Conditions for the larger two: an **invoice**, and payment by **bank transfer**. Cash kills
 the deduction, which is precisely the design.
@@ -150,3 +172,5 @@ Check the conditions printed on your own permit before taking one.
 - §35a EStG — https://www.gesetze-im-internet.de/estg/__35a.html , accessed 2026-09
 - Minijob-Zentrale — https://www.minijob-zentrale.de , accessed 2026-09
 - Deutsche Rentenversicherung, Übergangsbereich — https://www.deutsche-rentenversicherung.de , accessed 2026-09
+
+</div>

@@ -2,9 +2,16 @@
 title: "Bäcker/in (Baker)"
 ---
 
+<div class="jig" markdown="1">
+
+<p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/skilled-trades/">Skilled trades (Handwerk)</a></p>
+
 > Bread, rolls and Feingebäck, produced overnight. The trade whose working hours define it,
 > in a sector that has lost most of its businesses to industrial baking and bake-off
 > counters.
+
+
+<div class="jig-facts" markdown="1">
 
 | | |
 |---|---|
@@ -14,6 +21,9 @@ title: "Bäcker/in (Baker)"
 | **Typical qualification** | Duale Ausbildung, 3 years, HWK exam |
 | **Regulated** | Meisterpflicht for self-employment |
 | **Last reviewed** | 2026-09 |
+
+</div>
+
 
 ## Night work is the profession {#night-work-is-the-profession}
 
@@ -56,12 +66,18 @@ Fachrichtung Bäckerei.
 
 Among the lowest in this repo — **market estimates**, not tariff-verified:
 
+
+<div class="jig-table" markdown="1">
+
 | Stage | Gross/month |
 |---|---|
 | Geselle, newly qualified | €2,400 – €3,000 |
 | Geselle, experienced | €2,900 – €3,500 |
 | Meister (employed) | €3,500 – €4,500 |
 | Meister with own Bäckerei | Highly variable; quality and regional positioning are the profitable end |
+
+</div>
+
 
 Night, Sunday and public-holiday supplements add meaningfully — compare net including them,
 not the base.
@@ -107,3 +123,5 @@ them.
 - Infektionsschutzgesetz §43 — https://www.gesetze-im-internet.de/ifsg/ , accessed 2026-09
 - Zentralverband des Deutschen Bäckerhandwerks — https://www.baeckerhandwerk.de , accessed 2026-09
 - BERUFENET — https://berufenet.arbeitsagentur.de , accessed 2026-09
+
+</div>

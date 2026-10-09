@@ -2,9 +2,16 @@
 title: "Tischler/in — also Schreiner/in (Joiner / Cabinetmaker)"
 ---
 
+<div class="jig" markdown="1">
+
+<p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/skilled-trades/">Skilled trades (Handwerk)</a></p>
+
 > Furniture, fitted interiors, windows, doors, staircases and shopfitting. A Handwerk trade
 > whose traditional business was hollowed out by industrial furniture, and which now lives
 > on bespoke work.
+
+
+<div class="jig-facts" markdown="1">
 
 | | |
 |---|---|
@@ -14,6 +21,9 @@ title: "Tischler/in — also Schreiner/in (Joiner / Cabinetmaker)"
 | **Typical qualification** | Duale Ausbildung, **3 years**, HWK exam |
 | **Regulated** | Meisterpflicht for self-employment |
 | **Last reviewed** | 2026-09 |
+
+</div>
+
 
 ## Tischler or Schreiner — the same trade, geographically {#tischler-or-schreiner--the-same-trade-geographically}
 
@@ -35,11 +45,17 @@ This is a geographic split, not a historical one like
 
 English flattens three distinct German occupations into "carpenter":
 
+
+<div class="jig-table" markdown="1">
+
 | Occupation | System | What it is |
 |---|---|---|
 | **Tischler/Schreiner** | Handwerk, Anlage A | Furniture, interiors, windows, doors — *joiner/cabinetmaker* |
 | **[Zimmerer/Zimmerin](/jobs-in-germany/skilled-trades/zimmerer-zimmerin/)** | Handwerk, Anlage A | **Structural** timber: roofs, timber frame, Holzbau — *carpenter* |
 | **Holzmechaniker/in** | **Industrie, IHK** | Series production in the furniture and wood-products industry |
+
+</div>
+
 
 Holzmechaniker is the industrial twin, making this the **fourth Handwerk/Industrie pairing**
 in the repo after the electrical, metal and Kfz cases — same pattern: factory employment,
@@ -77,6 +93,9 @@ guarding and training are not paperwork.
 Handwerk levels, at the lower end of the trades in this repo — **market estimates**, not
 tariff-verified:
 
+
+<div class="jig-table" markdown="1">
+
 | Stage | Gross/month |
 |---|---|
 | Geselle, newly qualified | €2,600 – €3,100 |
@@ -84,6 +103,9 @@ tariff-verified:
 | CNC / Arbeitsvorbereitung, Ladenbau | €3,400 – €4,200 |
 | Meister (employed) | €3,900 – €4,900 |
 | Meister with own workshop | Highly variable; bespoke interiors are the profitable end |
+
+</div>
+
 
 As elsewhere in the Handwerk, **ownership is the earnings lever** rather than seniority.
 
@@ -128,3 +150,5 @@ do that, not those competing with factories.
 - TRGS 553 (Holzstaub) — https://www.baua.de , accessed 2026-09
 - Tischler Schreiner Deutschland — https://www.tischler-schreiner.de , accessed 2026-09
 - BERUFENET — https://berufenet.arbeitsagentur.de , accessed 2026-09
+
+</div>

@@ -2,11 +2,18 @@
 title: "Wissenschaftliche/r Mitarbeiter/in (Research Associate / Academic Staff)"
 ---
 
+<div class="jig" markdown="1">
+
+<p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/services/">Services and other sectors</a></p>
+
 > German academia is built on fixed-term contracts, and a **specific statute exists to
 > permit them**. The **WissZeitVG** disapplies the ordinary limits on repeated fixed terms
 > for academic staff, which is why a research career here can mean a decade of two-year
 > contracts, frequently part-time, with no permanent position to be promoted into. Anyone
 > considering research in Germany should read this before committing.
+
+
+<div class="jig-facts" markdown="1">
 
 | | |
 |---|---|
@@ -17,17 +24,26 @@ title: "Wissenschaftliche/r Mitarbeiter/in (Research Associate / Academic Staff)
 | **Regulated** | **No** — but employment law is specially modified |
 | **Last reviewed** | 2026-09 |
 
+</div>
+
+
 ## The WissZeitVG {#the-wisszeitvg}
 
 Ordinary German employment law limits fixed-term contracts without an objective reason to
 **two years** — see [employment basics](/jobs-in-germany/reference/employment-basics/). The
 **Wissenschaftszeitvertragsgesetz** sets that aside for academic staff:
 
+
+<div class="jig-table" markdown="1">
+
 | Phase | Permitted fixed-term duration |
 |---|---|
 | **Qualification phase 1** — before the doctorate | **6 years** |
 | **Qualification phase 2** — after the doctorate | **6 years** (**9** in medicine) |
 | **Drittmittelbefristung** — externally funded posts | For the **duration of the funding**, largely outside the clock above |
+
+</div>
+
 
 So twelve years of lawful fixed-term employment without an objective reason, and grant-funded
 contracts alongside it. The clock is **personal and cumulative** — it follows you between
@@ -59,6 +75,9 @@ evaluation. It is a genuine improvement and there are not nearly enough of them.
 
 ## The roles, in order {#the-roles-in-order}
 
+
+<div class="jig-table" markdown="1">
+
 | Role | What it is |
 |---|---|
 | **Wissenschaftliche Hilfskraft (HiWi)** | Student assistant. Hourly, short contracts, minimal cover |
@@ -70,10 +89,16 @@ evaluation. It is a genuine improvement and there are not nearly enough of them.
 | **Professur** | **W2 / W3**, usually a civil-service appointment for life |
 | **Lehrbeauftragte/r** | Adjunct teaching, paid per hour, **no social insurance**. Structurally precarious and widely used |
 
+</div>
+
+
 ## Pay {#pay}
 
 Academic staff are on **TV-L**, and the scale is the one verified for this repo, valid
 **01.04.2026 – 28.02.2027**.
+
+
+<div class="jig-table" markdown="1">
 
 | Role | Grade | Gross/month, **full-time** |
 |---|---|---|
@@ -82,6 +107,9 @@ Academic staff are on **TV-L**, and the scale is the one verified for this repo,
 | Akademische/r Rat/Rätin | A 13 – A 14, or E 13 – E 14 | Comparable; **net is higher if verbeamtet** |
 | Juniorprofessur | **W 1** | Below E 13 full-time in several states — a known anomaly |
 | Professur | **W 2 / W 3** | Base plus negotiated **Leistungsbezüge**, which vary enormously |
+
+</div>
+
 
 **The FTE fraction is the whole story at the doctoral stage.** E 13 is a good grade; 65% of
 it, for work that fills a week, is not. When comparing an offer, ask for the **percentage**
@@ -150,3 +178,5 @@ Two things worth weighing:
 - §18d AufenthG, researchers — https://www.gesetze-im-internet.de/aufenthg_2004 , accessed 2026-09
 - Bundesbericht Wissenschaftlicher Nachwuchs (BuWiN) — https://www.buwin.de , accessed 2026-09
 - TV-L pay table — https://oeffentlicher-dienst.info , verified 2026-09
+
+</div>

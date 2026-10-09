@@ -2,9 +2,16 @@
 title: "Bankkaufmann/-frau (Bank Clerk)"
 ---
 
+<div class="jig" markdown="1">
+
+<p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/commercial/">Commercial</a></p>
+
 > Retail and commercial banking: accounts, payments, lending and investment advice. The
 > title is free, but **specific activities require BaFin registration** — another case
 > where regulation attaches to the task, not the job name.
+
+
+<div class="jig-facts" markdown="1">
 
 | | |
 |---|---|
@@ -14,6 +21,9 @@ title: "Bankkaufmann/-frau (Bank Clerk)"
 | **Typical qualification** | Duale Ausbildung, 3 years, IHK exam |
 | **Regulated** | Title no — **advisory activity yes**, see below |
 | **Last reviewed** | 2026-09 |
+
+</div>
+
 
 ## What is actually regulated {#what-is-actually-regulated}
 
@@ -60,6 +70,9 @@ have moved to apps and self-service.
 
 Three different tariff worlds, and which one you are in matters more than your performance:
 
+
+<div class="jig-table" markdown="1">
+
 | Setting | Gross/month |
 |---|---|
 | **Sparkasse (TVöD-S, typically EG 6–9a)** | **€3,240 – €4,980** |
@@ -67,6 +80,9 @@ Three different tariff worlds, and which one you are in matters more than your p
 | Private bank, experienced adviser | €3,900 – €5,000 |
 | Firmenkundenbetreuer / specialist | €4,500 – €6,500 |
 | Branch or team management | €5,500 – €8,000 |
+
+</div>
+
 
 The **Sparkassen row is tariff-verified**: TVöD-S shares the TVöD VKA scale, table valid
 **01.05.2026 – 31.03.2027**, checked 2026-09. Eingruppierung varies by role and institution,
@@ -118,3 +134,5 @@ qualification is a strong foundation; a career planned around a branch counter i
 - BaFin employee register — https://www.bafin.de , accessed 2026-09
 - TVöD-S pay table — https://oeffentlicher-dienst.info , verified 2026-09
 - BERUFENET — https://berufenet.arbeitsagentur.de , accessed 2026-09
+
+</div>

@@ -2,6 +2,10 @@
 title: "Who recognises your qualification"
 ---
 
+<div class="jig" markdown="1">
+
+<p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/reference/">Reference</a></p>
+
 The single most repeated paragraph across the profession files, collected once. **There is
 no national recognition office in Germany.** Which body is competent depends on your
 profession, and for most of them also on your Bundesland.
@@ -37,11 +41,17 @@ unavailable.
 
 ### 1. The three chamber systems {#1-the-three-chamber-systems}
 
+
+<div class="jig-table" markdown="1">
+
 | Chamber | Covers | In this repo |
 |---|---|---|
 | **IHK FOSA** — on behalf of the Industrie- und Handelskammern | Commercial, industrial, IT, logistics, hospitality occupations | The [industrial trades](/jobs-in-germany/industrial/), [commercial](/jobs-in-germany/commercial/), [hospitality](/jobs-in-germany/hospitality/), [logistics](/jobs-in-germany/logistics/) |
 | **Handwerkskammer (HWK)** | Handwerk trades under the HwO | [All skilled trades](/jobs-in-germany/skilled-trades/) |
 | **Landwirtschaftskammer** | Agriculture, forestry, horticulture — **and only in some Bundesländer**; elsewhere a state ministry | [Grüne Berufe](/jobs-in-germany/green/) |
+
+</div>
+
 
 Most people know the first two exist and are surprised by the third. Note also that the
 **same trade can sit in different systems**: a
@@ -53,6 +63,9 @@ to IHK FOSA.
 
 Self-governing professional bodies, organised **per Bundesland**:
 
+
+<div class="jig-table" markdown="1">
+
 | Kammer | Profession |
 |---|---|
 | **Landesärztekammer** | [Doctors](/jobs-in-germany/healthcare/arzt-aerztin/) — the Fachsprachprüfung, and Facharzt recognition |
@@ -62,6 +75,9 @@ Self-governing professional bodies, organised **per Bundesland**:
 | **Architektenkammer** | Architects — entry in the Architektenliste |
 | **Ingenieurkammer** | [Engineers](/jobs-in-germany/engineering/ingenieur-in/) — for the protected *title*, not the work |
 
+</div>
+
+
 The trap: two of these look like ordinary commercial office jobs and are examined by a
 professional chamber instead of the IHK. Sending the file to the wrong body loses months.
 
@@ -70,12 +86,18 @@ professional chamber instead of the IHK. Sending the file to the wrong body lose
 For the **licensed healthcare professions** and **teaching**, the competent body is an organ
 of the Bundesland — and its name differs by state:
 
+
+<div class="jig-table" markdown="1">
+
 | Body | Typically handles |
 |---|---|
 | **Landesprüfungsamt** | [Doctors](/jobs-in-germany/healthcare/arzt-aerztin/), [MT/MTA](/jobs-in-germany/healthcare/medizinische-technologin-mt-mta/), [physiotherapists](/jobs-in-germany/healthcare/physiotherapeut-in/), [paramedics](/jobs-in-germany/healthcare/notfallsanitaeter-in/) |
 | **Bezirksregierung / Landesamt für Gesundheit** | [Nursing](/jobs-in-germany/healthcare/pflegefachfrau-pflegefachmann/) and others, depending on the state |
 | **Zeugnisanerkennungsstelle** | [Teachers](/jobs-in-germany/education/lehrer-in/) |
 | **Kultusministerium / Landesjugendamt** | [Erzieher/in](/jobs-in-germany/education/erzieher-in/) |
+
+</div>
+
 
 ### 4. ZAB and anabin — degrees, not professions {#4-zab-and-anabin--degrees-not-professions}
 
@@ -94,6 +116,9 @@ not a degree assessment. Some people need both; many need only one.
 
 Which bodies vary by Bundesland, and by how much:
 
+
+<div class="jig-table" markdown="1">
+
 | Varies by state | Effect |
 |---|---|
 | Healthcare licensing authorities | The office differs; the standard is federal, so outcomes are broadly consistent |
@@ -101,6 +126,9 @@ Which bodies vary by Bundesland, and by how much:
 | **Teachers** | Same, and worse: pay, Verbeamtung and subject rules all differ too |
 | Landwirtschaftskammern | Exist in some states only |
 | Handwerkskammern, IHKs | Regional offices; IHK FOSA centralises the assessment itself |
+
+</div>
+
 
 Rule of thumb: for federally regulated professions the *office* is state-level but the
 *standard* is national. For **Erzieher and Lehrer, the standard itself is state law** — so
@@ -136,6 +164,9 @@ and architecture is the only non-medical profession on that list.
 
 ## Quick reference {#quick-reference}
 
+
+<div class="jig-table" markdown="1">
+
 | If your profession is… | Go to |
 |---|---|
 | A Handwerk trade | **Handwerkskammer** |
@@ -150,9 +181,14 @@ and architecture is the only non-medical profession on that list.
 | A degree, for a visa | **ZAB / anabin** |
 | A Beamtenberuf | **Nobody** — there is no procedure |
 
+</div>
+
+
 ## Sources {#sources}
 
 - Anerkennung in Deutschland — https://www.anerkennung-in-deutschland.de , accessed 2026-09
 - BQFG — https://www.gesetze-im-internet.de/bqfg/ , accessed 2026-09
 - IHK FOSA — https://www.ihk-fosa.de , accessed 2026-09
 - anabin (ZAB) — https://anabin.kmk.org , accessed 2026-09
+
+</div>

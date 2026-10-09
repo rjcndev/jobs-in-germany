@@ -2,9 +2,16 @@
 title: "Elektroniker/in für Energie- und Gebäudetechnik (Electrician)"
 ---
 
+<div class="jig" markdown="1">
+
+<p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/skilled-trades/">Skilled trades (Handwerk)</a></p>
+
 > Installs and maintains electrical systems in buildings. A Handwerk trade with the
 > defining German twist: you may be *employed* freely, but you may not *run your own
 > business* without a Meister.
+
+
+<div class="jig-facts" markdown="1">
 
 | | |
 |---|---|
@@ -14,6 +21,9 @@ title: "Elektroniker/in für Energie- und Gebäudetechnik (Electrician)"
 | **Typical qualification** | Duale Ausbildung, 3.5 years, Gesellenprüfung |
 | **Regulated** | Meisterpflicht for self-employment |
 | **Last reviewed** | 2026-09 |
+
+</div>
+
 
 ## The Meister rule {#the-meister-rule}
 
@@ -48,12 +58,18 @@ physical, and governed tightly by **VDE norms** — especially VDE 0100.
 
 ## Pay {#pay}
 
+
+<div class="jig-table" markdown="1">
+
 | Stage | Gross/month |
 |---|---|
 | Geselle, newly qualified | €2,800 – €3,300 |
 | Geselle, experienced | €3,300 – €4,000 |
 | Meister (employed) | €4,000 – €5,000 |
 | Meister with own business | Highly variable; a well-run Betrieb outearns most graduates |
+
+</div>
+
 
 Regional spread is wide — southern Germany pays best. Overtime is abundant. Note that the
 trades' real advantage is the **business ownership ceiling**, not the employed salary.
@@ -96,3 +112,5 @@ the most persistently unfilled occupations in Germany.
 - Handwerksordnung (HwO) — https://www.gesetze-im-internet.de/hwo/ , accessed 2026-09
 - Zentralverband des Deutschen Handwerks — https://www.zdh.de , accessed 2026-09
 - BERUFENET — https://berufenet.arbeitsagentur.de , accessed 2026-09
+
+</div>

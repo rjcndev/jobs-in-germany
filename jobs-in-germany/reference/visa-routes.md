@@ -2,6 +2,10 @@
 title: "Visa and residence routes, by profession"
 ---
 
+<div class="jig" markdown="1">
+
+<p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/reference/">Reference</a></p>
+
 Cross-reference over every profile in this repo. For **non-EU/EEA/Swiss nationals** —
 EU citizens need none of this and can simply take a job.
 
@@ -21,6 +25,9 @@ professions. Experience alone, however long, does not substitute.
 
 ## The routes {#the-routes}
 
+
+<div class="jig-table" markdown="1">
+
 | Paragraph | Route | What it needs |
 |---|---|---|
 | **§18a AufenthG** | Skilled worker with vocational training | Recognised Ausbildung-equivalent qualification + job offer |
@@ -34,6 +41,9 @@ professions. Experience alone, however long, does not substitute.
 | **§20a AufenthG** | **Chancenkarte** (Opportunity Card) | Points-based; enter to look for work |
 | **§26(2) BeschV** | **Westbalkanregelung** | Nationals of six Western Balkan states: **any** job, qualified or not, with approval. Annual quota |
 
+</div>
+
+
 Two mechanisms worth knowing independently of route:
 
 - **anabin / ZAB** — the database and authority that assess whether a foreign *degree* is
@@ -44,6 +54,9 @@ Two mechanisms worth knowing independently of route:
   can compress processing substantially. Ask your employer to run it.
 
 ## The table {#the-table}
+
+
+<div class="jig-table" markdown="1">
 
 | Profession | Primary route | Blue Card? | Notes |
 |---|---|---|---|
@@ -130,6 +143,9 @@ Two mechanisms worth knowing independently of route:
 | [Berufskraftfahrer/in](/jobs-in-germany/logistics/berufskraftfahrer-in/) | §18a, **§26(2) BeschV** | No | **The licence, not the visa, is the hard part** — see below |
 | [Triebfahrzeugführer/in](/jobs-in-germany/logistics/triebfahrzeugfuehrer-in/) | **§16a**, or §26(2) BeschV | No | **The Quereinstieg retraining is below the two-year §18a minimum.** The EU licence itself is portable |
 
+</div>
+
+
 ## Special cases {#special-cases}
 
 **Where no qualification exists at all.** [Barkeeper/in](/jobs-in-germany/hospitality/barkeeper-in/) is the limit case of the rule
@@ -194,3 +210,5 @@ checking the current year's value.
 2. **make-it-in-germany.com** — the federal portal for visa routes.
 3. **anabin.kmk.org** — degree comparability.
 4. **ihk-fosa.de** — vocational qualification equivalence.
+
+</div>

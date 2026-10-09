@@ -2,6 +2,10 @@
 title: "Language requirements, by profession"
 ---
 
+<div class="jig" markdown="1">
+
+<p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/reference/">Reference</a></p>
+
 Cross-reference over every profile in this repo. Figures are drawn from the individual
 files — if the two disagree, the profession file is the source of truth.
 
@@ -22,6 +26,9 @@ without German. It moves the bar from an authority to a hiring manager.
 
 ## CEFR levels in practice {#cefr-levels-in-practice}
 
+
+<div class="jig-table" markdown="1">
+
 | Level | What it means here |
 |---|---|
 | **A2** | Basic instructions, safety briefings with support. Enough for some warehouse work. |
@@ -29,10 +36,16 @@ without German. It moves the bar from an authority to a hiring manager.
 | **B2** | Independent professional communication. The standard licensing threshold in healthcare. |
 | **C1** | Fluent, nuanced, register-switching. Needed wherever writing, law or advising is the job. |
 
+</div>
+
+
 Accepted certificates are usually **Goethe, telc, ÖSD, TestDaF** or **DSH**. Authorities
 vary in what they accept — check with the specific body, not with a general list.
 
 ## The table {#the-table}
+
+
+<div class="jig-table" markdown="1">
 
 | Profession | Legally required | Realistically needed | Notes |
 |---|---|---|---|
@@ -121,6 +134,9 @@ vary in what they accept — check with the specific body, not with a general li
 | [Fachinformatiker/in](/jobs-in-germany/it/fachinformatiker-in/) | **B1–B2** if training here | B1–B2 | Berufsschule and its exam are in German, without exception |
 | [Softwareentwickler/in](/jobs-in-germany/it/softwareentwickler-in/) | **None** — explicitly none on the §19c(2) route | Often none | The only profession here where you can build a career without German |
 
+</div>
+
+
 ## Patterns worth noticing {#patterns-worth-noticing}
 
 **Language difficulty does not track pay.** [Friseur/in](/jobs-in-germany/skilled-trades/friseur-in/)
@@ -143,3 +159,5 @@ commercial roles.
 between patient, colleague and documentation. Doctors with strong everyday German fail it
 routinely. Prepare for it specifically. Pharmacists sit an equivalent exam at the
 Apothekerkammer, and it is the usual obstacle for them too.
+
+</div>

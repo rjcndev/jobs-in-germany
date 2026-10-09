@@ -2,6 +2,10 @@
 title: "Tax and what actually reaches your account"
 ---
 
+<div class="jig" markdown="1">
+
+<p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/reference/">Reference</a></p>
+
 Every figure in this repo is **gross**. This explains what comes off it, and why comparing
 gross salaries across professions — including in [pay.md](/jobs-in-germany/reference/pay/) — overstates the
 differences between them.
@@ -12,12 +16,18 @@ another does not pay twice as much into your account.
 
 ## Two separate deductions, often muddled {#two-separate-deductions-often-muddled}
 
+
+<div class="jig-table" markdown="1">
+
 | | **Steuern** | **Sozialabgaben** |
 |---|---|---|
 | What | Income tax, church tax, Soli | Pension, unemployment, health, care |
 | Rate | **Progressive** | **Flat percentages, capped** |
 | Capped? | No | **Yes** — above the ceilings you pay no more |
 | Who else pays | — | Your employer pays roughly the same again |
+
+</div>
+
 
 Because social contributions are **capped** and tax is **progressive**, the two pull in
 opposite directions as income rises.
@@ -26,12 +36,18 @@ opposite directions as income rises.
 
 Employee share, split roughly equally with your employer:
 
+
+<div class="jig-table" markdown="1">
+
 | Contribution | Employee share, approximately |
 |---|---|
 | **Rentenversicherung** (pension) | ~9.3% |
 | **Arbeitslosenversicherung** (unemployment) | ~1.3% |
 | **Krankenversicherung** (health) | ~7.3% + half the Zusatzbeitrag — see [health insurance](/jobs-in-germany/reference/health-insurance/) |
 | **Pflegeversicherung** (long-term care) | ~1.8%, **more if you have no children**, less with several |
+
+</div>
+
 
 Roughly **20–21% of gross** in total, up to annually re-set ceilings. Those ceilings move
 every January; look them up rather than trusting a figure written here.
@@ -65,6 +81,9 @@ in the country, in German, and are surprised months later. Answer it deliberatel
 Your tax class determines **how much is withheld each month**, not how much tax you
 ultimately owe. Differences are settled in the annual assessment.
 
+
+<div class="jig-table" markdown="1">
+
 | Klasse | For |
 |---|---|
 | **I** | Single, divorced, widowed |
@@ -74,6 +93,9 @@ ultimately owe. Differences are settled in the annual assessment.
 | **IV mit Faktor** | Married, withholding matched to each partner's actual share |
 | **V** | The partner of a III — **high withholding** |
 | **VI** | A second and further jobs |
+
+</div>
+
 
 **The III/V combination is the one that causes arguments.** The higher earner takes III and
 sees a large net; the lower earner takes V and sees a startlingly small one. Nothing is
@@ -115,11 +137,17 @@ claiming:
 Several things this repo treats as real income are **tax-free**, which is why net
 comparisons differ from gross ones:
 
+
+<div class="jig-table" markdown="1">
+
 | Item | Rule |
 |---|---|
 | **Night, Sunday and holiday supplements** | **§3b EStG**, within limits — see [shift work and supplements](/jobs-in-germany/reference/shift-work-and-supplements/) |
 | **Tips** | **§3 Nr. 51 EStG**, without limit — [hospitality](/jobs-in-germany/hospitality/), [hairdressing](/jobs-in-germany/skilled-trades/friseur-in/) |
 | **Spesen** — per-diems for time away | Within statutory rates — [road haulage](/jobs-in-germany/logistics/berufskraftfahrer-in/), Montage |
+
+</div>
+
 
 A shift-working nurse and a nine-to-five office worker on identical gross do **not** take
 home the same amount.
@@ -141,3 +169,5 @@ figures in this repo become comparable to each other.
 - SGB IV, V, VI, XI — https://www.gesetze-im-internet.de , accessed 2026-09
 - ELSTER — https://www.elster.de , accessed 2026-09
 - Bundeszentralamt für Steuern — https://www.bzst.de , accessed 2026-09
+
+</div>

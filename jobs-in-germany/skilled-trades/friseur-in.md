@@ -2,9 +2,16 @@
 title: "Friseur/in (Hairdresser)"
 ---
 
+<div class="jig" markdown="1">
+
+<p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/skilled-trades/">Skilled trades (Handwerk)</a></p>
+
 > Cutting, colouring and styling. A full three-year Anlage A trade — and the clearest case in
 > this repo of a completed qualification that does **not** buy pay above the statutory
 > minimum.
+
+
+<div class="jig-facts" markdown="1">
 
 | | |
 |---|---|
@@ -14,6 +21,9 @@ title: "Friseur/in (Hairdresser)"
 | **Typical qualification** | Duale Ausbildung, 3 years, HWK exam |
 | **Regulated** | Meisterpflicht for self-employment |
 | **Last reviewed** | 2026-09 |
+
+</div>
+
 
 ## The qualification does not command a premium {#the-qualification-does-not-command-a-premium}
 
@@ -67,12 +77,18 @@ Both are early-career risks, not late-career ones.
 
 **Market estimates**, not tariff-verified. Note how close entry sits to the statutory floor:
 
+
+<div class="jig-table" markdown="1">
+
 | Stage | Gross/month |
 |---|---|
 | Geselle, newly qualified | €2,300 – €2,800 |
 | Geselle, experienced | €2,600 – €3,200 |
 | Meister (employed) | €3,000 – €4,000 |
 | Salon owner | Highly variable; premium positioning and location decide it |
+
+</div>
+
 
 Two things lift real earnings above the table:
 
@@ -132,3 +148,5 @@ over.
 - Arbeitnehmer-Entsendegesetz (AEntG) — https://www.gesetze-im-internet.de/aentg_2009/ , accessed 2026-09
 - BGW, occupational skin disease in hairdressing — https://www.bgw-online.de , accessed 2026-09
 - Zentralverband des Deutschen Friseurhandwerks — https://www.friseurhandwerk.de , accessed 2026-09
+
+</div>

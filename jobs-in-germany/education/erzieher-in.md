@@ -2,9 +2,16 @@
 title: "Erzieher/in (Early Years & Social Education Practitioner)"
 ---
 
+<div class="jig" markdown="1">
+
+<p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/education/">Education</a></p>
+
 > Works with children and young people in Kitas, after-school care, youth work and
 > residential care. Regulated — but by **sixteen state laws instead of one federal one**,
 > which makes it the most fragmented profession in this repo.
+
+
+<div class="jig-facts" markdown="1">
 
 | | |
 |---|---|
@@ -14,6 +21,9 @@ title: "Erzieher/in (Early Years & Social Education Practitioner)"
 | **Typical qualification** | Fachschule für Sozialpädagogik, 3 years (often 5 including a prerequisite) |
 | **Regulated** | Yes — state recognition required |
 | **Last reviewed** | 2026-09 |
+
+</div>
+
 
 ## Why this profession is different {#why-this-profession-is-different}
 
@@ -70,11 +80,17 @@ qualified Erzieher/in normally enters at **S8a**; Kita leadership runs S9–S18 
 facility size. Gross monthly, from the table valid **01.05.2026 – 31.03.2027**, verified
 against the published TVöD SuE scale 2026-09:
 
+
+<div class="jig-table" markdown="1">
+
 | Stage | Gross/month |
 |---|---|
 | Newly qualified (S8a Stufe 1–2) | €3,509 – €3,738 |
 | Experienced (S8a Stufe 4–6) | €4,207 – €4,669 |
 | Kita-Leitung (S9 to S18, by facility size) | €3,649 – €6,963 |
+
+</div>
+
 
 Plus the **SuE-Zulage** (a monthly allowance), and two additional
 **Regenerationstage** per year won in collective bargaining. Church providers use AVR
@@ -125,3 +141,5 @@ entitlement came with enough trained staff.
 - SGB VIII (Kinder- und Jugendhilfe) — https://www.gesetze-im-internet.de/sgb_8/ , accessed 2026-09
 - TVöD SuE pay tables — https://oeffentlicher-dienst.info , accessed 2026-09
 - BERUFENET — https://berufenet.arbeitsagentur.de , accessed 2026-09
+
+</div>

@@ -2,8 +2,15 @@
 title: "Fachkraft für Schutz und Sicherheit (Security Specialist)"
 ---
 
+<div class="jig" markdown="1">
+
+<p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/security/">Private security (Bewachungsgewerbe)</a></p>
+
 > The three-year qualification above the §34a courses. Legally it unlocks nothing extra —
 > its value is progression, supervision, and being a **recognised occupation** at all.
+
+
+<div class="jig-facts" markdown="1">
 
 | | |
 |---|---|
@@ -14,6 +21,9 @@ title: "Fachkraft für Schutz und Sicherheit (Security Specialist)"
 | **Typical qualification** | Duale Ausbildung, 3 years, **IHK** exam |
 | **Regulated** | The activities are, by §34a — see the [sector README](/jobs-in-germany/security/) |
 | **Last reviewed** | 2026-09 |
+
+</div>
+
 
 ## What it adds over a 40-hour course {#what-it-adds-over-a-40-hour-course}
 
@@ -47,6 +57,9 @@ regulated in Germany and getting it wrong is a data-protection matter.
 
 **Market estimates** — see the [sector README](/jobs-in-germany/security/) on the AEntG branch minimum:
 
+
+<div class="jig-table" markdown="1">
+
 | Stage | Gross/month |
 |---|---|
 | Newly qualified | €2,700 – €3,400 |
@@ -54,6 +67,9 @@ regulated in Germany and getting it wrong is a data-protection matter.
 | Objektleitung / Einsatzleitung | €3,500 – €4,500 |
 | Meister für Schutz und Sicherheit | €4,000 – €5,200 |
 | Security management, corporate | €4,500 – €6,500 |
+
+</div>
+
 
 Corporate **Werkschutz** — in-house security at industrial sites — pays above contracted
 guarding and often sits under the site's own tariff, which is a large difference.
@@ -88,3 +104,5 @@ which suppresses pay; the in-house and specialist end does not.
 - Bewachungsverordnung (BewachV) — https://www.gesetze-im-internet.de/bewachv_2019/ , accessed 2026-09
 - BDSW — https://www.bdsw.de , accessed 2026-09
 - BERUFENET — https://berufenet.arbeitsagentur.de , accessed 2026-09
+
+</div>

@@ -2,9 +2,16 @@
 title: "Koch / Köchin (Chef / Cook)"
 ---
 
+<div class="jig" markdown="1">
+
+<p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/hospitality/">Hospitality (Gastgewerbe)</a></p>
+
 > Cooks professionally. Unregulated, chronically short-staffed, and one of the few German
 > occupations where a foreign candidate can start work immediately — but where the visa is
 > the hard part precisely because the pay is low.
+
+
+<div class="jig-facts" markdown="1">
 
 | | |
 |---|---|
@@ -14,6 +21,9 @@ title: "Koch / Köchin (Chef / Cook)"
 | **Typical qualification** | Duale Ausbildung, 3 years, IHK exam |
 | **Regulated** | No — but see the hygiene requirements below |
 | **Last reviewed** | 2026-09 |
+
+</div>
+
 
 ## What the job involves {#what-the-job-involves}
 
@@ -45,6 +55,9 @@ off, public-sector pay. Restaurant kitchens are the opposite on all four counts.
 The sector's weak point, and the reason for its staffing crisis. Approximate gross monthly,
 2026:
 
+
+<div class="jig-table" markdown="1">
+
 | Stage | Gross/month |
 |---|---|
 | Newly qualified | €2,400 – €2,900 |
@@ -52,6 +65,9 @@ The sector's weak point, and the reason for its staffing crisis. Approximate gro
 | Sous-chef | €3,400 – €4,200 |
 | Küchenchef | €3,800 – €5,500 |
 | Public-sector kitchens (TVöD EG 5–7) | €3,124 – €4,045 |
+
+</div>
+
 
 Fine dining pays **worse** than these figures at junior levels, not better — the trade
 historically substitutes prestige and training for money. Canteens, hospitals and staff
@@ -100,3 +116,5 @@ occupations for years. Employers are correspondingly willing to hire and sponsor
 - Arbeitszeitgesetz — https://www.gesetze-im-internet.de/arbzg/ , accessed 2026-09
 - IHK FOSA (recognition) — https://www.ihk-fosa.de , accessed 2026-09
 - DEHOGA Bundesverband — https://www.dehoga-bundesverband.de , accessed 2026-09
+
+</div>

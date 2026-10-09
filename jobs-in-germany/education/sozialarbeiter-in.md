@@ -2,10 +2,17 @@
 title: "Sozialarbeiter/in — Sozialpädagoge/in (Social Worker)"
 ---
 
+<div class="jig" markdown="1">
+
+<p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/education/">Education</a></p>
+
 > A Bachelor that is not enough on its own. The degree qualifies you; the **staatliche
 > Anerkennung** — a separate act by the Bundesland — is what lets you use the title and hold
 > the posts that carry statutory powers. It pairs with [Erzieher/in](/jobs-in-germany/education/erzieher-in/), which
 > has the same two-stage structure one qualification level down.
+
+
+<div class="jig-facts" markdown="1">
 
 | | |
 |---|---|
@@ -18,15 +25,24 @@ title: "Sozialarbeiter/in — Sozialpädagoge/in (Social Worker)"
 | **Regulated** | **Title yes, under state law.** Some posts additionally require the Anerkennung by statute |
 | **Last reviewed** | 2026-09 |
 
+</div>
+
+
 ## The two-stage structure {#the-two-stage-structure}
 
 This is the point of the file, and it is the thing most foreign-trained applicants and most
 career-changers get wrong.
 
+
+<div class="jig-table" markdown="1">
+
 | Stage | What it is |
 |---|---|
 | **1. The degree** | Bachelor of Arts in Soziale Arbeit, at a Hochschule für angewandte Wissenschaften. Seven semesters is typical, including a **Praxissemester** |
 | **2. The staatliche Anerkennung** | A separate administrative act by the Bundesland, confirming practical competence |
+
+</div>
+
 
 **How stage 2 is obtained depends on the Bundesland**, and there are broadly two models:
 
@@ -58,6 +74,9 @@ disability), plus family and residence law.
 
 Common fields:
 
+
+<div class="jig-table" markdown="1">
+
 | Field | Work |
 |---|---|
 | **Allgemeiner Sozialer Dienst (ASD)** at the Jugendamt | Child protection assessments, family support, court applications. The most legally exposed post in the profession |
@@ -68,11 +87,17 @@ Common fields:
 | **Bewährungshilfe, Straffälligenhilfe** | Probation — **frequently a civil-service post**; see [Beamte vs. Angestellte](/jobs-in-germany/reference/beamte-vs-angestellte/) |
 | **Betriebliche Sozialarbeit, Kliniksozialdienst** | In companies and hospitals — discharge planning is a large, quiet field |
 
+</div>
+
+
 Employers split roughly three ways: **municipalities** (TVöD), **free charitable providers**
 — Caritas, Diakonie, AWO, Paritätischer — on AVR agreements, and a smaller private and
 corporate sector.
 
 ## Confusable titles {#confusable-titles}
+
+
+<div class="jig-table" markdown="1">
 
 | Title | Reality |
 |---|---|
@@ -82,12 +107,18 @@ corporate sector.
 | **Sozialassistent/in** | A two-year school qualification, an entry tier — not a social worker |
 | **Sozialpädagoge vs. Sozialarbeiter** | Historically different emphases, now largely one degree. Treat as interchangeable in job ads |
 
+</div>
+
+
 ## Pay {#pay}
 
 Municipal employers use **TVöD SuE**. The scale is the one verified for this repo, valid
 **01.05.2026 – 31.03.2027** — but the specific S-groups for social work were **not
 separately verified**, so treat the figures below as **indicative positions on a verified
 scale**, not as exact steps.
+
+
+<div class="jig-table" markdown="1">
 
 | Stage | Group | Gross/month |
 |---|---|---|
@@ -98,6 +129,9 @@ scale**, not as exact steps.
 | Team or service leadership | S 15 – S 18 | €5,000 – €6,963 |
 | Charitable provider (AVR) | Comparable, provider-dependent | Usually close to TVöD |
 | Private provider, no agreement | **Market estimate** | €3,200 – €4,000 |
+
+</div>
+
 
 Two things the table hides. **S 14 exists because ASD work carries the risk**: the
 **Garantenstellung** in child protection means a social worker can face personal
@@ -161,3 +195,5 @@ in good employers and a reasonable thing to ask about in an interview.
 - DBSH (Deutscher Berufsverband für Soziale Arbeit) — https://www.dbsh.de , accessed 2026-09
 - TVöD SuE pay table — https://oeffentlicher-dienst.info , verified 2026-09
 - BERUFENET — https://berufenet.arbeitsagentur.de , accessed 2026-09
+
+</div>

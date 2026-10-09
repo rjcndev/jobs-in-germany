@@ -2,9 +2,16 @@
 title: "Berufskraftfahrer/in (Professional Truck / Bus Driver)"
 ---
 
+<div class="jig" markdown="1">
+
+<p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/logistics/">Logistics</a></p>
+
 > Drives commercially. The work is unregulated in the professional-title sense, but the
 > **licensing** is a genuine maze — and for third-country drivers it is the hardest
 > qualification barrier in this repo.
+
+
+<div class="jig-facts" markdown="1">
 
 | | |
 |---|---|
@@ -14,6 +21,9 @@ title: "Berufskraftfahrer/in (Professional Truck / Bus Driver)"
 | **Typical qualification** | Ausbildung (3 yrs) **or** licence + Grundqualifikation |
 | **Regulated** | The **licence and qualification** are, heavily — BKrFQG, FeV |
 | **Last reviewed** | 2026-09 |
+
+</div>
+
 
 ## What you actually need {#what-you-actually-need}
 
@@ -45,12 +55,18 @@ out of pocket without first asking both.
 
 ## Pay {#pay}
 
+
+<div class="jig-table" markdown="1">
+
 | Role | Gross/month |
 |---|---|
 | Nahverkehr / regional distribution | €2,600 – €3,300 |
 | Fernverkehr (long distance) | €3,000 – €3,800 |
 | ADR / Gefahrgut, tanker, heavy haulage | €3,400 – €4,500 |
 | Bus — public transport (TV-N NW, EG 5–7) | €3,215 – €4,382 |
+
+</div>
+
 
 **Spesen change the picture.** Tax-free per-diems (Verpflegungsmehraufwand) for time away
 — currently €14 for a partial day and €28 for a full day — plus an overnight allowance
@@ -113,3 +129,5 @@ This is where it gets difficult. Read carefully.
 - Fahrerlaubnis-Verordnung (FeV) — https://www.gesetze-im-internet.de/fev_2010/ , accessed 2026-09
 - BAG / BALM — https://www.balm.bund.de , accessed 2026-09
 - BERUFENET — https://berufenet.arbeitsagentur.de , accessed 2026-09
+
+</div>

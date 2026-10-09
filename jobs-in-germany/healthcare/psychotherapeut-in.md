@@ -2,10 +2,17 @@
 title: "Psychotherapeut/in (Psychotherapist)"
 ---
 
+<div class="jig" markdown="1">
+
+<p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/healthcare/">Healthcare</a></p>
+
 > Reformed in 2020 into a direct-study route ending in **Approbation** at the end of a
 > Master's, replacing a post-graduate training that was among the worst-paid in German
 > professional life. Then the second problem: a **licence to treat statutory patients is
 > capped in number and effectively traded** for five- and six-figure sums.
+
+
+<div class="jig-facts" markdown="1">
 
 | | |
 |---|---|
@@ -18,9 +25,15 @@ title: "Psychotherapeut/in (Psychotherapist)"
 | **Regulated** | **Yes** — Approbation required. **And the statutory-patient licence is separately rationed** |
 | **Last reviewed** | 2026-09 |
 
+</div>
+
+
 ## The 2020 reform {#the-2020-reform}
 
 The **new Psychotherapeutengesetz** took effect on 01.09.2020 and inverted the route.
+
+
+<div class="jig-table" markdown="1">
 
 | | **Before 2020** | **Since 2020** |
 |---|---|---|
@@ -29,6 +42,9 @@ The **new Psychotherapeutengesetz** took effect on 01.09.2020 and inverted the r
 | Paid? | **Barely, or not at all** — the practical year in a clinic was notoriously paid a few hundred euro a month, while the training itself cost €20,000–€30,000 in fees | Normal student status, then **paid employment** |
 | Approbation at | The end of that training | The end of the Master |
 | Specialisation | Built into the route | **Weiterbildung afterwards**, 5 years, **paid** |
+
+</div>
+
 
 The old *Psychotherapeuten in Ausbildung* (PiA) arrangement was a national scandal inside
 the profession: qualified psychologists doing clinical work for pocket money while paying an
@@ -61,6 +77,9 @@ the demand.
 
 **The ways around it, all imperfect:**
 
+
+<div class="jig-table" markdown="1">
+
 | Route | Reality |
 |---|---|
 | **Privatpraxis** | Open immediately, no cap. Patients are self-paying or privately insured — a much smaller market, unevenly distributed |
@@ -69,7 +88,13 @@ the demand.
 | **Clinic employment** | Psychiatric, psychosomatic and rehab hospitals. Tariff pay, no licence problem |
 | **Half a Sitz** | Licences can be split; a half-Sitz is cheaper and widely used |
 
+</div>
+
+
 ## Confusable titles {#confusable-titles}
+
+
+<div class="jig-table" markdown="1">
 
 | Title | What it actually is |
 |---|---|
@@ -77,6 +102,9 @@ the demand.
 | **Psychiater/in** | A **doctor** — see [Arzt](/jobs-in-germany/healthcare/arzt-aerztin/) — with a Facharzt in psychiatry. May prescribe medication, which a psychotherapist may not |
 | **Heilpraktiker/in für Psychotherapie** | A real and legal permit, obtained by passing a **Gesundheitsamt examination** with **no degree required**. May treat privately; may not bill statutory insurance and may not use the protected title. The single most common source of confusion here |
 | **Systemischer Coach, Berater, Therapeut (non-medical)** | Unregulated words. Anyone may use most of them |
+
+</div>
+
 
 ## Qualification route {#qualification-route}
 
@@ -95,6 +123,9 @@ the demand.
 
 Employed positions are tariff-bound and verifiable; independent practice is not.
 
+
+<div class="jig-table" markdown="1">
+
 | Stage | Setting | Gross/month |
 |---|---|---|
 | Weiterbildung, employed | Clinic or Institutsambulanz | **Market estimate** €3,600 – €4,500 |
@@ -102,6 +133,9 @@ Employed positions are tariff-bound and verifiable; independent practice is not.
 | Employed in a practice or MVZ | Private employer | **Market estimate** €3,800 – €5,500 |
 | **Own Kassensitz** | Self-employed | **Market estimate**: practice revenue €120,000 – €200,000+, before roughly 30–40% costs |
 | Privatpraxis | Self-employed | Highly variable; depends entirely on catchment |
+
+</div>
+
 
 The EG 13–14 figures reuse the scale already verified for
 [Apotheker](/jobs-in-germany/healthcare/apotheker-in/) in hospital employment, valid **01.05.2026 – 31.03.2027**.
@@ -158,3 +192,5 @@ profession where more qualified entrants do not, by themselves, shorten the queu
 - Bundespsychotherapeutenkammer — https://www.bptk.de , accessed 2026-09
 - Bedarfsplanungs-Richtlinie, G-BA — https://www.g-ba.de , accessed 2026-09
 - TVöD/TV-L pay tables — https://oeffentlicher-dienst.info , verified 2026-09
+
+</div>

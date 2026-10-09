@@ -2,9 +2,16 @@
 title: "Zerspanungsmechaniker/in (Precision Machinist / CNC Machinist)"
 ---
 
+<div class="jig" markdown="1">
+
+<p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/industrial/">Industrial trades (Industrieberufe)</a></p>
+
 > Cuts metal to tolerance on CNC machines. The precision end of the industrial trades, and
 > one where the gap between a qualified technician and a machine operator is wide, real, and
 > routinely blurred in job ads.
+
+
+<div class="jig-facts" markdown="1">
 
 | | |
 |---|---|
@@ -15,7 +22,13 @@ title: "Zerspanungsmechaniker/in (Precision Machinist / CNC Machinist)"
 | **Regulated** | No |
 | **Last reviewed** | 2026-09 |
 
+</div>
+
+
 ## Fachrichtungen — certified, unlike its neighbour {#fachrichtungen--certified-unlike-its-neighbour}
+
+
+<div class="jig-table" markdown="1">
 
 | Fachrichtung | Focus |
 |---|---|
@@ -23,6 +36,9 @@ title: "Zerspanungsmechaniker/in (Precision Machinist / CNC Machinist)"
 | Fräsmaschinensysteme | CNC milling |
 | Drehautomatensysteme | Automatic lathes, high-volume turned parts |
 | Schleifmaschinensysteme | Grinding, the tightest tolerances |
+
+</div>
+
 
 Worth contrasting with [Industriemechaniker](/jobs-in-germany/industrial/industriemechaniker-in/), whose 2004 reform
 replaced certified specialisations with **Einsatzgebiete the employer defines**. Here the
@@ -76,6 +92,9 @@ supplements are a significant part of earnings.
 [category README](/jobs-in-germany/industrial/#pay-is-better-here-and-not-verifiable). Approximate gross
 monthly, 2026:
 
+
+<div class="jig-table" markdown="1">
+
 | Stage | Gross/month |
 |---|---|
 | Newly qualified (tariff-bound) | €3,300 – €3,900 |
@@ -83,6 +102,9 @@ monthly, 2026:
 | CNC-/CAM-Programmierer, Einrichter | €4,300 – €5,200 |
 | Industriemeister / Techniker | €4,700 – €5,800 |
 | *(Maschinenbediener, for contrast)* | *€2,400 – €3,000, often via agency* |
+
+</div>
+
 
 Plus the 13th month, holiday pay, a 35-hour week at tariff employers, and three-shift
 supplements. The last row is there deliberately: it is the single most useful number in this
@@ -124,3 +146,5 @@ side of that split; the button-pressing end does not.
 - IG Metall — https://www.igmetall.de , accessed 2026-09
 - IHK FOSA — https://www.ihk-fosa.de , accessed 2026-09
 - BERUFENET — https://berufenet.arbeitsagentur.de , accessed 2026-09
+
+</div>

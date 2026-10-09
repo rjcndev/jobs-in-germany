@@ -2,6 +2,10 @@
 title: "Skilled trades (Handwerk)"
 ---
 
+<div class="jig" markdown="1">
+
+<p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a></p>
+
 Trades trained and regulated under the **Handwerksordnung (HwO)**, through the
 **Handwerkskammer**. The industrial counterparts — often the same work, better paid, without
 business rights — are in [industrial](/jobs-in-germany/industrial/).
@@ -64,3 +68,28 @@ Fachverkäufer/in im Lebensmittelhandwerk.
 - [Fleischer/in — Metzger/in — Schlachter/in](/jobs-in-germany/skilled-trades/fleischer-in/)
 - [Bäcker/in](/jobs-in-germany/skilled-trades/baecker-in/)
 - [Konditor/in](/jobs-in-germany/skilled-trades/konditor-in/)
+
+## Professions in this category {#professions-in-this-category}
+
+<div class="jig-cards" markdown="1">
+
+- [Anlagenmechaniker/in SHK (Plumbing, Heating & AC Technician)](/jobs-in-germany/skilled-trades/anlagenmechaniker-in-shk/) <span>Sanitär-, Heizungs- und Klimatechnik.</span>
+- [Bäcker/in (Baker)](/jobs-in-germany/skilled-trades/baecker-in/) <span>Bread, rolls and Feingebäck, produced overnight.</span>
+- [Dachdecker/in (Roofer)](/jobs-in-germany/skilled-trades/dachdecker-in/) <span>An Anlage A trade sitting on the same Energiewende seam as SHK — photovoltaic mounting and roof insulation are now a large share of the work.</span>
+- [Elektroniker/in für Energie- und Gebäudetechnik (Electrician)](/jobs-in-germany/skilled-trades/elektroniker-in-energie-und-gebaeudetechnik/) <span>Installs and maintains electrical systems in buildings.</span>
+- [Fleischer/in — Metzger/in — Schlachter/in (Butcher)](/jobs-in-germany/skilled-trades/fleischer-in/) <span>Cuts, cures and processes meat.</span>
+- [Fliesen-, Platten- und Mosaikleger/in (Tiler)](/jobs-in-germany/skilled-trades/fliesenleger-in/) <span>The trade at the centre of Germany's deregulation experiment.</span>
+- [Friseur/in (Hairdresser)](/jobs-in-germany/skilled-trades/friseur-in/) <span>Cutting, colouring and styling.</span>
+- [Gerüstbauer/in (Scaffolder)](/jobs-in-germany/skilled-trades/geruestbauer-in/) <span>Builds the fall protection that every other trade on the site depends on, and is exposed while building it.</span>
+- [Konditor/in (Pastry Chef / Confectioner)](/jobs-in-germany/skilled-trades/konditor-in/) <span>Cakes, tortes, pralines, chocolate and desserts.</span>
+- [Kraftfahrzeugmechatroniker/in (Vehicle Mechatronics Technician)](/jobs-in-germany/skilled-trades/kraftfahrzeugmechatroniker-in/) <span>Services and repairs vehicles.</span>
+- [Maurer/in (Bricklayer / Mason)](/jobs-in-germany/skilled-trades/maurer-in/) <span>The core trade of the Bauhauptgewerbe, and the standard entry point into German construction — including for people arriving without a qualification at all.</span>
+- [Metallbauer/in (Metalworker / Structural Smith)](/jobs-in-germany/skilled-trades/metallbauer-in/) <span>Fabricates and installs metal structures — gates, railings, staircases, balconies, facades, vehicle bodies.</span>
+- [Raumausstatter/in (Interior Furnisher / Soft Furnishings Fitter)](/jobs-in-germany/skilled-trades/raumausstatter-in/) <span>Written as a case study of the 2020 re-regulation, not as a generic trade profile.</span>
+- [Straßenbauer/in und Beton- und Stahlbetonbauer/in (Road Builder; Concrete and Reinforced Concrete Worker)](/jobs-in-germany/skilled-trades/strassenbauer-betonbauer/) <span>The two trades that build infrastructure rather than buildings.</span>
+- [Tischler/in — also Schreiner/in (Joiner / Cabinetmaker)](/jobs-in-germany/skilled-trades/tischler-in/) <span>Furniture, fitted interiors, windows, doors, staircases and shopfitting.</span>
+- [Zimmerer / Zimmerin (Carpenter — structural)](/jobs-in-germany/skilled-trades/zimmerer-zimmerin/) <span>Structural timber: roofs, frames and, increasingly, whole buildings.</span>
+
+</div>
+
+</div>

@@ -2,6 +2,10 @@
 title: "The Meisterbrief and the ladder above Ausbildung"
 ---
 
+<div class="jig" markdown="1">
+
+<p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/reference/">Reference</a></p>
+
 Referenced across the trade files — Meisterpflicht, Meisterbrief, Aufstiegs-BAföG,
 Meisterprämie — and explained here rather than in each.
 
@@ -10,12 +14,18 @@ sits at the same level as a Bachelor's degree, and the state pays for much of it
 
 ## The Meisterprüfung has four parts <a id="the-meisterprüfung-has-four-parts"></a>
 
+
+<div class="jig-table" markdown="1">
+
 | Teil | Content |
 |---|---|
 | **I** | Fachpraxis — practical work, usually including a Meisterprüfungsprojekt |
 | **II** | Fachtheorie — technical theory, calculation, norms |
 | **III** | Business, commercial and legal — **common across all trades** |
 | **IV** | **Berufs- und Arbeitspädagogik — the AEVO** |
+
+</div>
+
 
 Teile III and IV are the same whatever your trade, can be taken separately and in advance,
 and **transfer** if you change direction.
@@ -78,11 +88,17 @@ as a Bachelor's degree. Two consequences people miss:
 
 Outside the Handwerk, the same structure exists without the Meisterpflicht:
 
+
+<div class="jig-table" markdown="1">
+
 | Level | Handwerk | Industrie / commercial |
 |---|---|---|
 | Qualified worker | Geselle/Gesellin | Facharbeiter/in, Kaufmann/-frau |
 | DQR 6 | **Meister/in** | **Industriemeister/in**, **Fachwirt/in** |
 | DQR 7 | Betriebswirt (HwK) | **Betriebswirt/in (IHK)**, Master Professional |
+
+</div>
+
 
 The [warehouse](/jobs-in-germany/logistics/fachkraft-fuer-lagerlogistik/),
 [kitchen](/jobs-in-germany/hospitality/koch-koechin/) and
@@ -105,3 +121,5 @@ which is where Handwerk earnings actually are. See [pay.md](/jobs-in-germany/ref
 - Aufstiegsfortbildungsförderungsgesetz (AFBG) — https://www.gesetze-im-internet.de/afbg/ , accessed 2026-09
 - Deutscher Qualifikationsrahmen — https://www.dqr.de , accessed 2026-09
 - ZDH — https://www.zdh.de , accessed 2026-09
+
+</div>

@@ -2,6 +2,10 @@
 title: "Ausbildung — the dual system"
 ---
 
+<div class="jig" markdown="1">
+
+<p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/reference/">Reference</a></p>
+
 Almost every profession file in this repo says something like *"3 years dual, paid roughly
 €1,100–1,400/month"*. This explains what that actually is, what it legally guarantees, and
 what it does not.
@@ -107,3 +111,5 @@ See [visa routes](/jobs-in-germany/reference/visa-routes/) for how §16a compare
 - Handwerksordnung (HwO) — https://www.gesetze-im-internet.de/hwo/ , accessed 2026-09
 - Jugendarbeitsschutzgesetz — https://www.gesetze-im-internet.de/jarbschg/ , accessed 2026-09
 - BIBB — https://www.bibb.de , accessed 2026-09
+
+</div>

@@ -2,9 +2,16 @@
 title: "Fachmann/-frau für Restaurants und Veranstaltungsgastronomie — \"Kellner\""
 ---
 
+<div class="jig" markdown="1">
+
+<p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/hospitality/">Hospitality (Gastgewerbe)</a></p>
+
 > Restaurant and event service. Unusually in this repo, **most people doing this job do not
 > hold the qualification** — which makes the gap between the two the thing worth
 > understanding.
+
+
+<div class="jig-facts" markdown="1">
 
 | | |
 |---|---|
@@ -17,6 +24,9 @@ title: "Fachmann/-frau für Restaurants und Veranstaltungsgastronomie — \"Kell
 | **Regulated** | No |
 | **Last reviewed** | 2026-09 |
 
+</div>
+
+
 ## Qualified service is the minority {#qualified-service-is-the-minority}
 
 In most professions in this repo, the qualification is the normal way in. Here it is not.
@@ -25,12 +35,18 @@ students, [Minijobbers](/jobs-in-germany/reference/minijob-und-geringfuegige-bes
 three-year Ausbildung is held by a minority concentrated in hotels, fine dining and event
 catering.
 
+
+<div class="jig-table" markdown="1">
+
 | | **Qualified** | **Unqualified service** |
 |---|---|---|
 | Training | 3-year IHK Ausbildung | On the job |
 | Typical setting | Hotels, fine dining, Bankett and events | Cafés, casual restaurants, bars, pubs |
 | Pay | Modest premium, better progression | At or near the statutory minimum |
 | Path up | Restaurantleitung, F&B, Sommelier | Limited without qualifying |
+
+</div>
+
 
 Two practical consequences. If you want to *work* in service, you need nothing — this is one
 of the most accessible jobs in Germany. If you want the **skilled-worker visa**, you need a
@@ -75,6 +91,9 @@ the Arbeitszeitgesetz and how routinely it is breached. Specific to service:
 **Market estimates**, not tariff-verified. Regional **DEHOGA** agreements exist but coverage
 is patchy:
 
+
+<div class="jig-table" markdown="1">
+
 | Stage | Gross/month |
 |---|---|
 | Unqualified service | At or near the statutory minimum |
@@ -83,6 +102,9 @@ is patchy:
 | Restaurantleitung / Oberkellner | €3,300 – €4,300 |
 | F&B management, large property | €4,500 – €6,500 |
 | Sommelier, fine dining | €3,500 – €5,000 |
+
+</div>
+
 
 **Add tips.** In good restaurant service they can be a substantial addition and are untaxed,
 so compare net including them rather than gross.
@@ -122,3 +144,5 @@ Multilingual staff are actively sought in cities.
 - Arbeitszeitgesetz — https://www.gesetze-im-internet.de/arbzg/ , accessed 2026-09
 - DEHOGA Bundesverband — https://www.dehoga-bundesverband.de , accessed 2026-09
 - IHK FOSA — https://www.ihk-fosa.de , accessed 2026-09
+
+</div>

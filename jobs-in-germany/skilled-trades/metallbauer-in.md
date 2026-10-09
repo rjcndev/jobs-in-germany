@@ -2,10 +2,17 @@
 title: "Metallbauer/in (Metalworker / Structural Smith)"
 ---
 
+<div class="jig" markdown="1">
+
+<p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/skilled-trades/">Skilled trades (Handwerk)</a></p>
+
 > Fabricates and installs metal structures — gates, railings, staircases, balconies,
 > facades, vehicle bodies. The Handwerk counterpart to
 > [Konstruktionsmechaniker](/jobs-in-germany/industrial/konstruktionsmechaniker-in/), with lower pay and
 > one thing the industrial trade cannot offer: a business of your own.
+
+
+<div class="jig-facts" markdown="1">
 
 | | |
 |---|---|
@@ -17,7 +24,13 @@ title: "Metallbauer/in (Metalworker / Structural Smith)"
 | **Regulated** | Meisterpflicht for self-employment |
 | **Last reviewed** | 2026-09 |
 
+</div>
+
+
 ## The pairing {#the-pairing}
+
+
+<div class="jig-table" markdown="1">
 
 | | **Metallbauer/in** | [**Konstruktionsmechaniker/in**](/jobs-in-germany/industrial/konstruktionsmechaniker-in/) |
 |---|---|---|
@@ -27,6 +40,9 @@ title: "Metallbauer/in (Metalworker / Structural Smith)"
 | Employer | Schlossereien, small metal shops | Stahlbau firms, shipyards, plant builders |
 | Entry pay | €2,700 – €3,200 | €3,200 – €3,800 |
 | Work | Building metalwork, customer-facing, varied | Structural steel, series and large fabrication |
+
+</div>
+
 
 Roughly €500/month apart at entry for related work — the same gap as
 [Elektroniker EGT vs Betriebstechnik](/jobs-in-germany/industrial/elektroniker-in-betriebstechnik/),
@@ -39,11 +55,17 @@ skill.
 
 ## Fachrichtungen {#fachrichtungen}
 
+
+<div class="jig-table" markdown="1">
+
 | Fachrichtung | Focus |
 |---|---|
 | **Konstruktionstechnik** | By far the most common: steel structures, staircases, railings, balconies, gates, metal doors and facades |
 | **Metallgestaltung** | Artistic and architectural smithing, restoration of historic ironwork — the Kunstschmied tradition. A small, distinctive niche with correspondingly thin pay |
 | **Nutzfahrzeugbau** | Commercial vehicle bodies, trailers, tipper and box bodies |
+
+</div>
+
 
 ## What the job involves {#what-the-job-involves}
 
@@ -75,6 +97,9 @@ narrower range of processes.
 
 Handwerk levels — **market estimates**, not tariff-verified:
 
+
+<div class="jig-table" markdown="1">
+
 | Stage | Gross/month |
 |---|---|
 | Geselle, newly qualified | €2,700 – €3,200 |
@@ -82,6 +107,9 @@ Handwerk levels — **market estimates**, not tariff-verified:
 | With sought-after welding certificates | €3,500 – €4,200 |
 | Metallbauermeister (employed) | €4,000 – €5,000 |
 | Meister with own Schlosserei | Highly variable; a well-run shop outearns the employed ceiling |
+
+</div>
+
 
 As across the Handwerk, **ownership is the real earnings lever**, not seniority. Small
 metalworking shops with an order book and no successor are common, which makes
@@ -125,3 +153,5 @@ Metallgestaltung is the exception — genuinely niche, and best entered with eye
 - DIN EN 1090 (execution of steel structures) — accessed 2026-09
 - DVS — https://www.dvs-home.de , accessed 2026-09
 - BERUFENET — https://berufenet.arbeitsagentur.de , accessed 2026-09
+
+</div>
