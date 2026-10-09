@@ -13,7 +13,7 @@ on authority websites, and in application forms, so translating them away is unh
 
 The source is on GitHub: [rjcndev/jobs-in-germany](https://github.com/rjcndev/jobs-in-germany).
 
-## Structure {#structure}
+## Browse by category {#browse-by-category}
 
 <div class="jig-cards"></div>
 
