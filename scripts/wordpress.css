@@ -168,6 +168,7 @@
     display: block;
     width: fit-content;
     max-width: 100%;
+    margin-left: 0;  /* line up with the text, which fills the column here */
     overflow-x: auto;
     background:
       linear-gradient(to right, var(--jig-bg) 40%, rgba(255, 255, 255, 0)) left / 1.5rem 100% no-repeat local,
