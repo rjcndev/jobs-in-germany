@@ -92,16 +92,33 @@ def rewrite_links(text, src, own_url):
     return re.sub(r'(\])\(([^)\s]+)\)', repl, text)
 
 
-def convert(src, url):
-    text = src.read_text()
+def link_tree(text):
+    """Turn the README's folder tree code block into a list of links."""
+    def repl(m):
+        items = []
+        for line in m.group(1).split('\n'):
+            d = re.match(r'^[│├└─\s]*([\w-]+)/\s*(.*)$', line)
+            if not d:
+                continue
+            name, note = d.groups()
+            if name == 'jobs':
+                continue
+            path = 'reference/README.md' if name == 'reference' else f'jobs/{name}/README.md'
+            items.append(f'- [{name}]({path})' + (f' — {note}' if note else ''))
+        return '\n'.join(items) + '\n'
+    return re.sub(r'(?<=## Structure\n\n)```\n(.*?)```\n', repl, text, flags=re.S)
+
+
+def convert(src, url, text=None):
+    text = src.read_text() if text is None else text
     lines = text.split('\n')
+    h1 = next((i for i, l in enumerate(lines) if l.startswith('# ')), None)
+    title = lines[h1][2:].strip() if h1 is not None else src.stem
     for i, anchor in reversed(headings(text)):
         if anchor.isascii():
             lines[i] = f'{lines[i]} {{#{anchor}}}'  # Parsedown Extra heading id
         else:  # Parsedown Extra's {#id} only takes ASCII
             lines[i] = f'{lines[i]} <a id="{anchor}"></a>'
-    h1 = next((i for i, l in enumerate(lines) if l.startswith('# ')), None)
-    title = re.sub(r'\s*\{#[^}]*\}$', '', lines[h1][2:]) if h1 is not None else src.stem
     if h1 is not None:
         del lines[h1]  # the theme prints the page title itself
     body = rewrite_links('\n'.join(lines).lstrip('\n'), src, url)
@@ -157,7 +174,8 @@ with tempfile.TemporaryDirectory() as tmp:
             finally:
                 os.unlink(g.name)
         else:
-            dest.write_text(convert(src, url))
+            text = link_tree(src.read_text()) if src == root / 'README.md' else None
+            dest.write_text(convert(src, url, text))
 
     if problems:
         print(f'FAIL ({len(problems)} unresolved anchor{"s" if len(problems) != 1 else ""})')
