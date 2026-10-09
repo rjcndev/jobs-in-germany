@@ -4,7 +4,7 @@ title: "Zerspanungsmechaniker/in (Precision Machinist / CNC Machinist)"
 
 <div class="jig-page"></div>
 
-<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/industrial/">Industrial trades (Industrieberufe)</a> <span aria-hidden="true">›</span> <span aria-current="page">Zerspanungsmechaniker/in (Precision Machinist / CNC Machinist)</span></nav>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">/</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">/</span> <a href="/jobs-in-germany/industrial/">Industrial trades (Industrieberufe)</a> <span aria-hidden="true">/</span> <span aria-current="page">Zerspanungsmechaniker/in (Precision Machinist / CNC Machinist)</span></nav>
 
 > Cuts metal to tolerance on CNC machines. The precision end of the industrial trades, and one where the gap between a qualified technician and a machine operator is wide, real, and routinely blurred in job ads.
 

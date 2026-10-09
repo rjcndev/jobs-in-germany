@@ -4,7 +4,7 @@ title: "Apotheker/in (Pharmacist)"
 
 <div class="jig-page"></div>
 
-<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/healthcare/">Healthcare</a> <span aria-hidden="true">›</span> <span aria-current="page">Apotheker/in (Pharmacist)</span></nav>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">/</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">/</span> <a href="/jobs-in-germany/healthcare/">Healthcare</a> <span aria-hidden="true">/</span> <span aria-current="page">Apotheker/in (Pharmacist)</span></nav>
 
 > Dispenses and advises on medicines. Licensed like a doctor — but with a restriction found nowhere else in this repo: **only a pharmacist may own a pharmacy**, and only up to four.
 

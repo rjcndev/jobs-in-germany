@@ -4,7 +4,7 @@ title: "Wirtschaftsprüfer/in (Statutory Auditor)"
 
 <div class="jig-page"></div>
 
-<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/commercial/">Commercial</a> <span aria-hidden="true">›</span> <span aria-current="page">Wirtschaftsprüfer/in (Statutory Auditor)</span></nav>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">/</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">/</span> <a href="/jobs-in-germany/commercial/">Commercial</a> <span aria-hidden="true">/</span> <span aria-current="page">Wirtschaftsprüfer/in (Statutory Auditor)</span></nav>
 
 > A **reserved activity** under the WPO — only a Wirtschaftsprüfer may sign a statutory audit opinion — behind an examination with a worse pass rate than the [Steuerberater](/jobs-in-germany/commercial/steuerfachangestellte-r/) one. It sits at the top of the same ladder this repo already describes from the bottom, and it is the highest-paying non-medical qualification here.
 

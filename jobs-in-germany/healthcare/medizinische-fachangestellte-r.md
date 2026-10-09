@@ -4,7 +4,7 @@ title: "Medizinische/r Fachangestellte/r (MFA) (Medical Assistant)"
 
 <div class="jig-page"></div>
 
-<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/healthcare/">Healthcare</a> <span aria-hidden="true">›</span> <span aria-current="page">Medizinische/r Fachangestellte/r (MFA) (Medical Assistant)</span></nav>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">/</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">/</span> <a href="/jobs-in-germany/healthcare/">Healthcare</a> <span aria-hidden="true">/</span> <span aria-current="page">Medizinische/r Fachangestellte/r (MFA) (Medical Assistant)</span></nav>
 
 > One of the largest occupations in German healthcare and one of the worst paid relative to what it carries. Examined by the **Ärztekammer** rather than the IHK or HWK — a chamber system this repo otherwise only meets at the top of the profession — and the reason a doctor's practice functions at all.
 

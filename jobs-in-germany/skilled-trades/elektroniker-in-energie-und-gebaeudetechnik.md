@@ -4,7 +4,7 @@ title: "Elektroniker/in für Energie- und Gebäudetechnik (Electrician)"
 
 <div class="jig-page"></div>
 
-<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/skilled-trades/">Skilled trades (Handwerk)</a> <span aria-hidden="true">›</span> <span aria-current="page">Elektroniker/in für Energie- und Gebäudetechnik (Electrician)</span></nav>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">/</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">/</span> <a href="/jobs-in-germany/skilled-trades/">Skilled trades (Handwerk)</a> <span aria-hidden="true">/</span> <span aria-current="page">Elektroniker/in für Energie- und Gebäudetechnik (Electrician)</span></nav>
 
 > Installs and maintains electrical systems in buildings. A Handwerk trade with the defining German twist: you may be *employed* freely, but you may not *run your own business* without a Meister.
 

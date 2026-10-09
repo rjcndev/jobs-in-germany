@@ -4,7 +4,7 @@ title: "Konstruktionsmechaniker/in (Structural Metalworker / Fabricator)"
 
 <div class="jig-page"></div>
 
-<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/industrial/">Industrial trades (Industrieberufe)</a> <span aria-hidden="true">›</span> <span aria-current="page">Konstruktionsmechaniker/in (Structural Metalworker / Fabricator)</span></nav>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">/</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">/</span> <a href="/jobs-in-germany/industrial/">Industrial trades (Industrieberufe)</a> <span aria-hidden="true">/</span> <span aria-current="page">Konstruktionsmechaniker/in (Structural Metalworker / Fabricator)</span></nav>
 
 > Builds structures out of steel: plate, profile and tube, cut, formed, welded and erected. The trade where **welding certification, not the job title, decides what you may work on.**
 

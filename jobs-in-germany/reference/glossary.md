@@ -4,7 +4,7 @@ title: "Glossary"
 
 <div class="jig-page"></div>
 
-<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/reference/">Reference</a> <span aria-hidden="true">›</span> <span aria-current="page">Glossary</span></nav>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">/</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">/</span> <a href="/jobs-in-germany/reference/">Reference</a> <span aria-hidden="true">/</span> <span aria-current="page">Glossary</span></nav>
 
 This repo is written in English and deliberately keeps German terms in place, because that is how you will meet them — in job adverts, on authority websites, and on forms. Around 250 recur across the files. These are the ones that carry meaning.
 

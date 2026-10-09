@@ -4,7 +4,7 @@ title: "Occupational certificates — the short tickets that gate the work"
 
 <div class="jig-page"></div>
 
-<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/reference/">Reference</a> <span aria-hidden="true">›</span> <span aria-current="page">Occupational certificates — the short tickets that gate the work</span></nav>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">/</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">/</span> <a href="/jobs-in-germany/reference/">Reference</a> <span aria-hidden="true">/</span> <span aria-current="page">Occupational certificates — the short tickets that gate the work</span></nav>
 
 Roughly a dozen short certificates run through this repo, and until now **each appeared in exactly one profession file**, which made the pattern invisible. Collected, they show something no individual file can:
 

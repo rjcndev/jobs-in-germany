@@ -4,7 +4,7 @@ title: "Pay, by profession"
 
 <div class="jig-page"></div>
 
-<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/reference/">Reference</a> <span aria-hidden="true">›</span> <span aria-current="page">Pay, by profession</span></nav>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">/</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">/</span> <a href="/jobs-in-germany/reference/">Reference</a> <span aria-hidden="true">/</span> <span aria-current="page">Pay, by profession</span></nav>
 
 Cross-reference over every profile in this repo. Figures are drawn from the individual files — if the two disagree, the profession file is the source of truth.
 

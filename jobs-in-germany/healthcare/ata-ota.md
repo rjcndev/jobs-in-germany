@@ -4,7 +4,7 @@ title: "ATA / OTA — Anästhesie- und Operationstechnische Assistenz (Anaesthes
 
 <div class="jig-page"></div>
 
-<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/healthcare/">Healthcare</a> <span aria-hidden="true">›</span> <span aria-current="page">ATA / OTA — Anästhesie- und Operationstechnische Assistenz (Anaesthesia and Surgical Assistants)</span></nav>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">/</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">/</span> <a href="/jobs-in-germany/healthcare/">Healthcare</a> <span aria-hidden="true">/</span> <span aria-current="page">ATA / OTA — Anästhesie- und Operationstechnische Assistenz (Anaesthesia and Surgical Assistants)</span></nav>
 
 > **Federally regulated since 2022**, and before that not regulated at all. The clearest recent example in this repo of **regulation arriving**: a qualification that existed for two decades as an industry recommendation became a protected title with a state licence, a national curriculum and — for the first time — a recognition procedure for people trained abroad.
 

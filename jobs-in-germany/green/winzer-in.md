@@ -4,7 +4,7 @@ title: "Winzer/in (Winegrower)"
 
 <div class="jig-page"></div>
 
-<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/green/">Grüne Berufe — agriculture, forestry and horticulture</a> <span aria-hidden="true">›</span> <span aria-current="page">Winzer/in (Winegrower)</span></nav>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">/</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">/</span> <a href="/jobs-in-germany/green/">Grüne Berufe — agriculture, forestry and horticulture</a> <span aria-hidden="true">/</span> <span aria-current="page">Winzer/in (Winegrower)</span></nav>
 
 > Viticulture and cellar work in one qualification, concentrated in a handful of Bundesländer, and run overwhelmingly on **family succession**. Economically it resembles [pharmacy ownership](/jobs-in-germany/healthcare/apotheker-in/) more than a wage trade: the asset is the business, and most of the qualified people in it expect to inherit or buy one.
 

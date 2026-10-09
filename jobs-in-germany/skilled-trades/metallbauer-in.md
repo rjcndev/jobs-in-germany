@@ -4,7 +4,7 @@ title: "Metallbauer/in (Metalworker / Structural Smith)"
 
 <div class="jig-page"></div>
 
-<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/skilled-trades/">Skilled trades (Handwerk)</a> <span aria-hidden="true">›</span> <span aria-current="page">Metallbauer/in (Metalworker / Structural Smith)</span></nav>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">/</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">/</span> <a href="/jobs-in-germany/skilled-trades/">Skilled trades (Handwerk)</a> <span aria-hidden="true">/</span> <span aria-current="page">Metallbauer/in (Metalworker / Structural Smith)</span></nav>
 
 > Fabricates and installs metal structures — gates, railings, staircases, balconies, facades, vehicle bodies. The Handwerk counterpart to [Konstruktionsmechaniker](/jobs-in-germany/industrial/konstruktionsmechaniker-in/), with lower pay and one thing the industrial trade cannot offer: a business of your own.
 

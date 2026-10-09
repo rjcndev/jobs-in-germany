@@ -4,7 +4,7 @@ title: "Rechtsanwaltsfachangestellte/r (Legal Secretary / Paralegal)"
 
 <div class="jig-page"></div>
 
-<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/commercial/">Commercial</a> <span aria-hidden="true">›</span> <span aria-current="page">Rechtsanwaltsfachangestellte/r (Legal Secretary / Paralegal)</span></nav>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">/</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">/</span> <a href="/jobs-in-germany/commercial/">Commercial</a> <span aria-hidden="true">/</span> <span aria-current="page">Rechtsanwaltsfachangestellte/r (Legal Secretary / Paralegal)</span></nav>
 
 > Runs a law firm's procedural machinery: deadlines, files, court filings and fee billing. Sits beneath a reserved profession, like [Steuerfachangestellte/r](/jobs-in-germany/commercial/steuerfachangestellte-r/) — but with a harder ceiling.
 

@@ -4,7 +4,7 @@ title: "Choosing a Bundesland"
 
 <div class="jig-page"></div>
 
-<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/reference/">Reference</a> <span aria-hidden="true">›</span> <span aria-current="page">Choosing a Bundesland</span></nav>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">/</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">/</span> <a href="/jobs-in-germany/reference/">Reference</a> <span aria-hidden="true">/</span> <span aria-current="page">Choosing a Bundesland</span></nav>
 
 Eight profession files in this repo tell you to "choose the Bundesland carefully" and none of them helps you do it. This does.
 

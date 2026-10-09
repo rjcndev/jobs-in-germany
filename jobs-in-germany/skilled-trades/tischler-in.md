@@ -4,7 +4,7 @@ title: "Tischler/in — also Schreiner/in (Joiner / Cabinetmaker)"
 
 <div class="jig-page"></div>
 
-<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/skilled-trades/">Skilled trades (Handwerk)</a> <span aria-hidden="true">›</span> <span aria-current="page">Tischler/in — also Schreiner/in (Joiner / Cabinetmaker)</span></nav>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">/</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">/</span> <a href="/jobs-in-germany/skilled-trades/">Skilled trades (Handwerk)</a> <span aria-hidden="true">/</span> <span aria-current="page">Tischler/in — also Schreiner/in (Joiner / Cabinetmaker)</span></nav>
 
 > Furniture, fitted interiors, windows, doors, staircases and shopfitting. A Handwerk trade whose traditional business was hollowed out by industrial furniture, and which now lives on bespoke work.
 

@@ -4,7 +4,7 @@ title: "Steuerbeamte/r (Tax Official)"
 
 <div class="jig-page"></div>
 
-<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/public-service/">Public service (öffentlicher Dienst) — the Beamten careers</a> <span aria-hidden="true">›</span> <span aria-current="page">Steuerbeamte/r (Tax Official)</span></nav>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">/</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">/</span> <a href="/jobs-in-germany/public-service/">Public service (öffentlicher Dienst) — the Beamten careers</a> <span aria-hidden="true">/</span> <span aria-current="page">Steuerbeamte/r (Tax Official)</span></nav>
 
 > Assesses and audits taxes at a Finanzamt. The desk-based Beamten career — no fitness test, no shifts — and the one that comes with a genuine exit route into a well-paid profession.
 

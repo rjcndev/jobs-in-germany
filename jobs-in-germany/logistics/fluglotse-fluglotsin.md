@@ -4,7 +4,7 @@ title: "Fluglotse / Fluglotsin (Air Traffic Controller)"
 
 <div class="jig-page"></div>
 
-<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/logistics/">Logistics</a> <span aria-hidden="true">›</span> <span aria-current="page">Fluglotse / Fluglotsin (Air Traffic Controller)</span></nav>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">/</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">/</span> <a href="/jobs-in-germany/logistics/">Logistics</a> <span aria-hidden="true">/</span> <span aria-current="page">Fluglotse / Fluglotsin (Air Traffic Controller)</span></nav>
 
 > One employer, a selection process with a famously brutal rejection rate, **paid** training, and pay at the top of everything in this repo that is not a business you own. The inverse of [Pilot/in](/jobs-in-germany/logistics/pilot-in/) in every respect: they pay to qualify, you are paid to.
 

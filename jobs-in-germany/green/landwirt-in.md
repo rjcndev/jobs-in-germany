@@ -4,7 +4,7 @@ title: "Landwirt/in (Farmer / Agricultural Worker)"
 
 <div class="jig-page"></div>
 
-<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/green/">Grüne Berufe — agriculture, forestry and horticulture</a> <span aria-hidden="true">›</span> <span aria-current="page">Landwirt/in (Farmer / Agricultural Worker)</span></nav>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">/</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">/</span> <a href="/jobs-in-germany/green/">Grüne Berufe — agriculture, forestry and horticulture</a> <span aria-hidden="true">/</span> <span aria-current="page">Landwirt/in (Farmer / Agricultural Worker)</span></nav>
 
 > The anchor file for the [Grüne Berufe](/jobs-in-germany/green/), and the one place in this repo where a whole **labour model** has to be described alongside the profession: the **70-day rule**, which makes German harvest work social-insurance-free, is staffed overwhelmingly from Romania and Poland, and has a documented enforcement and exploitation record. Both things are in this file, because they are both true of German agriculture.
 

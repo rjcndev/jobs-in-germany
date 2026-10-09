@@ -4,7 +4,7 @@ title: "Werkzeugmechaniker/in (Tool and Die Maker)"
 
 <div class="jig-page"></div>
 
-<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/industrial/">Industrial trades (Industrieberufe)</a> <span aria-hidden="true">›</span> <span aria-current="page">Werkzeugmechaniker/in (Tool and Die Maker)</span></nav>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">/</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">/</span> <a href="/jobs-in-germany/industrial/">Industrial trades (Industrieberufe)</a> <span aria-hidden="true">/</span> <span aria-current="page">Werkzeugmechaniker/in (Tool and Die Maker)</span></nav>
 
 > Makes the tools that make the parts. One abstraction level above [Zerspanung](/jobs-in-germany/industrial/zerspanungsmechaniker-in/), far harder to automate, and working in a German sector under sustained competitive pressure.
 

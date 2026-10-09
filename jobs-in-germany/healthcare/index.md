@@ -4,7 +4,7 @@ title: "Healthcare"
 
 <div class="jig-page"></div>
 
-<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <span aria-current="page">Healthcare</span></nav>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">/</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">/</span> <span aria-current="page">Healthcare</span></nav>
 
 The most heavily regulated sector in this repo. **Almost** every profession here needs a **state licence** before you may work at all — recognition is not optional, and the pattern is near-identical across them, so it is collected once here.
 

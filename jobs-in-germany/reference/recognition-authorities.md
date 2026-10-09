@@ -4,7 +4,7 @@ title: "Who recognises your qualification"
 
 <div class="jig-page"></div>
 
-<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/reference/">Reference</a> <span aria-hidden="true">›</span> <span aria-current="page">Who recognises your qualification</span></nav>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">/</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">/</span> <a href="/jobs-in-germany/reference/">Reference</a> <span aria-hidden="true">/</span> <span aria-current="page">Who recognises your qualification</span></nav>
 
 The single most repeated paragraph across the profession files, collected once. **There is no national recognition office in Germany.** Which body is competent depends on your profession, and for most of them also on your Bundesland.
 

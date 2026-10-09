@@ -4,7 +4,7 @@ title: "Notar/in (Civil-Law Notary)"
 
 <div class="jig-page"></div>
 
-<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/commercial/">Commercial</a> <span aria-hidden="true">›</span> <span aria-current="page">Notar/in (Civil-Law Notary)</span></nav>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">/</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">/</span> <a href="/jobs-in-germany/commercial/">Commercial</a> <span aria-hidden="true">/</span> <span aria-current="page">Notar/in (Civil-Law Notary)</span></nav>
 
 > Genuinely unlike anything else in this repo. A notary is **appointed by the state to a public office**, in a number fixed by assessed need and tied to a specific location, holds a **legal monopoly** over authenticating the transactions that matter most in German life, and charges fees set by statute with **no room to compete on price at all**.
 

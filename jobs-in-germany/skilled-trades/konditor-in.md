@@ -4,7 +4,7 @@ title: "Konditor/in (Pastry Chef / Confectioner)"
 
 <div class="jig-page"></div>
 
-<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/skilled-trades/">Skilled trades (Handwerk)</a> <span aria-hidden="true">›</span> <span aria-current="page">Konditor/in (Pastry Chef / Confectioner)</span></nav>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">/</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">/</span> <a href="/jobs-in-germany/skilled-trades/">Skilled trades (Handwerk)</a> <span aria-hidden="true">/</span> <span aria-current="page">Konditor/in (Pastry Chef / Confectioner)</span></nav>
 
 > Cakes, tortes, pralines, chocolate and desserts. The most creative of the food trades, with better hours than [baking](/jobs-in-germany/skilled-trades/baecker-in/) and a sector holding up rather better.
 

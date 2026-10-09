@@ -4,7 +4,7 @@ title: "Beamte vs. Angestellte"
 
 <div class="jig-page"></div>
 
-<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/reference/">Reference</a> <span aria-hidden="true">›</span> <span aria-current="page">Beamte vs. Angestellte</span></nav>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">/</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">/</span> <a href="/jobs-in-germany/reference/">Reference</a> <span aria-hidden="true">/</span> <span aria-current="page">Beamte vs. Angestellte</span></nav>
 
 Two people can do the same public-sector job, at the same desk, and be employed under completely different legal systems with different pay, pensions, rights and restrictions. This is one of the largest structural facts in German working life, and nothing else in this repo works without it.
 

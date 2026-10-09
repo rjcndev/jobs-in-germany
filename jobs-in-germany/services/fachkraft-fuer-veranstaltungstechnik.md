@@ -4,7 +4,7 @@ title: "Fachkraft für Veranstaltungstechnik (Event and Stage Technician)"
 
 <div class="jig-page"></div>
 
-<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/services/">Services and other sectors</a> <span aria-hidden="true">›</span> <span aria-current="page">Fachkraft für Veranstaltungstechnik (Event and Stage Technician)</span></nav>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">/</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">/</span> <a href="/jobs-in-germany/services/">Services and other sectors</a> <span aria-hidden="true">/</span> <span aria-current="page">Fachkraft für Veranstaltungstechnik (Event and Stage Technician)</span></nav>
 
 > Stage, lighting, sound, video, rigging and power for everything from a municipal theatre to an arena tour. **IHK, not Handwerk** — so no Anlage A, no Meisterpflicht for self-employment — but with real safety-law responsibility: suspended loads over an audience, and a **legally required competent person** in every larger venue.
 

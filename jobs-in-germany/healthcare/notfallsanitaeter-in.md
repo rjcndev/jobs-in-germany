@@ -4,7 +4,7 @@ title: "Notfallsanitäter/in (Paramedic)"
 
 <div class="jig-page"></div>
 
-<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/healthcare/">Healthcare</a> <span aria-hidden="true">›</span> <span aria-current="page">Notfallsanitäter/in (Paramedic)</span></nav>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">/</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">/</span> <a href="/jobs-in-germany/healthcare/">Healthcare</a> <span aria-hidden="true">/</span> <span aria-current="page">Notfallsanitäter/in (Paramedic)</span></nav>
 
 > The highest non-physician qualification in German emergency medicine. Since 2021 it carries something rare in this repo: a statutory licence to perform invasive medical measures independently.
 

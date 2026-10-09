@@ -4,7 +4,7 @@ title: "Fliesen-, Platten- und Mosaikleger/in (Tiler)"
 
 <div class="jig-page"></div>
 
-<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/skilled-trades/">Skilled trades (Handwerk)</a> <span aria-hidden="true">›</span> <span aria-current="page">Fliesen-, Platten- und Mosaikleger/in (Tiler)</span></nav>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">/</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">/</span> <a href="/jobs-in-germany/skilled-trades/">Skilled trades (Handwerk)</a> <span aria-hidden="true">/</span> <span aria-current="page">Fliesen-, Platten- und Mosaikleger/in (Tiler)</span></nav>
 
 > The trade at the centre of Germany's deregulation experiment. Freed from the Meisterpflicht in 2004, it saw its business numbers multiply and its apprentice numbers collapse, and in 2020 it was re-regulated — the single best-documented example of Germany reversing a deregulation. [Raumausstatter](/jobs-in-germany/skilled-trades/raumausstatter-in/) carries the full account of that reversal; this file is the trade.
 

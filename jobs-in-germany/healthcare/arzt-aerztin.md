@@ -4,7 +4,7 @@ title: "Arzt / Ärztin (Physician)"
 
 <div class="jig-page"></div>
 
-<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/healthcare/">Healthcare</a> <span aria-hidden="true">›</span> <span aria-current="page">Arzt / Ärztin (Physician)</span></nav>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">/</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">/</span> <a href="/jobs-in-germany/healthcare/">Healthcare</a> <span aria-hidden="true">/</span> <span aria-current="page">Arzt / Ärztin (Physician)</span></nav>
 
 > Diagnoses and treats patients. The most heavily regulated profession in this repo, and the one where the gap between "qualified abroad" and "allowed to work" is widest.
 

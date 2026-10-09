@@ -4,7 +4,7 @@ title: "The Meisterbrief and the ladder above Ausbildung"
 
 <div class="jig-page"></div>
 
-<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/reference/">Reference</a> <span aria-hidden="true">›</span> <span aria-current="page">The Meisterbrief and the ladder above Ausbildung</span></nav>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">/</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">/</span> <a href="/jobs-in-germany/reference/">Reference</a> <span aria-hidden="true">/</span> <span aria-current="page">The Meisterbrief and the ladder above Ausbildung</span></nav>
 
 Referenced across the trade files — Meisterpflicht, Meisterbrief, Aufstiegs-BAföG, Meisterprämie — and explained here rather than in each.
 

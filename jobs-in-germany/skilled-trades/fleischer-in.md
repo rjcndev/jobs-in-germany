@@ -4,7 +4,7 @@ title: "Fleischer/in — Metzger/in — Schlachter/in (Butcher)"
 
 <div class="jig-page"></div>
 
-<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/skilled-trades/">Skilled trades (Handwerk)</a> <span aria-hidden="true">›</span> <span aria-current="page">Fleischer/in — Metzger/in — Schlachter/in (Butcher)</span></nav>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">/</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">/</span> <a href="/jobs-in-germany/skilled-trades/">Skilled trades (Handwerk)</a> <span aria-hidden="true">/</span> <span aria-current="page">Fleischer/in — Metzger/in — Schlachter/in (Butcher)</span></nav>
 
 > Cuts, cures and processes meat. A Handwerk trade that has lost more of its businesses than any other in this repo — and whose industrial counterpart produced one of Germany's worst labour scandals.
 

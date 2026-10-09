@@ -4,7 +4,7 @@ title: "Public service (öffentlicher Dienst) — the Beamten careers"
 
 <div class="jig-page"></div>
 
-<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <span aria-current="page">Public service (öffentlicher Dienst) — the Beamten careers</span></nav>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">/</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">/</span> <span aria-current="page">Public service (öffentlicher Dienst) — the Beamten careers</span></nav>
 
 Professions entered as a **Beamter/Beamtin** rather than an employee. Read [Beamte vs. Angestellte](/jobs-in-germany/reference/beamte-vs-angestellte/) first — Besoldung instead of tariff, Ruhegehalt instead of a pension, no right to strike, and an **EU-citizenship requirement** that is a hard stop for many readers of this repo.
 

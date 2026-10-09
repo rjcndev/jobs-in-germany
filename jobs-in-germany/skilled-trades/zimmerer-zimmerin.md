@@ -4,7 +4,7 @@ title: "Zimmerer / Zimmerin (Carpenter — structural)"
 
 <div class="jig-page"></div>
 
-<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/skilled-trades/">Skilled trades (Handwerk)</a> <span aria-hidden="true">›</span> <span aria-current="page">Zimmerer / Zimmerin (Carpenter — structural)</span></nav>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">/</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">/</span> <a href="/jobs-in-germany/skilled-trades/">Skilled trades (Handwerk)</a> <span aria-hidden="true">/</span> <span aria-current="page">Zimmerer / Zimmerin (Carpenter — structural)</span></nav>
 
 > Structural timber: roofs, frames and, increasingly, whole buildings. An **Anlage A** trade riding the **Holzbau** boom as timber construction expands for carbon reasons — and the one trade in this repo that still sends its journeymen on the road for three years and a day.
 

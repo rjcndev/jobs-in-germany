@@ -4,7 +4,7 @@ title: "Architekt/in (Architect)"
 
 <div class="jig-page"></div>
 
-<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/engineering/">Engineering</a> <span aria-hidden="true">›</span> <span aria-current="page">Architekt/in (Architect)</span></nav>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">/</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">/</span> <a href="/jobs-in-germany/engineering/">Engineering</a> <span aria-hidden="true">/</span> <span aria-current="page">Architekt/in (Architect)</span></nav>
 
 > Designs buildings and runs the process that gets them built and approved. Germany protects the **title** under sixteen separate state laws and reserves one **activity** — submitting a building application — to the people who hold it. A degree alone gets you neither: entry to the Architektenliste takes roughly two further years of documented practice.
 

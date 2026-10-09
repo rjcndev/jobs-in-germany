@@ -4,7 +4,7 @@ title: "Mechatroniker/in (Mechatronics Technician)"
 
 <div class="jig-page"></div>
 
-<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/industrial/">Industrial trades (Industrieberufe)</a> <span aria-hidden="true">›</span> <span aria-current="page">Mechatroniker/in (Mechatronics Technician)</span></nav>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">/</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">/</span> <a href="/jobs-in-germany/industrial/">Industrial trades (Industrieberufe)</a> <span aria-hidden="true">/</span> <span aria-current="page">Mechatroniker/in (Mechatronics Technician)</span></nav>
 
 > Builds and maintains systems that are mechanical, electrical and software at once. Germany's flagship combined trade, and one of the most internationally portable qualifications in this repo.
 

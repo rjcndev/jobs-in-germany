@@ -4,7 +4,7 @@ title: "Erzieher/in (Early Years & Social Education Practitioner)"
 
 <div class="jig-page"></div>
 
-<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/education/">Education</a> <span aria-hidden="true">›</span> <span aria-current="page">Erzieher/in (Early Years &amp; Social Education Practitioner)</span></nav>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">/</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">/</span> <a href="/jobs-in-germany/education/">Education</a> <span aria-hidden="true">/</span> <span aria-current="page">Erzieher/in (Early Years &amp; Social Education Practitioner)</span></nav>
 
 > Works with children and young people in Kitas, after-school care, youth work and residential care. Regulated — but by **sixteen state laws instead of one federal one**, which makes it the most fragmented profession in this repo.
 

@@ -4,7 +4,7 @@ title: "Pflegefachassistenz / Pflegehelfer/in (Nursing Assistant)"
 
 <div class="jig-page"></div>
 
-<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/healthcare/">Healthcare</a> <span aria-hidden="true">›</span> <span aria-current="page">Pflegefachassistenz / Pflegehelfer/in (Nursing Assistant)</span></nav>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">/</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">/</span> <a href="/jobs-in-germany/healthcare/">Healthcare</a> <span aria-hidden="true">/</span> <span aria-current="page">Pflegefachassistenz / Pflegehelfer/in (Nursing Assistant)</span></nav>
 
 > The tier directly below [nursing](/jobs-in-germany/healthcare/pflegefachfrau-pflegefachmann/): one to two years, and — uniquely among the healthcare qualifications here — **regulated by the sixteen Bundesländer rather than by federal law.** It matters disproportionately, because it is what internationally recruited nurses are actually employed as while their recognition runs, and the nursing file warns about getting stuck there without documenting what "there" is.
 

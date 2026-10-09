@@ -4,7 +4,7 @@ title: "Services and other sectors"
 
 <div class="jig-page"></div>
 
-<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <span aria-current="page">Services and other sectors</span></nav>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">/</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">/</span> <span aria-current="page">Services and other sectors</span></nav>
 
 The occupations here belong to none of the chamber-defined sectors that organise the rest of this repo. Some are Handwerk, some IHK, some have **no qualification at all** — and that last group is the reason this folder exists.
 

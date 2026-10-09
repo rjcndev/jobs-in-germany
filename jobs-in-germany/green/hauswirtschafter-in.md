@@ -4,7 +4,7 @@ title: "Hauswirtschafter/in (Home Economics / Institutional Housekeeping)"
 
 <div class="jig-page"></div>
 
-<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/green/">Grüne Berufe — agriculture, forestry and horticulture</a> <span aria-hidden="true">›</span> <span aria-current="page">Hauswirtschafter/in (Home Economics / Institutional Housekeeping)</span></nav>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">/</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">/</span> <a href="/jobs-in-germany/green/">Grüne Berufe — agriculture, forestry and horticulture</a> <span aria-hidden="true">/</span> <span aria-current="page">Hauswirtschafter/in (Home Economics / Institutional Housekeeping)</span></nav>
 
 > Formally one of the **Grüne Berufe**, and almost nobody who holds it works on a farm. In practice it is the qualified profession behind catering, hygiene and daily living in **care homes, schools, Kitas and institutions** — which puts it directly above the unqualified [cleaning tiers](/jobs-in-germany/services/), and makes it the most useful upward route out of them.
 

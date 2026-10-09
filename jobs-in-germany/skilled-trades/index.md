@@ -4,7 +4,7 @@ title: "Skilled trades (Handwerk)"
 
 <div class="jig-page"></div>
 
-<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <span aria-current="page">Skilled trades (Handwerk)</span></nav>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">/</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">/</span> <span aria-current="page">Skilled trades (Handwerk)</span></nav>
 
 Trades trained and regulated under the **Handwerksordnung (HwO)**, through the **Handwerkskammer**. The industrial counterparts — often the same work, better paid, without business rights — are in [industrial](/jobs-in-germany/industrial/).
 

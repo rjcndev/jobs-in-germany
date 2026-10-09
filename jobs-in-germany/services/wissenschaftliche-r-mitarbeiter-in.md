@@ -4,7 +4,7 @@ title: "Wissenschaftliche/r Mitarbeiter/in (Research Associate / Academic Staff)
 
 <div class="jig-page"></div>
 
-<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/services/">Services and other sectors</a> <span aria-hidden="true">›</span> <span aria-current="page">Wissenschaftliche/r Mitarbeiter/in (Research Associate / Academic Staff)</span></nav>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">/</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">/</span> <a href="/jobs-in-germany/services/">Services and other sectors</a> <span aria-hidden="true">/</span> <span aria-current="page">Wissenschaftliche/r Mitarbeiter/in (Research Associate / Academic Staff)</span></nav>
 
 > German academia is built on fixed-term contracts, and a **specific statute exists to permit them**. The **WissZeitVG** disapplies the ordinary limits on repeated fixed terms for academic staff, which is why a research career here can mean a decade of two-year contracts, frequently part-time, with no permanent position to be promoted into. Anyone considering research in Germany should read this before committing.
 

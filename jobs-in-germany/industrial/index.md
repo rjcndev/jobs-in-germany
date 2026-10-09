@@ -4,7 +4,7 @@ title: "Industrial trades (Industrieberufe)"
 
 <div class="jig-page"></div>
 
-<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <span aria-current="page">Industrial trades (Industrieberufe)</span></nav>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">/</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">/</span> <span aria-current="page">Industrial trades (Industrieberufe)</span></nav>
 
 Skilled trades trained and employed **inside industry** rather than in the Handwerk. Same kind of work, sometimes the same job title — and a different chamber, tariff, pay level and set of self-employment rules.
 

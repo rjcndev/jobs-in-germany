@@ -4,7 +4,7 @@ title: "Forstwirt/in (Forest Worker)"
 
 <div class="jig-page"></div>
 
-<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/green/">Grüne Berufe — agriculture, forestry and horticulture</a> <span aria-hidden="true">›</span> <span aria-current="page">Forstwirt/in (Forest Worker)</span></nav>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">/</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">/</span> <a href="/jobs-in-germany/green/">Grüne Berufe — agriculture, forestry and horticulture</a> <span aria-hidden="true">/</span> <span aria-current="page">Forstwirt/in (Forest Worker)</span></nav>
 
 > Fells, plants and tends forest. Physically the hardest and statistically among the most dangerous occupations in this repo — and unusually, one where public-sector employment makes the pay exactly knowable.
 

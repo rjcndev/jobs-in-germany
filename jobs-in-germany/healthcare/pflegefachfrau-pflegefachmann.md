@@ -4,7 +4,7 @@ title: "Pflegefachfrau / Pflegefachmann (Registered Nurse)"
 
 <div class="jig-page"></div>
 
-<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/healthcare/">Healthcare</a> <span aria-hidden="true">›</span> <span aria-current="page">Pflegefachfrau / Pflegefachmann (Registered Nurse)</span></nav>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">/</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">/</span> <a href="/jobs-in-germany/healthcare/">Healthcare</a> <span aria-hidden="true">/</span> <span aria-current="page">Pflegefachfrau / Pflegefachmann (Registered Nurse)</span></nav>
 
 > Generalist nursing: assessment, treatment, medication, documentation and patient care across hospital, elderly care and home care settings.
 

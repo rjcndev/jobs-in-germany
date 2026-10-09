@@ -4,7 +4,7 @@ title: "Industriemechaniker/in (Industrial Mechanic)"
 
 <div class="jig-page"></div>
 
-<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/industrial/">Industrial trades (Industrieberufe)</a> <span aria-hidden="true">›</span> <span aria-current="page">Industriemechaniker/in (Industrial Mechanic)</span></nav>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">/</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">/</span> <a href="/jobs-in-germany/industrial/">Industrial trades (Industrieberufe)</a> <span aria-hidden="true">/</span> <span aria-current="page">Industriemechaniker/in (Industrial Mechanic)</span></nav>
 
 > Builds, assembles and maintains machines and production plant. One of the largest industrial Ausbildungen in Germany and the mechanical counterpart to [Elektroniker für Betriebstechnik](/jobs-in-germany/industrial/elektroniker-in-betriebstechnik/).
 

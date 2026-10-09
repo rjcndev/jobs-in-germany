@@ -4,7 +4,7 @@ title: "Private security (Bewachungsgewerbe)"
 
 <div class="jig-page"></div>
 
-<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <span aria-current="page">Private security (Bewachungsgewerbe)</span></nav>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">/</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">/</span> <span aria-current="page">Private security (Bewachungsgewerbe)</span></nav>
 
 One regulated sector, several job titles. Door supervision, site guarding, patrols, retail protection and event security are **roles inside it**, not separate occupations.
 

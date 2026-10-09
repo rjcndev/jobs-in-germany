@@ -4,7 +4,7 @@ title: "Physiotherapeut/in (Physiotherapist)"
 
 <div class="jig-page"></div>
 
-<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/healthcare/">Healthcare</a> <span aria-hidden="true">›</span> <span aria-current="page">Physiotherapeut/in (Physiotherapist)</span></nav>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">/</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">/</span> <a href="/jobs-in-germany/healthcare/">Healthcare</a> <span aria-hidden="true">/</span> <span aria-current="page">Physiotherapeut/in (Physiotherapist)</span></nav>
 
 > Treats movement and musculoskeletal disorders through manual therapy and exercise. Regulated and licensed, but paid markedly less than the diagnostic professions.
 

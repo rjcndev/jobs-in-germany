@@ -4,7 +4,7 @@ title: "Anlagenmechaniker/in SHK (Plumbing, Heating & AC Technician)"
 
 <div class="jig-page"></div>
 
-<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/skilled-trades/">Skilled trades (Handwerk)</a> <span aria-hidden="true">›</span> <span aria-current="page">Anlagenmechaniker/in SHK (Plumbing, Heating &amp; AC Technician)</span></nav>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">/</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">/</span> <a href="/jobs-in-germany/skilled-trades/">Skilled trades (Handwerk)</a> <span aria-hidden="true">/</span> <span aria-current="page">Anlagenmechaniker/in SHK (Plumbing, Heating &amp; AC Technician)</span></nav>
 
 > Sanitär-, Heizungs- und Klimatechnik. Installs and services heating, plumbing and ventilation — and is currently at the centre of Germany's heating transition.
 

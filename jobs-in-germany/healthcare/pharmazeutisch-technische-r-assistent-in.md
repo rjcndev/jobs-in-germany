@@ -4,7 +4,7 @@ title: "Pharmazeutisch-technische/r Assistent/in (PTA) (Pharmaceutical Technical
 
 <div class="jig-page"></div>
 
-<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/healthcare/">Healthcare</a> <span aria-hidden="true">›</span> <span aria-current="page">Pharmazeutisch-technische/r Assistent/in (PTA) (Pharmaceutical Technical Assistant)</span></nav>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">/</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">/</span> <a href="/jobs-in-germany/healthcare/">Healthcare</a> <span aria-hidden="true">/</span> <span aria-current="page">Pharmazeutisch-technische/r Assistent/in (PTA) (Pharmaceutical Technical Assistant)</span></nav>
 
 > Dispenses, advises and compounds in a pharmacy, under a pharmacist's supervision — **reformed in 2023** to loosen that supervision for experienced staff. Sits under [Apotheker](/jobs-in-germany/healthcare/apotheker-in/) the way [MFA](/jobs-in-germany/healthcare/medizinische-fachangestellte-r/) sits under [Arzt](/jobs-in-germany/healthcare/arzt-aerztin/), with one important difference: **PTA is a regulated profession with a state licence**, and MFA is not.
 

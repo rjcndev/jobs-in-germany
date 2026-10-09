@@ -4,7 +4,7 @@ title: "Feuerwehrmann / Feuerwehrfrau (Firefighter)"
 
 <div class="jig-page"></div>
 
-<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/public-service/">Public service (öffentlicher Dienst) — the Beamten careers</a> <span aria-hidden="true">›</span> <span aria-current="page">Feuerwehrmann / Feuerwehrfrau (Firefighter)</span></nav>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">/</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">/</span> <a href="/jobs-in-germany/public-service/">Public service (öffentlicher Dienst) — the Beamten careers</a> <span aria-hidden="true">/</span> <span aria-current="page">Feuerwehrmann / Feuerwehrfrau (Firefighter)</span></nav>
 
 > Mostly a rescue service, mostly staffed by volunteers, and professionally entered only **after** you already hold a trade qualification.
 

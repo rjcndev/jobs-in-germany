@@ -4,7 +4,7 @@ title: "Fachkraft Agrarservice (Agricultural Contracting Technician)"
 
 <div class="jig-page"></div>
 
-<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/green/">Grüne Berufe — agriculture, forestry and horticulture</a> <span aria-hidden="true">›</span> <span aria-current="page">Fachkraft Agrarservice (Agricultural Contracting Technician)</span></nav>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">/</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">/</span> <a href="/jobs-in-germany/green/">Grüne Berufe — agriculture, forestry and horticulture</a> <span aria-hidden="true">/</span> <span aria-current="page">Fachkraft Agrarservice (Agricultural Contracting Technician)</span></nav>
 
 > The contractor side of agriculture, and the part nobody outside the sector sees. Farms increasingly do not own the machinery that works their land — a **Lohnunternehmen** does, and sends operators. It pays better than farm employment, it is more technical, and it is one of the least-known qualified occupations in this repo.
 

@@ -4,7 +4,7 @@ title: "Haushaltshilfe (Domestic Cleaner / Household Help)"
 
 <div class="jig-page"></div>
 
-<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/services/">Services and other sectors</a> <span aria-hidden="true">›</span> <span aria-current="page">Haushaltshilfe (Domestic Cleaner / Household Help)</span></nav>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">/</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">/</span> <a href="/jobs-in-germany/services/">Services and other sectors</a> <span aria-hidden="true">/</span> <span aria-current="page">Haushaltshilfe (Domestic Cleaner / Household Help)</span></nav>
 
 > The narrowest of the three cleaning tiers and the one with a genuine legal story: **the overwhelming majority of domestic work in Germany is undeclared.** It is included here precisely because the default is Schwarzarbeit — with no accident cover, no pension credit and no sick pay for the worker — and because the legal alternative is much cheaper than almost anyone believes.
 

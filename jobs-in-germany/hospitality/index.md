@@ -4,7 +4,7 @@ title: "Hospitality (Gastgewerbe)"
 
 <div class="jig-page"></div>
 
-<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <span aria-current="page">Hospitality (Gastgewerbe)</span></nav>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">/</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">/</span> <span aria-current="page">Hospitality (Gastgewerbe)</span></nav>
 
 No hospitality occupation is regulated or title-protected. Anyone may cook or work a restaurant floor. Qualifications matter for two things only: **pay grading** and **visas**.
 

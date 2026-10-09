@@ -4,7 +4,7 @@ title: "Zollbeamte/r (Customs Officer)"
 
 <div class="jig-page"></div>
 
-<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/public-service/">Public service (öffentlicher Dienst) — the Beamten careers</a> <span aria-hidden="true">›</span> <span aria-current="page">Zollbeamte/r (Customs Officer)</span></nav>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">/</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">/</span> <a href="/jobs-in-germany/public-service/">Public service (öffentlicher Dienst) — the Beamten careers</a> <span aria-hidden="true">/</span> <span aria-current="page">Zollbeamte/r (Customs Officer)</span></nav>
 
 > Collects duties, polices goods across borders — and enforces most of the labour law this repo describes. **Federal**, which makes it the one public-service career here without sixteen different versions.
 

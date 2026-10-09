@@ -4,7 +4,7 @@ title: "Kraftfahrzeugmechatroniker/in (Vehicle Mechatronics Technician)"
 
 <div class="jig-page"></div>
 
-<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/skilled-trades/">Skilled trades (Handwerk)</a> <span aria-hidden="true">›</span> <span aria-current="page">Kraftfahrzeugmechatroniker/in (Vehicle Mechatronics Technician)</span></nav>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">/</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">/</span> <a href="/jobs-in-germany/skilled-trades/">Skilled trades (Handwerk)</a> <span aria-hidden="true">/</span> <span aria-current="page">Kraftfahrzeugmechatroniker/in (Vehicle Mechatronics Technician)</span></nav>
 
 > Services and repairs vehicles. A Handwerk trade sitting directly in the path of the electric transition, where a single add-on qualification now divides the workforce.
 

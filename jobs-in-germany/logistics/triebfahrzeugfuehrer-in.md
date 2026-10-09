@@ -4,7 +4,7 @@ title: "Triebfahrzeugführer/in (Train Driver)"
 
 <div class="jig-page"></div>
 
-<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/logistics/">Logistics</a> <span aria-hidden="true">›</span> <span aria-current="page">Triebfahrzeugführer/in (Train Driver)</span></nav>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">/</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">/</span> <a href="/jobs-in-germany/logistics/">Logistics</a> <span aria-hidden="true">/</span> <span aria-current="page">Triebfahrzeugführer/in (Train Driver)</span></nav>
 
 > The rail counterpart to [Berufskraftfahrer/in](/jobs-in-germany/logistics/berufskraftfahrer-in/), and structurally the same story: **a free title, a tightly regulated licence.** What makes it worth its own file is the entry route — a severe shortage has made **Quereinstieg** the normal way in, with a retraining of under a year, usually paid for by the employer.
 

@@ -4,7 +4,7 @@ title: "Minijob and geringfügige Beschäftigung"
 
 <div class="jig-page"></div>
 
-<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/reference/">Reference</a> <span aria-hidden="true">›</span> <span aria-current="page">Minijob and geringfügige Beschäftigung</span></nav>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">/</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">/</span> <a href="/jobs-in-germany/reference/">Reference</a> <span aria-hidden="true">/</span> <span aria-current="page">Minijob and geringfügige Beschäftigung</span></nav>
 
 A large share of German employment is not a job in the sense the rest of this repo describes. It is **geringfügige Beschäftigung** — legally employment, with a contract, a minimum wage and holiday entitlement, but deliberately placed outside most of the social insurance system.
 

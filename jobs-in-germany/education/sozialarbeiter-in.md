@@ -4,7 +4,7 @@ title: "Sozialarbeiter/in — Sozialpädagoge/in (Social Worker)"
 
 <div class="jig-page"></div>
 
-<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/education/">Education</a> <span aria-hidden="true">›</span> <span aria-current="page">Sozialarbeiter/in — Sozialpädagoge/in (Social Worker)</span></nav>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">/</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">/</span> <a href="/jobs-in-germany/education/">Education</a> <span aria-hidden="true">/</span> <span aria-current="page">Sozialarbeiter/in — Sozialpädagoge/in (Social Worker)</span></nav>
 
 > A Bachelor that is not enough on its own. The degree qualifies you; the **staatliche Anerkennung** — a separate act by the Bundesland — is what lets you use the title and hold the posts that carry statutory powers. It pairs with [Erzieher/in](/jobs-in-germany/education/erzieher-in/), which has the same two-stage structure one qualification level down.
 

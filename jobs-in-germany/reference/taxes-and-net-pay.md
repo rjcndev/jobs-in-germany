@@ -4,7 +4,7 @@ title: "Tax and what actually reaches your account"
 
 <div class="jig-page"></div>
 
-<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/reference/">Reference</a> <span aria-hidden="true">›</span> <span aria-current="page">Tax and what actually reaches your account</span></nav>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">/</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">/</span> <a href="/jobs-in-germany/reference/">Reference</a> <span aria-hidden="true">/</span> <span aria-current="page">Tax and what actually reaches your account</span></nav>
 
 Every figure in this repo is **gross**. This explains what comes off it, and why comparing gross salaries across professions — including in [pay.md](/jobs-in-germany/reference/pay/) — overstates the differences between them.
 

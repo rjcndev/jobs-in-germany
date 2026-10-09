@@ -4,7 +4,7 @@ title: "Fischwirt/in (Fisheries and Aquaculture Worker)"
 
 <div class="jig-page"></div>
 
-<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/green/">Grüne Berufe — agriculture, forestry and horticulture</a> <span aria-hidden="true">›</span> <span aria-current="page">Fischwirt/in (Fisheries and Aquaculture Worker)</span></nav>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">/</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">/</span> <a href="/jobs-in-germany/green/">Grüne Berufe — agriculture, forestry and horticulture</a> <span aria-hidden="true">/</span> <span aria-current="page">Fischwirt/in (Fisheries and Aquaculture Worker)</span></nav>
 
 > The smallest occupation in this repo, and split into two halves moving in opposite directions: **aquaculture**, which is short of qualified people, and **coastal fishing**, which is being ended by quota. Also the only green profession here that requires **maritime certification** on top of the qualification.
 

@@ -4,7 +4,7 @@ title: "Versorgungswerke — the pension system for the Kammerberufe"
 
 <div class="jig-page"></div>
 
-<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/reference/">Reference</a> <span aria-hidden="true">›</span> <span aria-current="page">Versorgungswerke — the pension system for the Kammerberufe</span></nav>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">/</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">/</span> <a href="/jobs-in-germany/reference/">Reference</a> <span aria-hidden="true">/</span> <span aria-current="page">Versorgungswerke — the pension system for the Kammerberufe</span></nav>
 
 Everyone in this repo pays into the **Deutsche Rentenversicherung** except one group, and that group contains several of its best-paid professions. Members of the **Kammerberufe** — doctors, dentists, vets, pharmacists, lawyers, notaries, architects, tax advisers, psychotherapists — are generally **exempt from the statutory pension and belong to their profession's own Versorgungswerk instead.**
 

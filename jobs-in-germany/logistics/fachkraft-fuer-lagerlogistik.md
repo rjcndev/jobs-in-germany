@@ -4,7 +4,7 @@ title: "Fachkraft für Lagerlogistik (Warehouse Logistics Specialist)"
 
 <div class="jig-page"></div>
 
-<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/logistics/">Logistics</a> <span aria-hidden="true">›</span> <span aria-current="page">Fachkraft für Lagerlogistik (Warehouse Logistics Specialist)</span></nav>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">/</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">/</span> <a href="/jobs-in-germany/logistics/">Logistics</a> <span aria-hidden="true">/</span> <span aria-current="page">Fachkraft für Lagerlogistik (Warehouse Logistics Specialist)</span></nav>
 
 > Runs warehouse operations: goods receipt, storage, picking, dispatch and the paperwork that has to match the pallets. The accessible entry point into logistics.
 

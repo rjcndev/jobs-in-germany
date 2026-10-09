@@ -4,7 +4,7 @@ title: "Steuerfachangestellte/r (Tax Clerk)"
 
 <div class="jig-page"></div>
 
-<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/commercial/">Commercial</a> <span aria-hidden="true">›</span> <span aria-current="page">Steuerfachangestellte/r (Tax Clerk)</span></nav>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">/</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">/</span> <a href="/jobs-in-germany/commercial/">Commercial</a> <span aria-hidden="true">/</span> <span aria-current="page">Steuerfachangestellte/r (Tax Clerk)</span></nav>
 
 > Prepares bookkeeping, payroll and tax returns in a Steuerkanzlei. Unregulated itself — but it sits directly beneath one of Germany's most tightly protected professions, and that structure defines the whole career.
 

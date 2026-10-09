@@ -4,7 +4,7 @@ title: "Pilot/in — Verkehrsflugzeugführer/in (Airline Pilot)"
 
 <div class="jig-page"></div>
 
-<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/logistics/">Logistics</a> <span aria-hidden="true">›</span> <span aria-current="page">Pilot/in — Verkehrsflugzeugführer/in (Airline Pilot)</span></nav>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">/</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">/</span> <a href="/jobs-in-germany/logistics/">Logistics</a> <span aria-hidden="true">/</span> <span aria-current="page">Pilot/in — Verkehrsflugzeugführer/in (Airline Pilot)</span></nav>
 
 > The extreme case of a theme that runs through this repo: **what it costs to be allowed to do the work.** Germany's other qualifications are paid (Ausbildung), fee-free (university) or a few hundred euro ([occupational certificates](/jobs-in-germany/reference/occupational-certificates/)). An airline licence costs a six-figure sum, and you generally pay it before you have a job.
 

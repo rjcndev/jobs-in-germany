@@ -4,7 +4,7 @@ title: "Grüne Berufe — agriculture, forestry and horticulture"
 
 <div class="jig-page"></div>
 
-<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <span aria-current="page">Grüne Berufe — agriculture, forestry and horticulture</span></nav>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">/</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">/</span> <span aria-current="page">Grüne Berufe — agriculture, forestry and horticulture</span></nav>
 
 Fourteen recognised occupations covering farming, forestry, horticulture, viticulture, livestock and fisheries. They sit outside both systems the rest of this repo describes.
 

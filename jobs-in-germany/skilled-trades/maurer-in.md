@@ -4,7 +4,7 @@ title: "Maurer/in (Bricklayer / Mason)"
 
 <div class="jig-page"></div>
 
-<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/skilled-trades/">Skilled trades (Handwerk)</a> <span aria-hidden="true">›</span> <span aria-current="page">Maurer/in (Bricklayer / Mason)</span></nav>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">/</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">/</span> <a href="/jobs-in-germany/skilled-trades/">Skilled trades (Handwerk)</a> <span aria-hidden="true">/</span> <span aria-current="page">Maurer/in (Bricklayer / Mason)</span></nav>
 
 > The core trade of the **Bauhauptgewerbe**, and the standard entry point into German construction — including for people arriving without a qualification at all. Read [The Bauhauptgewerbe](/jobs-in-germany/reference/bauhauptgewerbe/) first: holiday, minimum wage, winter and the identity of your employer all work differently in construction, and that file carries the load for every trade here.
 

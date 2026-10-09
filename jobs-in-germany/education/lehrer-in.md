@@ -4,7 +4,7 @@ title: "Lehrer/in (Teacher)"
 
 <div class="jig-page"></div>
 
-<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/education/">Education</a> <span aria-hidden="true">›</span> <span aria-current="page">Lehrer/in (Teacher)</span></nav>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">/</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">/</span> <a href="/jobs-in-germany/education/">Education</a> <span aria-hidden="true">/</span> <span aria-current="page">Lehrer/in (Teacher)</span></nav>
 
 > Teaches at a state or private school. The most state-fragmented profession in this repo, and one where **your passport, not your qualification, may decide your pay for life.**
 

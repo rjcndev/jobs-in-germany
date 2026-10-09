@@ -4,7 +4,7 @@ title: "Logopäde/in und Ergotherapeut/in (Speech and Occupational Therapy)"
 
 <div class="jig-page"></div>
 
-<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/healthcare/">Healthcare</a> <span aria-hidden="true">›</span> <span aria-current="page">Logopäde/in und Ergotherapeut/in (Speech and Occupational Therapy)</span></nav>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">/</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">/</span> <a href="/jobs-in-germany/healthcare/">Healthcare</a> <span aria-hidden="true">/</span> <span aria-current="page">Logopäde/in und Ergotherapeut/in (Speech and Occupational Therapy)</span></nav>
 
 > Two regulated professions written as one file, because their structural story is identical and it is the same one [Physiotherapie](/jobs-in-germany/healthcare/physiotherapeut-in/) tells: a state licence, a school-based training that used to charge you for it, pay that does not match the responsibility, and an academisation that has been announced for years and not delivered. [Hebamme](/jobs-in-germany/healthcare/hebamme/) is what it looks like when it finally is.
 

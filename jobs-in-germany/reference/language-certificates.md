@@ -4,7 +4,7 @@ title: "Language certificates — which paper, for which authority"
 
 <div class="jig-page"></div>
 
-<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/reference/">Reference</a> <span aria-hidden="true">›</span> <span aria-current="page">Language certificates — which paper, for which authority</span></nav>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">/</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">/</span> <a href="/jobs-in-germany/reference/">Reference</a> <span aria-hidden="true">/</span> <span aria-current="page">Language certificates — which paper, for which authority</span></nav>
 
 [Language requirements](/jobs-in-germany/reference/language-requirements/) says what level each profession needs. This file says **what document proves it, who accepts it, and what it costs** — and disentangles the two exams that are routinely confused with each other and with everything else.
 

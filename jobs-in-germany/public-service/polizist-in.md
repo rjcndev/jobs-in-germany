@@ -4,7 +4,7 @@ title: "Polizist/in (Police Officer)"
 
 <div class="jig-page"></div>
 
-<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/public-service/">Public service (öffentlicher Dienst) — the Beamten careers</a> <span aria-hidden="true">›</span> <span aria-current="page">Polizist/in (Police Officer)</span></nav>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">/</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">/</span> <a href="/jobs-in-germany/public-service/">Public service (öffentlicher Dienst) — the Beamten careers</a> <span aria-hidden="true">/</span> <span aria-current="page">Polizist/in (Police Officer)</span></nav>
 
 > Sixteen state forces plus two federal ones, each recruiting separately. A career you enter by being paid to take a degree — if you clear the citizenship, medical and fitness gates.
 

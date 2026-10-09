@@ -4,7 +4,7 @@ title: "Dachdecker/in (Roofer)"
 
 <div class="jig-page"></div>
 
-<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/skilled-trades/">Skilled trades (Handwerk)</a> <span aria-hidden="true">›</span> <span aria-current="page">Dachdecker/in (Roofer)</span></nav>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">/</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">/</span> <a href="/jobs-in-germany/skilled-trades/">Skilled trades (Handwerk)</a> <span aria-hidden="true">/</span> <span aria-current="page">Dachdecker/in (Roofer)</span></nav>
 
 > An **Anlage A** trade sitting on the same **Energiewende** seam as [SHK](/jobs-in-germany/skilled-trades/anlagenmechaniker-in-shk/) — photovoltaic mounting and roof insulation are now a large share of the work. Also the clearest case in this repo of **fall-protection law as the job**, and of employment that the weather genuinely controls.
 

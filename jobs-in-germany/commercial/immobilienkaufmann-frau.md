@@ -4,7 +4,7 @@ title: "Immobilienkaufmann/-frau (Real Estate Manager / Agent)"
 
 <div class="jig-page"></div>
 
-<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/commercial/">Commercial</a> <span aria-hidden="true">›</span> <span aria-current="page">Immobilienkaufmann/-frau (Real Estate Manager / Agent)</span></nav>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">/</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">/</span> <a href="/jobs-in-germany/commercial/">Commercial</a> <span aria-hidden="true">/</span> <span aria-current="page">Immobilienkaufmann/-frau (Real Estate Manager / Agent)</span></nav>
 
 > Another **activity-gated** occupation, like [Bankkaufmann](/jobs-in-germany/commercial/bankkaufmann-frau/): the title is free, but brokering property, developing it or **managing residential property for others** all require a **§34c GewO** permit — with a continuing training obligation attached. And unlike the BaFin case, the permit belongs to the **business**, not to you.
 

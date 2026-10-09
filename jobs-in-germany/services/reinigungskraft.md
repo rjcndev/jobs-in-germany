@@ -4,7 +4,7 @@ title: "Reinigungskraft (Cleaner — commercial, no qualification)"
 
 <div class="jig-page"></div>
 
-<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/services/">Services and other sectors</a> <span aria-hidden="true">›</span> <span aria-current="page">Reinigungskraft (Cleaner — commercial, no qualification)</span></nav>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">/</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">/</span> <a href="/jobs-in-germany/services/">Services and other sectors</a> <span aria-hidden="true">/</span> <span aria-current="page">Reinigungskraft (Cleaner — commercial, no qualification)</span></nav>
 
 > Most of the cleaning sector by headcount, and one of the most common first jobs for people newly arrived in Germany. **There is no qualification, so there is no recognition and no equivalence step** — which means this file is about something else: employment status, what you are legally owed, and how to tell whether you are getting it.
 

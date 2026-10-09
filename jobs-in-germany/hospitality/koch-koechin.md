@@ -4,7 +4,7 @@ title: "Koch / Köchin (Chef / Cook)"
 
 <div class="jig-page"></div>
 
-<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/hospitality/">Hospitality (Gastgewerbe)</a> <span aria-hidden="true">›</span> <span aria-current="page">Koch / Köchin (Chef / Cook)</span></nav>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">/</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">/</span> <a href="/jobs-in-germany/hospitality/">Hospitality (Gastgewerbe)</a> <span aria-hidden="true">/</span> <span aria-current="page">Koch / Köchin (Chef / Cook)</span></nav>
 
 > Cooks professionally. Unregulated, chronically short-staffed, and one of the few German occupations where a foreign candidate can start work immediately — but where the visa is the hard part precisely because the pay is low.
 
