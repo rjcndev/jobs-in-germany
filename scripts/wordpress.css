@@ -99,7 +99,7 @@
   --jig-radius: 10px;
   --jig-shade: var(--jig-shadow, 26, 32, 44);  /* rgb triple for shadows */
   color: var(--jig-text);
-  font-size: 1.0625rem;
+  font-size: 1.1875rem;
   line-height: 1.7;
 }
 
@@ -112,7 +112,7 @@
 
 /* Breadcrumbs */
 .entry-content .jig-crumbs {
-  font-size: 0.875rem;
+  font-size: 0.9375rem;
   color: var(--jig-muted);
   margin-bottom: 1.5rem;
 }
@@ -138,14 +138,14 @@ body:has(.entry-content > .jig-page) .kadence-breadcrumbs { display: none; }
 
 /* Headings */
 .entry-content:has(> .jig-page) h2 {
-  font-size: 1.6rem;
+  font-size: 1.75rem;
   color: var(--jig-ink);
   margin-top: 2.75rem;
   padding-top: 1.25rem;
   border-top: 1px solid var(--jig-line);
 }
 .entry-content:has(> .jig-page) h3 {
-  font-size: 1.2rem;
+  font-size: 1.3rem;
   color: var(--jig-ink);
   margin-top: 2rem;
 }
@@ -164,7 +164,7 @@ body:has(.entry-content > .jig-page) .kadence-breadcrumbs { display: none; }
 }
 .entry-content .jig-page ~ .jig-crumbs + blockquote,
 .entry-content .jig-page + blockquote {
-  font-size: 1.15rem;
+  font-size: 1.25rem;
   line-height: 1.6;
 }
 .entry-content:has(> .jig-page) blockquote p:last-child { margin-bottom: 0; }
@@ -176,12 +176,12 @@ body:has(.entry-content > .jig-page) .kadence-breadcrumbs { display: none; }
 .entry-content:has(> .jig-page) table {
   display: block;
   width: fit-content;
-  max-width: 100%;
+  max-width: min(100%, 48rem);  /* the text column, or the screen if narrower */
   /* line up with the text column, which is centred at up to 48rem */
   margin-left: max(0px, calc((100% - 48rem) / 2));
   margin-right: auto;
   overflow-x: auto;
-  font-size: 0.875rem;
+  font-size: 0.9375rem;
   line-height: 1.5;
   margin-bottom: 1.75rem;
   border: 1px solid var(--jig-line);
@@ -224,7 +224,7 @@ body:has(.entry-content > .jig-page) .kadence-breadcrumbs { display: none; }
 .entry-content .jig-facts + table td:first-child {
   width: 34%;
   color: var(--jig-muted);
-  font-size: 0.8125rem;
+  font-size: 0.875rem;
   text-transform: uppercase;
   letter-spacing: 0.04em;
 }
@@ -265,7 +265,7 @@ body:has(.entry-content > .jig-page) .kadence-breadcrumbs { display: none; }
 .entry-content .jig-cards + ul span {
   display: block;
   margin-top: 0.35rem;
-  font-size: 0.875rem;
+  font-size: 0.9375rem;
   line-height: 1.5;
   color: var(--jig-muted);
 }
@@ -280,7 +280,7 @@ body:has(.entry-content > .jig-page) .kadence-breadcrumbs { display: none; }
 
 @media (max-width: 600px) {
   .jig-theme-toggle { width: 2.5rem; height: 2.5rem; }
-  .entry-content:has(> .jig-page) { font-size: 1rem; }
+  .entry-content:has(> .jig-page) { font-size: 1.0625rem; }
   .entry-content .jig-facts + table td:first-child { width: 40%; }
-  .entry-content:has(> .jig-page) h2 { font-size: 1.35rem; }
+  .entry-content:has(> .jig-page) h2 { font-size: 1.45rem; }
 }
