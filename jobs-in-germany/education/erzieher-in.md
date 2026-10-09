@@ -4,7 +4,7 @@ title: "Erzieher/in (Early Years & Social Education Practitioner)"
 
 <div class="jig-page"></div>
 
-<p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/education/">Education</a></p>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/education/">Education</a> <span aria-hidden="true">›</span> <span aria-current="page">Erzieher/in (Early Years &amp; Social Education Practitioner)</span></nav>
 
 > Works with children and young people in Kitas, after-school care, youth work and residential care. Regulated — but by **sixteen state laws instead of one federal one**, which makes it the most fragmented profession in this repo.
 
@@ -88,3 +88,5 @@ Acute and legally driven. Two statutory entitlements create demand the system ca
 - SGB VIII (Kinder- und Jugendhilfe) — https://www.gesetze-im-internet.de/sgb_8/ , accessed 2026-09
 - TVöD SuE pay tables — https://oeffentlicher-dienst.info , accessed 2026-09
 - BERUFENET — https://berufenet.arbeitsagentur.de , accessed 2026-09
+
+<p class="jig-back"><a href="/jobs-in-germany/education/">← Back to Education</a></p>

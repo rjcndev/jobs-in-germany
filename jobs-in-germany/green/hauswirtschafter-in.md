@@ -4,7 +4,7 @@ title: "Hauswirtschafter/in (Home Economics / Institutional Housekeeping)"
 
 <div class="jig-page"></div>
 
-<p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/green/">Grüne Berufe — agriculture, forestry and horticulture</a></p>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/green/">Grüne Berufe — agriculture, forestry and horticulture</a> <span aria-hidden="true">›</span> <span aria-current="page">Hauswirtschafter/in (Home Economics / Institutional Housekeeping)</span></nav>
 
 > Formally one of the **Grüne Berufe**, and almost nobody who holds it works on a farm. In practice it is the qualified profession behind catering, hygiene and daily living in **care homes, schools, Kitas and institutions** — which puts it directly above the unqualified [cleaning tiers](/jobs-in-germany/services/), and makes it the most useful upward route out of them.
 
@@ -111,3 +111,5 @@ The pay difference between unqualified and qualified in the same building is sev
 - Ganztagsförderungsgesetz — https://www.bmfsfj.de , accessed 2026-09
 - Deutsche Gesellschaft für Hauswirtschaft — https://www.dghev.de , accessed 2026-09
 - TVöD VKA pay table — https://oeffentlicher-dienst.info , verified 2026-09
+
+<p class="jig-back"><a href="/jobs-in-germany/green/">← Back to Grüne Berufe — agriculture, forestry and horticulture</a></p>

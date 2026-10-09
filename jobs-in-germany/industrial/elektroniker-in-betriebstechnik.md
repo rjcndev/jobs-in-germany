@@ -4,7 +4,7 @@ title: "Elektroniker/in für Betriebstechnik (Industrial Electrician)"
 
 <div class="jig-page"></div>
 
-<p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/industrial/">Industrial trades (Industrieberufe)</a></p>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/industrial/">Industrial trades (Industrieberufe)</a> <span aria-hidden="true">›</span> <span aria-current="page">Elektroniker/in für Betriebstechnik (Industrial Electrician)</span></nav>
 
 > Keeps a factory's electrical systems running. Same trade name as the [Handwerk electrician](/jobs-in-germany/skilled-trades/elektroniker-in-energie-und-gebaeudetechnik/), different chamber, different tariff, better pay — and no right to open a business.
 
@@ -82,3 +82,5 @@ High and broadening. Automation, semiconductor and battery plants, grid and subs
 - DGUV Vorschrift 3 — https://www.dguv.de , accessed 2026-09
 - IG Metall — https://www.igmetall.de , accessed 2026-09
 - BERUFENET — https://berufenet.arbeitsagentur.de , accessed 2026-09
+
+<p class="jig-back"><a href="/jobs-in-germany/industrial/">← Back to Industrial trades (Industrieberufe)</a></p>

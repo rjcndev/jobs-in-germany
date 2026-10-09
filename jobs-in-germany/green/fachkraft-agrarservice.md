@@ -4,7 +4,7 @@ title: "Fachkraft Agrarservice (Agricultural Contracting Technician)"
 
 <div class="jig-page"></div>
 
-<p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/green/">Grüne Berufe — agriculture, forestry and horticulture</a></p>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/green/">Grüne Berufe — agriculture, forestry and horticulture</a> <span aria-hidden="true">›</span> <span aria-current="page">Fachkraft Agrarservice (Agricultural Contracting Technician)</span></nav>
 
 > The contractor side of agriculture, and the part nobody outside the sector sees. Farms increasingly do not own the machinery that works their land — a **Lohnunternehmen** does, and sends operators. It pays better than farm employment, it is more technical, and it is one of the least-known qualified occupations in this repo.
 
@@ -113,3 +113,5 @@ The shortage of qualified operators is genuine, and contractors compete for them
 - Düngeverordnung — https://www.gesetze-im-internet.de , accessed 2026-09
 - SVLFG — https://www.svlfg.de , accessed 2026-09
 - BERUFENET — https://berufenet.arbeitsagentur.de , accessed 2026-09
+
+<p class="jig-back"><a href="/jobs-in-germany/green/">← Back to Grüne Berufe — agriculture, forestry and horticulture</a></p>

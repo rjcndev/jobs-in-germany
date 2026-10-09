@@ -4,7 +4,7 @@ title: "Healthcare"
 
 <div class="jig-page"></div>
 
-<p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a></p>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <span aria-current="page">Healthcare</span></nav>
 
 The most heavily regulated sector in this repo. **Almost** every profession here needs a **state licence** before you may work at all — recognition is not optional, and the pattern is near-identical across them, so it is collected once here.
 
@@ -61,3 +61,5 @@ Public-sector healthcare pay is **tariff-verified** throughout this repo — TV�
 - [Psychotherapeut/in (Psychotherapist)](/jobs-in-germany/healthcare/psychotherapeut-in/) <span>Reformed in 2020 into a direct-study route ending in Approbation at the end of a Master's, replacing a post-graduate training that was among the worst-paid in German professional life.</span>
 - [Logopäde/in und Ergotherapeut/in (Speech and Occupational Therapy)](/jobs-in-germany/healthcare/therapieberufe-logopaedie-ergotherapie/) <span>Two regulated professions written as one file, because their structural story is identical and it is the same one Physiotherapie tells: a state licence, a school-based training that used to charge you for it, pay that does not match the responsibility, and an academisation that has been announced for years and not delivered.</span>
 - [Zahnarzt / Zahnärztin (Dentist)](/jobs-in-germany/healthcare/zahnarzt-zahnaerztin/) <span>Approbation, like a doctor — but with two things medicine does not have: no specialist training is required to practise generally, and a large private economy sitting on top of a deliberately basic statutory entitlement. The second is what makes dentistry financially unlike the rest of healthcare in this repo.</span>
+
+<p class="jig-back"><a href="/jobs-in-germany/">← Back to Jobs in Germany</a></p>

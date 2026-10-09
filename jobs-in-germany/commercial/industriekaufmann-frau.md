@@ -4,7 +4,7 @@ title: "Industriekaufmann/-frau (Industrial Clerk)"
 
 <div class="jig-page"></div>
 
-<p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/commercial/">Commercial</a></p>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/commercial/">Commercial</a> <span aria-hidden="true">›</span> <span aria-current="page">Industriekaufmann/-frau (Industrial Clerk)</span></nav>
 
 > The commercial backbone of German manufacturing: purchasing, production planning, sales, controlling and HR inside industrial firms. Better paid than general office work for the same reason everything in German industry is — the tariff.
 
@@ -73,3 +73,5 @@ Solid but not a shortage occupation in the way nursing or driving are. Worth bei
 - IHK FOSA — https://www.ihk-fosa.de , accessed 2026-09
 - IG Metall tariff information — https://www.igmetall.de , accessed 2026-09
 - anabin (ZAB) — https://anabin.kmk.org , accessed 2026-09
+
+<p class="jig-back"><a href="/jobs-in-germany/commercial/">← Back to Commercial</a></p>

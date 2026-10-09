@@ -4,7 +4,7 @@ title: "Steuerfachangestellte/r (Tax Clerk)"
 
 <div class="jig-page"></div>
 
-<p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/commercial/">Commercial</a></p>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/commercial/">Commercial</a> <span aria-hidden="true">›</span> <span aria-current="page">Steuerfachangestellte/r (Tax Clerk)</span></nav>
 
 > Prepares bookkeeping, payroll and tax returns in a Steuerkanzlei. Unregulated itself — but it sits directly beneath one of Germany's most tightly protected professions, and that structure defines the whole career.
 
@@ -78,3 +78,5 @@ Pay has risen sharply because the shortage is severe: the profession is ageing, 
 - Steuerberatungsgesetz (StBerG) — https://www.gesetze-im-internet.de/stberg/ , accessed 2026-09
 - Bundessteuerberaterkammer — https://www.bstbk.de , accessed 2026-09
 - BERUFENET — https://berufenet.arbeitsagentur.de , accessed 2026-09
+
+<p class="jig-back"><a href="/jobs-in-germany/commercial/">← Back to Commercial</a></p>

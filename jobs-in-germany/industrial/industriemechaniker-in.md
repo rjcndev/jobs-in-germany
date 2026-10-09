@@ -4,7 +4,7 @@ title: "Industriemechaniker/in (Industrial Mechanic)"
 
 <div class="jig-page"></div>
 
-<p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/industrial/">Industrial trades (Industrieberufe)</a></p>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/industrial/">Industrial trades (Industrieberufe)</a> <span aria-hidden="true">›</span> <span aria-current="page">Industriemechaniker/in (Industrial Mechanic)</span></nav>
 
 > Builds, assembles and maintains machines and production plant. One of the largest industrial Ausbildungen in Germany and the mechanical counterpart to [Elektroniker für Betriebstechnik](/jobs-in-germany/industrial/elektroniker-in-betriebstechnik/).
 
@@ -98,3 +98,5 @@ The caveat is the same one the [Industriekaufmann](/jobs-in-germany/commercial/i
 - IG Metall — https://www.igmetall.de , accessed 2026-09
 - IHK FOSA — https://www.ihk-fosa.de , accessed 2026-09
 - BERUFENET — https://berufenet.arbeitsagentur.de , accessed 2026-09
+
+<p class="jig-back"><a href="/jobs-in-germany/industrial/">← Back to Industrial trades (Industrieberufe)</a></p>

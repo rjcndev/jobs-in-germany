@@ -4,7 +4,7 @@ title: "Fachkraft für Lagerlogistik (Warehouse Logistics Specialist)"
 
 <div class="jig-page"></div>
 
-<p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/logistics/">Logistics</a></p>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/logistics/">Logistics</a> <span aria-hidden="true">›</span> <span aria-current="page">Fachkraft für Lagerlogistik (Warehouse Logistics Specialist)</span></nav>
 
 > Runs warehouse operations: goods receipt, storage, picking, dispatch and the paperwork that has to match the pallets. The accessible entry point into logistics.
 
@@ -77,3 +77,5 @@ Consistently high, driven by e-commerce and contract logistics. Also the sector 
 - DGUV Vorschrift 68 (Flurförderzeuge) — https://www.dguv.de , accessed 2026-09
 - Arbeitnehmerüberlassungsgesetz — https://www.gesetze-im-internet.de/a_g/ , accessed 2026-09
 - IHK FOSA — https://www.ihk-fosa.de , accessed 2026-09
+
+<p class="jig-back"><a href="/jobs-in-germany/logistics/">← Back to Logistics</a></p>

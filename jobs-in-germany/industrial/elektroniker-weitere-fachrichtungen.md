@@ -4,7 +4,7 @@ title: "Elektroniker — the remaining Fachrichtungen, and the tier below"
 
 <div class="jig-page"></div>
 
-<p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/industrial/">Industrial trades (Industrieberufe)</a></p>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/industrial/">Industrial trades (Industrieberufe)</a> <span aria-hidden="true">›</span> <span aria-current="page">Elektroniker — the remaining Fachrichtungen, and the tier below</span></nav>
 
 > The repo already has the two electrical anchors: [Elektroniker für Betriebstechnik](/jobs-in-germany/industrial/elektroniker-in-betriebstechnik/) on the industrial side and [Elektroniker Energie- und Gebäudetechnik](/jobs-in-germany/skilled-trades/elektroniker-in-energie-und-gebaeudetechnik/) on the Handwerk side. This file covers what is left: the **automation** specialisation, the **Gebäudesystemintegration** qualification created in 2021, and **Industrieelektriker**, the two-year tier beneath all of them.
 
@@ -117,3 +117,5 @@ The honest risk, as in [Betriebstechnik](/jobs-in-germany/industrial/elektronike
 - DGUV V3; VDE 1000-10 — https://www.dguv.de , accessed 2026-09
 - ZVEH, Elektrohandwerk — https://www.zveh.de , accessed 2026-09
 - BERUFENET — https://berufenet.arbeitsagentur.de , accessed 2026-09
+
+<p class="jig-back"><a href="/jobs-in-germany/industrial/">← Back to Industrial trades (Industrieberufe)</a></p>

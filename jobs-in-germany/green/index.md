@@ -4,7 +4,7 @@ title: "Grüne Berufe — agriculture, forestry and horticulture"
 
 <div class="jig-page"></div>
 
-<p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a></p>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <span aria-current="page">Grüne Berufe — agriculture, forestry and horticulture</span></nav>
 
 Fourteen recognised occupations covering farming, forestry, horticulture, viticulture, livestock and fisheries. They sit outside both systems the rest of this repo describes.
 
@@ -48,3 +48,5 @@ Identify the competent body for your target Bundesland before anything else.
 - [Pferdewirt/in (Equine Professional)](/jobs-in-germany/green/pferdewirt-in/) <span>This is the file where the repo's honesty convention matters most.</span>
 - [Tierwirt/in (Livestock Farmer)](/jobs-in-germany/green/tierwirt-in/) <span>Five Fachrichtungen under one qualification, and they range from industrial-scale dairy and poultry units to Schäferei — a subsidised, culturally protected occupation with a few hundred full-time practitioners, and one of the genuine edge cases in this repo.</span>
 - [Winzer/in (Winegrower)](/jobs-in-germany/green/winzer-in/) <span>Viticulture and cellar work in one qualification, concentrated in a handful of Bundesländer, and run overwhelmingly on family succession.</span>
+
+<p class="jig-back"><a href="/jobs-in-germany/">← Back to Jobs in Germany</a></p>

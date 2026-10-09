@@ -4,7 +4,7 @@ title: "Notfallsanitäter/in (Paramedic)"
 
 <div class="jig-page"></div>
 
-<p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/healthcare/">Healthcare</a></p>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/healthcare/">Healthcare</a> <span aria-hidden="true">›</span> <span aria-current="page">Notfallsanitäter/in (Paramedic)</span></nav>
 
 > The highest non-physician qualification in German emergency medicine. Since 2021 it carries something rare in this repo: a statutory licence to perform invasive medical measures independently.
 
@@ -101,3 +101,5 @@ Demand is high and rising — call volumes have grown for years. The harder prob
 - TVöD Entgeltordnung, Rettungsdienst (EG N / Anlage D.14 TVöD-V) — verified 2026-09
 - TVöD-P and TVöD VKA pay tables — https://oeffentlicher-dienst.info , verified 2026-09
 - BERUFENET — https://berufenet.arbeitsagentur.de , accessed 2026-09
+
+<p class="jig-back"><a href="/jobs-in-germany/healthcare/">← Back to Healthcare</a></p>

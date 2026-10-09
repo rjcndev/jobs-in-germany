@@ -4,7 +4,7 @@ title: "Hebamme / Entbindungspfleger (Midwife)"
 
 <div class="jig-page"></div>
 
-<p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/healthcare/">Healthcare</a></p>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/healthcare/">Healthcare</a> <span aria-hidden="true">›</span> <span aria-current="page">Hebamme / Entbindungspfleger (Midwife)</span></nav>
 
 > The cleanest example in this repo of a profession changing its entry route wholesale: **in 2020 the Ausbildung was abolished outright** and replaced by a dual Bachelor, under EU pressure. Also the only profession here whose presence at a procedure is legally mandatory — a doctor may not conduct a birth without one.
 
@@ -107,3 +107,5 @@ Counterweights worth knowing: the work is shift-based, emotionally heavy, and ca
 - Directive 2005/36/EC, Annex V.5 — https://eur-lex.europa.eu , accessed 2026-09
 - Deutscher Hebammenverband — https://www.hebammenverband.de , accessed 2026-09
 - TVöD VKA pay table — https://oeffentlicher-dienst.info , verified 2026-09
+
+<p class="jig-back"><a href="/jobs-in-germany/healthcare/">← Back to Healthcare</a></p>

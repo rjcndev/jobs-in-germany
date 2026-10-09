@@ -4,7 +4,7 @@ title: "Steuerbeamte/r (Tax Official)"
 
 <div class="jig-page"></div>
 
-<p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/public-service/">Public service (öffentlicher Dienst) — the Beamten careers</a></p>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/public-service/">Public service (öffentlicher Dienst) — the Beamten careers</a> <span aria-hidden="true">›</span> <span aria-current="page">Steuerbeamte/r (Tax Official)</span></nav>
 
 > Assesses and audits taxes at a Finanzamt. The desk-based Beamten career — no fitness test, no shifts — and the one that comes with a genuine exit route into a well-paid profession.
 
@@ -105,3 +105,5 @@ Strong. A retirement wave is passing through the Finanzämter, and understaffing
 - Steuerberatungsgesetz (StBerG) §§3, 36 — https://www.gesetze-im-internet.de/stberg/ , accessed 2026-09
 - NRW Besoldung tables — https://oeffentlicher-dienst.info , verified 2026-09
 - BERUFENET — https://berufenet.arbeitsagentur.de , accessed 2026-09
+
+<p class="jig-back"><a href="/jobs-in-germany/public-service/">← Back to Public service (öffentlicher Dienst) — the Beamten careers</a></p>

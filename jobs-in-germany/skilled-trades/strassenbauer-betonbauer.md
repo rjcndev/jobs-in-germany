@@ -4,7 +4,7 @@ title: "Straßenbauer/in und Beton- und Stahlbetonbauer/in (Road Builder; Concre
 
 <div class="jig-page"></div>
 
-<p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/skilled-trades/">Skilled trades (Handwerk)</a></p>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/skilled-trades/">Skilled trades (Handwerk)</a> <span aria-hidden="true">›</span> <span aria-current="page">Straßenbauer/in und Beton- und Stahlbetonbauer/in (Road Builder; Concrete and Reinforced Concrete Worker)</span></nav>
 
 > The two trades that build infrastructure rather than buildings. Written together because they share an Ausbildung family, a tariff world and — unusually for the Handwerk — an employer profile: **municipalities and large contractors, not small Betriebe.** Demand is driven by Germany's bridge, rail and grid programmes, which is a different economy from the housing market that governs the rest of the [Bauhauptgewerbe](/jobs-in-germany/reference/bauhauptgewerbe/).
 
@@ -107,3 +107,5 @@ None of this depends on interest rates or housing demand the way the rest of the
 - BG BAU, Tiefbau and Straßenbau rules — https://www.bgbau.de , accessed 2026-09
 - SOKA-BAU — https://www.soka-bau.de , accessed 2026-09
 - TVöD VKA pay table — https://oeffentlicher-dienst.info , verified 2026-09
+
+<p class="jig-back"><a href="/jobs-in-germany/skilled-trades/">← Back to Skilled trades (Handwerk)</a></p>

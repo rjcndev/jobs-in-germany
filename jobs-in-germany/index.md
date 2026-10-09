@@ -4,6 +4,8 @@ title: "Jobs in Germany"
 
 <div class="jig-page"></div>
 
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <span aria-current="page">Jobs in Germany</span></nav>
+
 Reference profiles for working in Germany: what a profession actually involves, how you qualify for it, what it pays, and what a foreign-trained candidate has to do to be allowed to practise it.
 
 Written in English, with German terms kept in place — you will meet those terms in job ads, on authority websites, and in application forms, so translating them away is unhelpful.

@@ -4,7 +4,7 @@ title: "Versorgungswerke — the pension system for the Kammerberufe"
 
 <div class="jig-page"></div>
 
-<p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/reference/">Reference</a></p>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/reference/">Reference</a> <span aria-hidden="true">›</span> <span aria-current="page">Versorgungswerke — the pension system for the Kammerberufe</span></nav>
 
 Everyone in this repo pays into the **Deutsche Rentenversicherung** except one group, and that group contains several of its best-paid professions. Members of the **Kammerberufe** — doctors, dentists, vets, pharmacists, lawyers, notaries, architects, tax advisers, psychotherapists — are generally **exempt from the statutory pension and belong to their profession's own Versorgungswerk instead.**
 
@@ -90,3 +90,5 @@ Not every Kammerberuf has one in every Bundesland, and **Wirtschaftsprüfer** ar
 - §6, §172a SGB VI — https://www.gesetze-im-internet.de/sgb_6 , accessed 2026-09
 - Arbeitsgemeinschaft berufsständischer Versorgungseinrichtungen (ABV) — https://www.abv.de , accessed 2026-09
 - Deutsche Rentenversicherung, Befreiung von der Versicherungspflicht — https://www.deutsche-rentenversicherung.de , accessed 2026-09
+
+<p class="jig-back"><a href="/jobs-in-germany/reference/">← Back to Reference</a></p>

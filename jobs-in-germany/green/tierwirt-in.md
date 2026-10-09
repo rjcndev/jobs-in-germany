@@ -4,7 +4,7 @@ title: "Tierwirt/in (Livestock Farmer)"
 
 <div class="jig-page"></div>
 
-<p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/green/">Grüne Berufe — agriculture, forestry and horticulture</a></p>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/green/">Grüne Berufe — agriculture, forestry and horticulture</a> <span aria-hidden="true">›</span> <span aria-current="page">Tierwirt/in (Livestock Farmer)</span></nav>
 
 > Five Fachrichtungen under one qualification, and they range from industrial-scale dairy and poultry units to **Schäferei** — a subsidised, culturally protected occupation with a few hundred full-time practitioners, and one of the genuine edge cases in this repo.
 
@@ -109,3 +109,5 @@ Accommodation is often part of the package on livestock units, at statutory valu
 - BMEL, livestock statistics and Haltungsform — https://www.bmel.de , accessed 2026-09
 - Vereinigung Deutscher Landesschafzuchtverbände — accessed 2026-09
 - BERUFENET — https://berufenet.arbeitsagentur.de , accessed 2026-09
+
+<p class="jig-back"><a href="/jobs-in-germany/green/">← Back to Grüne Berufe — agriculture, forestry and horticulture</a></p>

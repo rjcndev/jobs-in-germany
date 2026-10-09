@@ -4,7 +4,7 @@ title: "ATA / OTA — Anästhesie- und Operationstechnische Assistenz (Anaesthes
 
 <div class="jig-page"></div>
 
-<p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/healthcare/">Healthcare</a></p>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/healthcare/">Healthcare</a> <span aria-hidden="true">›</span> <span aria-current="page">ATA / OTA — Anästhesie- und Operationstechnische Assistenz (Anaesthesia and Surgical Assistants)</span></nav>
 
 > **Federally regulated since 2022**, and before that not regulated at all. The clearest recent example in this repo of **regulation arriving**: a qualification that existed for two decades as an industry recommendation became a protected title with a state licence, a national curriculum and — for the first time — a recognition procedure for people trained abroad.
 
@@ -114,3 +114,5 @@ Outlook is stable: surgical volume is not falling, day surgery is expanding, and
 - Deutsche Krankenhausgesellschaft — https://www.dkgev.de , accessed 2026-09
 - TVöD VKA pay table — https://oeffentlicher-dienst.info , verified 2026-09
 - BERUFENET — https://berufenet.arbeitsagentur.de , accessed 2026-09
+
+<p class="jig-back"><a href="/jobs-in-germany/healthcare/">← Back to Healthcare</a></p>

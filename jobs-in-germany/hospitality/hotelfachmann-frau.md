@@ -4,7 +4,7 @@ title: "Hotelfachmann / Hotelfachfrau (Hotel Specialist)"
 
 <div class="jig-page"></div>
 
-<p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/hospitality/">Hospitality (Gastgewerbe)</a></p>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/hospitality/">Hospitality (Gastgewerbe)</a> <span aria-hidden="true">›</span> <span aria-current="page">Hotelfachmann / Hotelfachfrau (Hotel Specialist)</span></nav>
 
 > The generalist hotel qualification: reception, housekeeping, F&B service and administration. Broader than it sounds, and the usual stepping stone into hotel management.
 
@@ -73,3 +73,5 @@ High, particularly at reception and in housekeeping supervision. The staffing sh
 - DEHOGA Bundesverband — https://www.dehoga-bundesverband.de , accessed 2026-09
 - BERUFENET — https://berufenet.arbeitsagentur.de , accessed 2026-09
 - BeschV — https://www.gesetze-im-internet.de/beschv_2013/ , accessed 2026-09
+
+<p class="jig-back"><a href="/jobs-in-germany/hospitality/">← Back to Hospitality (Gastgewerbe)</a></p>

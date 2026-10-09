@@ -4,7 +4,7 @@ title: "Commercial"
 
 <div class="jig-page"></div>
 
-<p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a></p>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <span aria-current="page">Commercial</span></nav>
 
 Profession profiles in this category.
 
@@ -19,3 +19,5 @@ Profession profiles in this category.
 - [Rechtsanwaltsfachangestellte/r (Legal Secretary / Paralegal)](/jobs-in-germany/commercial/rechtsanwaltsfachangestellte-r/) <span>Runs a law firm's procedural machinery: deadlines, files, court filings and fee billing.</span>
 - [Steuerfachangestellte/r (Tax Clerk)](/jobs-in-germany/commercial/steuerfachangestellte-r/) <span>Prepares bookkeeping, payroll and tax returns in a Steuerkanzlei.</span>
 - [Wirtschaftsprüfer/in (Statutory Auditor)](/jobs-in-germany/commercial/wirtschaftspruefer-in/) <span>A reserved activity under the WPO — only a Wirtschaftsprüfer may sign a statutory audit opinion — behind an examination with a worse pass rate than the Steuerberater one.</span>
+
+<p class="jig-back"><a href="/jobs-in-germany/">← Back to Jobs in Germany</a></p>

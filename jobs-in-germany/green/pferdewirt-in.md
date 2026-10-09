@@ -4,7 +4,7 @@ title: "Pferdewirt/in (Equine Professional)"
 
 <div class="jig-page"></div>
 
-<p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/green/">Grüne Berufe — agriculture, forestry and horticulture</a></p>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/green/">Grüne Berufe — agriculture, forestry and horticulture</a> <span aria-hidden="true">›</span> <span aria-current="page">Pferdewirt/in (Equine Professional)</span></nav>
 
 > This is the file where the repo's honesty convention matters most. There is no shortage of people who want to work with horses, and that surplus of willing applicants is exactly why the pay is low, the hours are long and the employment-law compliance is poor. The work is real, skilled and physically dangerous. It is also one of the worst-paid qualified occupations in this collection.
 
@@ -103,3 +103,5 @@ What follows practically:
 - Deutsche Reiterliche Vereinigung (FN) — https://www.pferd-aktuell.de , accessed 2026-09
 - SVLFG, accident prevention in equine work — https://www.svlfg.de , accessed 2026-09
 - BERUFENET — https://berufenet.arbeitsagentur.de , accessed 2026-09
+
+<p class="jig-back"><a href="/jobs-in-germany/green/">← Back to Grüne Berufe — agriculture, forestry and horticulture</a></p>

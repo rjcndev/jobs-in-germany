@@ -4,7 +4,7 @@ title: "Barkeeper/in (Bartender)"
 
 <div class="jig-page"></div>
 
-<p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/hospitality/">Hospitality (Gastgewerbe)</a></p>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/hospitality/">Hospitality (Gastgewerbe)</a> <span aria-hidden="true">›</span> <span aria-current="page">Barkeeper/in (Bartender)</span></nav>
 
 > Mixing and serving drinks. Included precisely because it is **not a recognised occupation in Germany** — and that single fact changes everything about how you get in, and whether you can get a visa for it.
 
@@ -95,3 +95,5 @@ The people who do well move to where the structure is: **bar management**, F&B m
 - Arbeitszeitgesetz §6 — https://www.gesetze-im-internet.de/arbzg/ , accessed 2026-09
 - Infektionsschutzgesetz §43 — https://www.gesetze-im-internet.de/ifsg/ , accessed 2026-09
 - DEHOGA Bundesverband — https://www.dehoga-bundesverband.de , accessed 2026-09
+
+<p class="jig-back"><a href="/jobs-in-germany/hospitality/">← Back to Hospitality (Gastgewerbe)</a></p>

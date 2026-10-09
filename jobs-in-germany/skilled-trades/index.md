@@ -4,7 +4,7 @@ title: "Skilled trades (Handwerk)"
 
 <div class="jig-page"></div>
 
-<p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a></p>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <span aria-current="page">Skilled trades (Handwerk)</span></nav>
 
 Trades trained and regulated under the **Handwerksordnung (HwO)**, through the **Handwerkskammer**. The industrial counterparts — often the same work, better paid, without business rights — are in [industrial](/jobs-in-germany/industrial/).
 
@@ -69,3 +69,5 @@ All three are Anlage A, all three need the §43 IfSG Infektionsschutz-Belehrung 
 - [Straßenbauer/in und Beton- und Stahlbetonbauer/in (Road Builder; Concrete and Reinforced Concrete Worker)](/jobs-in-germany/skilled-trades/strassenbauer-betonbauer/) <span>The two trades that build infrastructure rather than buildings.</span>
 - [Tischler/in — also Schreiner/in (Joiner / Cabinetmaker)](/jobs-in-germany/skilled-trades/tischler-in/) <span>Furniture, fitted interiors, windows, doors, staircases and shopfitting.</span>
 - [Zimmerer / Zimmerin (Carpenter — structural)](/jobs-in-germany/skilled-trades/zimmerer-zimmerin/) <span>Structural timber: roofs, frames and, increasingly, whole buildings.</span>
+
+<p class="jig-back"><a href="/jobs-in-germany/">← Back to Jobs in Germany</a></p>

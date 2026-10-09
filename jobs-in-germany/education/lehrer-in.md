@@ -4,7 +4,7 @@ title: "Lehrer/in (Teacher)"
 
 <div class="jig-page"></div>
 
-<p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/education/">Education</a></p>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/education/">Education</a> <span aria-hidden="true">›</span> <span aria-current="page">Lehrer/in (Teacher)</span></nav>
 
 > Teaches at a state or private school. The most state-fragmented profession in this repo, and one where **your passport, not your qualification, may decide your pay for life.**
 
@@ -110,3 +110,5 @@ Severe and structural, but **uneven**. Acute shortage in Grundschule, Sonderpäd
 - Kultusministerkonferenz — https://www.kmk.org , accessed 2026-09
 - Anerkennung in Deutschland — https://www.anerkennung-in-deutschland.de , accessed 2026-09
 - NRW Besoldung and TV-L tables — https://oeffentlicher-dienst.info , verified 2026-09
+
+<p class="jig-back"><a href="/jobs-in-germany/education/">← Back to Education</a></p>

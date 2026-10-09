@@ -4,7 +4,7 @@ title: "Sicherheitsmitarbeiter/in (Security Officer, Door Supervisor, Night Guar
 
 <div class="jig-page"></div>
 
-<p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/security/">Private security (Bewachungsgewerbe)</a></p>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/security/">Private security (Bewachungsgewerbe)</a> <span aria-hidden="true">›</span> <span aria-current="page">Sicherheitsmitarbeiter/in (Security Officer, Door Supervisor, Night Guard)</span></nav>
 
 > The jobs most people in German private security actually do. Easy to enter, tightly gated by §34a, low-paid at the bottom and genuinely skilled at the top.
 
@@ -85,3 +85,5 @@ Aviation security is the best-paid end and has its own federal certification and
 - Bewachungsverordnung (BewachV) — https://www.gesetze-im-internet.de/bewachv_2019/ , accessed 2026-09
 - Luftsicherheitsgesetz §5 — https://www.gesetze-im-internet.de/luftsig/ , accessed 2026-09
 - BDSW — https://www.bdsw.de , accessed 2026-09
+
+<p class="jig-back"><a href="/jobs-in-germany/security/">← Back to Private security (Bewachungsgewerbe)</a></p>

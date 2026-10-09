@@ -4,7 +4,7 @@ title: "Haushaltshilfe (Domestic Cleaner / Household Help)"
 
 <div class="jig-page"></div>
 
-<p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/services/">Services and other sectors</a></p>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/services/">Services and other sectors</a> <span aria-hidden="true">›</span> <span aria-current="page">Haushaltshilfe (Domestic Cleaner / Household Help)</span></nav>
 
 > The narrowest of the three cleaning tiers and the one with a genuine legal story: **the overwhelming majority of domestic work in Germany is undeclared.** It is included here precisely because the default is Schwarzarbeit — with no accident cover, no pension credit and no sick pay for the worker — and because the legal alternative is much cheaper than almost anyone believes.
 
@@ -98,3 +98,5 @@ If you are considering this work: establish **who your employer is**, which coun
 - §35a EStG — https://www.gesetze-im-internet.de/estg/__35a.html , accessed 2026-09
 - Minijob-Zentrale, Haushaltsscheck — https://www.minijob-zentrale.de , accessed 2026-09
 - Bundesarbeitsgericht on working time in live-in care (2021) — https://www.bundesarbeitsgericht.de , accessed 2026-09
+
+<p class="jig-back"><a href="/jobs-in-germany/services/">← Back to Services and other sectors</a></p>

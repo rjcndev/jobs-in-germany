@@ -4,7 +4,7 @@ title: "Reference"
 
 <div class="jig-page"></div>
 
-<p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a></p>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <span aria-current="page">Reference</span></nav>
 
 Background material the profession profiles link to.
 
@@ -29,3 +29,5 @@ Background material the profession profiles link to.
 - [Versorgungswerke — the pension system for the Kammerberufe](/jobs-in-germany/reference/versorgungswerke/)
 - [Visa and residence routes, by profession](/jobs-in-germany/reference/visa-routes/) <span>Unregulated does not mean paperwork-free.</span>
 - [How retraining is paid for](/jobs-in-germany/reference/weiterbildung-funding/)
+
+<p class="jig-back"><a href="/jobs-in-germany/">← Back to Jobs in Germany</a></p>

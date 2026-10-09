@@ -4,7 +4,7 @@ title: "Hospitality (Gastgewerbe)"
 
 <div class="jig-page"></div>
 
-<p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a></p>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <span aria-current="page">Hospitality (Gastgewerbe)</span></nav>
 
 No hospitality occupation is regulated or title-protected. Anyone may cook or work a restaurant floor. Qualifications matter for two things only: **pay grading** and **visas**.
 
@@ -46,3 +46,5 @@ The 2-year Fachkraft qualification can be topped up to a 3-year one.
 - [Fachmann/-frau für Restaurants und Veranstaltungsgastronomie — "Kellner"](/jobs-in-germany/hospitality/fachmann-frau-restaurants-veranstaltungsgastronomie/) <span>Restaurant and event service.</span>
 - [Hotelfachmann / Hotelfachfrau (Hotel Specialist)](/jobs-in-germany/hospitality/hotelfachmann-frau/) <span>The generalist hotel qualification: reception, housekeeping, F&amp;B service and administration.</span>
 - [Koch / Köchin (Chef / Cook)](/jobs-in-germany/hospitality/koch-koechin/) <span>Cooks professionally.</span>
+
+<p class="jig-back"><a href="/jobs-in-germany/">← Back to Jobs in Germany</a></p>

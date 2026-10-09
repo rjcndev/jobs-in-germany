@@ -4,7 +4,7 @@ title: "Notar/in (Civil-Law Notary)"
 
 <div class="jig-page"></div>
 
-<p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/commercial/">Commercial</a></p>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/commercial/">Commercial</a> <span aria-hidden="true">›</span> <span aria-current="page">Notar/in (Civil-Law Notary)</span></nav>
 
 > Genuinely unlike anything else in this repo. A notary is **appointed by the state to a public office**, in a number fixed by assessed need and tied to a specific location, holds a **legal monopoly** over authenticating the transactions that matter most in German life, and charges fees set by statute with **no room to compete on price at all**.
 
@@ -124,3 +124,5 @@ Two honest qualifications. Fee income tracks **property transaction volumes and 
 - GNotKG — https://www.gesetze-im-internet.de/gnotkg , accessed 2026-09
 - ECJ C-54/08, Commission v Germany (2011) — https://curia.europa.eu , accessed 2026-09
 - Bundesnotarkammer — https://www.bnotk.de , accessed 2026-09
+
+<p class="jig-back"><a href="/jobs-in-germany/commercial/">← Back to Commercial</a></p>

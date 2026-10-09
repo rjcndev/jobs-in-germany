@@ -4,7 +4,7 @@ title: "Beamte vs. Angestellte"
 
 <div class="jig-page"></div>
 
-<p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/reference/">Reference</a></p>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/reference/">Reference</a> <span aria-hidden="true">›</span> <span aria-current="page">Beamte vs. Angestellte</span></nav>
 
 Two people can do the same public-sector job, at the same desk, and be employed under completely different legal systems with different pay, pensions, rights and restrictions. This is one of the largest structural facts in German working life, and nothing else in this repo works without it.
 
@@ -89,3 +89,5 @@ Appointment then runs **Beamter auf Probe** (usually three years) before **auf L
 - Beamtenstatusgesetz (BeamtStG) — https://www.gesetze-im-internet.de/beamtstg/ , accessed 2026-09
 - Bundesbesoldungsgesetz — https://www.gesetze-im-internet.de/bbesg/ , accessed 2026-09
 - State Besoldung tables — https://oeffentlicher-dienst.info , verified 2026-09
+
+<p class="jig-back"><a href="/jobs-in-germany/reference/">← Back to Reference</a></p>

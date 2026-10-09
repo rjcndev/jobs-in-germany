@@ -4,7 +4,7 @@ title: "Metallbauer/in (Metalworker / Structural Smith)"
 
 <div class="jig-page"></div>
 
-<p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/skilled-trades/">Skilled trades (Handwerk)</a></p>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/skilled-trades/">Skilled trades (Handwerk)</a> <span aria-hidden="true">›</span> <span aria-current="page">Metallbauer/in (Metalworker / Structural Smith)</span></nav>
 
 > Fabricates and installs metal structures — gates, railings, staircases, balconies, facades, vehicle bodies. The Handwerk counterpart to [Konstruktionsmechaniker](/jobs-in-germany/industrial/konstruktionsmechaniker-in/), with lower pay and one thing the industrial trade cannot offer: a business of your own.
 
@@ -102,3 +102,5 @@ Metallgestaltung is the exception — genuinely niche, and best entered with eye
 - DIN EN 1090 (execution of steel structures) — accessed 2026-09
 - DVS — https://www.dvs-home.de , accessed 2026-09
 - BERUFENET — https://berufenet.arbeitsagentur.de , accessed 2026-09
+
+<p class="jig-back"><a href="/jobs-in-germany/skilled-trades/">← Back to Skilled trades (Handwerk)</a></p>

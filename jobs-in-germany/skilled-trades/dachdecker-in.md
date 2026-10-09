@@ -4,7 +4,7 @@ title: "Dachdecker/in (Roofer)"
 
 <div class="jig-page"></div>
 
-<p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/skilled-trades/">Skilled trades (Handwerk)</a></p>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/skilled-trades/">Skilled trades (Handwerk)</a> <span aria-hidden="true">›</span> <span aria-current="page">Dachdecker/in (Roofer)</span></nav>
 
 > An **Anlage A** trade sitting on the same **Energiewende** seam as [SHK](/jobs-in-germany/skilled-trades/anlagenmechaniker-in-shk/) — photovoltaic mounting and roof insulation are now a large share of the work. Also the clearest case in this repo of **fall-protection law as the job**, and of employment that the weather genuinely controls.
 
@@ -113,3 +113,5 @@ Against that: the residential new-build contraction affects roofing as it affect
 - Zentralverband des Deutschen Dachdeckerhandwerks — https://dachdecker.de , accessed 2026-09
 - DGUV rules on work at height, PSAgA — https://www.dguv.de , accessed 2026-09
 - BG BAU — https://www.bgbau.de , accessed 2026-09
+
+<p class="jig-back"><a href="/jobs-in-germany/skilled-trades/">← Back to Skilled trades (Handwerk)</a></p>

@@ -4,7 +4,7 @@ title: "Public service (öffentlicher Dienst) — the Beamten careers"
 
 <div class="jig-page"></div>
 
-<p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a></p>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <span aria-current="page">Public service (öffentlicher Dienst) — the Beamten careers</span></nav>
 
 Professions entered as a **Beamter/Beamtin** rather than an employee. Read [Beamte vs. Angestellte](/jobs-in-germany/reference/beamte-vs-angestellte/) first — Besoldung instead of tariff, Ruhegehalt instead of a pension, no right to strike, and an **EU-citizenship requirement** that is a hard stop for many readers of this repo.
 
@@ -49,3 +49,5 @@ Since the 2006 Föderalismusreform each Bundesland sets its own pay. Figures in 
 - [Polizist/in (Police Officer)](/jobs-in-germany/public-service/polizist-in/) <span>Sixteen state forces plus two federal ones, each recruiting separately.</span>
 - [Steuerbeamte/r (Tax Official)](/jobs-in-germany/public-service/steuerbeamte-r/) <span>Assesses and audits taxes at a Finanzamt.</span>
 - [Zollbeamte/r (Customs Officer)](/jobs-in-germany/public-service/zollbeamte-r/) <span>Collects duties, polices goods across borders — and enforces most of the labour law this repo describes.</span>
+
+<p class="jig-back"><a href="/jobs-in-germany/">← Back to Jobs in Germany</a></p>

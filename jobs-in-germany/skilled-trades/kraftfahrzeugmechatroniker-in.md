@@ -4,7 +4,7 @@ title: "Kraftfahrzeugmechatroniker/in (Vehicle Mechatronics Technician)"
 
 <div class="jig-page"></div>
 
-<p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/skilled-trades/">Skilled trades (Handwerk)</a></p>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/skilled-trades/">Skilled trades (Handwerk)</a> <span aria-hidden="true">›</span> <span aria-current="page">Kraftfahrzeugmechatroniker/in (Vehicle Mechatronics Technician)</span></nav>
 
 > Services and repairs vehicles. A Handwerk trade sitting directly in the path of the electric transition, where a single add-on qualification now divides the workforce.
 
@@ -95,3 +95,5 @@ Severe shortage, and self-inflicted in part — low Handwerk pay pushes trained 
 - DGUV Information 209-093 (Qualifizierung für Arbeiten an Fahrzeugen mit Hochvoltsystemen) — https://www.dguv.de , accessed 2026-09
 - Zentralverband Deutsches Kraffahrzeuggewerbe (ZDK) — https://www.kfzgewerbe.de , accessed 2026-09
 - BERUFENET — https://berufenet.arbeitsagentur.de , accessed 2026-09
+
+<p class="jig-back"><a href="/jobs-in-germany/skilled-trades/">← Back to Skilled trades (Handwerk)</a></p>

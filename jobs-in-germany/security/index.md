@@ -4,7 +4,7 @@ title: "Private security (Bewachungsgewerbe)"
 
 <div class="jig-page"></div>
 
-<p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a></p>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <span aria-current="page">Private security (Bewachungsgewerbe)</span></nav>
 
 One regulated sector, several job titles. Door supervision, site guarding, patrols, retail protection and event security are **roles inside it**, not separate occupations.
 
@@ -47,3 +47,5 @@ All pay figures in these files are **market estimates**.
 
 - [Fachkraft für Schutz und Sicherheit (Security Specialist)](/jobs-in-germany/security/fachkraft-fuer-schutz-und-sicherheit/) <span>The three-year qualification above the §34a courses.</span>
 - [Sicherheitsmitarbeiter/in (Security Officer, Door Supervisor, Night Guard)](/jobs-in-germany/security/sicherheitsmitarbeiter-in/) <span>The jobs most people in German private security actually do.</span>
+
+<p class="jig-back"><a href="/jobs-in-germany/">← Back to Jobs in Germany</a></p>

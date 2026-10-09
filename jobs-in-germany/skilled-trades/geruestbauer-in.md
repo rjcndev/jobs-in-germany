@@ -4,7 +4,7 @@ title: "Gerüstbauer/in (Scaffolder)"
 
 <div class="jig-page"></div>
 
-<p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/skilled-trades/">Skilled trades (Handwerk)</a></p>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/skilled-trades/">Skilled trades (Handwerk)</a> <span aria-hidden="true">›</span> <span aria-current="page">Gerüstbauer/in (Scaffolder)</span></nav>
 
 > Builds the fall protection that every other trade on the site depends on, and is exposed while building it. One of the highest accident rates in German working life, and the clearest case in this repo of a trade where **safety law is not a constraint on the job — it is the job.**
 
@@ -98,3 +98,5 @@ Constraints: firms are small and regional, the work is seasonal at the margins, 
 - BG BAU — https://www.bgbau.de , accessed 2026-09
 - Bundesverband Gerüstbau — https://www.geruestbauhandwerk.de , accessed 2026-09
 - SOKA-BAU — https://www.soka-bau.de , accessed 2026-09
+
+<p class="jig-back"><a href="/jobs-in-germany/skilled-trades/">← Back to Skilled trades (Handwerk)</a></p>

@@ -4,7 +4,7 @@ title: "Zahnarzt / Zahnärztin (Dentist)"
 
 <div class="jig-page"></div>
 
-<p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/healthcare/">Healthcare</a></p>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/healthcare/">Healthcare</a> <span aria-hidden="true">›</span> <span aria-current="page">Zahnarzt / Zahnärztin (Dentist)</span></nav>
 
 > Approbation, like a doctor — but with two things medicine does not have: **no specialist training is required to practise generally**, and a **large private economy sitting on top of a deliberately basic statutory entitlement.** The second is what makes dentistry financially unlike the rest of healthcare in this repo.
 
@@ -103,3 +103,5 @@ Trends worth knowing:
 - Bundeszahnärztekammer — https://www.bzaek.de , accessed 2026-09
 - KZBV, Jahrbuch and Festzuschuss system — https://www.kzbv.de , accessed 2026-09
 - Directive 2005/36/EC, Annex V.3 — https://eur-lex.europa.eu , accessed 2026-09
+
+<p class="jig-back"><a href="/jobs-in-germany/healthcare/">← Back to Healthcare</a></p>

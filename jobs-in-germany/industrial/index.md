@@ -4,7 +4,7 @@ title: "Industrial trades (Industrieberufe)"
 
 <div class="jig-page"></div>
 
-<p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a></p>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <span aria-current="page">Industrial trades (Industrieberufe)</span></nav>
 
 Skilled trades trained and employed **inside industry** rather than in the Handwerk. Same kind of work, sometimes the same job title — and a different chamber, tariff, pay level and set of self-employment rules.
 
@@ -50,3 +50,5 @@ But as [reference/pay.md](/jobs-in-germany/reference/pay/#reliability-of-these-f
 - [Mechatroniker/in (Mechatronics Technician)](/jobs-in-germany/industrial/mechatroniker-in/) <span>Builds and maintains systems that are mechanical, electrical and software at once.</span>
 - [Werkzeugmechaniker/in (Tool and Die Maker)](/jobs-in-germany/industrial/werkzeugmechaniker-in/) <span>Makes the tools that make the parts.</span>
 - [Zerspanungsmechaniker/in (Precision Machinist / CNC Machinist)](/jobs-in-germany/industrial/zerspanungsmechaniker-in/) <span>Cuts metal to tolerance on CNC machines.</span>
+
+<p class="jig-back"><a href="/jobs-in-germany/">← Back to Jobs in Germany</a></p>

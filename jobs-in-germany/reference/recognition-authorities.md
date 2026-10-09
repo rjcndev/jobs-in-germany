@@ -4,7 +4,7 @@ title: "Who recognises your qualification"
 
 <div class="jig-page"></div>
 
-<p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/reference/">Reference</a></p>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/reference/">Reference</a> <span aria-hidden="true">›</span> <span aria-current="page">Who recognises your qualification</span></nav>
 
 The single most repeated paragraph across the profession files, collected once. **There is no national recognition office in Germany.** Which body is competent depends on your profession, and for most of them also on your Bundesland.
 
@@ -126,3 +126,5 @@ Rule of thumb: for federally regulated professions the *office* is state-level b
 - BQFG — https://www.gesetze-im-internet.de/bqfg/ , accessed 2026-09
 - IHK FOSA — https://www.ihk-fosa.de , accessed 2026-09
 - anabin (ZAB) — https://anabin.kmk.org , accessed 2026-09
+
+<p class="jig-back"><a href="/jobs-in-germany/reference/">← Back to Reference</a></p>

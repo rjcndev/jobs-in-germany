@@ -4,7 +4,7 @@ title: "Konditor/in (Pastry Chef / Confectioner)"
 
 <div class="jig-page"></div>
 
-<p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/skilled-trades/">Skilled trades (Handwerk)</a></p>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/skilled-trades/">Skilled trades (Handwerk)</a> <span aria-hidden="true">›</span> <span aria-current="page">Konditor/in (Pastry Chef / Confectioner)</span></nav>
 
 > Cakes, tortes, pralines, chocolate and desserts. The most creative of the food trades, with better hours than [baking](/jobs-in-germany/skilled-trades/baecker-in/) and a sector holding up rather better.
 
@@ -89,3 +89,5 @@ Training numbers are still low and qualified Konditoren are scarce, so bargainin
 - Infektionsschutzgesetz §43 — https://www.gesetze-im-internet.de/ifsg/ , accessed 2026-09
 - Zentralverband des Deutschen Bäckerhandwerks / Konditorenbund — accessed 2026-09
 - BERUFENET — https://berufenet.arbeitsagentur.de , accessed 2026-09
+
+<p class="jig-back"><a href="/jobs-in-germany/skilled-trades/">← Back to Skilled trades (Handwerk)</a></p>

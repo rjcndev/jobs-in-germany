@@ -4,7 +4,7 @@ title: "Shift work and supplements"
 
 <div class="jig-page"></div>
 
-<p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/reference/">Reference</a></p>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/reference/">Reference</a> <span aria-hidden="true">›</span> <span aria-current="page">Shift work and supplements</span></nav>
 
 Eight profession files in this repo describe shift work, and [pay.md](/jobs-in-germany/reference/pay/#what-this-table-does-not-show) admits that its table **understates every one of them**, because supplements sit outside base pay. This quantifies what is missing.
 
@@ -109,3 +109,5 @@ For all of them, the [pay table](/jobs-in-germany/reference/pay/) is a floor, no
 - Einkommensteuergesetz §3b — https://www.gesetze-im-internet.de/estg/ , accessed 2026-09
 - Arbeitszeitgesetz §6 — https://www.gesetze-im-internet.de/arbzg/ , accessed 2026-09
 - oeffentlicher-dienst.info — https://oeffentlicher-dienst.info , verified 2026-09
+
+<p class="jig-back"><a href="/jobs-in-germany/reference/">← Back to Reference</a></p>

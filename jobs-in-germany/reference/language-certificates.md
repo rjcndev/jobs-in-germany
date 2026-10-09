@@ -4,7 +4,7 @@ title: "Language certificates — which paper, for which authority"
 
 <div class="jig-page"></div>
 
-<p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/reference/">Reference</a></p>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/reference/">Reference</a> <span aria-hidden="true">›</span> <span aria-current="page">Language certificates — which paper, for which authority</span></nav>
 
 [Language requirements](/jobs-in-germany/reference/language-requirements/) says what level each profession needs. This file says **what document proves it, who accepts it, and what it costs** — and disentangles the two exams that are routinely confused with each other and with everything else.
 
@@ -92,3 +92,5 @@ The repo contains roles where English genuinely is half the job — [Spedition](
 - TestDaF / g.a.s.t. — https://www.testdaf.de , accessed 2026-09
 - Bundesärztekammer, Fachsprachenprüfung — https://www.bundesaerztekammer.de , accessed 2026-09
 - anerkennung-in-deutschland.de — https://www.anerkennung-in-deutschland.de , accessed 2026-09
+
+<p class="jig-back"><a href="/jobs-in-germany/reference/">← Back to Reference</a></p>

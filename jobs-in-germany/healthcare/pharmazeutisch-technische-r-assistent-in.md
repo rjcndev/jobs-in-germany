@@ -4,7 +4,7 @@ title: "Pharmazeutisch-technische/r Assistent/in (PTA) (Pharmaceutical Technical
 
 <div class="jig-page"></div>
 
-<p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/healthcare/">Healthcare</a></p>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/healthcare/">Healthcare</a> <span aria-hidden="true">›</span> <span aria-current="page">Pharmazeutisch-technische/r Assistent/in (PTA) (Pharmaceutical Technical Assistant)</span></nav>
 
 > Dispenses, advises and compounds in a pharmacy, under a pharmacist's supervision — **reformed in 2023** to loosen that supervision for experienced staff. Sits under [Apotheker](/jobs-in-germany/healthcare/apotheker-in/) the way [MFA](/jobs-in-germany/healthcare/medizinische-fachangestellte-r/) sits under [Arzt](/jobs-in-germany/healthcare/arzt-aerztin/), with one important difference: **PTA is a regulated profession with a state licence**, and MFA is not.
 
@@ -108,3 +108,5 @@ Against the pharmacist's **€4,166 rising to €4,922 after eleven years**, the
 - ADEXA — https://www.adexa-online.de , accessed 2026-09
 - ABDA, Zahlen zur Apothekenzahl — https://www.abda.de , accessed 2026-09
 - TVöD VKA pay table — https://oeffentlicher-dienst.info , verified 2026-09
+
+<p class="jig-back"><a href="/jobs-in-germany/healthcare/">← Back to Healthcare</a></p>

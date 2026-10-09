@@ -4,7 +4,7 @@ title: "Glossary"
 
 <div class="jig-page"></div>
 
-<p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/reference/">Reference</a></p>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/reference/">Reference</a> <span aria-hidden="true">›</span> <span aria-current="page">Glossary</span></nav>
 
 This repo is written in English and deliberately keeps German terms in place, because that is how you will meet them — in job adverts, on authority websites, and on forms. Around 250 recur across the files. These are the ones that carry meaning.
 
@@ -158,3 +158,5 @@ Hourly supplements for unsocial hours — night 20%, Sunday 25%, holidays up to 
 
 ### Zusatzbeitrag {#zusatzbeitrag}
 The supplementary health-insurance contribution set by each individual Krankenkasse, on top of the 14.6% base rate.
+
+<p class="jig-back"><a href="/jobs-in-germany/reference/">← Back to Reference</a></p>

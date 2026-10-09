@@ -4,7 +4,7 @@ title: "Choosing a Bundesland"
 
 <div class="jig-page"></div>
 
-<p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/reference/">Reference</a></p>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/reference/">Reference</a> <span aria-hidden="true">›</span> <span aria-current="page">Choosing a Bundesland</span></nav>
 
 Eight profession files in this repo tell you to "choose the Bundesland carefully" and none of them helps you do it. This does.
 
@@ -61,3 +61,5 @@ Eastern states generally pay less privately, cost considerably less to live in, 
 - Anerkennung in Deutschland — https://www.anerkennung-in-deutschland.de , accessed 2026-09
 - Kultusministerkonferenz — https://www.kmk.org , accessed 2026-09
 - Besoldung tables by state — https://oeffentlicher-dienst.info , accessed 2026-09
+
+<p class="jig-back"><a href="/jobs-in-germany/reference/">← Back to Reference</a></p>

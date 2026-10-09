@@ -4,7 +4,7 @@ title: "Zerspanungsmechaniker/in (Precision Machinist / CNC Machinist)"
 
 <div class="jig-page"></div>
 
-<p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/industrial/">Industrial trades (Industrieberufe)</a></p>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/industrial/">Industrial trades (Industrieberufe)</a> <span aria-hidden="true">›</span> <span aria-current="page">Zerspanungsmechaniker/in (Precision Machinist / CNC Machinist)</span></nav>
 
 > Cuts metal to tolerance on CNC machines. The precision end of the industrial trades, and one where the gap between a qualified technician and a machine operator is wide, real, and routinely blurred in job ads.
 
@@ -95,3 +95,5 @@ On automation, honestly: **this trade is genuinely automating** — automated lo
 - IG Metall — https://www.igmetall.de , accessed 2026-09
 - IHK FOSA — https://www.ihk-fosa.de , accessed 2026-09
 - BERUFENET — https://berufenet.arbeitsagentur.de , accessed 2026-09
+
+<p class="jig-back"><a href="/jobs-in-germany/industrial/">← Back to Industrial trades (Industrieberufe)</a></p>

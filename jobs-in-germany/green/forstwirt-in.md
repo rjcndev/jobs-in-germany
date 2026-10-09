@@ -4,7 +4,7 @@ title: "Forstwirt/in (Forest Worker)"
 
 <div class="jig-page"></div>
 
-<p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/green/">Grüne Berufe — agriculture, forestry and horticulture</a></p>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/green/">Grüne Berufe — agriculture, forestry and horticulture</a> <span aria-hidden="true">›</span> <span aria-current="page">Forstwirt/in (Forest Worker)</span></nav>
 
 > Fells, plants and tends forest. Physically the hardest and statistically among the most dangerous occupations in this repo — and unusually, one where public-sector employment makes the pay exactly knowable.
 
@@ -115,3 +115,5 @@ At the same time the workforce has shrunk for decades as state forest services c
 - NRW Besoldung — https://oeffentlicher-dienst.info , verified 2026-09
 - DGUV, forestry safety rules — https://www.dguv.de , accessed 2026-09
 - BERUFENET — https://berufenet.arbeitsagentur.de , accessed 2026-09
+
+<p class="jig-back"><a href="/jobs-in-germany/green/">← Back to Grüne Berufe — agriculture, forestry and horticulture</a></p>

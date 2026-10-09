@@ -4,7 +4,7 @@ title: "Medizinische/r Technologe/Technologin (MT) — formerly MTA"
 
 <div class="jig-page"></div>
 
-<p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/healthcare/">Healthcare</a></p>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/healthcare/">Healthcare</a> <span aria-hidden="true">›</span> <span aria-current="page">Medizinische/r Technologe/Technologin (MT) — formerly MTA</span></nav>
 
 > Runs the diagnostic technology behind medical decisions: lab analyses, imaging, and functional testing. Doctors interpret results; MTs produce them.
 
@@ -99,3 +99,5 @@ Hospitals, university clinics, private laboratory groups (Synlab, Labor Berlin, 
 - Anerkennung in Deutschland — https://www.anerkennung-in-deutschland.de , accessed 2026-09
 - BERUFENET, Bundesagentur für Arbeit — https://berufenet.arbeitsagentur.de , accessed 2026-09
 - TVöD pay tables — https://oeffentlicher-dienst.info , accessed 2026-09
+
+<p class="jig-back"><a href="/jobs-in-germany/healthcare/">← Back to Healthcare</a></p>

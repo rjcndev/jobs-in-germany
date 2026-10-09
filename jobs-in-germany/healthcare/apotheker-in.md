@@ -4,7 +4,7 @@ title: "Apotheker/in (Pharmacist)"
 
 <div class="jig-page"></div>
 
-<p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/healthcare/">Healthcare</a></p>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/healthcare/">Healthcare</a> <span aria-hidden="true">›</span> <span aria-current="page">Apotheker/in (Pharmacist)</span></nav>
 
 > Dispenses and advises on medicines. Licensed like a doctor — but with a restriction found nowhere else in this repo: **only a pharmacist may own a pharmacy**, and only up to four.
 
@@ -113,3 +113,5 @@ None of this makes the profession a bad one — pharmacists are in demand and em
 - ADEXA/ADA Gehaltstarifvertrag 2026 — https://www.adexa-online.de , verified 2026-09
 - ABDA — https://www.abda.de , accessed 2026-09
 - TVöD VKA pay table — https://oeffentlicher-dienst.info , verified 2026-09
+
+<p class="jig-back"><a href="/jobs-in-germany/healthcare/">← Back to Healthcare</a></p>

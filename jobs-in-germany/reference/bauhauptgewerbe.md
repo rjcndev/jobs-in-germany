@@ -4,7 +4,7 @@ title: "The Bauhauptgewerbe — how construction differs"
 
 <div class="jig-page"></div>
 
-<p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/reference/">Reference</a></p>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/reference/">Reference</a> <span aria-hidden="true">›</span> <span aria-current="page">The Bauhauptgewerbe — how construction differs</span></nav>
 
 Germany's main construction trades run on social and tariff machinery that nothing else in this repo shares. A reader who understands the [Handwerk](/jobs-in-germany/reference/meister/) or [industrial](/jobs-in-germany/industrial/) picture and assumes construction works the same way will get the important parts wrong: how holiday is earned, what the minimum wage is, what happens in winter, and who the employer legally is.
 
@@ -118,3 +118,5 @@ Cover is automatic, employer-funded, and applies from the first hour — includi
 - AEntG — https://www.gesetze-im-internet.de/aentg_2009 , accessed 2026-09
 - Saison-Kurzarbeitergeld, Bundesagentur für Arbeit — https://www.arbeitsagentur.de , accessed 2026-09
 - BG BAU — https://www.bgbau.de , accessed 2026-09
+
+<p class="jig-back"><a href="/jobs-in-germany/reference/">← Back to Reference</a></p>

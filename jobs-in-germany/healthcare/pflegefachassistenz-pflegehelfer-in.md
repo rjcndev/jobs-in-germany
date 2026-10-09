@@ -4,7 +4,7 @@ title: "Pflegefachassistenz / Pflegehelfer/in (Nursing Assistant)"
 
 <div class="jig-page"></div>
 
-<p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/healthcare/">Healthcare</a></p>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/healthcare/">Healthcare</a> <span aria-hidden="true">›</span> <span aria-current="page">Pflegefachassistenz / Pflegehelfer/in (Nursing Assistant)</span></nav>
 
 > The tier directly below [nursing](/jobs-in-germany/healthcare/pflegefachfrau-pflegefachmann/): one to two years, and — uniquely among the healthcare qualifications here — **regulated by the sixteen Bundesländer rather than by federal law.** It matters disproportionately, because it is what internationally recruited nurses are actually employed as while their recognition runs, and the nursing file warns about getting stuck there without documenting what "there" is.
 
@@ -107,3 +107,5 @@ None of this makes the arrangement a bad one. Entering at A2 and qualifying here
 - Pflegemindestlohn, Pflegekommission — https://www.bmas.de , accessed 2026-09
 - TVöD-P pay table — https://oeffentlicher-dienst.info , verified 2026-09
 - anerkennung-in-deutschland.de — https://www.anerkennung-in-deutschland.de , accessed 2026-09
+
+<p class="jig-back"><a href="/jobs-in-germany/healthcare/">← Back to Healthcare</a></p>

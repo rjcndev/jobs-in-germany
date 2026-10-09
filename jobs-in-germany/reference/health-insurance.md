@@ -4,7 +4,7 @@ title: "Health insurance"
 
 <div class="jig-page"></div>
 
-<p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/reference/">Reference</a></p>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/reference/">Reference</a> <span aria-hidden="true">›</span> <span aria-current="page">Health insurance</span></nav>
 
 Zero of the 45 profession files mentioned this, which is why it is here. For anyone actually moving to Germany it matters more than several of them.
 
@@ -69,3 +69,5 @@ Several Bundesländer now also offer a **pauschale Beihilfe**, a flat subsidy th
 - SGB XI (Pflegeversicherung) — https://www.gesetze-im-internet.de/sgb_11/ , accessed 2026-09
 - GKV-Spitzenverband — https://www.gkv-spitzenverband.de , accessed 2026-09
 - Make it in Germany — https://www.make-it-in-germany.com , accessed 2026-09
+
+<p class="jig-back"><a href="/jobs-in-germany/reference/">← Back to Reference</a></p>

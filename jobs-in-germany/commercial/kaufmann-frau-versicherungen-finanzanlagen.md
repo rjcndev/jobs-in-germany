@@ -4,7 +4,7 @@ title: "Kaufmann/-frau für Versicherungen und Finanzanlagen (Insurance and Fina
 
 <div class="jig-page"></div>
 
-<p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/commercial/">Commercial</a></p>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/commercial/">Commercial</a> <span aria-hidden="true">›</span> <span aria-current="page">Kaufmann/-frau für Versicherungen und Finanzanlagen (Insurance and Financial Services Agent)</span></nav>
 
 > Completes the finance-sector permit picture. [Banking](/jobs-in-germany/commercial/bankkaufmann-frau/) is gated by **BaFin**; [property](/jobs-in-germany/commercial/immobilienkaufmann-frau/) by **§34c GewO**; insurance and investment intermediation by **§34d, §34f and §34i GewO**, supervised by the **IHK and the trade authority — not by BaFin.** Four adjacent occupations, four different regulators, and the differences decide what you may actually sell.
 
@@ -104,3 +104,5 @@ Honest counterweight: the sales end of this industry has a reputation problem it
 - Vermittlerregister, DIHK — https://www.vermittlerregister.info , accessed 2026-09
 - Verordnung über die Berufsausbildung zum Kaufmann für Versicherungen und Finanzanlagen — https://www.gesetze-im-internet.de , accessed 2026-09
 - BERUFENET — https://berufenet.arbeitsagentur.de , accessed 2026-09
+
+<p class="jig-back"><a href="/jobs-in-germany/commercial/">← Back to Commercial</a></p>

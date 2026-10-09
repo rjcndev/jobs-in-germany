@@ -4,7 +4,7 @@ title: "Minijob and geringfügige Beschäftigung"
 
 <div class="jig-page"></div>
 
-<p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/reference/">Reference</a></p>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/reference/">Reference</a> <span aria-hidden="true">›</span> <span aria-current="page">Minijob and geringfügige Beschäftigung</span></nav>
 
 A large share of German employment is not a job in the sense the rest of this repo describes. It is **geringfügige Beschäftigung** — legally employment, with a contract, a minimum wage and holiday entitlement, but deliberately placed outside most of the social insurance system.
 
@@ -109,3 +109,5 @@ Caps are set in §35a EStG and change with tax legislation; figures accessed 202
 - §35a EStG — https://www.gesetze-im-internet.de/estg/__35a.html , accessed 2026-09
 - Minijob-Zentrale — https://www.minijob-zentrale.de , accessed 2026-09
 - Deutsche Rentenversicherung, Übergangsbereich — https://www.deutsche-rentenversicherung.de , accessed 2026-09
+
+<p class="jig-back"><a href="/jobs-in-germany/reference/">← Back to Reference</a></p>

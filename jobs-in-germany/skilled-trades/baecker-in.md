@@ -4,7 +4,7 @@ title: "Bäcker/in (Baker)"
 
 <div class="jig-page"></div>
 
-<p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/skilled-trades/">Skilled trades (Handwerk)</a></p>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/skilled-trades/">Skilled trades (Handwerk)</a> <span aria-hidden="true">›</span> <span aria-current="page">Bäcker/in (Baker)</span></nav>
 
 > Bread, rolls and Feingebäck, produced overnight. The trade whose working hours define it, in a sector that has lost most of its businesses to industrial baking and bake-off counters.
 
@@ -87,3 +87,5 @@ Same reading as [butchery](/jobs-in-germany/skilled-trades/fleischer-in/): emplo
 - Infektionsschutzgesetz §43 — https://www.gesetze-im-internet.de/ifsg/ , accessed 2026-09
 - Zentralverband des Deutschen Bäckerhandwerks — https://www.baeckerhandwerk.de , accessed 2026-09
 - BERUFENET — https://berufenet.arbeitsagentur.de , accessed 2026-09
+
+<p class="jig-back"><a href="/jobs-in-germany/skilled-trades/">← Back to Skilled trades (Handwerk)</a></p>

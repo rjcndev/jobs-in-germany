@@ -4,7 +4,7 @@ title: "Bauzeichner/in (Construction Draughtsperson / BIM Modeller)"
 
 <div class="jig-page"></div>
 
-<p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/engineering/">Engineering</a></p>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/engineering/">Engineering</a> <span aria-hidden="true">›</span> <span aria-current="page">Bauzeichner/in (Construction Draughtsperson / BIM Modeller)</span></nav>
 
 > The desk-side counterpart to the construction trades: an **IHK** Ausbildung, not Handwerk, producing the drawings that [architects](/jobs-in-germany/engineering/architekt-in/) and [engineers](/jobs-in-germany/engineering/ingenieur-in/) design and that [Maurer](/jobs-in-germany/skilled-trades/maurer-in/) and [Zimmerer](/jobs-in-germany/skilled-trades/zimmerer-zimmerin/) build from. The job title still says "draughtsperson". The work has largely become **modelling**.
 
@@ -108,3 +108,5 @@ The public-sector row is the verified TVöD VKA scale, valid **01.05.2026 – 31
 - DIN 276, DIN 277 — accessed 2026-09
 - TVöD VKA pay table — https://oeffentlicher-dienst.info , verified 2026-09
 - BERUFENET — https://berufenet.arbeitsagentur.de , accessed 2026-09
+
+<p class="jig-back"><a href="/jobs-in-germany/engineering/">← Back to Engineering</a></p>

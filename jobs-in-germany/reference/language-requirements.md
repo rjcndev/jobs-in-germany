@@ -4,7 +4,7 @@ title: "Language requirements, by profession"
 
 <div class="jig-page"></div>
 
-<p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/reference/">Reference</a></p>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/reference/">Reference</a> <span aria-hidden="true">›</span> <span aria-current="page">Language requirements, by profession</span></nav>
 
 Cross-reference over every profile in this repo. Figures are drawn from the individual files — if the two disagree, the profession file is the source of truth.
 
@@ -126,3 +126,5 @@ Accepted certificates are usually **Goethe, telc, ÖSD, TestDaF** or **DSH**. Au
 **Regulated professions gate on a certificate; free professions gate on performance.** A B2 certificate satisfies a licensing authority. It does not satisfy an employer who needs you to write client correspondence — hence the gap between the two columns in the commercial roles.
 
 **Medical German is a separate skill.** The Fachsprachprüfung tests register-switching between patient, colleague and documentation. Doctors with strong everyday German fail it routinely. Prepare for it specifically. Pharmacists sit an equivalent exam at the Apothekerkammer, and it is the usual obstacle for them too.
+
+<p class="jig-back"><a href="/jobs-in-germany/reference/">← Back to Reference</a></p>

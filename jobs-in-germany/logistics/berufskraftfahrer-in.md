@@ -4,7 +4,7 @@ title: "Berufskraftfahrer/in (Professional Truck / Bus Driver)"
 
 <div class="jig-page"></div>
 
-<p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/logistics/">Logistics</a></p>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/logistics/">Logistics</a> <span aria-hidden="true">›</span> <span aria-current="page">Berufskraftfahrer/in (Professional Truck / Bus Driver)</span></nav>
 
 > Drives commercially. The work is unregulated in the professional-title sense, but the **licensing** is a genuine maze — and for third-country drivers it is the hardest qualification barrier in this repo.
 
@@ -79,3 +79,5 @@ This is where it gets difficult. Read carefully.
 - Fahrerlaubnis-Verordnung (FeV) — https://www.gesetze-im-internet.de/fev_2010/ , accessed 2026-09
 - BAG / BALM — https://www.balm.bund.de , accessed 2026-09
 - BERUFENET — https://berufenet.arbeitsagentur.de , accessed 2026-09
+
+<p class="jig-back"><a href="/jobs-in-germany/logistics/">← Back to Logistics</a></p>

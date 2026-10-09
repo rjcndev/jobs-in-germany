@@ -4,7 +4,7 @@ title: "Services and other sectors"
 
 <div class="jig-page"></div>
 
-<p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a></p>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <span aria-current="page">Services and other sectors</span></nav>
 
 The occupations here belong to none of the chamber-defined sectors that organise the rest of this repo. Some are Handwerk, some IHK, some have **no qualification at all** — and that last group is the reason this folder exists.
 
@@ -56,3 +56,5 @@ Both unqualified tiers have a route out, and it is worth stating where the files
 - [Haushaltshilfe (Domestic Cleaner / Household Help)](/jobs-in-germany/services/haushaltshilfe/) <span>The narrowest of the three cleaning tiers and the one with a genuine legal story: the overwhelming majority of domestic work in Germany is undeclared. It is included here precisely because the default is Schwarzarbeit — with no accident cover, no pension credit and no sick pay for the worker — and because the legal alternative is much cheaper than almost anyone believes.</span>
 - [Reinigungskraft (Cleaner — commercial, no qualification)](/jobs-in-germany/services/reinigungskraft/) <span>Most of the cleaning sector by headcount, and one of the most common first jobs for people newly arrived in Germany.</span>
 - [Wissenschaftliche/r Mitarbeiter/in (Research Associate / Academic Staff)](/jobs-in-germany/services/wissenschaftliche-r-mitarbeiter-in/) <span>German academia is built on fixed-term contracts, and a specific statute exists to permit them.</span>
+
+<p class="jig-back"><a href="/jobs-in-germany/">← Back to Jobs in Germany</a></p>

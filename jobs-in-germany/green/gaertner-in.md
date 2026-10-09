@@ -4,7 +4,7 @@ title: "Gärtner/in (Horticulturist / Landscape Gardener)"
 
 <div class="jig-page"></div>
 
-<p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/green/">Grüne Berufe — agriculture, forestry and horticulture</a></p>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/green/">Grüne Berufe — agriculture, forestry and horticulture</a> <span aria-hidden="true">›</span> <span aria-current="page">Gärtner/in (Horticulturist / Landscape Gardener)</span></nav>
 
 > Seven Fachrichtungen under one job title, and they are not variations on a theme — the largest, **Garten- und Landschaftsbau**, is a construction trade in all but name and is booming on urban greening and climate adaptation, while the production Fachrichtungen are under real pressure from imports and energy costs. Choose the Fachrichtung deliberately.
 
@@ -104,3 +104,5 @@ TVöD row verified for this repo, valid **01.05.2026 – 31.03.2027**. Municipal
 - FLL, Forschungsgesellschaft Landschaftsentwicklung Landschaftsbau — https://www.fll.de , accessed 2026-09
 - TVöD VKA pay table — https://oeffentlicher-dienst.info , verified 2026-09
 - BERUFENET — https://berufenet.arbeitsagentur.de , accessed 2026-09
+
+<p class="jig-back"><a href="/jobs-in-germany/green/">← Back to Grüne Berufe — agriculture, forestry and horticulture</a></p>

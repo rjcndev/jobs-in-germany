@@ -4,7 +4,7 @@ title: "Kaufmann/-frau für Büromanagement (Office Management Clerk)"
 
 <div class="jig-page"></div>
 
-<p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/commercial/">Commercial</a></p>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/commercial/">Commercial</a> <span aria-hidden="true">›</span> <span aria-current="page">Kaufmann/-frau für Büromanagement (Office Management Clerk)</span></nav>
 
 > Germany's single most common Ausbildung. Administration, correspondence, scheduling, invoicing and order processing — in essentially every sector.
 
@@ -65,3 +65,5 @@ Routine clerical work is the part of the German labour market most exposed to au
 - BERUFENET — https://berufenet.arbeitsagentur.de , accessed 2026-09
 - IHK FOSA — https://www.ihk-fosa.de , accessed 2026-09
 - TVöD pay tables — https://oeffentlicher-dienst.info , accessed 2026-09
+
+<p class="jig-back"><a href="/jobs-in-germany/commercial/">← Back to Commercial</a></p>

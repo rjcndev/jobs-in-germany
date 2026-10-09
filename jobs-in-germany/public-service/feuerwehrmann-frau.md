@@ -4,7 +4,7 @@ title: "Feuerwehrmann / Feuerwehrfrau (Firefighter)"
 
 <div class="jig-page"></div>
 
-<p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/public-service/">Public service (öffentlicher Dienst) — the Beamten careers</a></p>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/public-service/">Public service (öffentlicher Dienst) — the Beamten careers</a> <span aria-hidden="true">›</span> <span aria-current="page">Feuerwehrmann / Feuerwehrfrau (Firefighter)</span></nav>
 
 > Mostly a rescue service, mostly staffed by volunteers, and professionally entered only **after** you already hold a trade qualification.
 
@@ -105,3 +105,5 @@ Steady and rising as cities expand professional cover and rescue-service volume 
 - DGUV Grundsatz G 26.3 (Atemschutz) — https://www.dguv.de , accessed 2026-09
 - NRW Besoldung tables — https://oeffentlicher-dienst.info , verified 2026-09
 - Deutscher Feuerwehrverband — https://www.feuerwehrverband.de , accessed 2026-09
+
+<p class="jig-back"><a href="/jobs-in-germany/public-service/">← Back to Public service (öffentlicher Dienst) — the Beamten careers</a></p>

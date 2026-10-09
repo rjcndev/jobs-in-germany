@@ -4,7 +4,7 @@ title: "Pay, by profession"
 
 <div class="jig-page"></div>
 
-<p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/reference/">Reference</a></p>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/reference/">Reference</a> <span aria-hidden="true">›</span> <span aria-current="page">Pay, by profession</span></nav>
 
 Cross-reference over every profile in this repo. Figures are drawn from the individual files — if the two disagree, the profession file is the source of truth.
 
@@ -207,3 +207,5 @@ Given that the verified public-sector numbers turned out to be systematically lo
 ### Still unverified elsewhere in the repo {#still-unverified-elsewhere-in-the-repo}
 
 The **Mindestlohn** (€13.90/hour from January 2026, further rise scheduled for 2027), driver **Spesen** rates, and **EU Blue Card thresholds**, which reset every January. See [visa routes](/jobs-in-germany/reference/visa-routes/).
+
+<p class="jig-back"><a href="/jobs-in-germany/reference/">← Back to Reference</a></p>

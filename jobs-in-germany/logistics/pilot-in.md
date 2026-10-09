@@ -4,7 +4,7 @@ title: "Pilot/in — Verkehrsflugzeugführer/in (Airline Pilot)"
 
 <div class="jig-page"></div>
 
-<p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/logistics/">Logistics</a></p>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/logistics/">Logistics</a> <span aria-hidden="true">›</span> <span aria-current="page">Pilot/in — Verkehrsflugzeugführer/in (Airline Pilot)</span></nav>
 
 > The extreme case of a theme that runs through this repo: **what it costs to be allowed to do the work.** Germany's other qualifications are paid (Ausbildung), fee-free (university) or a few hundred euro ([occupational certificates](/jobs-in-germany/reference/occupational-certificates/)). An airline licence costs a six-figure sum, and you generally pay it before you have a job.
 
@@ -107,3 +107,5 @@ Honest qualifications:
 - Flight time limitations, Regulation (EU) 965/2012 ORO.FTL — https://www.easa.europa.eu , accessed 2026-09
 - Luftfahrt-Bundesamt — https://www.lba.de , accessed 2026-09
 - Vereinigung Cockpit — https://www.vcockpit.de , accessed 2026-09
+
+<p class="jig-back"><a href="/jobs-in-germany/logistics/">← Back to Logistics</a></p>

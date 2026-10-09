@@ -4,7 +4,7 @@ title: "Reinigungskraft (Cleaner — commercial, no qualification)"
 
 <div class="jig-page"></div>
 
-<p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/services/">Services and other sectors</a></p>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/services/">Services and other sectors</a> <span aria-hidden="true">›</span> <span aria-current="page">Reinigungskraft (Cleaner — commercial, no qualification)</span></nav>
 
 > Most of the cleaning sector by headcount, and one of the most common first jobs for people newly arrived in Germany. **There is no qualification, so there is no recognition and no equivalence step** — which means this file is about something else: employment status, what you are legally owed, and how to tell whether you are getting it.
 
@@ -100,3 +100,5 @@ This is the most useful thing in this file. The unqualified tier has no ladder; 
 - MiLoG, recording of working time — https://www.gesetze-im-internet.de/milog , accessed 2026-09
 - Zoll, Finanzkontrolle Schwarzarbeit — https://www.zoll.de , accessed 2026-09
 - IG BAU, Gebäudereinigung — https://www.igbau.de , accessed 2026-09
+
+<p class="jig-back"><a href="/jobs-in-germany/services/">← Back to Services and other sectors</a></p>

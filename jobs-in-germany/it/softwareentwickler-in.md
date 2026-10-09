@@ -4,7 +4,7 @@ title: "Softwareentwickler/in (Software Developer)"
 
 <div class="jig-page"></div>
 
-<p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/it/">IT</a></p>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/it/">IT</a> <span aria-hidden="true">›</span> <span aria-current="page">Softwareentwickler/in (Software Developer)</span></nav>
 
 > Writes and maintains software. Included here as the deliberate contrast case: almost everything in the healthcare files does not apply.
 
@@ -67,3 +67,5 @@ Your foreign degree should be checked against **anabin** (the ZAB database) for 
 - Make it in Germany — https://www.make-it-in-germany.com , accessed 2026-09
 - anabin (ZAB degree database) — https://anabin.kmk.org , accessed 2026-09
 - AufenthG — https://www.gesetze-im-internet.de/aufenthg_2004/ , accessed 2026-09
+
+<p class="jig-back"><a href="/jobs-in-germany/it/">← Back to IT</a></p>

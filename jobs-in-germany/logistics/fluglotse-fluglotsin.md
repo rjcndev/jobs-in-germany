@@ -4,7 +4,7 @@ title: "Fluglotse / Fluglotsin (Air Traffic Controller)"
 
 <div class="jig-page"></div>
 
-<p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/logistics/">Logistics</a></p>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/logistics/">Logistics</a> <span aria-hidden="true">›</span> <span aria-current="page">Fluglotse / Fluglotsin (Air Traffic Controller)</span></nav>
 
 > One employer, a selection process with a famously brutal rejection rate, **paid** training, and pay at the top of everything in this repo that is not a business you own. The inverse of [Pilot/in](/jobs-in-germany/logistics/pilot-in/) in every respect: they pay to qualify, you are paid to.
 
@@ -122,3 +122,5 @@ Longer term:
 - Deutsche Flugsicherung, careers — https://www.dfs.de , accessed 2026-09
 - Bundesaufsichtsamt für Flugsicherung — https://www.baf.bund.de , accessed 2026-09
 - Luftsicherheitsgesetz §7, Zuverlässigkeitsüberprüfung — https://www.gesetze-im-internet.de/luftsig , accessed 2026-09
+
+<p class="jig-back"><a href="/jobs-in-germany/logistics/">← Back to Logistics</a></p>

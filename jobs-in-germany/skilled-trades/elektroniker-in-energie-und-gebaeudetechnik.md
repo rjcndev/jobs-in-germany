@@ -4,7 +4,7 @@ title: "Elektroniker/in für Energie- und Gebäudetechnik (Electrician)"
 
 <div class="jig-page"></div>
 
-<p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/skilled-trades/">Skilled trades (Handwerk)</a></p>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/skilled-trades/">Skilled trades (Handwerk)</a> <span aria-hidden="true">›</span> <span aria-current="page">Elektroniker/in für Energie- und Gebäudetechnik (Electrician)</span></nav>
 
 > Installs and maintains electrical systems in buildings. A Handwerk trade with the defining German twist: you may be *employed* freely, but you may not *run your own business* without a Meister.
 
@@ -74,3 +74,5 @@ Very high, and structurally so. The **Energiewende** — solar, storage, heat pu
 - Handwerksordnung (HwO) — https://www.gesetze-im-internet.de/hwo/ , accessed 2026-09
 - Zentralverband des Deutschen Handwerks — https://www.zdh.de , accessed 2026-09
 - BERUFENET — https://berufenet.arbeitsagentur.de , accessed 2026-09
+
+<p class="jig-back"><a href="/jobs-in-germany/skilled-trades/">← Back to Skilled trades (Handwerk)</a></p>

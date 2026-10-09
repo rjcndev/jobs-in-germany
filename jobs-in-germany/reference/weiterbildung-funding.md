@@ -4,7 +4,7 @@ title: "How retraining is paid for"
 
 <div class="jig-page"></div>
 
-<p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/reference/">Reference</a></p>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/reference/">Reference</a> <span aria-hidden="true">›</span> <span aria-current="page">How retraining is paid for</span></nav>
 
 **Bildungsgutschein** and **Aufstiegs-BAföG** recur through this repo without ever being explained, and two further instruments that matter just as much appear nowhere at all. Collected here, because the repo has a habit it should not have: several files name a career problem — automation, a shrinking branch network, an industry converting to electric drivetrains — and none of them says that there is a **funded** way out.
 
@@ -80,3 +80,5 @@ And the fallback: **Weiterbildung costs are tax-deductible** as Werbungskosten w
 - Qualifizierungsgeld, Bundesagentur für Arbeit — https://www.arbeitsagentur.de , accessed 2026-09
 - SBB Begabtenförderung — https://www.sbb-stipendien.de , accessed 2026-09
 - Bildungsurlaub, per-state overview — https://www.bildungsurlaub.de , accessed 2026-09
+
+<p class="jig-back"><a href="/jobs-in-germany/reference/">← Back to Reference</a></p>

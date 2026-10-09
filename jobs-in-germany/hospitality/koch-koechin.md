@@ -4,7 +4,7 @@ title: "Koch / Köchin (Chef / Cook)"
 
 <div class="jig-page"></div>
 
-<p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/hospitality/">Hospitality (Gastgewerbe)</a></p>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/hospitality/">Hospitality (Gastgewerbe)</a> <span aria-hidden="true">›</span> <span aria-current="page">Koch / Köchin (Chef / Cook)</span></nav>
 
 > Cooks professionally. Unregulated, chronically short-staffed, and one of the few German occupations where a foreign candidate can start work immediately — but where the visa is the hard part precisely because the pay is low.
 
@@ -78,3 +78,5 @@ Severe shortage. Hospitality lost a large share of its workforce during the pand
 - Arbeitszeitgesetz — https://www.gesetze-im-internet.de/arbzg/ , accessed 2026-09
 - IHK FOSA (recognition) — https://www.ihk-fosa.de , accessed 2026-09
 - DEHOGA Bundesverband — https://www.dehoga-bundesverband.de , accessed 2026-09
+
+<p class="jig-back"><a href="/jobs-in-germany/hospitality/">← Back to Hospitality (Gastgewerbe)</a></p>

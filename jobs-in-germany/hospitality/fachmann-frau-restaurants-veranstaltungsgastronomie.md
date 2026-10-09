@@ -4,7 +4,7 @@ title: "Fachmann/-frau für Restaurants und Veranstaltungsgastronomie — \"Kell
 
 <div class="jig-page"></div>
 
-<p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/hospitality/">Hospitality (Gastgewerbe)</a></p>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/hospitality/">Hospitality (Gastgewerbe)</a> <span aria-hidden="true">›</span> <span aria-current="page">Fachmann/-frau für Restaurants und Veranstaltungsgastronomie — &quot;Kellner&quot;</span></nav>
 
 > Restaurant and event service. Unusually in this repo, **most people doing this job do not hold the qualification** — which makes the gap between the two the thing worth understanding.
 
@@ -98,3 +98,5 @@ Severe and sustained. Hospitality lost a large share of its workforce during the
 - Arbeitszeitgesetz — https://www.gesetze-im-internet.de/arbzg/ , accessed 2026-09
 - DEHOGA Bundesverband — https://www.dehoga-bundesverband.de , accessed 2026-09
 - IHK FOSA — https://www.ihk-fosa.de , accessed 2026-09
+
+<p class="jig-back"><a href="/jobs-in-germany/hospitality/">← Back to Hospitality (Gastgewerbe)</a></p>

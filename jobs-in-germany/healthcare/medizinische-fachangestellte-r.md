@@ -4,7 +4,7 @@ title: "Medizinische/r Fachangestellte/r (MFA) (Medical Assistant)"
 
 <div class="jig-page"></div>
 
-<p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/healthcare/">Healthcare</a></p>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/healthcare/">Healthcare</a> <span aria-hidden="true">›</span> <span aria-current="page">Medizinische/r Fachangestellte/r (MFA) (Medical Assistant)</span></nav>
 
 > One of the largest occupations in German healthcare and one of the worst paid relative to what it carries. Examined by the **Ärztekammer** rather than the IHK or HWK — a chamber system this repo otherwise only meets at the top of the profession — and the reason a doctor's practice functions at all.
 
@@ -115,3 +115,5 @@ Direction of travel: more delegation (VERAH, Impfassistenz, telemedicine triage)
 - Verband medizinischer Fachberufe (vmf) — https://www.vmf-online.de , accessed 2026-09
 - TVöD VKA pay table — https://oeffentlicher-dienst.info , verified 2026-09
 - BERUFENET — https://berufenet.arbeitsagentur.de , accessed 2026-09
+
+<p class="jig-back"><a href="/jobs-in-germany/healthcare/">← Back to Healthcare</a></p>

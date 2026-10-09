@@ -4,7 +4,7 @@ title: "Fachinformatiker/in (IT Specialist, dual-trained)"
 
 <div class="jig-page"></div>
 
-<p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/it/">IT</a></p>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/it/">IT</a> <span aria-hidden="true">›</span> <span aria-current="page">Fachinformatiker/in (IT Specialist, dual-trained)</span></nav>
 
 > The vocational route into IT: three years of paid, employer-based training with an IHK qualification at the end. The standard German alternative to a CS degree.
 
@@ -68,3 +68,5 @@ If you already hold a foreign IT qualification, you do **not** need it recognise
 - BERUFENET — https://berufenet.arbeitsagentur.de , accessed 2026-09
 - DIHK / IHK training profiles — https://www.ihk.de , accessed 2026-09
 - BQFG — https://www.gesetze-im-internet.de/bqfg/ , accessed 2026-09
+
+<p class="jig-back"><a href="/jobs-in-germany/it/">← Back to IT</a></p>

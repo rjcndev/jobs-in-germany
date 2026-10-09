@@ -4,7 +4,7 @@ title: "Pflegefachfrau / Pflegefachmann (Registered Nurse)"
 
 <div class="jig-page"></div>
 
-<p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/healthcare/">Healthcare</a></p>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/healthcare/">Healthcare</a> <span aria-hidden="true">›</span> <span aria-current="page">Pflegefachfrau / Pflegefachmann (Registered Nurse)</span></nav>
 
 > Generalist nursing: assessment, treatment, medication, documentation and patient care across hospital, elderly care and home care settings.
 
@@ -80,3 +80,5 @@ Hospitals, nursing homes (Pflegeheime), outpatient care services (ambulante Pfle
 - Pflegeberufegesetz (PflBG) — https://www.gesetze-im-internet.de/pflbg/ , accessed 2026-09
 - Anerkennung in Deutschland — https://www.anerkennung-in-deutschland.de , accessed 2026-09
 - TVöD-P pay tables — https://oeffentlicher-dienst.info , accessed 2026-09
+
+<p class="jig-back"><a href="/jobs-in-germany/healthcare/">← Back to Healthcare</a></p>

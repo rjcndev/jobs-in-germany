@@ -4,7 +4,7 @@ title: "Bankkaufmann/-frau (Bank Clerk)"
 
 <div class="jig-page"></div>
 
-<p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/commercial/">Commercial</a></p>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/commercial/">Commercial</a> <span aria-hidden="true">›</span> <span aria-current="page">Bankkaufmann/-frau (Bank Clerk)</span></nav>
 
 > Retail and commercial banking: accounts, payments, lending and investment advice. The title is free, but **specific activities require BaFin registration** — another case where regulation attaches to the task, not the job name.
 
@@ -89,3 +89,5 @@ That does not make the qualification a bad bet — but it changes what a good be
 - BaFin employee register — https://www.bafin.de , accessed 2026-09
 - TVöD-S pay table — https://oeffentlicher-dienst.info , verified 2026-09
 - BERUFENET — https://berufenet.arbeitsagentur.de , accessed 2026-09
+
+<p class="jig-back"><a href="/jobs-in-germany/commercial/">← Back to Commercial</a></p>

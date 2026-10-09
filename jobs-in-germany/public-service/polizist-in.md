@@ -4,7 +4,7 @@ title: "Polizist/in (Police Officer)"
 
 <div class="jig-page"></div>
 
-<p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/public-service/">Public service (öffentlicher Dienst) — the Beamten careers</a></p>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/public-service/">Public service (öffentlicher Dienst) — the Beamten careers</a> <span aria-hidden="true">›</span> <span aria-current="page">Polizist/in (Police Officer)</span></nav>
 
 > Sixteen state forces plus two federal ones, each recruiting separately. A career you enter by being paid to take a degree — if you clear the citizenship, medical and fitness gates.
 
@@ -115,3 +115,5 @@ High. A retirement wave is passing through most forces and every Bundesland has 
 - Strafgesetzbuch §132 — https://www.gesetze-im-internet.de/stgb/ , accessed 2026-09
 - NRW Besoldung tables — https://oeffentlicher-dienst.info , verified 2026-09
 - Deutsche Hochschule der Polizei — https://www.dhpol.de , accessed 2026-09
+
+<p class="jig-back"><a href="/jobs-in-germany/public-service/">← Back to Public service (öffentlicher Dienst) — the Beamten careers</a></p>

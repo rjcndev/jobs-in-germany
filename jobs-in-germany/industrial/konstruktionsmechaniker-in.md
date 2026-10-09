@@ -4,7 +4,7 @@ title: "Konstruktionsmechaniker/in (Structural Metalworker / Fabricator)"
 
 <div class="jig-page"></div>
 
-<p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/industrial/">Industrial trades (Industrieberufe)</a></p>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/industrial/">Industrial trades (Industrieberufe)</a> <span aria-hidden="true">›</span> <span aria-current="page">Konstruktionsmechaniker/in (Structural Metalworker / Fabricator)</span></nav>
 
 > Builds structures out of steel: plate, profile and tube, cut, formed, welded and erected. The trade where **welding certification, not the job title, decides what you may work on.**
 
@@ -111,3 +111,5 @@ If you take the Schiffbau Fachrichtung, understand that you are choosing a regio
 - DVS — Deutscher Verband für Schweißen und verwandte Verfahren — https://www.dvs-home.de , accessed 2026-09
 - IG Metall — https://www.igmetall.de , accessed 2026-09
 - BERUFENET — https://berufenet.arbeitsagentur.de , accessed 2026-09
+
+<p class="jig-back"><a href="/jobs-in-germany/industrial/">← Back to Industrial trades (Industrieberufe)</a></p>

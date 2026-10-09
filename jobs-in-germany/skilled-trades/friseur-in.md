@@ -4,7 +4,7 @@ title: "Friseur/in (Hairdresser)"
 
 <div class="jig-page"></div>
 
-<p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/skilled-trades/">Skilled trades (Handwerk)</a></p>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/skilled-trades/">Skilled trades (Handwerk)</a> <span aria-hidden="true">›</span> <span aria-current="page">Friseur/in (Hairdresser)</span></nav>
 
 > Cutting, colouring and styling. A full three-year Anlage A trade — and the clearest case in this repo of a completed qualification that does **not** buy pay above the statutory minimum.
 
@@ -101,3 +101,5 @@ Chronic shortage, driven by attrition rather than growth. Trainee numbers have f
 - Arbeitnehmer-Entsendegesetz (AEntG) — https://www.gesetze-im-internet.de/aentg_2009/ , accessed 2026-09
 - BGW, occupational skin disease in hairdressing — https://www.bgw-online.de , accessed 2026-09
 - Zentralverband des Deutschen Friseurhandwerks — https://www.friseurhandwerk.de , accessed 2026-09
+
+<p class="jig-back"><a href="/jobs-in-germany/skilled-trades/">← Back to Skilled trades (Handwerk)</a></p>

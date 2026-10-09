@@ -4,7 +4,7 @@ title: "Gebäudereiniger/in (Building Cleaner — the skilled trade)"
 
 <div class="jig-page"></div>
 
-<p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/services/">Services and other sectors</a></p>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/services/">Services and other sectors</a> <span aria-hidden="true">›</span> <span aria-current="page">Gebäudereiniger/in (Building Cleaner — the skilled trade)</span></nav>
 
 > **The largest Handwerk trade in Germany by headcount**, and absent from this repo until now. It is **Anlage B1** — no Meisterpflicht — which makes it a useful contrast with the Anlage A trades that fill the [skilled-trades](/jobs-in-germany/skilled-trades/) folder. It also has its own **AEntG-declared minimum wage** above the statutory one, and it is the sector where outsourcing, minimum-wage compliance and migrant labour intersect most visibly.
 
@@ -100,3 +100,5 @@ Being *qualified* is the way out of the bottom of it. The trade's own problem is
 - Bundesinnungsverband des Gebäudereiniger-Handwerks — https://www.die-gebaeudedienstleister.de , accessed 2026-09
 - Zoll, Finanzkontrolle Schwarzarbeit — https://www.zoll.de , accessed 2026-09
 - BERUFENET — https://berufenet.arbeitsagentur.de , accessed 2026-09
+
+<p class="jig-back"><a href="/jobs-in-germany/services/">← Back to Services and other sectors</a></p>

@@ -4,7 +4,7 @@ title: "Arzt / Ärztin (Physician)"
 
 <div class="jig-page"></div>
 
-<p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/healthcare/">Healthcare</a></p>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/healthcare/">Healthcare</a> <span aria-hidden="true">›</span> <span aria-current="page">Arzt / Ärztin (Physician)</span></nav>
 
 > Diagnoses and treats patients. The most heavily regulated profession in this repo, and the one where the gap between "qualified abroad" and "allowed to work" is widest.
 
@@ -70,3 +70,5 @@ Established practice owners (niedergelassene Ärzte) earn on a completely differ
 - Bundesärztekammer — https://www.bundesaerztekammer.de , accessed 2026-09
 - Anerkennung in Deutschland — https://www.anerkennung-in-deutschland.de , accessed 2026-09
 - Marburger Bund (collective agreements) — https://www.marburger-bund.de , accessed 2026-09
+
+<p class="jig-back"><a href="/jobs-in-germany/healthcare/">← Back to Healthcare</a></p>

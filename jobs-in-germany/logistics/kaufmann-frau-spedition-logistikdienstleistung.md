@@ -4,7 +4,7 @@ title: "Kaufmann/-frau für Spedition und Logistikdienstleistung (Freight Forwar
 
 <div class="jig-page"></div>
 
-<p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/logistics/">Logistics</a></p>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/logistics/">Logistics</a> <span aria-hidden="true">›</span> <span aria-current="page">Kaufmann/-frau für Spedition und Logistikdienstleistung (Freight Forwarding Clerk)</span></nav>
 
 > Organises the movement of goods rather than moving them: routing, carrier contracting, customs, documentation and costing. The commercial half of logistics, and the most international job in this repo.
 
@@ -72,3 +72,5 @@ The most foreigner-friendly occupation in this repo after software development.
 - DSLV Bundesverband Spedition und Logistik — https://www.dslv.org , accessed 2026-09
 - Zoll — https://www.zoll.de , accessed 2026-09
 - BERUFENET — https://berufenet.arbeitsagentur.de , accessed 2026-09
+
+<p class="jig-back"><a href="/jobs-in-germany/logistics/">← Back to Logistics</a></p>

@@ -4,7 +4,7 @@ title: "Psychotherapeut/in (Psychotherapist)"
 
 <div class="jig-page"></div>
 
-<p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/healthcare/">Healthcare</a></p>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/healthcare/">Healthcare</a> <span aria-hidden="true">›</span> <span aria-current="page">Psychotherapeut/in (Psychotherapist)</span></nav>
 
 > Reformed in 2020 into a direct-study route ending in **Approbation** at the end of a Master's, replacing a post-graduate training that was among the worst-paid in German professional life. Then the second problem: a **licence to treat statutory patients is capped in number and effectively traded** for five- and six-figure sums.
 
@@ -122,3 +122,5 @@ Two honest qualifications. A Kassensitz is bought, so the headline practice inco
 - Bundespsychotherapeutenkammer — https://www.bptk.de , accessed 2026-09
 - Bedarfsplanungs-Richtlinie, G-BA — https://www.g-ba.de , accessed 2026-09
 - TVöD/TV-L pay tables — https://oeffentlicher-dienst.info , verified 2026-09
+
+<p class="jig-back"><a href="/jobs-in-germany/healthcare/">← Back to Healthcare</a></p>

@@ -4,7 +4,7 @@ title: "Tax and what actually reaches your account"
 
 <div class="jig-page"></div>
 
-<p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/reference/">Reference</a></p>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/reference/">Reference</a> <span aria-hidden="true">›</span> <span aria-current="page">Tax and what actually reaches your account</span></nav>
 
 Every figure in this repo is **gross**. This explains what comes off it, and why comparing gross salaries across professions — including in [pay.md](/jobs-in-germany/reference/pay/) — overstates the differences between them.
 
@@ -108,3 +108,5 @@ Not compulsory for every employee, but usually worth filing — refunds are comm
 - SGB IV, V, VI, XI — https://www.gesetze-im-internet.de , accessed 2026-09
 - ELSTER — https://www.elster.de , accessed 2026-09
 - Bundeszentralamt für Steuern — https://www.bzst.de , accessed 2026-09
+
+<p class="jig-back"><a href="/jobs-in-germany/reference/">← Back to Reference</a></p>

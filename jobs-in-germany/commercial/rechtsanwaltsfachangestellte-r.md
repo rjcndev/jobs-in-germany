@@ -4,7 +4,7 @@ title: "Rechtsanwaltsfachangestellte/r (Legal Secretary / Paralegal)"
 
 <div class="jig-page"></div>
 
-<p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/commercial/">Commercial</a></p>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/commercial/">Commercial</a> <span aria-hidden="true">›</span> <span aria-current="page">Rechtsanwaltsfachangestellte/r (Legal Secretary / Paralegal)</span></nav>
 
 > Runs a law firm's procedural machinery: deadlines, files, court filings and fee billing. Sits beneath a reserved profession, like [Steuerfachangestellte/r](/jobs-in-germany/commercial/steuerfachangestellte-r/) — but with a harder ceiling.
 
@@ -85,3 +85,5 @@ Severe shortage. Training numbers have fallen for years while the deadline and f
 - Rechtsanwaltsvergütungsgesetz (RVG) — https://www.gesetze-im-internet.de/rvg/ , accessed 2026-09
 - Bundesrechtsanwaltskammer — https://www.brak.de , accessed 2026-09
 - BERUFENET — https://berufenet.arbeitsagentur.de , accessed 2026-09
+
+<p class="jig-back"><a href="/jobs-in-germany/commercial/">← Back to Commercial</a></p>

@@ -4,7 +4,7 @@ title: "Raumausstatter/in (Interior Furnisher / Soft Furnishings Fitter)"
 
 <div class="jig-page"></div>
 
-<p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/skilled-trades/">Skilled trades (Handwerk)</a></p>
+<nav class="jig-crumbs" aria-label="Breadcrumb"><a href="/">Home</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/">Jobs in Germany</a> <span aria-hidden="true">›</span> <a href="/jobs-in-germany/skilled-trades/">Skilled trades (Handwerk)</a> <span aria-hidden="true">›</span> <span aria-current="page">Raumausstatter/in (Interior Furnisher / Soft Furnishings Fitter)</span></nav>
 
 > Written as a **case study of the 2020 re-regulation**, not as a generic trade profile. As a trade it would largely repeat [Elektroniker EGT](/jobs-in-germany/skilled-trades/elektroniker-in-energie-und-gebaeudetechnik/) and [SHK](/jobs-in-germany/skilled-trades/anlagenmechaniker-in-shk/) — three years, Handwerk, Anlage A, Meister for self-employment. What earns it a file is that it is one of **twelve trades whose Meisterpflicht Germany abolished in 2004 and restored in 2020** — and the workforce is now split between owners who need the Meisterbrief and owners who do not.
 
@@ -112,3 +112,5 @@ Against that: it competes with DIY and with cheap imported furniture at the low 
 - Zentralverband Raum und Ausstattung — https://www.zvr-ev.de , accessed 2026-09
 - ZDH, on the 2020 re-regulation — https://www.zdh.de , accessed 2026-09
 - BERUFENET — https://berufenet.arbeitsagentur.de , accessed 2026-09
+
+<p class="jig-back"><a href="/jobs-in-germany/skilled-trades/">← Back to Skilled trades (Handwerk)</a></p>
