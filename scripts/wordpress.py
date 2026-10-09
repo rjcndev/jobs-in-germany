@@ -275,16 +275,46 @@ def english_name(path):
     return m.group(1).split(' — ')[0].strip() if m else None
 
 
+PROFESSION_LINK = re.compile(r'\s*\[[^\]]*\]\((/jobs-in-germany/[^/)]+/[^/)]+/)\)')
+
+
 def english_in_tables(lines):
-    """In table cells that start with a link to a profession, add its English
-    name underneath (styled by .jig-en)."""
-    def cell(c):
-        m = re.match(r'(\s*\[([^\]]*)\]\((/jobs-in-germany/[^/)]+/[^/)]+/)\))', c)
-        name = english.get(m.group(3)) if m else None
-        if not name or name.lower() in c.lower():
-            return c
-        return f'{m.group(1)} <span class="jig-en">{html.escape(name, quote=False)}</span>{c[m.end():]}'
-    return ['|'.join(cell(c) for c in l.split('|')) if l.startswith('|') else l for l in lines]
+    """Give tables that list professions an "English" column right after the
+    profession column: the column where most rows start with a profession link,
+    or one headed "Profession" with at least one such link."""
+    out, i = [], 0
+    while i < len(lines):
+        if not (lines[i].startswith('|') and i + 1 < len(lines)
+                and re.match(r'^\|[\s|:-]+\|\s*$', lines[i + 1])):
+            out.append(lines[i]); i += 1; continue
+        j = i
+        while j < len(lines) and lines[j].startswith('|'):
+            j += 1
+        rows = [l.split('|') for l in lines[i:j]]
+        body = rows[2:]
+        hits = {}
+        for r in body:
+            for c, cell in enumerate(r):
+                m = PROFESSION_LINK.match(cell)
+                if m and english.get(m.group(1)):
+                    hits[c] = hits.get(c, 0) + 1
+                    break
+        col = max(hits, key=hits.get) if hits else None
+        headed = col is not None and rows[0][col].strip().lower() == 'profession'
+        if col is None or (hits[col] * 2 < len(body) and not headed):
+            out += lines[i:j]; i = j; continue
+        for n, r in enumerate(rows):
+            if n == 0:
+                new = ' English '
+            elif n == 1:
+                new = '---'
+            else:
+                m = PROFESSION_LINK.match(r[col]) if col < len(r) else None
+                new = f' {english.get(m.group(1)) or ""} ' if m else ' '
+            r.insert(col + 1, new)
+            out.append('|'.join(r))
+        i = j
+    return out
 
 
 def convert(src, url, text):
