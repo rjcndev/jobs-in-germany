@@ -4,8 +4,8 @@
 The repo's own links are relative paths to .md files so they work on GitHub and
 Gitea. WordPress pages live at different URLs, so this script writes a copy of
 the content with every link rewritten to the page it will become, and commits
-it to the `wordpress` branch without touching the working tree. Run with
-`make wordpress`, then `git push github wordpress`.
+it to the `wordpress` branch without touching the working tree. `make wordpress`
+runs it; `make publish` also checks the repo and pushes to Gitea and GitHub.
 
 Page layout under BASE (one Git It Write entry, branch `wordpress`, folder root):
 
@@ -397,4 +397,4 @@ with tempfile.TemporaryDirectory() as tmp:
     msg = f'Build WordPress pages from main@{head}'
     commit = git('commit-tree', tree, *(['-p', parent] if parent else []), '-m', msg)
     git('update-ref', f'refs/heads/{BRANCH}', commit)
-    print(f'{BRANCH} -> {commit[:7]}: {len(pages)} pages. Push with: git push github {BRANCH}')
+    print(f'{BRANCH} -> {commit[:7]}: {len(pages)} pages. Publish with: make publish')

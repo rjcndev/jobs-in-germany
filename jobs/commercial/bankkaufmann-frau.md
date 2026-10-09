@@ -112,7 +112,6 @@ qualification is a strong foundation; a career planned around a branch counter i
 ## Sources
 
 - WpHG §87 — https://www.gesetze-im-internet.de/wphg/ , accessed 2026-09
-- MaAnzV — https://www.gesetze-im-internet.de/maanzv/ , accessed 2026-09
 - BaFin employee register — https://www.bafin.de , accessed 2026-09
 - TVöD-S pay table — https://oeffentlicher-dienst.info , verified 2026-09
 - BERUFENET — https://berufenet.arbeitsagentur.de , accessed 2026-09
