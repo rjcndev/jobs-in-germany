@@ -6,10 +6,7 @@ title: "Gärtner/in (Horticulturist / Landscape Gardener)"
 
 <p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/green/">Grüne Berufe — agriculture, forestry and horticulture</a></p>
 
-> Seven Fachrichtungen under one job title, and they are not variations on a theme — the
-> largest, **Garten- und Landschaftsbau**, is a construction trade in all but name and is
-> booming on urban greening and climate adaptation, while the production Fachrichtungen are
-> under real pressure from imports and energy costs. Choose the Fachrichtung deliberately.
+> Seven Fachrichtungen under one job title, and they are not variations on a theme — the largest, **Garten- und Landschaftsbau**, is a construction trade in all but name and is booming on urban greening and climate adaptation, while the production Fachrichtungen are under real pressure from imports and energy costs. Choose the Fachrichtung deliberately.
 
 <div class="jig-facts"></div>
 
@@ -25,8 +22,7 @@ title: "Gärtner/in (Horticulturist / Landscape Gardener)"
 
 ## The seven Fachrichtungen {#the-seven-fachrichtungen}
 
-Certified **on the qualification**, chosen during the Ausbildung, and they lead to different
-industries:
+Certified **on the qualification**, chosen during the Ausbildung, and they lead to different industries:
 
 | Fachrichtung | What it is | Outlook |
 |---|---|---|
@@ -38,10 +34,7 @@ industries:
 | **Staudengärtnerei** | Perennial production | Small, specialist |
 | **Friedhofsgärtnerei** | Cemetery planting and grave care | **Declining** with changing burial culture |
 
-**GaLaBau is where most of the money and most of the jobs are**, and someone drawn to
-"working with plants" who ends up there will find themselves laying paving and operating a
-mini-excavator. That is not a complaint — it is the best-paid part of the trade — but it
-should not be a surprise.
+**GaLaBau is where most of the money and most of the jobs are**, and someone drawn to "working with plants" who ends up there will find themselves laying paving and operating a mini-excavator. That is not a complaint — it is the best-paid part of the trade — but it should not be a surprise.
 
 ## What GaLaBau actually involves {#what-galabau-actually-involves}
 
@@ -49,34 +42,25 @@ Close to the [construction trades](/jobs-in-germany/skilled-trades/maurer-in/) i
 
 - **Wegebau und Pflasterarbeiten** — paths, drives, terraces
 - **Mauern, Treppen, Erdbau** — retaining structures and earthworks, with plant
-- **Entwässerung und Regenwassermanagement** — increasingly the technical heart of the job
-  as cities try to retain and infiltrate stormwater rather than pipe it away
-- **Pflanzung und Pflege** — trees, shrubs, lawns, meadows, and long-term maintenance
-  contracts that are the sector's stable revenue
+- **Entwässerung und Regenwassermanagement** — increasingly the technical heart of the job as cities try to retain and infiltrate stormwater rather than pipe it away
+- **Pflanzung und Pflege** — trees, shrubs, lawns, meadows, and long-term maintenance contracts that are the sector's stable revenue
 - **Dachbegrünung** — green roofs, alongside [roofers](/jobs-in-germany/skilled-trades/dachdecker-in/)
-- **Baumpflege** — tree care, pruning, felling, with **chainsaw certification** and, for the
-  climbing work, **Seilklettertechnik** qualifications
+- **Baumpflege** — tree care, pruning, felling, with **chainsaw certification** and, for the climbing work, **Seilklettertechnik** qualifications
 - **Sportplatzbau** — pitches and their irrigation and drainage
 
 ## The climate-adaptation growth story {#the-climate-adaptation-growth-story}
 
-This is the reason the trade's outlook is better than its pay history suggests. German
-municipalities are under pressure to:
+This is the reason the trade's outlook is better than its pay history suggests. German municipalities are under pressure to:
 
-- **retain stormwater locally** rather than discharge it — the *Schwammstadt* concept — which
-  means infiltration systems, swales, permeable surfaces and tree pits designed to hold water
-- **plant and keep street trees alive** through hotter, drier summers, which has turned tree
-  care and establishment maintenance into a specialism
+- **retain stormwater locally** rather than discharge it — the *Schwammstadt* concept — which means infiltration systems, swales, permeable surfaces and tree pits designed to hold water
+- **plant and keep street trees alive** through hotter, drier summers, which has turned tree care and establishment maintenance into a specialism
 - **cool built-up areas** with green roofs, facades and shade planting
 
-All of it is publicly funded, all of it is technical, and there are not enough people who can
-do it. Alongside that, private garden work has been strong for years.
+All of it is publicly funded, all of it is technical, and there are not enough people who can do it. Alongside that, private garden work has been strong for years.
 
 ## Pay {#pay}
 
-**Market estimate.** The **GaLaBau tariff** is comparatively strong and widely applied in the
-sector; the production Fachrichtungen are much more weakly covered and sit closer to the
-statutory minimum.
+**Market estimate.** The **GaLaBau tariff** is comparatively strong and widely applied in the sector; the production Fachrichtungen are much more weakly covered and sit closer to the statutory minimum.
 
 | Stage | Gross/month |
 |---|---|
@@ -88,46 +72,30 @@ statutory minimum.
 | **Meister**, employed | €4,000 – €5,000 |
 | Municipal Grünflächenamt (TVöD EG 5–7) | **€3,124 – €4,045** |
 
-TVöD row verified for this repo, valid **01.05.2026 – 31.03.2027**. Municipal parks
-departments are a steady, underrated employer in this trade, exactly as the
-[Bauhof](/jobs-in-germany/skilled-trades/strassenbauer-betonbauer/) is in road building.
+TVöD row verified for this repo, valid **01.05.2026 – 31.03.2027**. Municipal parks departments are a steady, underrated employer in this trade, exactly as the [Bauhof](/jobs-in-germany/skilled-trades/strassenbauer-betonbauer/) is in road building.
 
 ## Qualification route and what sits above {#qualification-route-and-what-sits-above}
 
 - **3 years dual**, examined by the Landwirtschaftskammer or state authority
-- **Above it:** **Gärtnermeister/in** in the chosen Fachrichtung; **Techniker** in
-  Landbau or Garten- und Landschaftsbau; or a Bachelor in **Landschaftsbau** or
-  **Landschaftsarchitektur** — which connects to the
-  [Architektenkammer's Landschaftsarchitektur register](/jobs-in-germany/engineering/architekt-in/) and
-  is the design side of the same work
-- **Certificates that pay for themselves:** Pflanzenschutz-Sachkunde (with a three-yearly
-  refresher), **Motorsägenlehrgang**, **Seilklettertechnik SKT A/B**, **FLL-zertifizierte
-  Baumkontrolle**, and plant and machinery tickets. See
-  [occupational certificates](/jobs-in-germany/reference/occupational-certificates/)
+- **Above it:** **Gärtnermeister/in** in the chosen Fachrichtung; **Techniker** in Landbau or Garten- und Landschaftsbau; or a Bachelor in **Landschaftsbau** or **Landschaftsarchitektur** — which connects to the [Architektenkammer's Landschaftsarchitektur register](/jobs-in-germany/engineering/architekt-in/) and is the design side of the same work
+- **Certificates that pay for themselves:** Pflanzenschutz-Sachkunde (with a three-yearly refresher), **Motorsägenlehrgang**, **Seilklettertechnik SKT A/B**, **FLL-zertifizierte Baumkontrolle**, and plant and machinery tickets. See [occupational certificates](/jobs-in-germany/reference/occupational-certificates/)
 
 ## Foreign candidates {#foreign-candidates}
 
 1. **To work: no recognition required.**
-2. **For the visa: yes** — via the **Landwirtschaftskammer** or the state authority, not IHK
-   FOSA or the HWK.
-3. **Language: B1–B2.** Safety, plant names in German and Latin, and — in GaLaBau — private
-   customers, which raises the bar.
+2. **For the visa: yes** — via the **Landwirtschaftskammer** or the state authority, not IHK FOSA or the HWK.
+3. **Language: B1–B2.** Safety, plant names in German and Latin, and — in GaLaBau — private customers, which raises the bar.
 4. **Chainsaw and climbing certification are German** and must be re-sat.
 5. **Visa:** §18a, **§16a**, or **§26(2) BeschV**.
-6. **Seasonal harvest work in the production Fachrichtungen** follows the 70-day model
-   described in [Landwirt/in](/jobs-in-germany/green/landwirt-in/) — a different arrangement entirely from
-   qualified employment.
+6. **Seasonal harvest work in the production Fachrichtungen** follows the 70-day model described in [Landwirt/in](/jobs-in-germany/green/landwirt-in/) — a different arrangement entirely from qualified employment.
 
 ## Pitfalls {#pitfalls}
 
-- **Choose the Fachrichtung with the outlook in mind.** It is on the certificate, and moving
-  between them later means retraining in practice if not on paper.
+- **Choose the Fachrichtung with the outlook in mind.** It is on the certificate, and moving between them later means retraining in practice if not on paper.
 - **GaLaBau is construction work.** Expect paving, excavators and weather, not borders.
-- **Production horticulture pays poorly** and is genuinely exposed to imports and energy
-  prices. Be clear-eyed about it.
+- **Production horticulture pays poorly** and is genuinely exposed to imports and energy prices. Be clear-eyed about it.
 - **Baumpflege is the best-paid niche** and requires certification you cannot improvise.
-- **Winter varies by employer** — GaLaBau firms often shut down or reduce hours; municipal
-  employers redeploy to winter service.
+- **Winter varies by employer** — GaLaBau firms often shut down or reduce hours; municipal employers redeploy to winter service.
 
 ## Sources {#sources}
 

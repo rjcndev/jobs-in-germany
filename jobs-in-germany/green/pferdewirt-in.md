@@ -6,11 +6,7 @@ title: "Pferdewirt/in (Equine Professional)"
 
 <p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/green/">Grüne Berufe — agriculture, forestry and horticulture</a></p>
 
-> This is the file where the repo's honesty convention matters most. There is no shortage of
-> people who want to work with horses, and that surplus of willing applicants is exactly why
-> the pay is low, the hours are long and the employment-law compliance is poor. The work is
-> real, skilled and physically dangerous. It is also one of the worst-paid qualified
-> occupations in this collection.
+> This is the file where the repo's honesty convention matters most. There is no shortage of people who want to work with horses, and that surplus of willing applicants is exactly why the pay is low, the hours are long and the employment-law compliance is poor. The work is real, skilled and physically dangerous. It is also one of the worst-paid qualified occupations in this collection.
 
 <div class="jig-facts"></div>
 
@@ -34,8 +30,7 @@ title: "Pferdewirt/in (Equine Professional)"
 | **Pferderennen** | Racing — flat, jumps and harness. A small, separate world |
 | **Spezialreitweisen** | Western and gaited disciplines |
 
-Above them: **Pferdewirtschaftsmeister/in**, which is the qualification for running a yard,
-training at a professional level and taking apprentices.
+Above them: **Pferdewirtschaftsmeister/in**, which is the qualification for running a yard, training at a professional level and taking apprentices.
 
 ## The parallel qualification system {#the-parallel-qualification-system}
 
@@ -48,26 +43,15 @@ Confusing from outside, and worth getting right:
 | Counts for a visa? | **Yes** — §18a | **No** |
 | Who holds it | Career professionals | Many riding instructors, including part-time ones |
 
-Plenty of people teach riding in Germany on a Trainer licence with no Ausbildung. That is
-legal — instruction is unregulated — but it is not a vocational qualification, and for anyone
-thinking about immigration the distinction is decisive.
+Plenty of people teach riding in Germany on a Trainer licence with no Ausbildung. That is legal — instruction is unregulated — but it is not a vocational qualification, and for anyone thinking about immigration the distinction is decisive.
 
 ## What the work involves {#what-the-work-involves}
 
-Mucking out, feeding, turnout, grooming, tack, clipping, first-line health checks and
-veterinary support, lungeing and riding, transport, facility and paddock maintenance,
-competition preparation and travel, and — in a livery yard — managing owners, who are
-customers with strong opinions about their animals.
+Mucking out, feeding, turnout, grooming, tack, clipping, first-line health checks and veterinary support, lungeing and riding, transport, facility and paddock maintenance, competition preparation and travel, and — in a livery yard — managing owners, who are customers with strong opinions about their animals.
 
-**The hours are the defining feature.** Horses are fed and checked early and late, seven days
-a week. Six-day weeks, split shifts, weekend competitions and on-call foaling duty are
-normal, and accommodation on the yard is common — which blurs work and rest in a way the
-[Arbeitszeitgesetz](/jobs-in-germany/reference/employment-basics/) does not permit but the sector
-frequently practises.
+**The hours are the defining feature.** Horses are fed and checked early and late, seven days a week. Six-day weeks, split shifts, weekend competitions and on-call foaling duty are normal, and accommodation on the yard is common — which blurs work and rest in a way the [Arbeitszeitgesetz](/jobs-in-germany/reference/employment-basics/) does not permit but the sector frequently practises.
 
-**It is also genuinely dangerous.** Horses injure people seriously and unpredictably: kicks,
-crush injuries, falls. The accident rate is among the higher ones in this repo, and the
-agricultural Berufsgenossenschaft's rules on handling, equipment and helmets apply.
+**It is also genuinely dangerous.** Horses injure people seriously and unpredictably: kicks, crush injuries, falls. The accident rate is among the higher ones in this repo, and the agricultural Berufsgenossenschaft's rules on handling, equipment and helmets apply.
 
 ## Pay {#pay}
 
@@ -81,57 +65,37 @@ agricultural Berufsgenossenschaft's rules on handling, equipment and helmets app
 | Yard manager, large professional operation | €3,400 – €4,500 |
 | Self-employed trainer / yard owner | Not comparable — a small business, asset-heavy |
 
-**Accommodation and keeping your own horse are frequently part of the package**, and they are
-also how below-market cash pay gets rationalised. Both have a statutory valuation, both
-should be in the contract, and neither is a substitute for the minimum wage — which applies
-here in full.
+**Accommodation and keeping your own horse are frequently part of the package**, and they are also how below-market cash pay gets rationalised. Both have a statutory valuation, both should be in the contract, and neither is a substitute for the minimum wage — which applies here in full.
 
 ## Demand and outlook {#demand-and-outlook}
 
 **Many vacancies, high turnover, and a sector that loses its trained people.**
 
-Germany has a very large equestrian sector — leisure riding, sport, breeding and a
-substantial horse industry — so there is no shortage of jobs. What there is, consistently, is
-a shortage of *qualified people willing to stay*, because the pay and hours drive them out
-within a few years. Published analyses of the occupation describe this as its central
-problem, and the professional bodies say so themselves.
+Germany has a very large equestrian sector — leisure riding, sport, breeding and a substantial horse industry — so there is no shortage of jobs. What there is, consistently, is a shortage of *qualified people willing to stay*, because the pay and hours drive them out within a few years. Published analyses of the occupation describe this as its central problem, and the professional bodies say so themselves.
 
 What follows practically:
 
-- **Getting a first job is easy.** Building a career requires deliberately moving toward the
-  Meister, yard management, or self-employment
+- **Getting a first job is easy.** Building a career requires deliberately moving toward the Meister, yard management, or self-employment
 - **Professional sport and high-end breeding** pay better and are competitive to enter
 - **Leisure riding is the volume market** and is where the pay is lowest
-- **Horse numbers are broadly stable**, but costs — feed, bedding, energy, veterinary — have
-  risen faster than what customers will pay in livery fees, which squeezes employers
-  genuinely, not only rhetorically
+- **Horse numbers are broadly stable**, but costs — feed, bedding, energy, veterinary — have risen faster than what customers will pay in livery fees, which squeezes employers genuinely, not only rhetorically
 
 ## Foreign candidates {#foreign-candidates}
 
-1. **To work: no recognition required.** The occupation is unregulated, and yards hire on
-   demonstrated ability.
-2. **For the visa: yes, and this is where it gets strict.** §18a needs a recognised
-   vocational qualification, assessed by the **Landwirtschaftskammer**. **Riding
-   qualifications, competition records and federation licences are not vocational
-   qualifications** and do not support the permit, however impressive.
+1. **To work: no recognition required.** The occupation is unregulated, and yards hire on demonstrated ability.
+2. **For the visa: yes, and this is where it gets strict.** §18a needs a recognised vocational qualification, assessed by the **Landwirtschaftskammer**. **Riding qualifications, competition records and federation licences are not vocational qualifications** and do not support the permit, however impressive.
 3. **Language: B1–B2.** Owners, vets, transport and safety.
 4. **Visa:** §18a with recognition, **§16a** to train here, or **§26(2) BeschV**.
-5. **EU citizens can simply take the work**, which is why much of the sector's labour comes
-   from within the EU.
+5. **EU citizens can simply take the work**, which is why much of the sector's labour comes from within the EU.
 
 ## Pitfalls {#pitfalls}
 
-- **Get the contract in writing, including hours, accommodation and what is deducted for
-  it.** This is the sector's weakest point and the thing most worth insisting on.
-- **Working time is working time**, including early and late stable duty. The obligation to
-  record it applies here too.
+- **Get the contract in writing, including hours, accommodation and what is deducted for it.** This is the sector's weakest point and the thing most worth insisting on.
+- **Working time is working time**, including early and late stable duty. The obligation to record it applies here too.
 - **"Board and a horse" is not pay.** Value it, in the contract, at the statutory rates.
-- **Plan for the Meister from the start** if you intend to stay in the occupation. Without
-  it the ceiling arrives quickly and low.
-- **Do not confuse a Trainer licence with a qualification** if immigration is part of your
-  plan.
-- **Be honest with yourself about the body.** Few people do full-time stable work into their
-  fifties without a route into management, instruction or business ownership.
+- **Plan for the Meister from the start** if you intend to stay in the occupation. Without it the ceiling arrives quickly and low.
+- **Do not confuse a Trainer licence with a qualification** if immigration is part of your plan.
+- **Be honest with yourself about the body.** Few people do full-time stable work into their fifties without a route into management, instruction or business ownership.
 
 ## Sources {#sources}
 

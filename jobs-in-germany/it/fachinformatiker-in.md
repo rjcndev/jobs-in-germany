@@ -6,8 +6,7 @@ title: "Fachinformatiker/in (IT Specialist, dual-trained)"
 
 <p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/it/">IT</a></p>
 
-> The vocational route into IT: three years of paid, employer-based training with an IHK
-> qualification at the end. The standard German alternative to a CS degree.
+> The vocational route into IT: three years of paid, employer-based training with an IHK qualification at the end. The standard German alternative to a CS degree.
 
 <div class="jig-facts"></div>
 
@@ -35,13 +34,10 @@ Pick deliberately: the specialisation is on the certificate and employers read i
 
 ## Qualification route {#qualification-route}
 
-- **3 years dual**: employed by a company (typically 3 days/week) and schooled at a
-  Berufsschule (2 days/week), with block variants
+- **3 years dual**: employed by a company (typically 3 days/week) and schooled at a Berufsschule (2 days/week), with block variants
 - **Entry:** mittlerer Schulabschluss in practice; formally no fixed requirement
-- **Paid throughout:** roughly €1,000–1,250/month gross depending on year and sector.
-  IG Metall and public-sector trainees are at the top of that range.
-- **Ends with** the IHK Abschlussprüfung, now a two-part exam spread across the training
-  rather than one final
+- **Paid throughout:** roughly €1,000–1,250/month gross depending on year and sector. IG Metall and public-sector trainees are at the top of that range.
+- **Ends with** the IHK Abschlussprüfung, now a two-part exam spread across the training rather than one final
 
 ## Pay after qualifying {#pay-after-qualifying}
 
@@ -51,28 +47,19 @@ Pick deliberately: the specialisation is on the certificate and employers read i
 | A few years in | €48,000 – €60,000 |
 | Senior, or with Weiterbildung | €60,000 – €75,000+ |
 
-The trajectory converges with degree holders after roughly five years in most companies —
-with two caveats. Some large corporates still gate senior and management bands on a degree,
-and the EU Blue Card requires one.
+The trajectory converges with degree holders after roughly five years in most companies — with two caveats. Some large corporates still gate senior and management bands on a degree, and the EU Blue Card requires one.
 
-Common upgrades afterwards: **IT-Fachwirt**, **Fachinformatiker + Bachelor part-time**, or
-vendor certifications for the Systemintegration track.
+Common upgrades afterwards: **IT-Fachwirt**, **Fachinformatiker + Bachelor part-time**, or vendor certifications for the Systemintegration track.
 
 ## For foreign candidates {#for-foreign-candidates}
 
-An Ausbildung place is a legitimate immigration route (**§16a AufenthG** for vocational
-training) and requires **B1–B2 German**, since Berufsschule is taught in German. It is a
-slower but much cheaper path than a degree, and you are paid throughout.
+An Ausbildung place is a legitimate immigration route (**§16a AufenthG** for vocational training) and requires **B1–B2 German**, since Berufsschule is taught in German. It is a slower but much cheaper path than a degree, and you are paid throughout.
 
-If you already hold a foreign IT qualification, you do **not** need it recognised to work —
-IT is unregulated. You may still want a **Gleichwertigkeitsfeststellung** from the IHK
-(under the BQFG) because it helps with visa paperwork and with conservative employers.
+If you already hold a foreign IT qualification, you do **not** need it recognised to work — IT is unregulated. You may still want a **Gleichwertigkeitsfeststellung** from the IHK (under the BQFG) because it helps with visa paperwork and with conservative employers.
 
 ## Pitfalls {#pitfalls}
 
-- **Training quality varies enormously.** A good Ausbildungsbetrieb rotates you through
-  real projects; a bad one uses trainees as cheap helpdesk. Ask what the last three
-  trainees do now.
+- **Training quality varies enormously.** A good Ausbildungsbetrieb rotates you through real projects; a bad one uses trainees as cheap helpdesk. Ask what the last three trainees do now.
 - **Berufsschule is in German**, including the exam. No exceptions.
 - **The degree gate** is real in parts of the corporate world, and in the Blue Card rules.
 

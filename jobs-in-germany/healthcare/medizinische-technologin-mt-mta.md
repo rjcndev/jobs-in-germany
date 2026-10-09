@@ -6,8 +6,7 @@ title: "Medizinische/r Technologe/Technologin (MT) — formerly MTA"
 
 <p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/healthcare/">Healthcare</a></p>
 
-> Runs the diagnostic technology behind medical decisions: lab analyses, imaging, and
-> functional testing. Doctors interpret results; MTs produce them.
+> Runs the diagnostic technology behind medical decisions: lab analyses, imaging, and functional testing. Doctors interpret results; MTs produce them.
 
 <div class="jig-facts"></div>
 
@@ -23,15 +22,13 @@ title: "Medizinische/r Technologe/Technologin (MT) — formerly MTA"
 
 ## The 2023 renaming {#the-2023-renaming}
 
-The **MT-Berufe-Gesetz (MTBG)** and its training regulation **MTAPrV** took effect on
-1 January 2023, replacing the 1993 MTA-Gesetz. Three things changed:
+The **MT-Berufe-Gesetz (MTBG)** and its training regulation **MTAPrV** took effect on 1 January 2023, replacing the 1993 MTA-Gesetz. Three things changed:
 
 - "MTA" became "MT" across all branches
 - School fees were abolished
 - Training compensation (Ausbildungsvergütung) became mandatory
 
-In practice the old abbreviations persist. Search job boards for both — an ad headed
-"MTLA gesucht" and one headed "MTL (m/w/d)" are the same job.
+In practice the old abbreviations persist. Search job boards for both — an ad headed "MTLA gesucht" and one headed "MTL (m/w/d)" are the same job.
 
 ## Specialisations {#specialisations}
 
@@ -46,33 +43,23 @@ You qualify in **one** branch. Moving between them later means retraining, not a
 
 ## What the job involves {#what-the-job-involves}
 
-- **MTL** — receiving samples, running and maintaining analysers, validating results,
-  flagging implausible values, quality control. Hospital labs run 24/7, so shift work and
-  on-call (Rufbereitschaft) are normal.
-- **MTR** — positioning patients, operating imaging equipment, applying dose limits under
-  radiation protection law (StrlSchV), administering contrast media under supervision.
-  Direct patient contact all day; emergency imaging means nights and weekends.
-- **MTF** — attaching electrodes and sensors, running functional tests, producing clean
-  traces. Mostly day shifts, more outpatient-oriented.
+- **MTL** — receiving samples, running and maintaining analysers, validating results, flagging implausible values, quality control. Hospital labs run 24/7, so shift work and on-call (Rufbereitschaft) are normal.
+- **MTR** — positioning patients, operating imaging equipment, applying dose limits under radiation protection law (StrlSchV), administering contrast media under supervision. Direct patient contact all day; emergency imaging means nights and weekends.
+- **MTF** — attaching electrodes and sensors, running functional tests, producing clean traces. Mostly day shifts, more outpatient-oriented.
 - **MTV** — as MTL, in veterinary labs, research institutes, and food safety testing.
 
 ## Qualification route {#qualification-route}
 
-- **3 years**, at an MT-Schule usually attached to a hospital; theory blocks alternating
-  with clinical practice
-- **Entry:** mittlerer Schulabschluss (~10 years of schooling) or equivalent; some schools
-  accept Hauptschulabschluss plus a completed Ausbildung
+- **3 years**, at an MT-Schule usually attached to a hospital; theory blocks alternating with clinical practice
+- **Entry:** mittlerer Schulabschluss (~10 years of schooling) or equivalent; some schools accept Hauptschulabschluss plus a completed Ausbildung
 - **Pay during training:** roughly €1,200–1,400/month gross, rising each year
 - **Ends with** a state examination (staatliche Prüfung); passing it triggers the licence
 
-A Bachelor route exists at some universities (e.g. Medizinische Technologie B.Sc.) but the
-vocational route remains dominant and is what employers expect.
+A Bachelor route exists at some universities (e.g. Medizinische Technologie B.Sc.) but the vocational route remains dominant and is what employers expect.
 
 ## Pay {#pay}
 
-Public hospitals pay under **TVöD-K**, typically **Entgeltgruppe 9a**. Gross monthly, from
-the table valid **01.05.2026 – 31.03.2027**, verified against the published TVöD VKA
-scale 2026-09:
+Public hospitals pay under **TVöD-K**, typically **Entgeltgruppe 9a**. Gross monthly, from the table valid **01.05.2026 – 31.03.2027**, verified against the published TVöD VKA scale 2026-09:
 
 | Stage | Gross/month |
 |---|---|
@@ -80,50 +67,31 @@ scale 2026-09:
 | Mid-career (Stufe 3–4) | €4,098 – €4,587 |
 | Experienced (Stufe 5–6) | €4,697 – €4,980 |
 
-On top of that: shift supplements (Schichtzulage), night and weekend rates, on-call pay,
-and in radiology sometimes a radiation-exposure allowance. For MTR with regular night
-duty these add meaningfully to take-home.
+On top of that: shift supplements (Schichtzulage), night and weekend rates, on-call pay, and in radiology sometimes a radiation-exposure allowance. For MTR with regular night duty these add meaningfully to take-home.
 
-Private labs and practice chains often pay **below** TVöD; university hospitals and large
-municipal hospitals pay at or slightly above it. Bavaria and Baden-Württemberg pay more in
-nominal terms and cost more to live in.
+Private labs and practice chains often pay **below** TVöD; university hospitals and large municipal hospitals pay at or slightly above it. Bavaria and Baden-Württemberg pay more in nominal terms and cost more to live in.
 
 ## Employers and demand {#employers-and-demand}
 
-Hospitals, university clinics, private laboratory groups (Synlab, Labor Berlin, Sonic),
-radiology practices, blood donation services, public health offices, pharmaceutical and
-research institutes.
+Hospitals, university clinics, private laboratory groups (Synlab, Labor Berlin, Sonic), radiology practices, blood donation services, public health offices, pharmaceutical and research institutes.
 
-**MTL and MTR appear on shortage lists (Engpassberufe) in most Bundesländer.** That is a
-practical advantage: employers recruit internationally, and shortage status eases the
-skilled-worker visa path.
+**MTL and MTR appear on shortage lists (Engpassberufe) in most Bundesländer.** That is a practical advantage: employers recruit internationally, and shortage status eases the skilled-worker visa path.
 
 ## Foreign-trained candidates {#foreign-trained-candidates}
 
-1. **Apply for Anerkennung** to the competent authority in the Bundesland where you intend
-   to work — Landesprüfungsamt, Regierungspräsidium, or Landesamt für Gesundheit depending
-   on the state. There is no single national office.
-2. **Gleichwertigkeitsprüfung** — your training is compared against the German curriculum
-   in content and hours.
-3. **Closing gaps** — either an **Anpassungslehrgang** (supervised adaptation period at a
-   hospital, typically 6–12 months) or a **Kenntnisprüfung** (practical and oral exam).
-   You can usually choose; the exam is faster, the course is safer.
-4. **Language** — **B2** German is the general minimum. Several states and many employers
-   want **C1** or a **Fachsprachprüfung** for patient-facing branches (MTR especially).
-5. **Visa** — **§16d AufenthG** to enter while recognition is still in progress, or the
-   standard skilled-worker route under the Fachkräfteeinwanderungsgesetz once the licence
-   is granted. EU/EEA qualifications go through a faster, directive-based procedure.
+1. **Apply for Anerkennung** to the competent authority in the Bundesland where you intend to work — Landesprüfungsamt, Regierungspräsidium, or Landesamt für Gesundheit depending on the state. There is no single national office.
+2. **Gleichwertigkeitsprüfung** — your training is compared against the German curriculum in content and hours.
+3. **Closing gaps** — either an **Anpassungslehrgang** (supervised adaptation period at a hospital, typically 6–12 months) or a **Kenntnisprüfung** (practical and oral exam). You can usually choose; the exam is faster, the course is safer.
+4. **Language** — **B2** German is the general minimum. Several states and many employers want **C1** or a **Fachsprachprüfung** for patient-facing branches (MTR especially).
+5. **Visa** — **§16d AufenthG** to enter while recognition is still in progress, or the standard skilled-worker route under the Fachkräfteeinwanderungsgesetz once the licence is granted. EU/EEA qualifications go through a faster, directive-based procedure.
 
 ## Pitfalls {#pitfalls}
 
-- **Recognition is state-bound in practice.** Get it where you will actually work; moving
-  states afterwards is usually administrative but not automatic.
-- **Documents need sworn translation** (beglaubigte Übersetzung by a court-sworn
-  translator) — budget weeks and a few hundred euros.
+- **Recognition is state-bound in practice.** Get it where you will actually work; moving states afterwards is usually administrative but not automatic.
+- **Documents need sworn translation** (beglaubigte Übersetzung by a court-sworn translator) — budget weeks and a few hundred euros.
 - **Kenntnisprüfung dates are limited**, sometimes twice a year. Missing one costs months.
 - **The old titles in ads are not a mistake** — do not filter them out when job hunting.
-- **Radiation protection**: MTR work requires documented Strahlenschutz qualification;
-  foreign equivalents are not always accepted without a top-up course.
+- **Radiation protection**: MTR work requires documented Strahlenschutz qualification; foreign equivalents are not always accepted without a top-up course.
 
 ## Sources {#sources}
 

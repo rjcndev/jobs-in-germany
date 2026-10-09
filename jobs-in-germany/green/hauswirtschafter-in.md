@@ -6,11 +6,7 @@ title: "Hauswirtschafter/in (Home Economics / Institutional Housekeeping)"
 
 <p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/green/">Grüne Berufe — agriculture, forestry and horticulture</a></p>
 
-> Formally one of the **Grüne Berufe**, and almost nobody who holds it works on a farm. In
-> practice it is the qualified profession behind catering, hygiene and daily living in **care
-> homes, schools, Kitas and institutions** — which puts it directly above the unqualified
-> [cleaning tiers](/jobs-in-germany/services/), and makes it the most useful upward route out of
-> them.
+> Formally one of the **Grüne Berufe**, and almost nobody who holds it works on a farm. In practice it is the qualified profession behind catering, hygiene and daily living in **care homes, schools, Kitas and institutions** — which puts it directly above the unqualified [cleaning tiers](/jobs-in-germany/services/), and makes it the most useful upward route out of them.
 
 <div class="jig-facts"></div>
 
@@ -26,14 +22,9 @@ title: "Hauswirtschafter/in (Home Economics / Institutional Housekeeping)"
 
 ## Why it is classified as a green profession {#why-it-is-classified-as-a-green-profession}
 
-Historically the occupation was the farm household: feeding, provisioning and running a rural
-holding alongside the [Landwirt](/jobs-in-germany/green/landwirt-in/). The classification and the examining body
-stayed where they were; the employment moved.
+Historically the occupation was the farm household: feeding, provisioning and running a rural holding alongside the [Landwirt](/jobs-in-germany/green/landwirt-in/). The classification and the examining body stayed where they were; the employment moved.
 
-**This matters administratively.** The competent body for a foreign qualification is the
-**Landwirtschaftskammer** or a state authority — not the IHK, and not the body that oversees
-the care home you will actually work in. It is the same trap the whole
-[green sector](/jobs-in-germany/green/) sets.
+**This matters administratively.** The competent body for a foreign qualification is the **Landwirtschaftskammer** or a state authority — not the IHK, and not the body that oversees the care home you will actually work in. It is the same trap the whole [green sector](/jobs-in-germany/green/) sets.
 
 ## What the job actually involves {#what-the-job-actually-involves}
 
@@ -46,10 +37,7 @@ the care home you will actually work in. It is the same trap the whole
 | **Hauswirtschaftliche Versorgung** in care | In a care home this is a **funded part of the care package**, not an overhead — which is why the role is secure |
 | **Organisation** | Purchasing, stock, budgets, rosters, and supervising unqualified staff |
 
-In care and Eingliederungshilfe settings there is also a **relational** element that the job
-title hides: cooking and eating together is daily structure for residents, and the
-Hauswirtschaft staff are often the people with the most ordinary, least clinical contact with
-them.
+In care and Eingliederungshilfe settings there is also a **relational** element that the job title hides: cooking and eating together is daily structure for residents, and the Hauswirtschaft staff are often the people with the most ordinary, least clinical contact with them.
 
 ## Confusable roles {#confusable-roles}
 
@@ -75,70 +63,45 @@ them.
 
 TVöD row is the scale verified for this repo, valid **01.05.2026 – 31.03.2027**.
 
-**The tariff gap is the point.** The same work pays materially more at a municipal,
-church-affiliated or public employer than at a private contractor, and in this occupation the
-public and church providers are the *majority* of the sector — care homes, schools, Kitas and
-hospitals. That makes the better-paid employer the normal one, which is unusual in this part
-of the pay table.
+**The tariff gap is the point.** The same work pays materially more at a municipal, church-affiliated or public employer than at a private contractor, and in this occupation the public and church providers are the *majority* of the sector — care homes, schools, Kitas and hospitals. That makes the better-paid employer the normal one, which is unusual in this part of the pay table.
 
 ## Demand and outlook {#demand-and-outlook}
 
 **Strong, and with a dated driver.**
 
-- **Care homes** need Hauswirtschaft staff as a funded part of their service, and the number
-  of residents is rising with demographics.
-- **School catering is expanding sharply** because of the statutory entitlement to
-  all-day primary schooling, which is being phased in from the 2026/27 school year. Every
-  school that adds a lunch service needs people who can run one to hygiene and nutrition
-  standards.
+- **Care homes** need Hauswirtschaft staff as a funded part of their service, and the number of residents is rising with demographics.
+- **School catering is expanding sharply** because of the statutory entitlement to all-day primary schooling, which is being phased in from the 2026/27 school year. Every school that adds a lunch service needs people who can run one to hygiene and nutrition standards.
 - **Kitas** likewise.
-- **Qualified staff are scarce**, because the occupation is invisible: people do the work
-  unqualified for years without knowing the qualification exists.
+- **Qualified staff are scarce**, because the occupation is invisible: people do the work unqualified for years without knowing the qualification exists.
 
 ## The route up from unqualified work {#the-route-up-from-unqualified-work}
 
-This is the most practically useful thing in this file, and it is why it cross-references the
-[services folder](/jobs-in-germany/services/).
+This is the most practically useful thing in this file, and it is why it cross-references the [services folder](/jobs-in-germany/services/).
 
-Someone working as a Küchenhilfe, Reinigungskraft or Betreuungskraft in a care home is
-already doing parts of this job. The routes to the qualification:
+Someone working as a Küchenhilfe, Reinigungskraft or Betreuungskraft in a care home is already doing parts of this job. The routes to the qualification:
 
-- **Umschulung** — a funded retraining, typically two years, via a
-  **[Bildungsgutschein](/jobs-in-germany/reference/weiterbildung-funding/)**
-- **Externenprüfung** — sitting the examination directly on the basis of documented work
-  experience, typically requiring around one and a half times the Ausbildung's length in
-  relevant employment. For people who have done this work for years, it is the shortest
-  route to being paid for it properly
+- **Umschulung** — a funded retraining, typically two years, via a **[Bildungsgutschein](/jobs-in-germany/reference/weiterbildung-funding/)**
+- **Externenprüfung** — sitting the examination directly on the basis of documented work experience, typically requiring around one and a half times the Ausbildung's length in relevant employment. For people who have done this work for years, it is the shortest route to being paid for it properly
 - **Teilqualifizierungen** — modular partial qualifications that stack
 
-The pay difference between unqualified and qualified in the same building is several hundred
-euro a month, plus access to the TVöD groups.
+The pay difference between unqualified and qualified in the same building is several hundred euro a month, plus access to the TVöD groups.
 
 ## Foreign candidates {#foreign-candidates}
 
 1. **To work: no recognition required.**
-2. **For the visa: yes** — and the competent body is the **Landwirtschaftskammer** or a state
-   authority, which is counter-intuitive for a job in a care home. Check before filing.
-3. **§43 IfSG food-handling briefing** is required before you start, is obtained at the
-   Gesundheitsamt, and is German.
-4. **Language: B1–B2.** Allergen and diet information, hygiene documentation, and — in care —
-   residents.
+2. **For the visa: yes** — and the competent body is the **Landwirtschaftskammer** or a state authority, which is counter-intuitive for a job in a care home. Check before filing.
+3. **§43 IfSG food-handling briefing** is required before you start, is obtained at the Gesundheitsamt, and is German.
+4. **Language: B1–B2.** Allergen and diet information, hygiene documentation, and — in care — residents.
 5. **Visa:** §18a, **§16a**, or **§26(2) BeschV**.
-6. **A foreign catering or home-economics qualification** is frequently found partly
-   equivalent, with German food-hygiene law as the gap. An Anpassungsqualifizierung closes it.
+6. **A foreign catering or home-economics qualification** is frequently found partly equivalent, with German food-hygiene law as the gap. An Anpassungsqualifizierung closes it.
 
 ## Pitfalls {#pitfalls}
 
-- **The classification misleads.** Green profession, institutional workplace, agricultural
-  chamber.
-- **Betreuungskraft is not this qualification**, though the roles sit side by side in care
-  homes.
-- **Ask which employer type you are joining.** Public, church and private pay differently for
-  identical work here, and the difference is large.
-- **Hygiene documentation is legally serious.** HACCP records are inspected, and in a care
-  home an outbreak is a safeguarding matter.
-- **If you already do this work unqualified, sit the Externenprüfung.** It is the single
-  highest-return step available in this part of the labour market.
+- **The classification misleads.** Green profession, institutional workplace, agricultural chamber.
+- **Betreuungskraft is not this qualification**, though the roles sit side by side in care homes.
+- **Ask which employer type you are joining.** Public, church and private pay differently for identical work here, and the difference is large.
+- **Hygiene documentation is legally serious.** HACCP records are inspected, and in a care home an outbreak is a safeguarding matter.
+- **If you already do this work unqualified, sit the Externenprüfung.** It is the single highest-return step available in this part of the labour market.
 
 ## Sources {#sources}
 

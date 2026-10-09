@@ -6,23 +6,16 @@ title: "Language requirements, by profession"
 
 <p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/reference/">Reference</a></p>
 
-Cross-reference over every profile in this repo. Figures are drawn from the individual
-files — if the two disagree, the profession file is the source of truth.
+Cross-reference over every profile in this repo. Figures are drawn from the individual files — if the two disagree, the profession file is the source of truth.
 
 ## The distinction that matters {#the-distinction-that-matters}
 
-Two different things get called "the language requirement", and conflating them causes
-people to over- or under-prepare:
+Two different things get called "the language requirement", and conflating them causes people to over- or under-prepare:
 
-- **Legally required** — what an authority demands before granting a licence, a
-  recognition, or a visa. A hard gate. Below this, you cannot proceed at all.
-- **Realistically needed** — what the job actually takes to do competently, and what
-  employers screen for. Usually **higher** than the legal minimum, and in unregulated
-  professions it is the *only* bar that exists.
+- **Legally required** — what an authority demands before granting a licence, a recognition, or a visa. A hard gate. Below this, you cannot proceed at all.
+- **Realistically needed** — what the job actually takes to do competently, and what employers screen for. Usually **higher** than the legal minimum, and in unregulated professions it is the *only* bar that exists.
 
-For regulated professions the legal minimum is the binding constraint. For free
-professions there is no legal minimum at all — but that does not make them accessible
-without German. It moves the bar from an authority to a hiring manager.
+For regulated professions the legal minimum is the binding constraint. For free professions there is no legal minimum at all — but that does not make them accessible without German. It moves the bar from an authority to a hiring manager.
 
 ## CEFR levels in practice {#cefr-levels-in-practice}
 
@@ -33,8 +26,7 @@ without German. It moves the bar from an authority to a hiring manager.
 | **B2** | Independent professional communication. The standard licensing threshold in healthcare. |
 | **C1** | Fluent, nuanced, register-switching. Needed wherever writing, law or advising is the job. |
 
-Accepted certificates are usually **Goethe, telc, ÖSD, TestDaF** or **DSH**. Authorities
-vary in what they accept — check with the specific body, not with a general list.
+Accepted certificates are usually **Goethe, telc, ÖSD, TestDaF** or **DSH**. Authorities vary in what they accept — check with the specific body, not with a general list.
 
 ## The table {#the-table}
 
@@ -127,23 +119,10 @@ vary in what they accept — check with the specific body, not with a general li
 
 ## Patterns worth noticing {#patterns-worth-noticing}
 
-**Language difficulty does not track pay.** [Friseur/in](/jobs-in-germany/skilled-trades/friseur-in/)
-is the extreme case — the lowest entry pay in the repo and a B2 requirement, because
-consultation *is* the work. Steuerfachangestellte,
-Rechtsanwaltsfachangestellte and Erzieher/in all demand C1 at mid-range salaries, while software development pays the most and can require
-no German at all. If German is your constraint, this table is a better guide to what to
-aim at than any salary table.
+**Language difficulty does not track pay.** [Friseur/in](/jobs-in-germany/skilled-trades/friseur-in/) is the extreme case — the lowest entry pay in the repo and a B2 requirement, because consultation *is* the work. Steuerfachangestellte, Rechtsanwaltsfachangestellte and Erzieher/in all demand C1 at mid-range salaries, while software development pays the most and can require no German at all. If German is your constraint, this table is a better guide to what to aim at than any salary table.
 
-**The Ausbildung route always requires German**, whatever the occupation. Berufsschule is
-taught and examined in German. A2 or B1 entry jobs exist, but the *qualification* route
-behind them does not accommodate non-German speakers.
+**The Ausbildung route always requires German**, whatever the occupation. Berufsschule is taught and examined in German. A2 or B1 entry jobs exist, but the *qualification* route behind them does not accommodate non-German speakers.
 
-**Regulated professions gate on a certificate; free professions gate on performance.** A
-B2 certificate satisfies a licensing authority. It does not satisfy an employer who needs
-you to write client correspondence — hence the gap between the two columns in the
-commercial roles.
+**Regulated professions gate on a certificate; free professions gate on performance.** A B2 certificate satisfies a licensing authority. It does not satisfy an employer who needs you to write client correspondence — hence the gap between the two columns in the commercial roles.
 
-**Medical German is a separate skill.** The Fachsprachprüfung tests register-switching
-between patient, colleague and documentation. Doctors with strong everyday German fail it
-routinely. Prepare for it specifically. Pharmacists sit an equivalent exam at the
-Apothekerkammer, and it is the usual obstacle for them too.
+**Medical German is a separate skill.** The Fachsprachprüfung tests register-switching between patient, colleague and documentation. Doctors with strong everyday German fail it routinely. Prepare for it specifically. Pharmacists sit an equivalent exam at the Apothekerkammer, and it is the usual obstacle for them too.

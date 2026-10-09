@@ -6,13 +6,9 @@ title: "Shift work and supplements"
 
 <p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/reference/">Reference</a></p>
 
-Eight profession files in this repo describe shift work, and
-[pay.md](/jobs-in-germany/reference/pay/#what-this-table-does-not-show) admits that its table **understates every one
-of them**, because supplements sit outside base pay. This quantifies what is missing.
+Eight profession files in this repo describe shift work, and [pay.md](/jobs-in-germany/reference/pay/#what-this-table-does-not-show) admits that its table **understates every one of them**, because supplements sit outside base pay. This quantifies what is missing.
 
-The short version: for a rotating shift worker in the public sector, supplements are
-commonly **10–20% on top of base pay — and much of it arrives tax-free**, so the effect on
-take-home is larger still.
+The short version: for a rotating shift worker in the public sector, supplements are commonly **10–20% on top of base pay — and much of it arrives tax-free**, so the effect on take-home is larger still.
 
 ## Two different things, often confused {#two-different-things-often-confused}
 
@@ -40,12 +36,8 @@ You can receive both at once. They are separate entitlements.
 
 Two rules that are not obvious and that people get wrong:
 
-1. **Supplements are calculated from the Stufe 3 hourly rate of your Entgeltgruppe — not
-   from your own pay.** Someone in Stufe 1 is therefore paid supplements at a *higher* rate
-   than their own hourly wage; someone in Stufe 6 at a lower one. It is a flat rate per
-   grade, not a percentage of your personal salary.
-2. **Where several of the unsocial-time supplements coincide, only the highest applies** —
-   they do not stack. A Sunday night pays 25%, not 45%.
+1. **Supplements are calculated from the Stufe 3 hourly rate of your Entgeltgruppe — not from your own pay.** Someone in Stufe 1 is therefore paid supplements at a *higher* rate than their own hourly wage; someone in Stufe 6 at a lower one. It is a flat rate per grade, not a percentage of your personal salary.
+2. **Where several of the unsocial-time supplements coincide, only the highest applies** — they do not stack. A Sunday night pays 25%, not 45%.
 
 ## Schichtzulagen — the monthly allowances {#schichtzulagen--the-monthly-allowances}
 
@@ -54,17 +46,13 @@ Two rules that are not obvious and that people get wrong:
 | **Wechselschichtzulage** | **€105/month** (**€155** under TVöD-K, i.e. hospitals) | €0.63/h (TVöD-K €0.93/h) |
 | **Schichtzulage** | **€40/month** | €0.24/h |
 
-**Wechselschicht** means genuinely round-the-clock rotation including regular night shifts.
-**Schicht** means a shift plan with varying start times but without the full night rotation —
-hence the much smaller allowance.
+**Wechselschicht** means genuinely round-the-clock rotation including regular night shifts. **Schicht** means a shift plan with varying start times but without the full night rotation — hence the much smaller allowance.
 
-**Zusatzurlaub** comes on top: additional annual leave days for permanent Wechselschicht and
-for night work, scaled by how many qualifying months you work.
+**Zusatzurlaub** comes on top: additional annual leave days for permanent Wechselschicht and for night work, scaled by how many qualifying months you work.
 
 ## The part that matters most: much of it is tax-free {#the-part-that-matters-most-much-of-it-is-tax-free}
 
-**§3b EStG** exempts supplements for night, Sunday and holiday work from income tax and, up
-to a base rate ceiling, from social contributions — within these limits:
+**§3b EStG** exempts supplements for night, Sunday and holiday work from income tax and, up to a base rate ceiling, from social contributions — within these limits:
 
 | Work | Tax-free up to |
 |---|---|
@@ -74,20 +62,13 @@ to a base rate ceiling, from social contributions — within these limits:
 | Public holidays | **125%** |
 | 24.12. from 14:00, 25. and 26.12., 1 May | **150%** |
 
-Compare with the TVöD rates above. **The 20% night supplement sits entirely inside the 25%
-tax-free allowance. The 25% Sunday supplement sits well inside 50%. The 135% holiday
-supplement is largely covered by 125%.**
+Compare with the TVöD rates above. **The 20% night supplement sits entirely inside the 25% tax-free allowance. The 25% Sunday supplement sits well inside 50%. The 135% holiday supplement is largely covered by 125%.**
 
-The practical consequence, and the reason this document exists: **for a public-sector shift
-worker, supplements are very largely net.** A euro of night supplement is worth
-substantially more than a euro of base salary, and no gross-pay comparison — including the
-one in [pay.md](/jobs-in-germany/reference/pay/) — reflects that.
+The practical consequence, and the reason this document exists: **for a public-sector shift worker, supplements are very largely net.** A euro of night supplement is worth substantially more than a euro of base salary, and no gross-pay comparison — including the one in [pay.md](/jobs-in-germany/reference/pay/) — reflects that.
 
 ## A worked example {#a-worked-example}
 
-A [nurse](/jobs-in-germany/healthcare/pflegefachfrau-pflegefachmann/) on **P 7 Stufe 3**,
-€3,701/month under TVöD-K (38.5 h/week ≈ 167 monthly hours) — an hourly base of about
-**€22**.
+A [nurse](/jobs-in-germany/healthcare/pflegefachfrau-pflegefachmann/) on **P 7 Stufe 3**, €3,701/month under TVöD-K (38.5 h/week ≈ 167 monthly hours) — an hourly base of about **€22**.
 
 | Component | Amount |
 |---|---|
@@ -97,20 +78,14 @@ A [nurse](/jobs-in-germany/healthcare/pflegefachfrau-pflegefachmann/) on **P 7 S
 | Two Sunday shifts, ~16 h at 25% | **+€88** |
 | **Total** | **≈ €4,209** |
 
-That is **about 14% above the base figure the pay table shows** — and the €353 of
-Zeitzuschläge in it is largely tax-free, so the gap in *net* terms is wider again. Add a
-public holiday or overtime and it grows further.
+That is **about 14% above the base figure the pay table shows** — and the €353 of Zeitzuschläge in it is largely tax-free, so the gap in *net* terms is wider again. Add a public holiday or overtime and it grows further.
 
 ## Bereitschaftsdienst and Rufbereitschaft {#bereitschaftsdienst-and-rufbereitschaft}
 
 Distinct from shift supplements, and easy to conflate:
 
-- **Bereitschaftsdienst** — you are at the workplace, available to work. Counted and paid at
-  a reduced rate, with rules varying by sector. For
-  [hospital doctors](/jobs-in-germany/healthcare/arzt-aerztin/) this is commonly 20–30% on top of
-  base pay and a frequent source of disputes.
-- **Rufbereitschaft** — on call from home. A smaller standby payment, plus full pay for
-  hours actually worked when called out.
+- **Bereitschaftsdienst** — you are at the workplace, available to work. Counted and paid at a reduced rate, with rules varying by sector. For [hospital doctors](/jobs-in-germany/healthcare/arzt-aerztin/) this is commonly 20–30% on top of base pay and a frequent source of disputes.
+- **Rufbereitschaft** — on call from home. A smaller standby payment, plus full pay for hours actually worked when called out.
 
 ## Outside the public sector {#outside-the-public-sector}
 
@@ -124,19 +99,7 @@ Distinct from shift supplements, and easy to conflate:
 
 ## Who this affects in this repo {#who-this-affects-in-this-repo}
 
-Rotating or unsocial hours are central to
-[nursing](/jobs-in-germany/healthcare/pflegefachfrau-pflegefachmann/),
-[MT/MTA](/jobs-in-germany/healthcare/medizinische-technologin-mt-mta/),
-[paramedics](/jobs-in-germany/healthcare/notfallsanitaeter-in/),
-[doctors](/jobs-in-germany/healthcare/arzt-aerztin/),
-[firefighters](/jobs-in-germany/public-service/feuerwehrmann-frau/),
-[police](/jobs-in-germany/public-service/polizist-in/),
-[warehouse logistics](/jobs-in-germany/logistics/fachkraft-fuer-lagerlogistik/),
-[industrial maintenance](/jobs-in-germany/industrial/elektroniker-in-betriebstechnik/),
-[machining](/jobs-in-germany/industrial/zerspanungsmechaniker-in/),
-[security](/jobs-in-germany/security/sicherheitsmitarbeiter-in/),
-[baking](/jobs-in-germany/skilled-trades/baecker-in/) and
-[hospitality](/jobs-in-germany/hospitality/).
+Rotating or unsocial hours are central to [nursing](/jobs-in-germany/healthcare/pflegefachfrau-pflegefachmann/), [MT/MTA](/jobs-in-germany/healthcare/medizinische-technologin-mt-mta/), [paramedics](/jobs-in-germany/healthcare/notfallsanitaeter-in/), [doctors](/jobs-in-germany/healthcare/arzt-aerztin/), [firefighters](/jobs-in-germany/public-service/feuerwehrmann-frau/), [police](/jobs-in-germany/public-service/polizist-in/), [warehouse logistics](/jobs-in-germany/logistics/fachkraft-fuer-lagerlogistik/), [industrial maintenance](/jobs-in-germany/industrial/elektroniker-in-betriebstechnik/), [machining](/jobs-in-germany/industrial/zerspanungsmechaniker-in/), [security](/jobs-in-germany/security/sicherheitsmitarbeiter-in/), [baking](/jobs-in-germany/skilled-trades/baecker-in/) and [hospitality](/jobs-in-germany/hospitality/).
 
 For all of them, the [pay table](/jobs-in-germany/reference/pay/) is a floor, not an estimate.
 

@@ -6,8 +6,7 @@ title: "Konditor/in (Pastry Chef / Confectioner)"
 
 <p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/skilled-trades/">Skilled trades (Handwerk)</a></p>
 
-> Cakes, tortes, pralines, chocolate and desserts. The most creative of the food trades, with
-> better hours than [baking](/jobs-in-germany/skilled-trades/baecker-in/) and a sector holding up rather better.
+> Cakes, tortes, pralines, chocolate and desserts. The most creative of the food trades, with better hours than [baking](/jobs-in-germany/skilled-trades/baecker-in/) and a sector holding up rather better.
 
 <div class="jig-facts"></div>
 
@@ -28,17 +27,13 @@ title: "Konditor/in (Pastry Chef / Confectioner)"
 | [**Bäcker/in**](/jobs-in-germany/skilled-trades/baecker-in/) | Handwerk trade: bread, rolls, Feingebäck. Overlapping but separate |
 | **Patissier** | Not an Ausbildung at all — a **kitchen role**, reached through the [Koch](/jobs-in-germany/hospitality/koch-koechin/) qualification and specialisation |
 
-A hotel advertising for a "Patissier" usually wants a Koch who specialises in desserts; a
-Konditorei wants the Handwerk qualification. Both ads use both words.
+A hotel advertising for a "Patissier" usually wants a Koch who specialises in desserts; a Konditorei wants the Handwerk qualification. Both ads use both words.
 
 ## What the job involves {#what-the-job-involves}
 
-Tortes and gateaux, fine pastries, **praline and chocolate work** (tempering, moulding,
-enrobing), ice cream and desserts, sugar and marzipan work, and increasingly decorated
-occasion cakes — weddings and celebrations are a large part of the modern business.
+Tortes and gateaux, fine pastries, **praline and chocolate work** (tempering, moulding, enrobing), ice cream and desserts, sugar and marzipan work, and increasingly decorated occasion cakes — weddings and celebrations are a large part of the modern business.
 
-Work runs mostly in **day shifts**, starting early but not at 03:00 — a significant quality
-of life difference from baking, and worth weighing if you are choosing between the two.
+Work runs mostly in **day shifts**, starting early but not at 03:00 — a significant quality of life difference from baking, and worth weighing if you are choosing between the two.
 
 **§43 IfSG Infektionsschutz-Belehrung**, HACCP and allergen labelling apply.
 
@@ -48,12 +43,9 @@ of life difference from baking, and worth weighing if you are choosing between t
 - **Entry:** formally open; mittlerer Schulabschluss common
 - **Paid throughout:** roughly €900–1,250/month gross
 - **Ends with** the **Gesellenprüfung**
-- **Then:** the **Konditormeister**, funded by
-  [Aufstiegs-BAföG](/jobs-in-germany/reference/meister/). Competition work and chocolatier
-  specialisation are genuine differentiators in this trade in a way they are not in most.
+- **Then:** the **Konditormeister**, funded by [Aufstiegs-BAföG](/jobs-in-germany/reference/meister/). Competition work and chocolatier specialisation are genuine differentiators in this trade in a way they are not in most.
 
-Counter sales is a separate occupation: **Fachverkäufer/in im Lebensmittelhandwerk**,
-Fachrichtung Konditorei.
+Counter sales is a separate occupation: **Fachverkäufer/in im Lebensmittelhandwerk**, Fachrichtung Konditorei.
 
 ## Pay {#pay}
 
@@ -71,36 +63,24 @@ Fewer night and Sunday supplements than baking, so the base is closer to the tak
 
 ## Demand and outlook {#demand-and-outlook}
 
-Better than the other two food trades. The sector is small and has consolidated, but
-**premium and occasion demand has held up**: celebration cakes, chocolate, patisserie in
-hotels and cafés, and a visible artisan market that industrial production does not serve
-well.
+Better than the other two food trades. The sector is small and has consolidated, but **premium and occasion demand has held up**: celebration cakes, chocolate, patisserie in hotels and cafés, and a visible artisan market that industrial production does not serve well.
 
-Training numbers are still low and qualified Konditoren are scarce, so bargaining power is
-reasonable. As with [Werkzeugbau](/jobs-in-germany/industrial/werkzeugmechaniker-in/) and
-[joinery](/jobs-in-germany/skilled-trades/tischler-in/), the durable work is what cannot be mass-produced.
+Training numbers are still low and qualified Konditoren are scarce, so bargaining power is reasonable. As with [Werkzeugbau](/jobs-in-germany/industrial/werkzeugmechaniker-in/) and [joinery](/jobs-in-germany/skilled-trades/tischler-in/), the durable work is what cannot be mass-produced.
 
 ## Foreign candidates {#foreign-candidates}
 
 1. **To be employed:** no recognition legally required.
-2. **To be self-employed:** Handwerksrolle entry — Meisterbrief, equivalence decision,
-   **§7b Altgesellenregelung**, **§8 Ausnahmebewilligung**, or an employed Betriebsleiter.
-   See [meister.md](/jobs-in-germany/reference/meister/).
+2. **To be self-employed:** Handwerksrolle entry — Meisterbrief, equivalence decision, **§7b Altgesellenregelung**, **§8 Ausnahmebewilligung**, or an employed Betriebsleiter. See [meister.md](/jobs-in-germany/reference/meister/).
 3. **Equivalence** sits with the **Handwerkskammer**.
-4. **Language: B1–B2.** Production work is manageable at B1; B2 for customer orders,
-   consultations on occasion cakes, and the Meister route.
+4. **Language: B1–B2.** Production work is manageable at B1; B2 for customer orders, consultations on occasion cakes, and the Meister route.
 5. **Visa:** skilled-worker route with recognition, or **§16a** to train here.
-6. **Portable skill.** Patisserie training transfers internationally better than most trades
-   here, and German Konditorei has standing abroad.
+6. **Portable skill.** Patisserie training transfers internationally better than most trades here, and German Konditorei has standing abroad.
 
 ## Pitfalls {#pitfalls}
 
-- **Konditor is not Patissier**, and a hotel job is not a Konditorei job — different
-  qualification routes, different employers.
-- **Seasonality**: Christmas, Easter and the wedding season are intense; expect the hours to
-  concentrate.
-- **Small businesses dominate**, which means pay and conditions vary enormously between
-  employers with no tariff to anchor them.
+- **Konditor is not Patissier**, and a hotel job is not a Konditorei job — different qualification routes, different employers.
+- **Seasonality**: Christmas, Easter and the wedding season are intense; expect the hours to concentrate.
+- **Small businesses dominate**, which means pay and conditions vary enormously between employers with no tariff to anchor them.
 - **Employment needs no recognition; self-employment does.**
 
 ## Sources {#sources}

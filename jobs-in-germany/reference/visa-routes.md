@@ -6,8 +6,7 @@ title: "Visa and residence routes, by profession"
 
 <p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/reference/">Reference</a></p>
 
-Cross-reference over every profile in this repo. For **non-EU/EEA/Swiss nationals** —
-EU citizens need none of this and can simply take a job.
+Cross-reference over every profile in this repo. For **non-EU/EEA/Swiss nationals** — EU citizens need none of this and can simply take a job.
 
 If this file and a profession file disagree, the profession file is the source of truth.
 
@@ -15,13 +14,9 @@ If this file and a profession file disagree, the profession file is the source o
 
 > **Unregulated does not mean paperwork-free.**
 
-Nobody needs professional recognition to cook, drive a forklift, or process invoices —
-those occupations are not regulated. But the **skilled-worker residence permit** requires a
-**recognised qualification** regardless of whether the profession itself is regulated.
+Nobody needs professional recognition to cook, drive a forklift, or process invoices — those occupations are not regulated. But the **skilled-worker residence permit** requires a **recognised qualification** regardless of whether the profession itself is regulated.
 
-The practical consequence: an employer will happily hire you, and the Ausländerbehörde will
-then refuse the permit. **Sort recognition before you sort the job**, even in free
-professions. Experience alone, however long, does not substitute.
+The practical consequence: an employer will happily hire you, and the Ausländerbehörde will then refuse the permit. **Sort recognition before you sort the job**, even in free professions. Experience alone, however long, does not substitute.
 
 ## The routes {#the-routes}
 
@@ -40,12 +35,9 @@ professions. Experience alone, however long, does not substitute.
 
 Two mechanisms worth knowing independently of route:
 
-- **anabin / ZAB** — the database and authority that assess whether a foreign *degree* is
-  comparable to a German one. Needed for §18b and the Blue Card.
-- **IHK FOSA** — assesses foreign *vocational* qualifications for equivalence. Needed for
-  §18a in the commercial, logistics, hospitality and IT trades.
-- **Beschleunigtes Fachkräfteverfahren** — an employer-initiated accelerated procedure that
-  can compress processing substantially. Ask your employer to run it.
+- **anabin / ZAB** — the database and authority that assess whether a foreign *degree* is comparable to a German one. Needed for §18b and the Blue Card.
+- **IHK FOSA** — assesses foreign *vocational* qualifications for equivalence. Needed for §18a in the commercial, logistics, hospitality and IT trades.
+- **Beschleunigtes Fachkräfteverfahren** — an employer-initiated accelerated procedure that can compress processing substantially. Ask your employer to run it.
 
 ## The table {#the-table}
 
@@ -136,65 +128,29 @@ Two mechanisms worth knowing independently of route:
 
 ## Special cases {#special-cases}
 
-**Where no qualification exists at all.** [Barkeeper/in](/jobs-in-germany/hospitality/barkeeper-in/) is the limit case of the rule
-above: bartending is **not a recognised German occupation**, so there is nothing for a foreign
-qualification to be assessed as equivalent to, and **§18a is simply unavailable**. The routes
-are to qualify in a hospitality occupation that does exist, the Westbalkanregelung, or to
-arrive on some other basis entirely.
+**Where no qualification exists at all.** [Barkeeper/in](/jobs-in-germany/hospitality/barkeeper-in/) is the limit case of the rule above: bartending is **not a recognised German occupation**, so there is nothing for a foreign qualification to be assessed as equivalent to, and **§18a is simply unavailable**. The routes are to qualify in a hospitality occupation that does exist, the Westbalkanregelung, or to arrive on some other basis entirely.
 
 
 
-**Berufskraftfahrer/in is the outlier.** The residence permit is comparatively routine; the
-obstacle is the **driving licence**. Third-country C/CE/D licences generally **cannot be
-exchanged** and require the full German theory and practical test. Non-EU drivers employed
-by EU hauliers additionally need a **Fahrerbescheinigung**. Budget months and several
-thousand euros, and ask about a Bildungsgutschein before paying anything.
+**Berufskraftfahrer/in is the outlier.** The residence permit is comparatively routine; the obstacle is the **driving licence**. Third-country C/CE/D licences generally **cannot be exchanged** and require the full German theory and practical test. Non-EU drivers employed by EU hauliers additionally need a **Fahrerbescheinigung**. Budget months and several thousand euros, and ask about a Bildungsgutschein before paying anything.
 
-**Three occupations gate the activity, not the job.** Private security is the clearest:
-**§34a GewO** requires an Unterrichtung or, for door work, patrols and retail protection, an
-IHK **Sachkundeprüfung**, plus a reliability check and Bewacherregister entry — none of which
-is a *qualification* for visa purposes. The
-[3-year Fachkraft](/jobs-in-germany/security/fachkraft-fuer-schutz-und-sicherheit/) is, which is the whole difference for a
-non-EU candidate.
+**Three occupations gate the activity, not the job.** Private security is the clearest: **§34a GewO** requires an Unterrichtung or, for door work, patrols and retail protection, an IHK **Sachkundeprüfung**, plus a reliability check and Bewacherregister entry — none of which is a *qualification* for visa purposes. The [3-year Fachkraft](/jobs-in-germany/security/fachkraft-fuer-schutz-und-sicherheit/) is, which is the whole difference for a non-EU candidate.
 
-**Two more gate the activity, not the job.** A
-[Bankkaufmann/-frau](/jobs-in-germany/commercial/bankkaufmann-frau/) needs no permission to be
-employed, but giving investment advice requires a Sachkundenachweis and personal **BaFin
-registration** under §87 WpHG. A [driver](/jobs-in-germany/logistics/berufskraftfahrer-in/) needs
-no professional recognition, but needs a licence Germany may not exchange. In both cases the
-visa is the easy part.
+**Two more gate the activity, not the job.** A [Bankkaufmann/-frau](/jobs-in-germany/commercial/bankkaufmann-frau/) needs no permission to be employed, but giving investment advice requires a Sachkundenachweis and personal **BaFin registration** under §87 WpHG. A [driver](/jobs-in-germany/logistics/berufskraftfahrer-in/) needs no professional recognition, but needs a licence Germany may not exchange. In both cases the visa is the easy part.
 
-**Handwerk trades split on employment vs. self-employment.** The visa treats them as
-ordinary skilled work. The **Handwerksordnung** separately requires Meister-level
-qualification to *run a business* in an Anlage A trade. Two different systems, two
-different procedures — people register a business and discover the second one too late.
+**Handwerk trades split on employment vs. self-employment.** The visa treats them as ordinary skilled work. The **Handwerksordnung** separately requires Meister-level qualification to *run a business* in an Anlage A trade. Two different systems, two different procedures — people register a business and discover the second one too late.
 
-**Some careers are closed regardless of visa.** [Polizist/in](/jobs-in-germany/public-service/polizist-in/) has **no recognition
-procedure at all** — you do not bring a foreign police qualification to be assessed, you
-enter German training from scratch. And appointment needs citizenship: §7 BeamtStG allows
-EU/EEA/Swiss nationals, but policing exercises state authority, so **Bundespolizei and BKA
-require German citizenship and several Länder do too**. For many readers naturalisation is
-the precondition, not the paperwork.
+**Some careers are closed regardless of visa.** [Polizist/in](/jobs-in-germany/public-service/polizist-in/) has **no recognition procedure at all** — you do not bring a foreign police qualification to be assessed, you enter German training from scratch. And appointment needs citizenship: §7 BeamtStG allows EU/EEA/Swiss nationals, but policing exercises state authority, so **Bundespolizei and BKA require German citizenship and several Länder do too**. For many readers naturalisation is the precondition, not the paperwork.
 
-**A residence permit is not the same as full access.** A third-country
-[teacher](/jobs-in-germany/education/lehrer-in/) can be recognised, licensed, hired and settled —
-and still never be made a **Beamter**, because §7 BeamtStG restricts appointment to
-EU/EEA/Swiss nationals. The result is permanently lower net pay and the statutory pension
-instead of Ruhegehalt, for identical work. The same gate applies to policing and the fire
-service. See [beamte-vs-angestellte](/jobs-in-germany/reference/beamte-vs-angestellte/).
+**A residence permit is not the same as full access.** A third-country [teacher](/jobs-in-germany/education/lehrer-in/) can be recognised, licensed, hired and settled — and still never be made a **Beamter**, because §7 BeamtStG restricts appointment to EU/EEA/Swiss nationals. The result is permanently lower net pay and the statutory pension instead of Ruhegehalt, for identical work. The same gate applies to policing and the fire service. See [beamte-vs-angestellte](/jobs-in-germany/reference/beamte-vs-angestellte/).
 
-**Erzieher/in is state-fragmented.** Unlike the federally regulated healthcare professions,
-recognition rests on sixteen separate Länder laws. The Bundesland choice is a substantive
-decision, not an administrative one.
+**Erzieher/in is state-fragmented.** Unlike the federally regulated healthcare professions, recognition rests on sixteen separate Länder laws. The Bundesland choice is a substantive decision, not an administrative one.
 
-**Blue Card thresholds reset every January.** An offer that qualified in December may not in
-January. Never rely on a threshold figure written down anywhere — including here — without
-checking the current year's value.
+**Blue Card thresholds reset every January.** An offer that qualified in December may not in January. Never rely on a threshold figure written down anywhere — including here — without checking the current year's value.
 
 ## Where to start {#where-to-start}
 
-1. **anerkennung-in-deutschland.de** — identifies the competent authority for your
-   profession and target Bundesland. Start here, always.
+1. **anerkennung-in-deutschland.de** — identifies the competent authority for your profession and target Bundesland. Start here, always.
 2. **make-it-in-germany.com** — the federal portal for visa routes.
 3. **anabin.kmk.org** — degree comparability.
 4. **ihk-fosa.de** — vocational qualification equivalence.

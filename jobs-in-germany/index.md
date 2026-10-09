@@ -4,12 +4,9 @@ title: "Jobs in Germany"
 
 <div class="jig-page"></div>
 
-Reference profiles for working in Germany: what a profession actually involves, how you
-qualify for it, what it pays, and what a foreign-trained candidate has to do to be allowed
-to practise it.
+Reference profiles for working in Germany: what a profession actually involves, how you qualify for it, what it pays, and what a foreign-trained candidate has to do to be allowed to practise it.
 
-Written in English, with German terms kept in place — you will meet those terms in job ads,
-on authority websites, and in application forms, so translating them away is unhelpful.
+Written in English, with German terms kept in place — you will meet those terms in job ads, on authority websites, and in application forms, so translating them away is unhelpful.
 
 The source is on GitHub: [rjcndev/jobs-in-germany](https://github.com/rjcndev/jobs-in-germany).
 
@@ -36,66 +33,25 @@ The source is on GitHub: [rjcndev/jobs-in-germany](https://github.com/rjcndev/jo
 
 Once you are comparing professions rather than reading up on one, start here:
 
-- **[Language requirements](/jobs-in-germany/reference/language-requirements/)** — what each authority
-  legally demands vs. what the job realistically takes. The two differ, and the gap is
-  where people misjudge their preparation.
-- **[Language certificates](/jobs-in-germany/reference/language-certificates/)** — which paper proves it:
-  Goethe vs telc vs TestDaF vs DSH and who accepts which, what the **Fachsprachprüfung**
-  actually is, and the **funded Berufssprachkurse** most arrivals never claim.
-- **[Employment basics](/jobs-in-germany/reference/employment-basics/)** — Probezeit, the notice ladder,
-  the **three-week deadline** for contesting a dismissal, working-time and holiday law, and
-  how to read the coded grading in an **Arbeitszeugnis**.
-- **[Visa and residence routes](/jobs-in-germany/reference/visa-routes/)** — which AufenthG paragraph
-  applies per profession, whether the EU Blue Card is reachable, and the recognition
-  requirement that applies **even to unregulated work**.
-- **[Beamte vs. Angestellte](/jobs-in-germany/reference/beamte-vs-angestellte/)** — civil-servant status:
-  Besoldung instead of tariff, Ruhegehalt instead of a pension, no right to strike, and an
-  **EU-citizenship requirement** that permanently changes the deal for third-country
-  candidates in teaching, policing and the fire service.
-- **[Ausbildung](/jobs-in-germany/reference/ausbildung/)** — the dual system: what "3 years, paid" legally
-  means, the statutory minimum training wage, what the contract protects, and Ausbildung as
-  the §16a immigration route.
-- **[The Meisterbrief](/jobs-in-germany/reference/meister/)** — the ladder above it, why Anlage A trades
-  need it to open a business, the four ways in *without* one, how the state funds it, and
-  why it ranks with a Bachelor.
-- **[Occupational certificates](/jobs-in-germany/reference/occupational-certificates/)** — the short
-  tickets that gate the *activity* rather than the title: Staplerschein, ADR, Code 95,
-  Hochvolt, §34a, EFK. Cheap, usually employer-funded, mostly expiring, almost never
-  transferable.
-- **[How retraining is paid for](/jobs-in-germany/reference/weiterbildung-funding/)** — Bildungsgutschein,
-  Aufstiegs-BAföG, the unclaimed **Bildungsurlaub**, and **Qualifizierungsgeld** for sectors
-  that are shrinking under the people working in them.
-- **[Who recognises your qualification](/jobs-in-germany/reference/recognition-authorities/)** — three
-  chamber systems, the Kammern of the freie Berufe, the state authorities, and why ZAB/anabin
-  is **not** professional recognition. Plus the professions where no procedure exists at all.
-- **[Shift work and supplements](/jobs-in-germany/reference/shift-work-and-supplements/)** — what the pay
-  table leaves out: the verified TVöD Zeitzuschläge and Schichtzulagen, and the fact that
-  **§3b EStG makes most of them tax-free**, so they are worth more than the same euro of
-  salary.
-- **[Health insurance](/jobs-in-germany/reference/health-insurance/)** — GKV vs PKV, why free family cover
-  has no private equivalent, and why going private is a decision for the next forty years
-  rather than the next payslip.
-- **[Versorgungswerke](/jobs-in-germany/reference/versorgungswerke/)** — the Kammerberufe are exempt from
-  the statutory pension and belong to their profession's own scheme instead. The exemption
-  must be applied for, and re-applied for on every job change.
-- **[Minijob and geringfügige Beschäftigung](/jobs-in-germany/reference/minijob-und-geringfuegige-beschaeftigung/)**
-  — the ceiling is indexed to the Mindestlohn, the pension opt-out is a trap, and a Minijob
-  builds **no unemployment entitlement at all**.
-- **[Tax and net pay](/jobs-in-germany/reference/taxes-and-net-pay/)** — what comes off the gross figures
-  in this repo, the Steuerklasse III/V trap, the Kirchensteuer question on your Anmeldung
-  form, and the income here that is not taxed at all.
-- **[Choosing a Bundesland](/jobs-in-germany/reference/bundeslaender/)** — which professions the state
-  decides and which it barely touches, what else is state law, and why tariff-paid workers
-  are better off in low-cost regions.
-- **[The Bauhauptgewerbe](/jobs-in-germany/reference/bauhauptgewerbe/)** — construction's own architecture:
-  **SOKA-BAU**, which makes holiday travel between employers, the AEntG minimum wage above
-  the statutory one, and a funded winter.
-- **[Glossary](/jobs-in-germany/reference/glossary/)** — the German terms this repo keeps in place, defined
-  and cross-linked.
-- **[Pay](/jobs-in-germany/reference/pay/)** — every profession on one comparable monthly-gross scale,
-  what the base figures leave out (shift supplements, tax-free Spesen, the 13th month),
-  and an explicit account of which figures are checkable against a published tariff and
-  which are market estimates.
+- **[Language requirements](/jobs-in-germany/reference/language-requirements/)** — what each authority legally demands vs. what the job realistically takes. The two differ, and the gap is where people misjudge their preparation.
+- **[Language certificates](/jobs-in-germany/reference/language-certificates/)** — which paper proves it: Goethe vs telc vs TestDaF vs DSH and who accepts which, what the **Fachsprachprüfung** actually is, and the **funded Berufssprachkurse** most arrivals never claim.
+- **[Employment basics](/jobs-in-germany/reference/employment-basics/)** — Probezeit, the notice ladder, the **three-week deadline** for contesting a dismissal, working-time and holiday law, and how to read the coded grading in an **Arbeitszeugnis**.
+- **[Visa and residence routes](/jobs-in-germany/reference/visa-routes/)** — which AufenthG paragraph applies per profession, whether the EU Blue Card is reachable, and the recognition requirement that applies **even to unregulated work**.
+- **[Beamte vs. Angestellte](/jobs-in-germany/reference/beamte-vs-angestellte/)** — civil-servant status: Besoldung instead of tariff, Ruhegehalt instead of a pension, no right to strike, and an **EU-citizenship requirement** that permanently changes the deal for third-country candidates in teaching, policing and the fire service.
+- **[Ausbildung](/jobs-in-germany/reference/ausbildung/)** — the dual system: what "3 years, paid" legally means, the statutory minimum training wage, what the contract protects, and Ausbildung as the §16a immigration route.
+- **[The Meisterbrief](/jobs-in-germany/reference/meister/)** — the ladder above it, why Anlage A trades need it to open a business, the four ways in *without* one, how the state funds it, and why it ranks with a Bachelor.
+- **[Occupational certificates](/jobs-in-germany/reference/occupational-certificates/)** — the short tickets that gate the *activity* rather than the title: Staplerschein, ADR, Code 95, Hochvolt, §34a, EFK. Cheap, usually employer-funded, mostly expiring, almost never transferable.
+- **[How retraining is paid for](/jobs-in-germany/reference/weiterbildung-funding/)** — Bildungsgutschein, Aufstiegs-BAföG, the unclaimed **Bildungsurlaub**, and **Qualifizierungsgeld** for sectors that are shrinking under the people working in them.
+- **[Who recognises your qualification](/jobs-in-germany/reference/recognition-authorities/)** — three chamber systems, the Kammern of the freie Berufe, the state authorities, and why ZAB/anabin is **not** professional recognition. Plus the professions where no procedure exists at all.
+- **[Shift work and supplements](/jobs-in-germany/reference/shift-work-and-supplements/)** — what the pay table leaves out: the verified TVöD Zeitzuschläge and Schichtzulagen, and the fact that **§3b EStG makes most of them tax-free**, so they are worth more than the same euro of salary.
+- **[Health insurance](/jobs-in-germany/reference/health-insurance/)** — GKV vs PKV, why free family cover has no private equivalent, and why going private is a decision for the next forty years rather than the next payslip.
+- **[Versorgungswerke](/jobs-in-germany/reference/versorgungswerke/)** — the Kammerberufe are exempt from the statutory pension and belong to their profession's own scheme instead. The exemption must be applied for, and re-applied for on every job change.
+- **[Minijob and geringfügige Beschäftigung](/jobs-in-germany/reference/minijob-und-geringfuegige-beschaeftigung/)** — the ceiling is indexed to the Mindestlohn, the pension opt-out is a trap, and a Minijob builds **no unemployment entitlement at all**.
+- **[Tax and net pay](/jobs-in-germany/reference/taxes-and-net-pay/)** — what comes off the gross figures in this repo, the Steuerklasse III/V trap, the Kirchensteuer question on your Anmeldung form, and the income here that is not taxed at all.
+- **[Choosing a Bundesland](/jobs-in-germany/reference/bundeslaender/)** — which professions the state decides and which it barely touches, what else is state law, and why tariff-paid workers are better off in low-cost regions.
+- **[The Bauhauptgewerbe](/jobs-in-germany/reference/bauhauptgewerbe/)** — construction's own architecture: **SOKA-BAU**, which makes holiday travel between employers, the AEntG minimum wage above the statutory one, and a funded winter.
+- **[Glossary](/jobs-in-germany/reference/glossary/)** — the German terms this repo keeps in place, defined and cross-linked.
+- **[Pay](/jobs-in-germany/reference/pay/)** — every profession on one comparable monthly-gross scale, what the base figures leave out (shift supplements, tax-free Spesen, the 13th month), and an explicit account of which figures are checkable against a published tariff and which are market estimates.
 
 ## Professions covered {#professions-covered}
 
@@ -255,63 +211,25 @@ See the [sector overview](/jobs-in-germany/hospitality/) for the 2022 restructur
 
 German professions fall into three groups, and conflating them wastes people months:
 
-1. **Regulated professions** (reglementierte Berufe) — healthcare above all. You need a
-   state licence before you may work at all. Recognition is mandatory, state-bound, and
-   slow. **Erzieher/in** is regulated too, but under sixteen separate *Länder* laws rather
-   than a federal one, which makes it the most fragmented case of all.
-2. **Title-protected only** — Ingenieur. You may do the work; you may not use the word.
-   **And the protection is frequently state law, not federal.**
-   [Ingenieur/in](/jobs-in-germany/engineering/ingenieur-in/) and
-   [Architekt/in](/jobs-in-germany/engineering/architekt-in/) are both protected by **sixteen separate
-   state statutes**, with entry in a state chamber's register as the condition of using the
-   word — so the answer to "am I allowed to call myself this?" depends on which Bundesland
-   you are standing in. [Sozialarbeiter/in](/jobs-in-germany/education/sozialarbeiter-in/) works the
-   same way through the **staatliche Anerkennung**.
-3. **Free professions** — IT, commercial and logistics roles, hospitality. No licence, no
-   recognition, no title protection. The only paperwork is the visa.
+1. **Regulated professions** (reglementierte Berufe) — healthcare above all. You need a state licence before you may work at all. Recognition is mandatory, state-bound, and slow. **Erzieher/in** is regulated too, but under sixteen separate *Länder* laws rather than a federal one, which makes it the most fragmented case of all.
+2. **Title-protected only** — Ingenieur. You may do the work; you may not use the word. **And the protection is frequently state law, not federal.** [Ingenieur/in](/jobs-in-germany/engineering/ingenieur-in/) and [Architekt/in](/jobs-in-germany/engineering/architekt-in/) are both protected by **sixteen separate state statutes**, with entry in a state chamber's register as the condition of using the word — so the answer to "am I allowed to call myself this?" depends on which Bundesland you are standing in. [Sozialarbeiter/in](/jobs-in-germany/education/sozialarbeiter-in/) works the same way through the **staatliche Anerkennung**.
+3. **Free professions** — IT, commercial and logistics roles, hospitality. No licence, no recognition, no title protection. The only paperwork is the visa.
 
 ## The fourth pattern: the gate is on the activity, not the title {#the-fourth-pattern-the-gate-is-on-the-activity-not-the-title}
 
-A fourth pattern sits outside the three, and it turns out to be the most common of all:
-regulation that attaches to **an activity or a licence rather than the job title**.
+A fourth pattern sits outside the three, and it turns out to be the most common of all: regulation that attaches to **an activity or a licence rather than the job title**.
 
-[Berufskraftfahrer/in](/jobs-in-germany/logistics/berufskraftfahrer-in/) has a free title but a tightly
-regulated licence, and a third-country C/CE licence usually cannot be exchanged at all.
-[Bankkaufmann/-frau](/jobs-in-germany/commercial/bankkaufmann-frau/) has a free title, but giving
-investment advice requires personal BaFin registration.
-[Security work](/jobs-in-germany/security/) is gated by **§34a GewO** whatever the job is
-called. [Architekt/in](/jobs-in-germany/engineering/architekt-in/) adds a reserved activity —
-**Bauvorlageberechtigung** — to a protected title.
+[Berufskraftfahrer/in](/jobs-in-germany/logistics/berufskraftfahrer-in/) has a free title but a tightly regulated licence, and a third-country C/CE licence usually cannot be exchanged at all. [Bankkaufmann/-frau](/jobs-in-germany/commercial/bankkaufmann-frau/) has a free title, but giving investment advice requires personal BaFin registration. [Security work](/jobs-in-germany/security/) is gated by **§34a GewO** whatever the job is called. [Architekt/in](/jobs-in-germany/engineering/architekt-in/) adds a reserved activity — **Bauvorlageberechtigung** — to a protected title.
 
-And beneath those sit a dozen short certificates that decide, case by case, who may do a
-particular piece of work: the **Elektrofachkraft** rule under DGUV V3, **Hochvolt** for EV
-systems, **Code 95**, **ADR**, the **Staplerschein**, the **§43 IfSG** food briefing,
-**Pflanzenschutz-Sachkunde**, welding and radiation-protection certificates.
-**[Occupational certificates](/jobs-in-germany/reference/occupational-certificates/)** collects them,
-because individually they look like trivia and together they are the rule rather than the
-exception.
+And beneath those sit a dozen short certificates that decide, case by case, who may do a particular piece of work: the **Elektrofachkraft** rule under DGUV V3, **Hochvolt** for EV systems, **Code 95**, **ADR**, the **Staplerschein**, the **§43 IfSG** food briefing, **Pflanzenschutz-Sachkunde**, welding and radiation-protection certificates. **[Occupational certificates](/jobs-in-germany/reference/occupational-certificates/)** collects them, because individually they look like trivia and together they are the rule rather than the exception.
 
 **Check what is actually being controlled, not what it is called.**
 
-Handwerk trades are a special case: free to be *employed* in, licence-bound to be
-*self-employed* in.
+Handwerk trades are a special case: free to be *employed* in, licence-bound to be *self-employed* in.
 
-**And none of this is permanent.** The **Anlage A** list is not a settled fact about which
-trades are dangerous or skilled; it is a political decision that has been taken twice in
-opposite directions. In **2004** Germany deregulated 53 trades. In **2020** it restored the
-Meisterpflicht for **twelve of them**, grandfathering the businesses that had opened
-meanwhile — so
-[Raumausstatter](/jobs-in-germany/skilled-trades/raumausstatter-in/) and
-[Fliesenleger](/jobs-in-germany/skilled-trades/fliesenleger-in/) now contain two classes of owner
-operating side by side under different rules.
-[ATA/OTA](/jobs-in-germany/healthcare/ata-ota/) shows the same movement in healthcare, becoming a
-regulated profession only in **2022**. Regulation here tightens and loosens; check the
-current position rather than the general reputation of a trade.
+**And none of this is permanent.** The **Anlage A** list is not a settled fact about which trades are dangerous or skilled; it is a political decision that has been taken twice in opposite directions. In **2004** Germany deregulated 53 trades. In **2020** it restored the Meisterpflicht for **twelve of them**, grandfathering the businesses that had opened meanwhile — so [Raumausstatter](/jobs-in-germany/skilled-trades/raumausstatter-in/) and [Fliesenleger](/jobs-in-germany/skilled-trades/fliesenleger-in/) now contain two classes of owner operating side by side under different rules. [ATA/OTA](/jobs-in-germany/healthcare/ata-ota/) shows the same movement in healthcare, becoming a regulated profession only in **2022**. Regulation here tightens and loosens; check the current position rather than the general reputation of a trade.
 
-And one trap cuts across the whole "free" group: **unregulated does not mean paperwork-free
-for non-EU citizens.** Nobody needs recognition to cook or to work a hotel reception — but
-the skilled-worker *visa* requires a recognised qualification anyway. Employers will hire
-you without it; the Ausländerbehörde will not issue the permit. Sort recognition first.
+And one trap cuts across the whole "free" group: **unregulated does not mean paperwork-free for non-EU citizens.** Nobody needs recognition to cook or to work a hotel reception — but the skilled-worker *visa* requires a recognised qualification anyway. Employers will hire you without it; the Ausländerbehörde will not issue the permit. Sort recognition first.
 
 ## Sources worth citing {#sources-worth-citing}
 
@@ -323,5 +241,4 @@ you without it; the Ausländerbehörde will not issue the permit. Sort recogniti
 
 ## Disclaimer {#disclaimer}
 
-Reference material, not legal or immigration advice. Verify against the competent authority
-before acting on anything here.
+Reference material, not legal or immigration advice. Verify against the competent authority before acting on anything here.
