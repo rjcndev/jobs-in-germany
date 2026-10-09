@@ -110,8 +110,18 @@ def link_tree(text):
     return re.sub(r'(?<=## Structure\n\n)```\n(.*?)```\n', repl, text, flags=re.S)
 
 
+# README sections about maintaining the repo, left off the site.
+REPO_ONLY = ('Adding a profession', 'Checks', 'Publishing')
+
+
 def landing(text):
-    """The README as the site's landing page: linked folder tree, repo link."""
+    """The README as the site's landing page: linked folder tree, repo link,
+    no repo-maintenance sections."""
+    for heading in REPO_ONLY:
+        text, n = re.subn(rf'^## {re.escape(heading)}\n.*?(?=^## |\Z)', '', text, flags=re.M | re.S)
+        if n != 1:
+            problems.append(f'README.md: no "## {heading}" section to leave off the site')
+    text = text.replace('One file per profession, named after the German job title in kebab-case.\n\n', '')
     source = f'The source is on GitHub: [rjcndev/jobs-in-germany]({REPO}).\n\n'
     return link_tree(text).replace('## Structure', source + '## Structure', 1)
 
@@ -161,9 +171,10 @@ pages.append(('jobs-in-germany/reference/index.md', root / 'reference' / 'README
 pages += [(f'jobs-in-germany/reference/{f.name}', f, None) for f in ref]
 
 # Anchors each page will carry, so links to #sections can be checked.
+landing_text = landing((root / 'README.md').read_text())
 anchors = {}
 for out, src, gen in pages:
-    text = gen[0] if gen else src.read_text()
+    text = gen[0] if gen else landing_text if src == root / 'README.md' else src.read_text()
     url = page_url(src.relative_to(root).as_posix())
     anchors[url] = {a for _, a in headings(text)}
 
@@ -181,7 +192,7 @@ with tempfile.TemporaryDirectory() as tmp:
             finally:
                 os.unlink(g.name)
         else:
-            text = landing(src.read_text()) if src == root / 'README.md' else None
+            text = landing_text if src == root / 'README.md' else None
             dest.write_text(convert(src, url, text))
 
     if problems:
