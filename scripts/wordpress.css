@@ -214,6 +214,7 @@ body:has(.entry-content > .jig-page) .kadence-breadcrumbs { display: none; }
 /* Key facts: a card with labels on the left, no header row. */
 .entry-content .jig-facts + table {
   display: table;
+  table-layout: fixed;  /* keep to the column; long words wrap instead */
   width: 100%;
   max-width: 48rem;
   margin-left: auto;
@@ -221,6 +222,7 @@ body:has(.entry-content > .jig-page) .kadence-breadcrumbs { display: none; }
   box-shadow: 0 1px 3px rgba(var(--jig-shade), 0.06);
 }
 .entry-content .jig-facts + table thead { display: none; }
+.entry-content .jig-facts + table td { overflow-wrap: anywhere; }
 .entry-content .jig-facts + table td:first-child {
   width: 34%;
   color: var(--jig-muted);
