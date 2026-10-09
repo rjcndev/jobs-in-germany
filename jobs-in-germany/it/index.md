@@ -1,5 +1,5 @@
 ---
-title: "It"
+title: "IT"
 ---
 
 <div class="jig" markdown="1">

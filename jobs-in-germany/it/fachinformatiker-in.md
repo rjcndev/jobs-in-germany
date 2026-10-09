@@ -4,7 +4,7 @@ title: "Fachinformatiker/in (IT Specialist, dual-trained)"
 
 <div class="jig" markdown="1">
 
-<p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/it/">It</a></p>
+<p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/it/">IT</a></p>
 
 > The vocational route into IT: three years of paid, employer-based training with an IHK
 > qualification at the end. The standard German alternative to a CS degree.

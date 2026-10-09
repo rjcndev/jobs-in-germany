@@ -4,7 +4,7 @@ title: "Softwareentwickler/in (Software Developer)"
 
 <div class="jig" markdown="1">
 
-<p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/it/">It</a></p>
+<p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/it/">IT</a></p>
 
 > Writes and maintains software. Included here as the deliberate contrast case: almost
 > everything in the healthcare files does not apply.

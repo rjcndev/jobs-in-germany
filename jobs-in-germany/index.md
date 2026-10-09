@@ -22,7 +22,7 @@ The source is on GitHub: [rjcndev/jobs-in-germany](https://github.com/rjcndev/jo
 - [Reference](/jobs-in-germany/reference/) <span>cross-cutting tables — start here if you are choosing a profession</span>
 - [Healthcare](/jobs-in-germany/healthcare/) <span>14 professions</span>
 - [Education](/jobs-in-germany/education/) <span>3 professions</span>
-- [It](/jobs-in-germany/it/) <span>2 professions</span>
+- [IT](/jobs-in-germany/it/) <span>2 professions</span>
 - [Engineering](/jobs-in-germany/engineering/) <span>3 professions</span>
 - [Skilled trades (Handwerk)](/jobs-in-germany/skilled-trades/) <span>16 professions</span>
 - [Grüne Berufe — agriculture, forestry and horticulture](/jobs-in-germany/green/) <span>9 professions</span>
