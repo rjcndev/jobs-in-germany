@@ -52,9 +52,10 @@
 
 /* The mobile menu drawer is near-black in both modes, but Kadence colours its
  * links with palette 8, which dark mode turns near-black too. Pin them to the
- * light-mode value. */
-.mobile-navigation ul li > a,
-.mobile-navigation ul li.menu-item-has-children > .drawer-nav-drop-wrap {
+ * light-mode value. The #mobile-drawer prefix outranks Kadence's rule, which
+ * loads after this stylesheet. */
+#mobile-drawer .mobile-navigation ul li > a,
+#mobile-drawer .mobile-navigation ul li.menu-item-has-children > .drawer-nav-drop-wrap {
   color: #f7fafc;
 }
 
