@@ -172,6 +172,32 @@ def file_cards(files):
     return cards([card(first_heading(f), f.name, summary(f)) for f in files])
 
 
+BLOCK_START = re.compile(r'^(#|\||>|```|<|[-*+] |\d+[.)] |\s*$)')
+
+
+def unwrap(lines):
+    """Join hand-wrapped lines. WordPress turns every newline inside a paragraph
+    into <br>, so wrapped source text breaks mid-sentence on the site."""
+    out, fence = [], False
+    for line in lines:
+        if line.startswith('```'):
+            fence = not fence
+            out.append(line); continue
+        prev = out[-1] if out else ''
+        if fence or not prev.strip() or prev.startswith(('#', '|', '<', '```')):
+            out.append(line); continue
+        if line.startswith('>'):  # blockquote continuation
+            rest = line[1:].strip()
+            if prev.startswith('>') and prev[1:].strip() and rest and not BLOCK_START.match(rest):
+                out[-1] = prev.rstrip() + ' ' + rest; continue
+        elif not prev.startswith('>'):  # paragraph or list-item continuation
+            rest = line.strip()
+            if rest and not BLOCK_START.match(rest):
+                out[-1] = prev.rstrip() + ' ' + rest; continue
+        out.append(line)
+    return out
+
+
 def mark_facts(lines):
     """Mark a profile's key-facts table: the first one with an empty header row."""
     fence = False
@@ -204,7 +230,7 @@ def convert(src, url, text):
             lines[i] = f'{lines[i]} <a id="{anchor}"></a>'
     if h1 is not None:
         del lines[h1]  # the theme prints the page title itself
-    body = rewrite_links('\n'.join(mark_facts(lines)).strip('\n'), src, url)
+    body = rewrite_links('\n'.join(mark_facts(unwrap(lines))).strip('\n'), src, url)
     # The page marker scopes the site's stylesheet (scripts/wordpress.css) to these pages.
     head = '\n\n'.join(x for x in (marker('page'), breadcrumbs(url)) if x)
     body = f'{head}\n\n{body}'
