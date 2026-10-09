@@ -12,15 +12,15 @@ Eight profession files in this repo tell you to "choose the Bundesland carefully
 
 ## Where it genuinely matters {#where-it-genuinely-matters}
 
-| Profession | What varies | How much |
-|---|---|---|
-| [**Lehrer/in**](/jobs-in-germany/education/lehrer-in/) | The entire system: training structure, subject combinations, **whether you are made a Beamter**, and A13-für-alle status | **Decisive** |
-| [**Erzieher/in**](/jobs-in-germany/education/erzieher-in/) | **The law itself is state law** — training content, entry requirements and the recognition procedure genuinely differ | **Decisive** |
-| [**Polizist/in**](/jobs-in-germany/public-service/polizist-in/) | Sixteen separate forces, own recruitment, own Besoldung — and **whether EU nationals may be appointed at all** | **Decisive** |
-| [Other Beamte](/jobs-in-germany/reference/beamte-vs-angestellte/) — [fire](/jobs-in-germany/public-service/feuerwehrmann-frau/), [tax](/jobs-in-germany/public-service/steuerbeamte-r/) | **Besoldung is state law** since 2006, and has diverged | High |
-| [Green professions](/jobs-in-germany/green/) | Whether a **Landwirtschaftskammer exists** at all, or a ministry does the job | High |
-| Licensed healthcare | The competent authority differs; **the standard is federal**, so outcomes are broadly consistent | Low — procedural only |
-| Everything unregulated | Nothing formally. Only the labour market | Low |
+| Profession | English | What varies | How much |
+|---|---|---|---|
+| [**Lehrer/in**](/jobs-in-germany/education/lehrer-in/) | Teacher | The entire system: training structure, subject combinations, **whether you are made a Beamter**, and A13-für-alle status | **Decisive** |
+| [**Erzieher/in**](/jobs-in-germany/education/erzieher-in/) | Early Years & Social Education Practitioner | **The law itself is state law** — training content, entry requirements and the recognition procedure genuinely differ | **Decisive** |
+| [**Polizist/in**](/jobs-in-germany/public-service/polizist-in/) | Police Officer | Sixteen separate forces, own recruitment, own Besoldung — and **whether EU nationals may be appointed at all** | **Decisive** |
+| [Other Beamte](/jobs-in-germany/reference/beamte-vs-angestellte/) — [fire](/jobs-in-germany/public-service/feuerwehrmann-frau/), [tax](/jobs-in-germany/public-service/steuerbeamte-r/) |  | **Besoldung is state law** since 2006, and has diverged | High |
+| [Green professions](/jobs-in-germany/green/) | | Whether a **Landwirtschaftskammer exists** at all, or a ministry does the job | High |
+| Licensed healthcare | | The competent authority differs; **the standard is federal**, so outcomes are broadly consistent | Low — procedural only |
+| Everything unregulated | | Nothing formally. Only the labour market | Low |
 
 **The distinction to hold on to:** for federally regulated professions the *office* is state-level but the *standard* is national. For **teaching and Erzieher/in the standard itself is state law**. That is the difference between paperwork and a different career.
 
