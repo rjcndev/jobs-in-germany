@@ -169,9 +169,18 @@ body:has(.entry-content > .jig-page) .kadence-breadcrumbs { display: none; }
 }
 .entry-content:has(> .jig-page) blockquote p:last-child { margin-bottom: 0; }
 
-/* Tables: ruled rows, tinted header; below 900px they scroll sideways. */
+/* Tables: ruled rows, tinted header. Each is as wide as its content, up to the
+ * text column; one that still doesn't fit scrolls sideways inside its border,
+ * with a shadow on whichever edge has more to see (the white "local"
+ * gradients cover the shadows once you reach that end). */
 .entry-content:has(> .jig-page) table {
-  width: 100%;
+  display: block;
+  width: fit-content;
+  max-width: 100%;
+  /* line up with the text column, which is centred at up to 48rem */
+  margin-left: max(0px, calc((100% - 48rem) / 2));
+  margin-right: auto;
+  overflow-x: auto;
   font-size: 0.875rem;
   line-height: 1.5;
   margin-bottom: 1.75rem;
@@ -179,7 +188,12 @@ body:has(.entry-content > .jig-page) .kadence-breadcrumbs { display: none; }
   border-radius: var(--jig-radius);
   border-collapse: separate;
   border-spacing: 0;
-  overflow: hidden;
+  background:
+    linear-gradient(to right, var(--jig-bg) 40%, rgba(255, 255, 255, 0)) left / 1.5rem 100% no-repeat local,
+    linear-gradient(to left, var(--jig-bg) 40%, rgba(255, 255, 255, 0)) right / 1.5rem 100% no-repeat local,
+    linear-gradient(to right, rgba(var(--jig-shade), 0.14), rgba(var(--jig-shade), 0)) left / 0.75rem 100% no-repeat scroll,
+    linear-gradient(to left, rgba(var(--jig-shade), 0.14), rgba(var(--jig-shade), 0)) right / 0.75rem 100% no-repeat scroll;
+  background-color: var(--jig-bg);
 }
 .entry-content:has(> .jig-page) th,
 .entry-content:has(> .jig-page) td {
@@ -199,6 +213,10 @@ body:has(.entry-content > .jig-page) .kadence-breadcrumbs { display: none; }
 
 /* Key facts: a card with labels on the left, no header row. */
 .entry-content .jig-facts + table {
+  display: table;
+  width: 100%;
+  max-width: 48rem;
+  margin-left: auto;
   background: var(--jig-bg);
   box-shadow: 0 1px 3px rgba(var(--jig-shade), 0.06);
 }
@@ -258,26 +276,6 @@ body:has(.entry-content > .jig-page) .kadence-breadcrumbs { display: none; }
 .entry-content:has(> .jig-page) td a {
   text-underline-offset: 0.18em;
   text-decoration-thickness: 1px;
-}
-
-/* Narrow screens: wide tables scroll inside their border, with a shadow on
- * whichever edge has more to see. The white "local" gradients cover the
- * shadows once you reach that end. */
-@media (max-width: 900px) {
-  .entry-content:has(> .jig-page) table {
-    display: block;
-    width: fit-content;
-    max-width: 100%;
-    margin-left: 0;  /* line up with the text, which fills the column here */
-    overflow-x: auto;
-    background:
-      linear-gradient(to right, var(--jig-bg) 40%, rgba(255, 255, 255, 0)) left / 1.5rem 100% no-repeat local,
-      linear-gradient(to left, var(--jig-bg) 40%, rgba(255, 255, 255, 0)) right / 1.5rem 100% no-repeat local,
-      linear-gradient(to right, rgba(var(--jig-shade), 0.14), rgba(var(--jig-shade), 0)) left / 0.75rem 100% no-repeat scroll,
-      linear-gradient(to left, rgba(var(--jig-shade), 0.14), rgba(var(--jig-shade), 0)) right / 0.75rem 100% no-repeat scroll;
-    background-color: var(--jig-bg);
-  }
-  .entry-content .jig-facts + table { display: table; background: var(--jig-bg); }
 }
 
 @media (max-width: 600px) {
