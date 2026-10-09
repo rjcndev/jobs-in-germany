@@ -198,6 +198,28 @@ def unwrap(lines):
     return out
 
 
+BARE_URL = re.compile(r'(?<![(<\[`/\w])(https?://[^\s<>()`]+?)([.,;:!?]*)(?=\s|$|[)<])( (?=,))?')
+
+
+def linkify(lines):
+    """Turn bare URLs into links; Parsedown leaves them as plain text. The
+    source puts a space before a comma after a URL so the comma isn't read as
+    part of it; the link makes that unnecessary, so the space goes."""
+    def repl(m):
+        url, punct = m.group(1), m.group(2)
+        label = re.sub(r'^https?://(www\.)?', '', url).rstrip('/')
+        return f'[{label}]({url}){punct}'
+    out, fence = [], False
+    for line in lines:
+        if line.startswith('```'):
+            fence = not fence
+        if fence:
+            out.append(line); continue
+        parts = re.split(r'(`[^`]*`)', line)  # leave inline code alone
+        out.append(''.join(p if p.startswith('`') else BARE_URL.sub(repl, p) for p in parts))
+    return out
+
+
 def mark_facts(lines):
     """Mark a profile's key-facts table: the first one with an empty header row."""
     fence = False
@@ -247,7 +269,7 @@ def convert(src, url, text):
             lines[i] = f'{lines[i]} <a id="{anchor}"></a>'
     if h1 is not None:
         del lines[h1]  # the theme prints the page title itself
-    body = rewrite_links('\n'.join(mark_facts(unwrap(lines))).strip('\n'), src, url)
+    body = rewrite_links('\n'.join(mark_facts(linkify(unwrap(lines)))).strip('\n'), src, url)
     # The page marker scopes the site's stylesheet (scripts/wordpress.css) to these pages.
     body = f'{marker("page")}\n\n{breadcrumbs(url, title)}\n\n{body}'
     if back := back_link(url):
