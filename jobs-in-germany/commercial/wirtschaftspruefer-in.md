@@ -2,7 +2,7 @@
 title: "Wirtschaftsprüfer/in (Statutory Auditor)"
 ---
 
-<div class="jig" markdown="1">
+<div class="jig-page"></div>
 
 <p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/commercial/">Commercial</a></p>
 
@@ -12,8 +12,7 @@ title: "Wirtschaftsprüfer/in (Statutory Auditor)"
 > repo already describes from the bottom, and it is the highest-paying non-medical
 > qualification here.
 
-
-<div class="jig-facts" markdown="1">
+<div class="jig-facts"></div>
 
 | | |
 |---|---|
@@ -24,9 +23,6 @@ title: "Wirtschaftsprüfer/in (Statutory Auditor)"
 | **Examining body** | **Wirtschaftsprüferkammer (WPK)** |
 | **Regulated** | **Yes — and the statutory audit is a reserved activity** |
 | **Last reviewed** | 2026-09 |
-
-</div>
-
 
 ## The reserved activity {#the-reserved-activity}
 
@@ -79,9 +75,6 @@ auditors did not grow.
 
 ## Where the work is {#where-the-work-is}
 
-
-<div class="jig-table" markdown="1">
-
 | Employer | Character |
 |---|---|
 | **The large international firms** | Listed and multinational audits, structured progression, well-defined exam support, long hours |
@@ -90,15 +83,9 @@ auditors did not grow.
 | **Industry** | Internal audit, group accounting, controlling — a very common exit, and a good one |
 | **Public sector** | Rechnungshöfe and public audit bodies |
 
-</div>
-
-
 ## Pay {#pay}
 
 **Market estimate**, but well documented by industry surveys.
-
-
-<div class="jig-table" markdown="1">
 
 | Stage | Gross/month |
 |---|---|
@@ -108,9 +95,6 @@ auditors did not grow.
 | Manager / Senior Manager | €8,000 – €11,000 |
 | Partner | Not comparable — a profit share |
 | Industry exit (group accounting, internal audit) | €6,000 – €9,000, with better hours |
-
-</div>
-
 
 **The hours are the trade.** Busy season — roughly January to April for calendar-year clients
 — involves sustained overtime that is a well-known feature of the profession. Much of the
@@ -168,5 +152,3 @@ entering now.
 - Finanzmarktintegritätsstärkungsgesetz (FISG, 2021) — https://www.bgbl.de , accessed 2026-09
 - Wirtschaftsprüferkammer — https://www.wpk.de , accessed 2026-09
 - Abschlussprüferaufsichtsstelle (APAS) — https://www.apasbafa.bund.de , accessed 2026-09
-
-</div>

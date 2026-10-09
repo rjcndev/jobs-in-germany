@@ -2,7 +2,7 @@
 title: "Public service (öffentlicher Dienst) — the Beamten careers"
 ---
 
-<div class="jig" markdown="1">
+<div class="jig-page"></div>
 
 <p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a></p>
 
@@ -20,17 +20,11 @@ You do not apply for a Beamten job and start work. You apply for a **Laufbahn** 
 appointed as a **Beamter auf Widerruf** for a training period — the **Vorbereitungsdienst**
 — during which you are paid **Anwärterbezüge**, well below the eventual salary.
 
-
-<div class="jig-table" markdown="1">
-
 | Laufbahn | Grades | Entry | Training |
 |---|---|---|---|
 | mittlerer Dienst | A 6 – A 9 | Mittlerer Schulabschluss | 2 years |
 | **gehobener Dienst** | **A 9 – A 13** | **Abitur / Fachhochschulreife** | **3-year Bachelor at a state Hochschule, as a paid Anwärter** |
 | höherer Dienst | A 13 – A 16 | Master / Staatsexamen | Referendariat |
-
-</div>
-
 
 The gehobener Dienst route is now standard in policing and much of administration: **you are
 paid to take a degree**, and you are a civil servant from the first day of it.
@@ -62,13 +56,9 @@ are labelled with the state they come from and **do not transfer**. See
 
 ## Professions in this category {#professions-in-this-category}
 
-<div class="jig-cards" markdown="1">
+<div class="jig-cards"></div>
 
 - [Feuerwehrmann / Feuerwehrfrau (Firefighter)](/jobs-in-germany/public-service/feuerwehrmann-frau/) <span>Mostly a rescue service, mostly staffed by volunteers, and professionally entered only after you already hold a trade qualification.</span>
 - [Polizist/in (Police Officer)](/jobs-in-germany/public-service/polizist-in/) <span>Sixteen state forces plus two federal ones, each recruiting separately.</span>
 - [Steuerbeamte/r (Tax Official)](/jobs-in-germany/public-service/steuerbeamte-r/) <span>Assesses and audits taxes at a Finanzamt.</span>
 - [Zollbeamte/r (Customs Officer)](/jobs-in-germany/public-service/zollbeamte-r/) <span>Collects duties, polices goods across borders — and enforces most of the labour law this repo describes.</span>
-
-</div>
-
-</div>

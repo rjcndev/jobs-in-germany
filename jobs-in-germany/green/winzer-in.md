@@ -2,7 +2,7 @@
 title: "Winzer/in (Winegrower)"
 ---
 
-<div class="jig" markdown="1">
+<div class="jig-page"></div>
 
 <p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/green/">Grüne Berufe — agriculture, forestry and horticulture</a></p>
 
@@ -11,8 +11,7 @@ title: "Winzer/in (Winegrower)"
 > [pharmacy ownership](/jobs-in-germany/healthcare/apotheker-in/) more than a wage trade: the asset is
 > the business, and most of the qualified people in it expect to inherit or buy one.
 
-
-<div class="jig-facts" markdown="1">
+<div class="jig-facts"></div>
 
 | | |
 |---|---|
@@ -23,9 +22,6 @@ title: "Winzer/in (Winegrower)"
 | **Examining body** | **Landwirtschaftskammer**, or the **DLR** in Rheinland-Pfalz |
 | **Regulated** | No — but **Pflanzenschutz-Sachkunde** gates plant protection, and wine law governs the product |
 | **Last reviewed** | 2026-09 |
-
-</div>
-
 
 ## Where the work is {#where-the-work-is}
 
@@ -43,9 +39,6 @@ country's biggest wine region an immediate example of the
 
 ## Two jobs in one qualification {#two-jobs-in-one-qualification}
 
-
-<div class="jig-table" markdown="1">
-
 | **Weinberg** | **Keller** |
 |---|---|
 | Pruning, tying, canopy management, soil care | Pressing and must handling |
@@ -53,9 +46,6 @@ country's biggest wine region an immediate example of the
 | Harvest: timing, ripeness measurement, selection | Fining, filtration, blending, sulphur management |
 | Vineyard establishment, rootstock and variety choice | Bottling, labelling, and **wine law** compliance |
 | **Steillagen** — steep-slope work, by hand or monorack | Laboratory analysis and sensory assessment |
-
-</div>
-
 
 And increasingly a third: **selling**. Estate wine is sold direct — cellar door, wine
 festivals, mailing lists, online, and to restaurants — so marketing, hospitality and language
@@ -69,18 +59,12 @@ is the sharpest tension in German viticulture.
 
 ## The economics {#the-economics}
 
-
-<div class="jig-table" markdown="1">
-
 | Structure | How it works |
 |---|---|
 | **Family estate (Weingut)** | Owns or leases vineyards, makes and sells its own wine. Succession is the normal route in |
 | **Winzergenossenschaft** | A cooperative: members grow, the co-op vinifies and sells. **A significant employer**, and the route into cellar work without owning land |
 | **Fassweinbetrieb** | Grows and sells wine in bulk to bottlers. Price-taking and squeezed |
 | **Employed at a large estate or a Kellerei** | Salaried work, including the **Kellermeister** role |
-
-</div>
-
 
 Vineyard land in established regions is expensive, which makes buying in hard and makes
 **succession the dominant route** — as in pharmacy, and with the same consequence: the
@@ -91,9 +75,6 @@ thinner than the qualification's prestige suggests.
 
 **Market estimate.** Coverage by the agricultural agreements is patchy.
 
-
-<div class="jig-table" markdown="1">
-
 | Stage | Gross/month |
 |---|---|
 | Qualified Winzer/in, employed | €2,500 – €3,200 |
@@ -101,9 +82,6 @@ thinner than the qualification's prestige suggests.
 | **Kellermeister/in** | €3,500 – €4,800 |
 | **Betriebsleiter/in**, large estate or cooperative | €4,200 – €5,500 |
 | Estate owner | Not comparable — a business result, and asset-heavy |
-
-</div>
-
 
 Harvest brings seasonal labour under the **70-day rule** described in
 [Landwirt/in](/jobs-in-germany/green/landwirt-in/), with the same law and the same enforcement questions.
@@ -166,5 +144,3 @@ wine, and export.
 - Deutsches Weininstitut — https://www.deutscheweine.de , accessed 2026-09
 - DLR Rheinland-Pfalz — https://www.dlr.rlp.de , accessed 2026-09
 - BERUFENET — https://berufenet.arbeitsagentur.de , accessed 2026-09
-
-</div>

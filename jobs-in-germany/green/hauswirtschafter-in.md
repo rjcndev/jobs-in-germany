@@ -2,7 +2,7 @@
 title: "Hauswirtschafter/in (Home Economics / Institutional Housekeeping)"
 ---
 
-<div class="jig" markdown="1">
+<div class="jig-page"></div>
 
 <p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/green/">Grüne Berufe — agriculture, forestry and horticulture</a></p>
 
@@ -12,8 +12,7 @@ title: "Hauswirtschafter/in (Home Economics / Institutional Housekeeping)"
 > [cleaning tiers](/jobs-in-germany/services/), and makes it the most useful upward route out of
 > them.
 
-
-<div class="jig-facts" markdown="1">
+<div class="jig-facts"></div>
 
 | | |
 |---|---|
@@ -24,9 +23,6 @@ title: "Hauswirtschafter/in (Home Economics / Institutional Housekeeping)"
 | **Examining body** | **Landwirtschaftskammer**, or a state authority |
 | **Regulated** | No — but food hygiene law governs a large part of the work |
 | **Last reviewed** | 2026-09 |
-
-</div>
-
 
 ## Why it is classified as a green profession {#why-it-is-classified-as-a-green-profession}
 
@@ -41,9 +37,6 @@ the care home you will actually work in. It is the same trap the whole
 
 ## What the job actually involves {#what-the-job-actually-involves}
 
-
-<div class="jig-table" markdown="1">
-
 | Area | Work |
 |---|---|
 | **Verpflegung** | Planning and preparing meals for groups, to nutritional standards, within a budget, for people with allergies, diabetes, dysphagia-modified diets and religious requirements |
@@ -53,18 +46,12 @@ the care home you will actually work in. It is the same trap the whole
 | **Hauswirtschaftliche Versorgung** in care | In a care home this is a **funded part of the care package**, not an overhead — which is why the role is secure |
 | **Organisation** | Purchasing, stock, budgets, rosters, and supervising unqualified staff |
 
-</div>
-
-
 In care and Eingliederungshilfe settings there is also a **relational** element that the job
 title hides: cooking and eating together is daily structure for residents, and the
 Hauswirtschaft staff are often the people with the most ordinary, least clinical contact with
 them.
 
 ## Confusable roles {#confusable-roles}
-
-
-<div class="jig-table" markdown="1">
 
 | Title | Reality |
 |---|---|
@@ -74,15 +61,9 @@ them.
 | **[Koch/Köchin](/jobs-in-germany/hospitality/koch-koechin/)** | A different three-year trade, IHK-examined, focused on cooking as a craft rather than on running a household |
 | **Ökotrophologe/in** | A **degree** in nutrition and home economics — the academic route above this |
 
-</div>
-
-
 ## Pay {#pay}
 
 **Market estimate**, except the public-sector row.
-
-
-<div class="jig-table" markdown="1">
 
 | Setting | Gross/month |
 |---|---|
@@ -91,9 +72,6 @@ them.
 | With responsibility for a kitchen or a department | €3,300 – €4,000 |
 | **Hauswirtschaftsmeister/in, Betriebsleitung** | €3,800 – €4,800 |
 | Church providers (Caritas, Diakonie, AVR) | Comparable to TVöD |
-
-</div>
-
 
 TVöD row is the scale verified for this repo, valid **01.05.2026 – 31.03.2027**.
 
@@ -170,5 +148,3 @@ euro a month, plus access to the TVöD groups.
 - Ganztagsförderungsgesetz — https://www.bmfsfj.de , accessed 2026-09
 - Deutsche Gesellschaft für Hauswirtschaft — https://www.dghev.de , accessed 2026-09
 - TVöD VKA pay table — https://oeffentlicher-dienst.info , verified 2026-09
-
-</div>

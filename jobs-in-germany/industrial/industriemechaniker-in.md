@@ -2,7 +2,7 @@
 title: "Industriemechaniker/in (Industrial Mechanic)"
 ---
 
-<div class="jig" markdown="1">
+<div class="jig-page"></div>
 
 <p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/industrial/">Industrial trades (Industrieberufe)</a></p>
 
@@ -10,8 +10,7 @@ title: "Industriemechaniker/in (Industrial Mechanic)"
 > industrial Ausbildungen in Germany and the mechanical counterpart to
 > [Elektroniker für Betriebstechnik](/jobs-in-germany/industrial/elektroniker-in-betriebstechnik/).
 
-
-<div class="jig-facts" markdown="1">
+<div class="jig-facts"></div>
 
 | | |
 |---|---|
@@ -22,9 +21,6 @@ title: "Industriemechaniker/in (Industrial Mechanic)"
 | **Typical qualification** | Duale Ausbildung, 3.5 years, **IHK** exam |
 | **Regulated** | No |
 | **Last reviewed** | 2026-09 |
-
-</div>
-
 
 ## Einsatzgebiete, not Fachrichtungen {#einsatzgebiete-not-fachrichtungen}
 
@@ -42,9 +38,6 @@ employer what their trainees are exposed to, and expect to be asked the same in 
 
 German metalworking splits into several distinct occupations that outsiders read as one:
 
-
-<div class="jig-table" markdown="1">
-
 | Occupation | What it actually is |
 |---|---|
 | **Industriemechaniker/in** | This one — assembly, machines, plant, maintenance |
@@ -53,9 +46,6 @@ German metalworking splits into several distinct occupations that outsiders read
 | **Konstruktionsmechaniker/in** | Steel and metal structures, welding-heavy |
 | **Werkzeugmechaniker/in** | Tools, dies and moulds |
 | **Anlagenmechaniker/in** (industrial) | Piping and process plant — **not** the Handwerk [SHK trade](/jobs-in-germany/skilled-trades/anlagenmechaniker-in-shk/) of almost the same name |
-
-</div>
-
 
 That last row is a genuine trap. **Anlagenmechaniker/in** and **Anlagenmechaniker/in für
 Sanitär-, Heizungs- und Klimatechnik** are different occupations under different chambers —
@@ -91,18 +81,12 @@ short-ticket pattern as the Staplerschein or Hochvolt levels elsewhere in this r
 [category README](/jobs-in-germany/industrial/#pay-is-better-here-and-not-verifiable). Approximate gross
 monthly, 2026:
 
-
-<div class="jig-table" markdown="1">
-
 | Stage | Gross/month |
 |---|---|
 | Newly qualified (tariff-bound) | €3,300 – €3,900 |
 | Experienced | €3,900 – €4,700 |
 | Industriemeister / Techniker | €4,700 – €5,800 |
 | Instandhaltungs- or Montageleitung | €5,500 – €6,800 |
-
-</div>
-
 
 Plus the 13th month, holiday pay and a 35-hour week at tariff employers, and shift and
 on-call supplements on top. **Montage abroad** — installing and commissioning plant at
@@ -148,5 +132,3 @@ career anchored to one combustion-era supplier does not.
 - IG Metall — https://www.igmetall.de , accessed 2026-09
 - IHK FOSA — https://www.ihk-fosa.de , accessed 2026-09
 - BERUFENET — https://berufenet.arbeitsagentur.de , accessed 2026-09
-
-</div>

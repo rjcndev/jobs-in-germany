@@ -2,7 +2,7 @@
 title: "Healthcare"
 ---
 
-<div class="jig" markdown="1">
+<div class="jig-page"></div>
 
 <p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a></p>
 
@@ -78,7 +78,7 @@ private operators often pay less.
 
 ## Professions in this category {#professions-in-this-category}
 
-<div class="jig-cards" markdown="1">
+<div class="jig-cards"></div>
 
 - [Apotheker/in (Pharmacist)](/jobs-in-germany/healthcare/apotheker-in/) <span>Dispenses and advises on medicines.</span>
 - [Arzt / Ärztin (Physician)](/jobs-in-germany/healthcare/arzt-aerztin/) <span>Diagnoses and treats patients.</span>
@@ -94,7 +94,3 @@ private operators often pay less.
 - [Psychotherapeut/in (Psychotherapist)](/jobs-in-germany/healthcare/psychotherapeut-in/) <span>Reformed in 2020 into a direct-study route ending in Approbation at the end of a Master's, replacing a post-graduate training that was among the worst-paid in German professional life.</span>
 - [Logopäde/in und Ergotherapeut/in (Speech and Occupational Therapy)](/jobs-in-germany/healthcare/therapieberufe-logopaedie-ergotherapie/) <span>Two regulated professions written as one file, because their structural story is identical and it is the same one Physiotherapie tells: a state licence, a school-based training that used to charge you for it, pay that does not match the responsibility, and an academisation that has been announced for years and not delivered.</span>
 - [Zahnarzt / Zahnärztin (Dentist)](/jobs-in-germany/healthcare/zahnarzt-zahnaerztin/) <span>Approbation, like a doctor — but with two things medicine does not have: no specialist training is required to practise generally, and a large private economy sitting on top of a deliberately basic statutory entitlement. The second is what makes dentistry financially unlike the rest of healthcare in this repo.</span>
-
-</div>
-
-</div>

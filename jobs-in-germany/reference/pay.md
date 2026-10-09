@@ -2,7 +2,7 @@
 title: "Pay, by profession"
 ---
 
-<div class="jig" markdown="1">
+<div class="jig-page"></div>
 
 <p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/reference/">Reference</a></p>
 
@@ -27,9 +27,6 @@ clean as it looks.
 Sorted by entry-level midpoint. Ranked this way, the table mostly reflects *credential
 length* — six years of medicine, a degree, a three-year Ausbildung — rather than skill or
 difficulty.
-
-
-<div class="jig-table" markdown="1">
 
 | Profession | Entry | Experienced | Ceiling (employed) | Annual, entry (×12) |
 |---|---|---|---|---|
@@ -117,9 +114,6 @@ difficulty.
 | [Pferdewirt/in](/jobs-in-germany/green/pferdewirt-in/) | €2,200 – €2,800 | €2,600 – €3,200 | €3,400 – €4,500 (Meister / Yard management) | €26,400 – €33,600 |
 | [Reinigungskraft](/jobs-in-germany/services/reinigungskraft/) | €2,100 – €2,400 | €2,600 – €3,100 | €2,700 – €3,100 (public employer) | €25,200 – €28,800 |
 | [Haushaltshilfe](/jobs-in-germany/services/haushaltshilfe/) | €2,100 – €2,400 — **full-time equivalent only; almost nobody works it full time** | — | — | €25,200 – €28,800 |
-
-</div>
-
 
 Self-employment ceilings are excluded because they are not comparable: a Steuerberater with
 their own practice, a Meister with a well-run Betrieb, or a practice-owning physiotherapist
@@ -217,9 +211,6 @@ Nr. 51 EStG. Compare on *net including these*, not on gross.
 **3. The annual column is ×12, and that is deliberately conservative.** Many employers pay a
 13th-month equivalent on top, so real annual income exceeds the figure shown. What to add:
 
-
-<div class="jig-table" markdown="1">
-
 | Employer type | On top of ×12 |
 |---|---|
 | **TVöD** (verified 2026) | **Jahressonderzahlung: 85% of a month for EG 1–8, 70.28% for EG 9a–12, 51.78% for EG 13–15** |
@@ -227,9 +218,6 @@ Nr. 51 EStG. Compare on *net including these*, not on gross.
 | **ADEXA/ADA** ([pharmacy](/jobs-in-germany/healthcare/apotheker-in/)) | A full month, paid in November — though it may be halved where the pharmacy's result falls 10% below the prior year |
 | **Beamte** ([police](/jobs-in-germany/public-service/polizist-in/), [fire](/jobs-in-germany/public-service/feuerwehrmann-frau/), [customs](/jobs-in-germany/public-service/zollbeamte-r/), [teachers](/jobs-in-germany/education/lehrer-in/)) | Usually **nothing** — most Länder abolished the Sonderzahlung or folded it into the monthly tables |
 | Non-tariff private employers | Often nothing, or a discretionary bonus |
-
-</div>
-
 
 Two consequences. **Tariff professions are understated by the annual column by up to
 roughly 8%**, while Beamte largely are not — so the gap between them is wider than ×12
@@ -261,9 +249,6 @@ figures are exact and which are not.
 Checked directly against the current collective-agreement scales. These are **exact**, not
 estimates, and each carries its validity window — they expire.
 
-
-<div class="jig-table" markdown="1">
-
 | Agreement | Applies to | Table valid |
 |---|---|---|
 | **TVöD VKA** (+2.8%) | MT/MTA (EG 9a), Physio public (EG 7–9a), Büromanagement public (EG 5–6), public kitchens (EG 5–7) — **and, since the backlog pass, the public-sector rows of 21 profession files in total** | 01.05.2026 – 31.03.2027 |
@@ -278,9 +263,6 @@ estimates, and each carries its validity window — they expire.
 | **TV-Ärzte/VKA** | [Arzt / Ärztin](/jobs-in-germany/healthcare/arzt-aerztin/) (Stufen I–IV) | 01.06.2026 – 31.12.2026 |
 | **TV-N NW** | Bus drivers, NRW only (EG 5–7) | 01.05.2026 – 31.12.2026 |
 | **TVöD VKA (EG 5–10)** | [Forstwirt/in](/jobs-in-germany/green/forstwirt-in/) and the forestry ladder; state forests use TV-L / TV-L-Forst | 01.05.2026 – 31.03.2027 |
-
-</div>
-
 
 Source: [oeffentlicher-dienst.info](https://oeffentlicher-dienst.info).
 
@@ -298,16 +280,10 @@ specific corrections were larger than a simple uplift:
 
 ### Regionally fragmented — no single table to verify against {#regionally-fragmented--no-single-table-to-verify-against}
 
-
-<div class="jig-table" markdown="1">
-
 | Agreement | Applies to | Why |
 |---|---|---|
 | **TV-N** | Bus drivers outside NRW | Separate agreements for Bayern, Berlin and NRW (NRW also covers BW and Niedersachsen). Eingruppierung varies by operator. |
 | **IG Metall / IG BCE** | [Industriekaufmann/-frau](/jobs-in-germany/commercial/industriekaufmann-frau/), [Ingenieur/in](/jobs-in-germany/engineering/ingenieur-in/), the [industrial trades](/jobs-in-germany/industrial/), tariff-bound Büromanagement | Multiple regional Tarifgebiete, each negotiating separately, with ERA grading that varies by employer. |
-
-</div>
-
 
 These were listed as "verifiable" in the first version of this file. That was wrong — there
 is no one scale to check them against, only a region-and-employer-specific one.
@@ -371,5 +347,3 @@ same time, from the same knowledge, and nothing has corrected them.
 The **Mindestlohn** (€13.90/hour from January 2026, further rise scheduled for 2027),
 driver **Spesen** rates, and **EU Blue Card thresholds**, which reset every January. See
 [visa routes](/jobs-in-germany/reference/visa-routes/).
-
-</div>

@@ -2,7 +2,7 @@
 title: "Bauzeichner/in (Construction Draughtsperson / BIM Modeller)"
 ---
 
-<div class="jig" markdown="1">
+<div class="jig-page"></div>
 
 <p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/engineering/">Engineering</a></p>
 
@@ -12,8 +12,7 @@ title: "Bauzeichner/in (Construction Draughtsperson / BIM Modeller)"
 > [Zimmerer](/jobs-in-germany/skilled-trades/zimmerer-zimmerin/) build from. The job title still says
 > "draughtsperson". The work has largely become **modelling**.
 
-
-<div class="jig-facts" markdown="1">
+<div class="jig-facts"></div>
 
 | | |
 |---|---|
@@ -25,16 +24,10 @@ title: "Bauzeichner/in (Construction Draughtsperson / BIM Modeller)"
 | **Regulated** | **No** |
 | **Last reviewed** | 2026-09 |
 
-</div>
-
-
 ## Specialisations {#specialisations}
 
 **Certified on the qualification** — you choose a Fachrichtung during the Ausbildung and it
 appears on the certificate:
-
-
-<div class="jig-table" markdown="1">
 
 | Fachrichtung | Work | Sits with |
 |---|---|---|
@@ -42,16 +35,10 @@ appears on the certificate:
 | **Ingenieurbau** | **Schal- und Bewehrungspläne** — formwork and reinforcement drawings for concrete structures | [Beton- und Stahlbetonbauer](/jobs-in-germany/skilled-trades/strassenbauer-betonbauer/), structural engineers |
 | **Tief-, Straßen- und Landschaftsbau** | Roads, drainage, earthworks, site plans, longitudinal sections | [Straßenbauer](/jobs-in-germany/skilled-trades/strassenbauer-betonbauer/), municipal engineering |
 
-</div>
-
-
 The Ingenieurbau Fachrichtung is the most technical and the best paid; reinforcement drawings
 are a skill that takes years and that a structural engineer will not do themselves.
 
 ## Confusable titles {#confusable-titles}
-
-
-<div class="jig-table" markdown="1">
 
 | Title | Reality |
 |---|---|
@@ -60,9 +47,6 @@ are a skill that takes years and that a structural engineer will not do themselv
 | **CAD-Fachkraft** | A short course, weeks not years. Not a recognised qualification |
 | **[Architekt/in](/jobs-in-germany/engineering/architekt-in/)** | Five years of study plus practice. A Bauzeichner is not a junior architect, and the route between them runs through a university |
 | **BIM-Koordinator/in** | A role, not a qualification — and the natural next step from here |
-
-</div>
-
 
 ## What the job involves {#what-the-job-involves}
 
@@ -105,9 +89,6 @@ difference that the escape route is unusually clear and unusually well paid.
 among the least tariff-covered employers in this repo — see
 [Architekt](/jobs-in-germany/engineering/architekt-in/) — so there is no binding scale.
 
-
-<div class="jig-table" markdown="1">
-
 | Stage | Gross/month |
 |---|---|
 | Entry | €2,800 – €3,400 |
@@ -116,9 +97,6 @@ among the least tariff-covered employers in this repo — see
 | **BIM-Koordinator/in** | €4,500 – €5,800 |
 | Bautechniker/in | €4,200 – €5,400 |
 | **Public sector — Bauamt, TVöD EG 6–9a** | **€3,240 – €4,980** |
-
-</div>
-
 
 The public-sector row is the verified TVöD VKA scale, valid **01.05.2026 – 31.03.2027**, and
 as with several other occupations here it is the steadier employer: municipal building
@@ -172,5 +150,3 @@ management, or a Bauingenieurwesen degree via the
 - DIN 276, DIN 277 — accessed 2026-09
 - TVöD VKA pay table — https://oeffentlicher-dienst.info , verified 2026-09
 - BERUFENET — https://berufenet.arbeitsagentur.de , accessed 2026-09
-
-</div>

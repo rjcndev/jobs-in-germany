@@ -2,7 +2,7 @@
 title: "ATA / OTA — Anästhesie- und Operationstechnische Assistenz (Anaesthesia and Surgical Assistants)"
 ---
 
-<div class="jig" markdown="1">
+<div class="jig-page"></div>
 
 <p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/healthcare/">Healthcare</a></p>
 
@@ -12,8 +12,7 @@ title: "ATA / OTA — Anästhesie- und Operationstechnische Assistenz (Anaesthes
 > a national curriculum and — for the first time — a recognition procedure for people
 > trained abroad.
 
-
-<div class="jig-facts" markdown="1">
+<div class="jig-facts"></div>
 
 | | |
 |---|---|
@@ -25,13 +24,7 @@ title: "ATA / OTA — Anästhesie- und Operationstechnische Assistenz (Anaesthes
 | **Regulated** | **Yes** — state Erlaubnis required |
 | **Last reviewed** | 2026-09 |
 
-</div>
-
-
 ## What changed in 2022 {#what-changed-in-2022}
-
-
-<div class="jig-table" markdown="1">
 
 | | **Before** | **Since 01.01.2022** |
 |---|---|---|
@@ -41,9 +34,6 @@ title: "ATA / OTA — Anästhesie- und Operationstechnische Assistenz (Anaesthes
 | Qualification | A certificate from the training hospital | A **state Erlaubnis** |
 | Foreign qualifications | **No recognition procedure existed** | Equivalence procedure with Anpassungslehrgang or Kenntnisprüfung |
 | Funding | Hospital-by-hospital | Financed through the hospital training levy, like nursing |
-
-</div>
-
 
 **Why this is worth a file.** The repo's framing treats regulation as settled — a profession
 either is or is not regulated. ATA/OTA shows the boundary moving, recently, and in the
@@ -60,9 +50,6 @@ biggest change for readers of this repo.
 
 They share a law, a length and a structure, and the work is quite different.
 
-
-<div class="jig-table" markdown="1">
-
 | | **OTA** | **ATA** |
 |---|---|---|
 | Works in | Operating theatre | Anaesthesia, recovery, and often ICU/emergency support |
@@ -70,17 +57,11 @@ They share a law, a length and a structure, and the work is quite different.
 | Also | Positioning, counting, sterile-goods management, documentation, endoscopy and day-surgery units | Patient handover, emergency support, transport of ventilated patients |
 | Alongside | Surgeons, anaesthetists | Anaesthetists, ICU nurses |
 
-</div>
-
-
 Both are heavily protocol-driven, both carry real patient-safety weight — the instrument and
 swab count is a legal obligation, not a formality — and both mean long standing, on-call
 duty and an environment where the tempo is set by other people.
 
 ## Confusable titles — and one career decision {#confusable-titles--and-one-career-decision}
-
-
-<div class="jig-table" markdown="1">
 
 | Title | Reality |
 |---|---|
@@ -88,9 +69,6 @@ duty and an environment where the tempo is set by other people.
 | **OTA** | A 3-year entry qualification that leads **only** to theatre work |
 | **Anästhesiepflege** | A nurse with the anaesthesia/intensive-care Fachweiterbildung — the nursing counterpart of ATA |
 | **Sterilisationsassistent/in (Fachkraft für Medizinprodukteaufbereitung)** | Reprocesses instruments. A short qualification, not this |
-
-</div>
-
 
 > **The decision:** a nurse with the Fachweiterbildung can work in theatre **and** anywhere
 > else in the hospital. An OTA cannot work as a nurse on a ward. The OTA route is shorter and
@@ -117,17 +95,11 @@ applies: check what a qualification closes, not only what it opens.
 Hospital employment means tariff pay, and it is verifiable. Grading is typically **TVöD-K
 EG 9a**, with houses differing.
 
-
-<div class="jig-table" markdown="1">
-
 | Stage | Grade | Gross/month |
 |---|---|---|
 | Entry | EG 9a | €3,659 – €3,878 |
 | Experienced | EG 9a | €4,098 – €4,587 |
 | Coordination / Praxisanleitung | EG 9b – 10 | €3,780 – €5,753 |
-
-</div>
-
 
 TVöD VKA scale, valid **01.05.2026 – 31.03.2027**, as verified elsewhere in this repo.
 
@@ -184,5 +156,3 @@ narrow qualification.
 - Deutsche Krankenhausgesellschaft — https://www.dkgev.de , accessed 2026-09
 - TVöD VKA pay table — https://oeffentlicher-dienst.info , verified 2026-09
 - BERUFENET — https://berufenet.arbeitsagentur.de , accessed 2026-09
-
-</div>

@@ -2,7 +2,7 @@
 title: "Forstwirt/in (Forest Worker)"
 ---
 
-<div class="jig" markdown="1">
+<div class="jig-page"></div>
 
 <p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/green/">Grüne Berufe — agriculture, forestry and horticulture</a></p>
 
@@ -10,8 +10,7 @@ title: "Forstwirt/in (Forest Worker)"
 > dangerous occupations in this repo — and unusually, one where public-sector employment
 > makes the pay exactly knowable.
 
-
-<div class="jig-facts" markdown="1">
+<div class="jig-facts"></div>
 
 | | |
 |---|---|
@@ -23,16 +22,10 @@ title: "Forstwirt/in (Forest Worker)"
 | **Regulated** | No — but chainsaw and pesticide certification gate the work |
 | **Last reviewed** | 2026-09 |
 
-</div>
-
-
 ## Three different jobs English calls "forester" {#three-different-jobs-english-calls-forester}
 
 This is the most common confusion about German forestry, and the three are separated by
 years of training and, frequently, by employment status:
-
-
-<div class="jig-table" markdown="1">
 
 | Role | Qualification | Status |
 |---|---|---|
@@ -40,9 +33,6 @@ years of training and, frequently, by employment status:
 | **Forstwirtschaftsmeister/in** | Meister, on top of the Ausbildung | Crew and operations leadership |
 | **Förster/in — Revierleiter/in** | **Bachelor** in Forstwirtschaft + Anwärterdienst, gehobener Forstdienst | Manages a district. **Frequently verbeamtet** |
 | *(höherer Forstdienst)* | Master + Referendariat | Senior forest administration |
-
-</div>
-
 
 A Forstwirt does not become a Förster by experience. It requires the degree and the
 **Vorbereitungsdienst**, and the Förster role then commonly comes with civil-servant status —
@@ -94,9 +84,6 @@ Consequences that are not optional:
 Unusually for a manual trade, **much of this sector is public-sector and therefore
 tariff-verified.** Which agreement applies depends on the owner:
 
-
-<div class="jig-table" markdown="1">
-
 | Employer | Agreement |
 |---|---|
 | Federal forests | TVöD Bund, TV-Wald-Bund |
@@ -104,15 +91,9 @@ tariff-verified.** Which agreement applies depends on the owner:
 | Municipal forests | **TVöD VKA** |
 | Private forests and contractors | No binding agreement — market rates, generally lower |
 
-</div>
-
-
 Figures below are **TVöD VKA**, valid **01.05.2026 – 31.03.2027**, verified 2026-09.
 Typical grading is Forstwirt **EG 5–7**, Forstwirtschaftsmeister **EG 7–9**, Förster
 **EG 9b–10**; grading varies by employer and duties.
-
-
-<div class="jig-table" markdown="1">
 
 | Role | Grade | Gross/month |
 |---|---|---|
@@ -121,9 +102,6 @@ Typical grading is Forstwirt **EG 5–7**, Forstwirtschaftsmeister **EG 7–9**,
 | Forstwirtschaftsmeister/in | EG 7–9a | €3,295 – €4,980 |
 | Förster/in (employed, Bachelor) | EG 9b–10 | €3,780 – €5,753 |
 | Förster/in (verbeamtet) | gehobener Forstdienst, A 9–A 13 | €3,438 – €6,381 *(NRW)* |
-
-</div>
-
 
 The Beamten row is NRW Besoldung, valid 01.04.2026 – 28.02.2027; **Besoldung is state law**
 and does not transfer between Bundesländer. Note that a verbeamteter Förster also nets
@@ -175,5 +153,3 @@ contractors.
 - NRW Besoldung — https://oeffentlicher-dienst.info , verified 2026-09
 - DGUV, forestry safety rules — https://www.dguv.de , accessed 2026-09
 - BERUFENET — https://berufenet.arbeitsagentur.de , accessed 2026-09
-
-</div>

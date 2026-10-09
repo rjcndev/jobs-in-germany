@@ -2,15 +2,14 @@
 title: "Apotheker/in (Pharmacist)"
 ---
 
-<div class="jig" markdown="1">
+<div class="jig-page"></div>
 
 <p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/healthcare/">Healthcare</a></p>
 
 > Dispenses and advises on medicines. Licensed like a doctor — but with a restriction found
 > nowhere else in this repo: **only a pharmacist may own a pharmacy**, and only up to four.
 
-
-<div class="jig-facts" markdown="1">
+<div class="jig-facts"></div>
 
 | | |
 |---|---|
@@ -20,9 +19,6 @@ title: "Apotheker/in (Pharmacist)"
 | **Typical qualification** | Pharmazie degree (4 yrs) + practical year + Approbation |
 | **Regulated** | Yes — Approbation, plus a separate licence to operate a pharmacy |
 | **Last reviewed** | 2026-09 |
-
-</div>
-
 
 ## Reserved ownership, not just reserved work {#reserved-ownership-not-just-reserved-work}
 
@@ -83,18 +79,12 @@ not ladder up to Apotheker. Becoming a pharmacist means the degree.
 Gehaltstarifvertrag**. Verified 2026-09, valid **01.01.2026 – 31.12.2026**, full-time at
 **39 h/week**:
 
-
-<div class="jig-table" markdown="1">
-
 | Berufsjahr | Gross/month |
 |---|---|
 | 1st year | €4,166 |
 | 2nd – 5th year | €4,236 |
 | 6th – 10th year | €4,528 |
 | 11th year onward | €4,922 |
-
-</div>
-
 
 Plus a **tarifliche Sonderzahlung** of a full month's pay with the November salary. Note
 the sector stress written directly into the agreement: **since August 2024 that payment may
@@ -106,17 +96,11 @@ which negotiate separately.
 
 **Other settings:**
 
-
-<div class="jig-table" markdown="1">
-
 | Setting | Gross/month |
 |---|---|
 | Hospital pharmacy (TVöD, typically EG 13–14) | €4,901 – €7,552 |
 | Industry | Higher; commonly €70,000–€110,000+ annual |
 | Pharmacy owner | Highly variable — see below |
-
-</div>
-
 
 The hospital row is tariff-verified (TVöD VKA, valid 01.05.2026 – 31.03.2027); grading
 varies by role. The industry row is a market estimate.
@@ -185,5 +169,3 @@ riskier proposition than it was a decade ago.**
 - ADEXA/ADA Gehaltstarifvertrag 2026 — https://www.adexa-online.de , verified 2026-09
 - ABDA — https://www.abda.de , accessed 2026-09
 - TVöD VKA pay table — https://oeffentlicher-dienst.info , verified 2026-09
-
-</div>

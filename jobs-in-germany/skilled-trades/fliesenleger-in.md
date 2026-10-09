@@ -2,7 +2,7 @@
 title: "Fliesen-, Platten- und Mosaikleger/in (Tiler)"
 ---
 
-<div class="jig" markdown="1">
+<div class="jig-page"></div>
 
 <p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/skilled-trades/">Skilled trades (Handwerk)</a></p>
 
@@ -12,8 +12,7 @@ title: "Fliesen-, Platten- und Mosaikleger/in (Tiler)"
 > deregulation. [Raumausstatter](/jobs-in-germany/skilled-trades/raumausstatter-in/) carries the full account of that
 > reversal; this file is the trade.
 
-
-<div class="jig-facts" markdown="1">
+<div class="jig-facts"></div>
 
 | | |
 |---|---|
@@ -24,9 +23,6 @@ title: "Fliesen-, Platten- und Mosaikleger/in (Tiler)"
 | **Examining body** | **Handwerkskammer** |
 | **Regulated** | Self-employment only — **and only if you started after February 2020** |
 | **Last reviewed** | 2026-09 |
-
-</div>
-
 
 ## What deregulation did here {#what-deregulation-did-here}
 
@@ -101,9 +97,6 @@ adhesives.
 
 **Market estimate.**
 
-
-<div class="jig-table" markdown="1">
-
 | Stage | Gross/month |
 |---|---|
 | Geselle, entry | €2,800 – €3,400 |
@@ -111,9 +104,6 @@ adhesives.
 | Specialist — large format, natural stone, high-end bathrooms | €3,800 – €4,600 |
 | **Meister**, employed | €4,000 – €5,000 |
 | Meister with own business | Not comparable |
-
-</div>
-
 
 Good tilers are genuinely scarce and charge accordingly; this is one of the trades where
 piece-rate and bonus arrangements are common, and where a skilled self-employed operator's
@@ -165,5 +155,3 @@ recovered somewhat; the gap left by fifteen years of under-training has not clos
 - BK 2112, Berufskrankheiten-Verordnung — https://www.gesetze-im-internet.de/bkv , accessed 2026-09
 - BG BAU — https://www.bgbau.de , accessed 2026-09
 - SOKA-BAU — https://www.soka-bau.de , accessed 2026-09
-
-</div>

@@ -2,7 +2,7 @@
 title: "Elektroniker/in für Betriebstechnik (Industrial Electrician)"
 ---
 
-<div class="jig" markdown="1">
+<div class="jig-page"></div>
 
 <p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/industrial/">Industrial trades (Industrieberufe)</a></p>
 
@@ -10,8 +10,7 @@ title: "Elektroniker/in für Betriebstechnik (Industrial Electrician)"
 > [Handwerk electrician](/jobs-in-germany/skilled-trades/elektroniker-in-energie-und-gebaeudetechnik/),
 > different chamber, different tariff, better pay — and no right to open a business.
 
-
-<div class="jig-facts" markdown="1">
+<div class="jig-facts"></div>
 
 | | |
 |---|---|
@@ -21,9 +20,6 @@ title: "Elektroniker/in für Betriebstechnik (Industrial Electrician)"
 | **Typical qualification** | Duale Ausbildung, 3.5 years, **IHK** exam |
 | **Regulated** | No — but see Elektrofachkraft status below |
 | **Last reviewed** | 2026-09 |
-
-</div>
-
 
 ## Not the same trade as the Handwerk Elektroniker {#not-the-same-trade-as-the-handwerk-elektroniker}
 
@@ -71,18 +67,12 @@ it, not the title, is what gates the work.
 [category README](/jobs-in-germany/industrial/#pay-is-better-here-and-not-verifiable) for why these cannot be
 verified against a single scale.** Approximate gross monthly, 2026:
 
-
-<div class="jig-table" markdown="1">
-
 | Stage | Gross/month |
 |---|---|
 | Newly qualified (tariff-bound) | €3,300 – €3,900 |
 | Experienced | €3,900 – €4,700 |
 | Industriemeister / Techniker | €4,700 – €5,800 |
 | Instandhaltungsleitung | €5,500 – €6,800 |
-
-</div>
-
 
 Plus a **13th-month payment**, holiday pay, a **35-hour week** in the metal and electrical
 industries, and shift and on-call supplements on top. Compare the total package against the
@@ -126,5 +116,3 @@ automation.
 - DGUV Vorschrift 3 — https://www.dguv.de , accessed 2026-09
 - IG Metall — https://www.igmetall.de , accessed 2026-09
 - BERUFENET — https://berufenet.arbeitsagentur.de , accessed 2026-09
-
-</div>

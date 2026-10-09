@@ -2,7 +2,7 @@
 title: "Mechatroniker/in (Mechatronics Technician)"
 ---
 
-<div class="jig" markdown="1">
+<div class="jig-page"></div>
 
 <p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/industrial/">Industrial trades (Industrieberufe)</a></p>
 
@@ -10,8 +10,7 @@ title: "Mechatroniker/in (Mechatronics Technician)"
 > Germany's flagship combined trade, and one of the most internationally portable
 > qualifications in this repo.
 
-
-<div class="jig-facts" markdown="1">
+<div class="jig-facts"></div>
 
 | | |
 |---|---|
@@ -21,9 +20,6 @@ title: "Mechatroniker/in (Mechatronics Technician)"
 | **Typical qualification** | Duale Ausbildung, 3.5 years, **IHK** exam |
 | **Regulated** | No |
 | **Last reviewed** | 2026-09 |
-
-</div>
-
 
 ## Not Kfz-Mechatroniker {#not-kfz-mechatroniker}
 
@@ -65,18 +61,12 @@ semiconductor and battery plants, food and pharma process lines, and increasingl
 [category README](/jobs-in-germany/industrial/#pay-is-better-here-and-not-verifiable). Approximate gross
 monthly, 2026:
 
-
-<div class="jig-table" markdown="1">
-
 | Stage | Gross/month |
 |---|---|
 | Newly qualified (tariff-bound) | €3,400 – €4,000 |
 | Experienced | €4,000 – €4,800 |
 | Inbetriebnehmer / service abroad | €4,500 – €5,800 + allowances |
 | Industriemeister / Techniker | €4,800 – €6,000 |
-
-</div>
-
 
 Plus the 13th month, holiday pay and a 35-hour week at tariff employers.
 **Commissioning roles that travel** add substantial tax-free per-diems and are the fastest
@@ -116,5 +106,3 @@ it installs and repairs the machines that displace other work.
 - IG Metall — https://www.igmetall.de , accessed 2026-09
 - IHK FOSA — https://www.ihk-fosa.de , accessed 2026-09
 - BERUFENET — https://berufenet.arbeitsagentur.de , accessed 2026-09
-
-</div>

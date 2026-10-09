@@ -2,7 +2,7 @@
 title: "Kaufmann/-frau für Spedition und Logistikdienstleistung (Freight Forwarding Clerk)"
 ---
 
-<div class="jig" markdown="1">
+<div class="jig-page"></div>
 
 <p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/logistics/">Logistics</a></p>
 
@@ -10,8 +10,7 @@ title: "Kaufmann/-frau für Spedition und Logistikdienstleistung (Freight Forwar
 > customs, documentation and costing. The commercial half of logistics, and the most
 > international job in this repo.
 
-
-<div class="jig-facts" markdown="1">
+<div class="jig-facts"></div>
 
 | | |
 |---|---|
@@ -21,9 +20,6 @@ title: "Kaufmann/-frau für Spedition und Logistikdienstleistung (Freight Forwar
 | **Typical qualification** | Duale Ausbildung, 3 years, IHK exam |
 | **Regulated** | No |
 | **Last reviewed** | 2026-09 |
-
-</div>
-
 
 ## What the job involves {#what-the-job-involves}
 
@@ -51,18 +47,12 @@ and there are not enough people who genuinely understand it.
 
 ## Pay {#pay}
 
-
-<div class="jig-table" markdown="1">
-
 | Stage | Gross/month |
 |---|---|
 | Newly qualified | €2,800 – €3,400 |
 | Experienced (Disponent, Sachbearbeiter) | €3,400 – €4,300 |
 | Specialist — customs, air/sea freight | €4,000 – €5,200 |
 | Niederlassungsleitung / branch management | €5,500 – €8,000 |
-
-</div>
-
 
 Pay is best at the **logistics hubs**: Hamburg and Bremerhaven for sea freight, Frankfurt
 and Leipzig for air, Duisburg for rail and inland waterway, and the Rhine-Ruhr corridor
@@ -108,5 +98,3 @@ The most foreigner-friendly occupation in this repo after software development.
 - DSLV Bundesverband Spedition und Logistik — https://www.dslv.org , accessed 2026-09
 - Zoll — https://www.zoll.de , accessed 2026-09
 - BERUFENET — https://berufenet.arbeitsagentur.de , accessed 2026-09
-
-</div>

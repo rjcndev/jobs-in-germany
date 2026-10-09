@@ -2,7 +2,7 @@
 title: "Industrial trades (Industrieberufe)"
 ---
 
-<div class="jig" markdown="1">
+<div class="jig-page"></div>
 
 <p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a></p>
 
@@ -15,9 +15,6 @@ set of self-employment rules.
 The repo's [skilled-trades](/jobs-in-germany/skilled-trades/) files are Handwerk. These are not. The
 difference is not cosmetic:
 
-
-<div class="jig-table" markdown="1">
-
 | | **Handwerk** | **Industrie** |
 |---|---|---|
 | Chamber | Handwerkskammer (HWK) | **Industrie- und Handelskammer (IHK)** |
@@ -26,9 +23,6 @@ difference is not cosmetic:
 | Typical tariff | Regional Handwerk agreements | **IG Metall / IG BCE**, 35-hour week, 13th month |
 | Employer | Small and medium Betriebe | Manufacturers, plants, large industrial sites |
 | Pay | Lower | **Materially higher at the same skill level** |
-
-</div>
-
 
 **The trap this creates.** An industrial electrical qualification does **not** give you the
 right to open an electrical contracting business. That requires entry in the Handwerksrolle
@@ -61,7 +55,7 @@ association.
 
 ## Professions in this category {#professions-in-this-category}
 
-<div class="jig-cards" markdown="1">
+<div class="jig-cards"></div>
 
 - [Elektroniker/in für Betriebstechnik (Industrial Electrician)](/jobs-in-germany/industrial/elektroniker-in-betriebstechnik/) <span>Keeps a factory's electrical systems running.</span>
 - [Elektroniker — the remaining Fachrichtungen, and the tier below](/jobs-in-germany/industrial/elektroniker-weitere-fachrichtungen/) <span>The repo already has the two electrical anchors: Elektroniker für Betriebstechnik on the industrial side and Elektroniker Energie- und Gebäudetechnik on the Handwerk side.</span>
@@ -70,7 +64,3 @@ association.
 - [Mechatroniker/in (Mechatronics Technician)](/jobs-in-germany/industrial/mechatroniker-in/) <span>Builds and maintains systems that are mechanical, electrical and software at once.</span>
 - [Werkzeugmechaniker/in (Tool and Die Maker)](/jobs-in-germany/industrial/werkzeugmechaniker-in/) <span>Makes the tools that make the parts.</span>
 - [Zerspanungsmechaniker/in (Precision Machinist / CNC Machinist)](/jobs-in-germany/industrial/zerspanungsmechaniker-in/) <span>Cuts metal to tolerance on CNC machines.</span>
-
-</div>
-
-</div>

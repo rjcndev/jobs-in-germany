@@ -2,7 +2,7 @@
 title: "Language certificates — which paper, for which authority"
 ---
 
-<div class="jig" markdown="1">
+<div class="jig-page"></div>
 
 <p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/reference/">Reference</a></p>
 
@@ -16,9 +16,6 @@ else.
 These are the most-cited exams in this repo and the least well understood. Neither can be
 sat at a language school, and neither produces a CEFR certificate.
 
-
-<div class="jig-table" markdown="1">
-
 | | **Fachsprachprüfung (FSP)** | **Kenntnisprüfung (KP)** |
 |---|---|---|
 | Tests | **Professional language** | **Professional knowledge** |
@@ -26,9 +23,6 @@ sat at a language school, and neither produces a CEFR certificate.
 | Form | Oral, roughly 60 minutes | Oral and/or practical, several hours |
 | Needed when | Always, for [Approbation](/jobs-in-germany/healthcare/arzt-aerztin/) in the medical professions | Only when equivalence is **not** established, or the Gutachten finds substantial gaps |
 | Failure means | Retake, usually after a waiting period | Retake; limited attempts in some states |
-
-</div>
-
 
 ### What the Fachsprachprüfung actually is <a id="what-the-fachsprachprüfung-actually-is"></a>
 
@@ -63,9 +57,6 @@ authority rather than a Kammer.
 
 ## The general certificates {#the-general-certificates}
 
-
-<div class="jig-table" markdown="1">
-
 | Certificate | Issued by | Levels | Mainly accepted for | Notes |
 |---|---|---|---|---|
 | **Goethe-Zertifikat** | Goethe-Institut | A1–C2 | Visas, recognition, employers, universities (C2) | The most universally recognised; also the most expensive |
@@ -75,18 +66,12 @@ authority rather than a Kammer.
 | **DSH** | The individual university | DSH-1/2/3 | **That university's admission** | Cheap, but sat at the university and not portable |
 | **DTZ** | BAMF / telc | A2–B1 scaled | End of an **Integrationskurs**; Niederlassungserlaubnis | Free at the end of a funded course |
 
-</div>
-
-
 **The practical rule:** for an authority — Kammer, Landesprüfungsamt, Ausländerbehörde —
 use **Goethe, telc or ÖSD**. For a **university**, use **TestDaF or DSH**. Certificates
 from the first group are frequently not accepted for admission, and TestDaF is frequently
 not accepted by a Kammer. People lose a semester to this.
 
 ## What each authority actually demands {#what-each-authority-actually-demands}
-
-
-<div class="jig-table" markdown="1">
 
 | Purpose | Level | Notes |
 |---|---|---|
@@ -98,9 +83,6 @@ not accepted by a Kammer. People lose a semester to this.
 | **Einbürgerung** | **B1** | **C1** for the accelerated route after three years |
 | **Healthcare recognition** | **B2** general, **+C1 professional** in the medical professions | State-set; see the FSP above |
 | **Teaching** | **C1–C2** | The highest bar in this repo |
-
-</div>
-
 
 **Nothing here expires by its own terms** — a Goethe C1 has no printed expiry. But
 authorities routinely refuse certificates older than **two or three years**, and some
@@ -149,5 +131,3 @@ process above your team run in it.
 - TestDaF / g.a.s.t. — https://www.testdaf.de , accessed 2026-09
 - Bundesärztekammer, Fachsprachenprüfung — https://www.bundesaerztekammer.de , accessed 2026-09
 - anerkennung-in-deutschland.de — https://www.anerkennung-in-deutschland.de , accessed 2026-09
-
-</div>

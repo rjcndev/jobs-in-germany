@@ -2,7 +2,7 @@
 title: "Fischwirt/in (Fisheries and Aquaculture Worker)"
 ---
 
-<div class="jig" markdown="1">
+<div class="jig-page"></div>
 
 <p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/green/">Grüne Berufe — agriculture, forestry and horticulture</a></p>
 
@@ -11,8 +11,7 @@ title: "Fischwirt/in (Fisheries and Aquaculture Worker)"
 > which is being ended by quota. Also the only green profession here that requires **maritime
 > certification** on top of the qualification.
 
-
-<div class="jig-facts" markdown="1">
+<div class="jig-facts"></div>
 
 | | |
 |---|---|
@@ -23,9 +22,6 @@ title: "Fischwirt/in (Fisheries and Aquaculture Worker)"
 | **Examining body** | **Landwirtschaftskammer** or a state fisheries authority |
 | **Regulated** | No — **but sea-going work requires maritime certificates and fitness** |
 | **Last reviewed** | 2026-09 |
-
-</div>
-
 
 ## Two Fachrichtungen {#two-fachrichtungen}
 
@@ -82,9 +78,6 @@ conventions, so some transfer better than most German qualifications do.
 
 **Market estimate**, and the fishing half is often not a wage at all.
 
-
-<div class="jig-table" markdown="1">
-
 | | Gross/month |
 |---|---|
 | Aquaculture, qualified | €2,400 – €3,000 |
@@ -92,9 +85,6 @@ conventions, so some transfer better than most German qualifications do.
 | **Fischwirtschaftsmeister / farm management** | €3,600 – €4,600 |
 | Coastal fishing, employed crew | €2,400 – €3,400, **often on a share of the catch rather than a salary** |
 | Vessel owner | A business result; in recent quota years, frequently negative |
-
-</div>
-
 
 Share-based crew payment is worth understanding before signing: it moves the risk of a bad
 season onto the crew, and the statutory minimum wage still applies underneath it.
@@ -146,5 +136,3 @@ season onto the crew, and the statutory minimum wage still applies underneath it
 - Bundesanstalt für Landwirtschaft und Ernährung, fisheries — https://www.ble.de , accessed 2026-09
 - See-Berufsgenossenschaft / BG Verkehr, maritime certification — https://www.bg-verkehr.de , accessed 2026-09
 - BERUFENET — https://berufenet.arbeitsagentur.de , accessed 2026-09
-
-</div>

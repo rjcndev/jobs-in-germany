@@ -2,7 +2,7 @@
 title: "Services and other sectors"
 ---
 
-<div class="jig" markdown="1">
+<div class="jig-page"></div>
 
 <p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a></p>
 
@@ -25,17 +25,11 @@ wage and enforcement** — which is what actually determines whether the work is
 
 ## Cleaning is three situations, not one {#cleaning-is-three-situations-not-one}
 
-
-<div class="jig-table" markdown="1">
-
 | Tier | What it is |
 |---|---|
 | **[Gebäudereiniger/in](/jobs-in-germany/services/gebaeudereiniger-in/)** | The skilled trade. Three-year Ausbildung, HWK examination, **Anlage B1** — so no Meisterpflicht. A real profession with a ladder to Objektleitung and Meister |
 | **[Reinigungskraft](/jobs-in-germany/services/reinigungskraft/)** | **No qualification.** Employed by cleaning contractors, paid the AEntG sector minimum, frequently part-time, Minijob or agency. Most of the sector by headcount |
 | **[Haushaltshilfe](/jobs-in-germany/services/haushaltshilfe/)** | Private households. The narrowest case and the one with the real legal story: **the overwhelming majority of it is undeclared** |
-
-</div>
-
 
 Conflating them — as English usually does, with one word — hides the fact that they sit under
 different law, different pay floors and different enforcement.
@@ -80,14 +74,10 @@ with enough documented experience, by **Externenprüfung**.
 
 ## Professions in this category {#professions-in-this-category}
 
-<div class="jig-cards" markdown="1">
+<div class="jig-cards"></div>
 
 - [Fachkraft für Veranstaltungstechnik (Event and Stage Technician)](/jobs-in-germany/services/fachkraft-fuer-veranstaltungstechnik/) <span>Stage, lighting, sound, video, rigging and power for everything from a municipal theatre to an arena tour.</span>
 - [Gebäudereiniger/in (Building Cleaner — the skilled trade)](/jobs-in-germany/services/gebaeudereiniger-in/) <span>The largest Handwerk trade in Germany by headcount, and absent from this repo until now.</span>
 - [Haushaltshilfe (Domestic Cleaner / Household Help)](/jobs-in-germany/services/haushaltshilfe/) <span>The narrowest of the three cleaning tiers and the one with a genuine legal story: the overwhelming majority of domestic work in Germany is undeclared. It is included here precisely because the default is Schwarzarbeit — with no accident cover, no pension credit and no sick pay for the worker — and because the legal alternative is much cheaper than almost anyone believes.</span>
 - [Reinigungskraft (Cleaner — commercial, no qualification)](/jobs-in-germany/services/reinigungskraft/) <span>Most of the cleaning sector by headcount, and one of the most common first jobs for people newly arrived in Germany.</span>
 - [Wissenschaftliche/r Mitarbeiter/in (Research Associate / Academic Staff)](/jobs-in-germany/services/wissenschaftliche-r-mitarbeiter-in/) <span>German academia is built on fixed-term contracts, and a specific statute exists to permit them.</span>
-
-</div>
-
-</div>

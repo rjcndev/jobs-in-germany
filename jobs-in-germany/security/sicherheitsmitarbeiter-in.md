@@ -2,15 +2,14 @@
 title: "Sicherheitsmitarbeiter/in (Security Officer, Door Supervisor, Night Guard)"
 ---
 
-<div class="jig" markdown="1">
+<div class="jig-page"></div>
 
 <p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/security/">Private security (Bewachungsgewerbe)</a></p>
 
 > The jobs most people in German private security actually do. Easy to enter, tightly gated
 > by §34a, low-paid at the bottom and genuinely skilled at the top.
 
-
-<div class="jig-facts" markdown="1">
+<div class="jig-facts"></div>
 
 | | |
 |---|---|
@@ -22,13 +21,7 @@ title: "Sicherheitsmitarbeiter/in (Security Officer, Door Supervisor, Night Guar
 | **Regulated** | Yes, by activity. See the [sector README](/jobs-in-germany/security/) |
 | **Last reviewed** | 2026-09 |
 
-</div>
-
-
 ## The roles, and what each one needs {#the-roles-and-what-each-one-needs}
-
-
-<div class="jig-table" markdown="1">
 
 | Role | German | Gate |
 |---|---|---|
@@ -40,9 +33,6 @@ title: "Sicherheitsmitarbeiter/in (Security Officer, Door Supervisor, Night Guar
 | Refugee accommodation | Schutz von Gemeinschaftsunterkünften | **Sachkundeprüfung** |
 | Large protected events | Großveranstaltungen mit Zugangsschutz | **Sachkundeprüfung** |
 | Aviation security screening | **Luftsicherheitskontrollkraft**, §5 LuftSiG | Separate federal certification |
-
-</div>
-
 
 **Door work is not an entry-level job in Germany.** Working the door of a club or bar
 requires the **Sachkundeprüfung** — the IHK examination, not the 40-hour course. This
@@ -77,9 +67,6 @@ Night-shift supplements apply under §6 ArbZG and are a meaningful part of take-
 **Market estimates.** The AEntG branch minimum for the Sicherheitsgewerbe sits above the
 statutory minimum and varies by region and activity — see the [sector README](/jobs-in-germany/security/):
 
-
-<div class="jig-table" markdown="1">
-
 | Role | Gross/month |
 |---|---|
 | Objektschutz, Unterrichtung only | €2,200 – €2,800 |
@@ -87,9 +74,6 @@ statutory minimum and varies by region and activity — see the [sector README](
 | Türsteher (experienced, busy venue) | €2,600 – €3,400 |
 | **Luftsicherheitskontrollkraft** | **€3,200 – €4,000** |
 | Objektleitung / Einsatzleitung | €3,300 – €4,300 |
-
-</div>
-
 
 Aviation security is the best-paid end and has its own federal certification and background
 checks — worth targeting deliberately.
@@ -123,5 +107,3 @@ checks — worth targeting deliberately.
 - Bewachungsverordnung (BewachV) — https://www.gesetze-im-internet.de/bewachv_2019/ , accessed 2026-09
 - Luftsicherheitsgesetz §5 — https://www.gesetze-im-internet.de/luftsig/ , accessed 2026-09
 - BDSW — https://www.bdsw.de , accessed 2026-09
-
-</div>

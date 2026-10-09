@@ -2,15 +2,14 @@
 title: "Fachkraft für Lagerlogistik (Warehouse Logistics Specialist)"
 ---
 
-<div class="jig" markdown="1">
+<div class="jig-page"></div>
 
 <p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/logistics/">Logistics</a></p>
 
 > Runs warehouse operations: goods receipt, storage, picking, dispatch and the paperwork
 > that has to match the pallets. The accessible entry point into logistics.
 
-
-<div class="jig-facts" markdown="1">
+<div class="jig-facts"></div>
 
 | | |
 |---|---|
@@ -21,9 +20,6 @@ title: "Fachkraft für Lagerlogistik (Warehouse Logistics Specialist)"
 | **Typical qualification** | Duale Ausbildung, 3 years, IHK exam |
 | **Regulated** | No — but equipment licences are mandatory |
 | **Last reviewed** | 2026-09 |
-
-</div>
-
 
 ## Two qualifications, not one {#two-qualifications-not-one}
 
@@ -57,18 +53,12 @@ before asking.
 
 ## Pay {#pay}
 
-
-<div class="jig-table" markdown="1">
-
 | Stage | Gross/month |
 |---|---|
 | Newly qualified | €2,600 – €3,100 |
 | Experienced | €3,100 – €3,700 |
 | Schichtleitung | €3,600 – €4,300 |
 | Logistikmeister / Lagerleitung | €4,200 – €5,500 |
-
-</div>
-
 
 Shift supplements — nights and weekends — add meaningfully, and in three-shift operations
 they are a large share of take-home. Tariff coverage varies: contract logistics providers
@@ -118,5 +108,3 @@ side of that split; pure manual picking does not.
 - DGUV Vorschrift 68 (Flurförderzeuge) — https://www.dguv.de , accessed 2026-09
 - Arbeitnehmerüberlassungsgesetz — https://www.gesetze-im-internet.de/a_g/ , accessed 2026-09
 - IHK FOSA — https://www.ihk-fosa.de , accessed 2026-09
-
-</div>

@@ -2,7 +2,7 @@
 title: "Versorgungswerke — the pension system for the Kammerberufe"
 ---
 
-<div class="jig" markdown="1">
+<div class="jig-page"></div>
 
 <p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/reference/">Reference</a></p>
 
@@ -25,9 +25,6 @@ professional chamber, established under **state** law. Join the chamber, join th
 Versorgungswerk. There are dozens — generally one per profession per Bundesland, sometimes
 shared across several states.
 
-
-<div class="jig-table" markdown="1">
-
 | | **Deutsche Rentenversicherung** | **Versorgungswerk** |
 |---|---|---|
 | Financing | Pay-as-you-go (Umlage) | **Funded** — contributions are invested |
@@ -37,9 +34,6 @@ shared across several states.
 | Typical outcome | Modest | **Materially higher** for the same career |
 | Insolvency backstop | The federal government | None comparable — state supervision only |
 | Covers | Old age, reduced earning capacity, survivors | The same three, and **Berufsunfähigkeit cover is often better** |
-
-</div>
-
 
 The reduced-earning-capacity point is worth separating out. The statutory system pays
 **Erwerbsminderungsrente**, which asks whether you can do *any* work. Most Versorgungswerke
@@ -112,9 +106,6 @@ Versorgungswerk your address abroad. Entitlements are not paid to people who can
 
 ## Who this applies to in this repo {#who-this-applies-to-in-this-repo}
 
-
-<div class="jig-table" markdown="1">
-
 | Profession | Versorgungswerk |
 |---|---|
 | [Arzt / Ärztin](/jobs-in-germany/healthcare/arzt-aerztin/) | Ärzteversorgung — the largest and oldest group |
@@ -124,9 +115,6 @@ Versorgungswerk your address abroad. Entitlements are not paid to people who can
 | [Architekt/in](/jobs-in-germany/engineering/architekt-in/) | Architektenversorgung in most states; joint schemes in others |
 | **Rechtsanwalt/-anwältin**, **Notar/in** | Rechtsanwaltsversorgung — reachable from [Rechtsanwaltsfachangestellte/r](/jobs-in-germany/commercial/rechtsanwaltsfachangestellte-r/) |
 | **Steuerberater/in** | Steuerberaterversorgung — reachable from [Steuerfachangestellte/r](/jobs-in-germany/commercial/steuerfachangestellte-r/) |
-
-</div>
-
 
 Not every Kammerberuf has one in every Bundesland, and **Wirtschaftsprüfer** are a partial
 case — many are covered through the Steuerberater scheme rather than one of their own.
@@ -146,5 +134,3 @@ Confirm with the chamber of the state you will actually practise in.
 - §6, §172a SGB VI — https://www.gesetze-im-internet.de/sgb_6 , accessed 2026-09
 - Arbeitsgemeinschaft berufsständischer Versorgungseinrichtungen (ABV) — https://www.abv.de , accessed 2026-09
 - Deutsche Rentenversicherung, Befreiung von der Versicherungspflicht — https://www.deutsche-rentenversicherung.de , accessed 2026-09
-
-</div>

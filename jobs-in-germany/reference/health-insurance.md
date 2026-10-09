@@ -2,7 +2,7 @@
 title: "Health insurance"
 ---
 
-<div class="jig" markdown="1">
+<div class="jig-page"></div>
 
 <p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/reference/">Reference</a></p>
 
@@ -19,9 +19,6 @@ reverse.
 
 ## GKV vs PKV {#gkv-vs-pkv}
 
-
-<div class="jig-table" markdown="1">
-
 | | **GKV** — gesetzliche Krankenversicherung | **PKV** — private Krankenversicherung |
 |---|---|---|
 | Premium based on | **Your income**, up to a ceiling | **Your age and health at entry** |
@@ -30,9 +27,6 @@ reverse.
 | Over a lifetime | Rises with income, stops at the ceiling | Cheap when young, **rises steeply with age** |
 | Going back | — | **Very difficult, effectively closed after 55** |
 | Who can choose | Everyone | Only certain groups — see below |
-
-</div>
-
 
 ### GKV in practice {#gkv-in-practice}
 
@@ -113,5 +107,3 @@ a family or pre-existing conditions.
 - SGB XI (Pflegeversicherung) — https://www.gesetze-im-internet.de/sgb_11/ , accessed 2026-09
 - GKV-Spitzenverband — https://www.gkv-spitzenverband.de , accessed 2026-09
 - Make it in Germany — https://www.make-it-in-germany.com , accessed 2026-09
-
-</div>

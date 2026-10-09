@@ -2,15 +2,14 @@
 title: "Anlagenmechaniker/in SHK (Plumbing, Heating & AC Technician)"
 ---
 
-<div class="jig" markdown="1">
+<div class="jig-page"></div>
 
 <p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/skilled-trades/">Skilled trades (Handwerk)</a></p>
 
 > Sanitär-, Heizungs- und Klimatechnik. Installs and services heating, plumbing and
 > ventilation — and is currently at the centre of Germany's heating transition.
 
-
-<div class="jig-facts" markdown="1">
+<div class="jig-facts"></div>
 
 | | |
 |---|---|
@@ -20,9 +19,6 @@ title: "Anlagenmechaniker/in SHK (Plumbing, Heating & AC Technician)"
 | **Typical qualification** | Duale Ausbildung, 3.5 years, Gesellenprüfung |
 | **Regulated** | Meisterpflicht for self-employment |
 | **Last reviewed** | 2026-09 |
-
-</div>
-
 
 ## What the job involves {#what-the-job-involves}
 
@@ -48,18 +44,12 @@ qualification, not just a personal one.
 
 ## Pay {#pay}
 
-
-<div class="jig-table" markdown="1">
-
 | Stage | Gross/month |
 |---|---|
 | Geselle, newly qualified | €2,700 – €3,200 |
 | Geselle, experienced | €3,200 – €3,900 |
 | Meister (employed) | €3,900 – €4,900 |
 | Meister with own business | Very variable; strong in the current market |
-
-</div>
-
 
 Overtime and emergency callouts (Notdienst) add meaningfully. Southern Germany pays highest.
 
@@ -97,5 +87,3 @@ existing business) a realistic path for an ambitious Meister.
 - Gebäudeenergiegesetz (GEG) — https://www.gesetze-im-internet.de/geg/ , accessed 2026-09
 - Zentralverband Sanitär Heizung Klima — https://www.zvshk.de , accessed 2026-09
 - BERUFENET — https://berufenet.arbeitsagentur.de , accessed 2026-09
-
-</div>

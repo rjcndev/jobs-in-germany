@@ -2,7 +2,7 @@
 title: "Fachkraft für Veranstaltungstechnik (Event and Stage Technician)"
 ---
 
-<div class="jig" markdown="1">
+<div class="jig-page"></div>
 
 <p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/services/">Services and other sectors</a></p>
 
@@ -11,8 +11,7 @@ title: "Fachkraft für Veranstaltungstechnik (Event and Stage Technician)"
 > self-employment — but with real safety-law responsibility: suspended loads over an
 > audience, and a **legally required competent person** in every larger venue.
 
-
-<div class="jig-facts" markdown="1">
+<div class="jig-facts"></div>
 
 | | |
 |---|---|
@@ -24,9 +23,6 @@ title: "Fachkraft für Veranstaltungstechnik (Event and Stage Technician)"
 | **Examining body** | **IHK** |
 | **Regulated** | No — **but the Meister role is legally required in larger venues** |
 | **Last reviewed** | 2026-09 |
-
-</div>
-
 
 ## The reserved role above it {#the-reserved-role-above-it}
 
@@ -49,9 +45,6 @@ and it is the single most valuable credential in the sector.
 
 ## What the job involves {#what-the-job-involves}
 
-
-<div class="jig-table" markdown="1">
-
 | Area | Work |
 |---|---|
 | **Rigging** | Suspending truss, hoists, speakers and scenery **over people**. Load assumptions, chain-hoist inspection, secondary safety, ground support |
@@ -61,9 +54,6 @@ and it is the single most valuable credential in the sector.
 | **Video** | LED walls, projection, media servers, streaming |
 | **Energieversorgung** | Temporary power distribution, generators, RCD protection — electrical work that brings the **DGUV V3 / Elektrofachkraft** rules with it |
 | **Auf- und Abbau** | Load-in and load-out, which is most of the physical work and most of the night shifts |
-
-</div>
-
 
 The governing rules are **DGUV Vorschrift 17/18** for production and performance venues, the
 state **Versammlungsstättenverordnung**, and the inspection regimes for hoists, truss and
@@ -75,9 +65,6 @@ and almost all of it is installed under time pressure by tired people at night.
 
 ## Where the work is {#where-the-work-is}
 
-
-<div class="jig-table" markdown="1">
-
 | Employer | Character |
 |---|---|
 | **Public theatres and opera houses** | **TVöD or TV-L**, verifiable pay, a pension arrangement, and the most stable employment in the sector |
@@ -87,18 +74,12 @@ and almost all of it is installed under time pressure by tired people at night.
 | **Broadcast and studio** | Steadier, technically narrower |
 | **Freelance** | Widespread, day-rate based, and the default in parts of the sector |
 
-</div>
-
-
 The theatre route is consistently underrated by people entering through the touring side: the
 same skills, tariff pay, and a roster that a family can survive.
 
 ## Pay {#pay}
 
 **Market estimate**, except the public-sector row.
-
-
-<div class="jig-table" markdown="1">
 
 | Stage | Gross/month |
 |---|---|
@@ -108,9 +89,6 @@ same skills, tariff pay, and a roster that a family can survive.
 | **Meister für Veranstaltungstechnik** | €4,000 – €5,200 |
 | **Public theatre (TVöD/TV-L EG 6–9a)** | **€3,240 – €4,980** |
 | Freelance | Day rates; highly variable and dependent on reputation |
-
-</div>
-
 
 TVöD row is the scale verified for this repo, valid **01.05.2026 – 31.03.2027**.
 
@@ -175,5 +153,3 @@ alongside music and theatre. The skills are also unusually portable into
 - Verordnung über die Berufsausbildung zur Fachkraft für Veranstaltungstechnik — https://www.gesetze-im-internet.de , accessed 2026-09
 - VPLT, Verband für Medien- und Veranstaltungstechnik — https://www.vplt.org , accessed 2026-09
 - TVöD / TV-L pay tables — https://oeffentlicher-dienst.info , verified 2026-09
-
-</div>

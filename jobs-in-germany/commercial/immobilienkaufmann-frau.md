@@ -2,7 +2,7 @@
 title: "Immobilienkaufmann/-frau (Real Estate Manager / Agent)"
 ---
 
-<div class="jig" markdown="1">
+<div class="jig-page"></div>
 
 <p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/commercial/">Commercial</a></p>
 
@@ -11,8 +11,7 @@ title: "Immobilienkaufmann/-frau (Real Estate Manager / Agent)"
 > others** all require a **§34c GewO** permit — with a continuing training obligation
 > attached. And unlike the BaFin case, the permit belongs to the **business**, not to you.
 
-
-<div class="jig-facts" markdown="1">
+<div class="jig-facts"></div>
 
 | | |
 |---|---|
@@ -24,16 +23,10 @@ title: "Immobilienkaufmann/-frau (Real Estate Manager / Agent)"
 | **Regulated** | **Activity-gated — §34c GewO** for brokerage, development and residential property management |
 | **Last reviewed** | 2026-09 |
 
-</div>
-
-
 ## What §34c actually gates {#what-34c-actually-gates}
 
 A **Gewerbeerlaubnis** from the local authority is required to carry on any of these as a
 business:
-
-
-<div class="jig-table" markdown="1">
 
 | Activity | |
 |---|---|
@@ -41,9 +34,6 @@ business:
 | **Bauträger** | Developing on one's own account with buyers' money |
 | **Baubetreuer** | Managing construction on someone else's behalf |
 | **Wohnimmobilienverwalter** | **Managing residential rental and WEG property for owners** — added in 2018 |
-
-</div>
-
 
 Conditions: **reliability** (no relevant convictions, a clean register extract), **orderly
 financial circumstances** (no insolvency, no entries in the debtors' register), and — for
@@ -64,9 +54,6 @@ does. Check which situation an offer puts you in.
 
 The Ausbildung is broader than "estate agent", and most holders never broker anything:
 
-
-<div class="jig-table" markdown="1">
-
 | Field | Work |
 |---|---|
 | **Mietverwaltung** | Managing rented housing for owners: tenancies, rent, repairs, service-charge accounting (**Betriebskostenabrechnung**), arrears, terminations |
@@ -75,9 +62,6 @@ The Ausbildung is broader than "estate agent", and most holders never broker any
 | **Verkauf / Makler** | Valuation, marketing, negotiation, notarial completion — with the [Notar](/jobs-in-germany/commercial/notar-in/) doing the authentication |
 | **Bestandsmanagement** | For housing companies and cooperatives — portfolio strategy, modernisation, energy retrofit programmes |
 | **Projektentwicklung** | Development support |
-
-</div>
-
 
 Governing law: **BGB tenancy law**, **WEG**, **Betriebskostenverordnung**, the **GEG** for
 energy requirements, and the **Heizkostenverordnung**. This is an occupation where the law
@@ -102,9 +86,6 @@ management, which is recurring revenue.
 **Market estimate.** No binding tariff; housing cooperatives and municipal housing companies
 have their own agreements and are the better-paying, steadier employers.
 
-
-<div class="jig-table" markdown="1">
-
 | Role | Gross/month |
 |---|---|
 | Entry, after the Ausbildung | €2,800 – €3,400 |
@@ -114,9 +95,6 @@ have their own agreements and are the better-paying, steadier employers.
 | **Makler**, employed with commission | €2,500 base plus commission — **highly variable** |
 | Self-employed Makler | Not comparable, and cyclical |
 | Objekt- / Portfoliomanagement, institutional | €5,000 – €7,000 |
-
-</div>
-
 
 ## Demand and outlook {#demand-and-outlook}
 
@@ -162,5 +140,3 @@ have their own agreements and are the better-paying, steadier employers.
 - Gesetz über die Verteilung der Maklerkosten (2020) — https://www.bgbl.de , accessed 2026-09
 - Verordnung über die Berufsausbildung zum Immobilienkaufmann — https://www.gesetze-im-internet.de , accessed 2026-09
 - BERUFENET — https://berufenet.arbeitsagentur.de , accessed 2026-09
-
-</div>

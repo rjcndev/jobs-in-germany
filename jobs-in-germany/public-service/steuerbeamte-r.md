@@ -2,15 +2,14 @@
 title: "Steuerbeamte/r (Tax Official)"
 ---
 
-<div class="jig" markdown="1">
+<div class="jig-page"></div>
 
 <p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/public-service/">Public service (öffentlicher Dienst) — the Beamten careers</a></p>
 
 > Assesses and audits taxes at a Finanzamt. The desk-based Beamten career — no fitness test,
 > no shifts — and the one that comes with a genuine exit route into a well-paid profession.
 
-
-<div class="jig-facts" markdown="1">
+<div class="jig-facts"></div>
 
 | | |
 |---|---|
@@ -22,15 +21,9 @@ title: "Steuerbeamte/r (Tax Official)"
 | **Status** | **Landesbeamter/-beamtin** — see [Beamte vs. Angestellte](/jobs-in-germany/reference/beamte-vs-angestellte/) |
 | **Last reviewed** | 2026-09 |
 
-</div>
-
-
 ## Zoll and Finanzamt are different employers {#zoll-and-finanzamt-are-different-employers}
 
 A distinction that confuses almost everyone, including Germans:
-
-
-<div class="jig-table" markdown="1">
 
 | | [**Zoll**](/jobs-in-germany/public-service/zollbeamte-r/) | **Finanzamt** |
 |---|---|---|
@@ -38,9 +31,6 @@ A distinction that confuses almost everyone, including Germans:
 | Collects | Customs duties, excise (energy, tobacco, alcohol), Kfz-Steuer | Income, corporation, trade and value-added tax |
 | Also does | Undeclared-work enforcement, smuggling investigation | Assessment, audit, tax investigation, enforcement |
 | Pay scale | One national Bundesbesoldung | **Sixteen state Besoldungen** |
-
-</div>
-
 
 So the Zoll is the exception among the public-service careers here, and tax administration is
 back to the familiar **sixteen-system** pattern: you apply to one Bundesland, are trained by
@@ -67,9 +57,6 @@ work, this is the accessible door.
 
 ## What the job involves {#what-the-job-involves}
 
-
-<div class="jig-table" markdown="1">
-
 | Area | Work |
 |---|---|
 | **Veranlagung** | Assessing returns — where most people start |
@@ -78,9 +65,6 @@ work, this is the accessible door.
 | **Vollstreckung** | Enforcement and collection |
 | **Rechtsbehelfsstelle** | Appeals against assessments |
 | Umsatzsteuer-Sonderprüfung | VAT special audits, including fraud patterns |
-
-</div>
-
 
 ## The exit route that makes this career unusual {#the-exit-route-that-makes-this-career-unusual}
 
@@ -105,9 +89,6 @@ table.
 **Landesbesoldung — state law. NRW figures, valid 01.04.2026 – 28.02.2027**, verified
 2026-09. They do **not** transfer between Bundesländer:
 
-
-<div class="jig-table" markdown="1">
-
 | Stage | Grade | Gross/month |
 |---|---|---|
 | Finanzanwärter/in (during training) | AW A 9 | **€1,616** |
@@ -115,9 +96,6 @@ table.
 | Steuerinspektor/in (gehobener Dienst) | A 9 – A 10 | €3,438 – €4,784 |
 | Steueroberinspektor/in, Steueramtsrat/-rätin | A 11 – A 12 | €4,048 – €5,771 |
 | Senior posts | A 13 | €5,221 – €6,381 |
-
-</div>
-
 
 No shift or night supplements, unlike the operational Beamten careers — so the figures are
 closer to the whole story here than they are for [police](/jobs-in-germany/public-service/polizist-in/) or
@@ -159,5 +137,3 @@ gehobener Dienst.
 - Steuerberatungsgesetz (StBerG) §§3, 36 — https://www.gesetze-im-internet.de/stberg/ , accessed 2026-09
 - NRW Besoldung tables — https://oeffentlicher-dienst.info , verified 2026-09
 - BERUFENET — https://berufenet.arbeitsagentur.de , accessed 2026-09
-
-</div>

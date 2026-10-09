@@ -2,7 +2,7 @@
 title: "Skilled trades (Handwerk)"
 ---
 
-<div class="jig" markdown="1">
+<div class="jig-page"></div>
 
 <p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a></p>
 
@@ -71,7 +71,7 @@ Fachverkäufer/in im Lebensmittelhandwerk.
 
 ## Professions in this category {#professions-in-this-category}
 
-<div class="jig-cards" markdown="1">
+<div class="jig-cards"></div>
 
 - [Anlagenmechaniker/in SHK (Plumbing, Heating & AC Technician)](/jobs-in-germany/skilled-trades/anlagenmechaniker-in-shk/) <span>Sanitär-, Heizungs- und Klimatechnik.</span>
 - [Bäcker/in (Baker)](/jobs-in-germany/skilled-trades/baecker-in/) <span>Bread, rolls and Feingebäck, produced overnight.</span>
@@ -89,7 +89,3 @@ Fachverkäufer/in im Lebensmittelhandwerk.
 - [Straßenbauer/in und Beton- und Stahlbetonbauer/in (Road Builder; Concrete and Reinforced Concrete Worker)](/jobs-in-germany/skilled-trades/strassenbauer-betonbauer/) <span>The two trades that build infrastructure rather than buildings.</span>
 - [Tischler/in — also Schreiner/in (Joiner / Cabinetmaker)](/jobs-in-germany/skilled-trades/tischler-in/) <span>Furniture, fitted interiors, windows, doors, staircases and shopfitting.</span>
 - [Zimmerer / Zimmerin (Carpenter — structural)](/jobs-in-germany/skilled-trades/zimmerer-zimmerin/) <span>Structural timber: roofs, frames and, increasingly, whole buildings.</span>
-
-</div>
-
-</div>

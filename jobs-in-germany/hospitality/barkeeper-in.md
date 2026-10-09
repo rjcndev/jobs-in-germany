@@ -2,7 +2,7 @@
 title: "Barkeeper/in (Bartender)"
 ---
 
-<div class="jig" markdown="1">
+<div class="jig-page"></div>
 
 <p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/hospitality/">Hospitality (Gastgewerbe)</a></p>
 
@@ -10,8 +10,7 @@ title: "Barkeeper/in (Bartender)"
 > in Germany** — and that single fact changes everything about how you get in, and whether
 > you can get a visa for it.
 
-
-<div class="jig-facts" markdown="1">
+<div class="jig-facts"></div>
 
 | | |
 |---|---|
@@ -21,9 +20,6 @@ title: "Barkeeper/in (Bartender)"
 | **Typical qualification** | **No Ausbildung exists** — see below |
 | **Regulated** | No — but alcohol service and licensing are |
 | **Last reviewed** | 2026-09 |
-
-</div>
-
 
 ## A job, not a Beruf {#a-job-not-a-beruf}
 
@@ -39,9 +35,6 @@ exist at all.
 
 **What people hold instead:**
 
-
-<div class="jig-table" markdown="1">
-
 | Route | What it is |
 |---|---|
 | [Fachmann/-frau für Restaurants und Veranstaltungsgastronomie](/jobs-in-germany/hospitality/fachmann-frau-restaurants-veranstaltungsgastronomie/) | The nearest state qualification; drinks service is part of it |
@@ -49,9 +42,6 @@ exist at all.
 | Fachkraft für Gastronomie | The 2-year qualification from the 2022 reform |
 | **IHK certificate courses / Deutsche Barkeeper-Union** | Short industry certification — respected in the trade, **not a state qualification** |
 | Nothing | The most common case |
-
-</div>
-
 
 ## The visa consequence — read this first {#the-visa-consequence--read-this-first}
 
@@ -95,9 +85,6 @@ The person is not; the premises and the alcohol are:
 **Market estimates**, not tariff-verified. Regional DEHOGA agreements exist with patchy
 coverage:
 
-
-<div class="jig-table" markdown="1">
-
 | Stage | Gross/month |
 |---|---|
 | Unqualified bar staff | At or near the statutory minimum |
@@ -105,9 +92,6 @@ coverage:
 | Cocktail bar, skilled | €2,700 – €3,400 |
 | Barchef / Bar manager | €3,200 – €4,200 |
 | Hotel F&B, bar lead | €3,500 – €4,500 |
-
-</div>
-
 
 **Two things lift real income well above the table.** Tips are substantial in bar work and
 **tax-free without limit** under §3 Nr. 51 EStG. And night work attracts supplements —
@@ -145,5 +129,3 @@ openings. The [Hotelfachwirt (IHK)](/jobs-in-germany/hospitality/hotelfachmann-f
 - Arbeitszeitgesetz §6 — https://www.gesetze-im-internet.de/arbzg/ , accessed 2026-09
 - Infektionsschutzgesetz §43 — https://www.gesetze-im-internet.de/ifsg/ , accessed 2026-09
 - DEHOGA Bundesverband — https://www.dehoga-bundesverband.de , accessed 2026-09
-
-</div>

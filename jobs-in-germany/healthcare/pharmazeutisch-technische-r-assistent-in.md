@@ -2,7 +2,7 @@
 title: "Pharmazeutisch-technische/r Assistent/in (PTA) (Pharmaceutical Technical Assistant)"
 ---
 
-<div class="jig" markdown="1">
+<div class="jig-page"></div>
 
 <p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/healthcare/">Healthcare</a></p>
 
@@ -12,8 +12,7 @@ title: "Pharmazeutisch-technische/r Assistent/in (PTA) (Pharmaceutical Technical
 > [Arzt](/jobs-in-germany/healthcare/arzt-aerztin/), with one important difference: **PTA is a regulated profession
 > with a state licence**, and MFA is not.
 
-
-<div class="jig-facts" markdown="1">
+<div class="jig-facts"></div>
 
 | | |
 |---|---|
@@ -24,9 +23,6 @@ title: "Pharmazeutisch-technische/r Assistent/in (PTA) (Pharmaceutical Technical
 | **Examining body** | State examination office; schools are state-approved |
 | **Regulated** | **Yes** — state Erlaubnis required to use the title and do the work |
 | **Last reviewed** | 2026-09 |
-
-</div>
-
 
 ## The 2023 reform {#the-2023-reform}
 
@@ -64,18 +60,12 @@ wholesale.
 
 ## Confusable titles {#confusable-titles}
 
-
-<div class="jig-table" markdown="1">
-
 | Title | Reality |
 |---|---|
 | **[Apotheker/in](/jobs-in-germany/healthcare/apotheker-in/)** | A **university degree plus Approbation**, five years. Owns or leads the pharmacy. PTA is not a shortened version of it |
 | **PKA — Pharmazeutisch-kaufmännische/r Angestellte/r** | The **commercial** assistant: ordering, stock, accounts. A dual Ausbildung, **not** a regulated profession, and not permitted to dispense |
 | **Apothekenhelfer/in** | The historical name for what is now PKA |
 | **[MFA](/jobs-in-germany/healthcare/medizinische-fachangestellte-r/)** | The doctor's-practice equivalent. Unregulated, examined by the Ärztekammer, different work entirely |
-
-</div>
-
 
 ## Qualification route {#qualification-route}
 
@@ -98,9 +88,6 @@ applying in Nordrhein or Sachsen**, which negotiate separately.
 **The PTA salary groups were not separately verified for this repo — treat the figures below
 as indicative, not exact**, and check the current ADEXA table before relying on them.
 
-
-<div class="jig-table" markdown="1">
-
 | Stage | Gross/month |
 |---|---|
 | Internship (the 6 months) | Low — a trainee rate, not a wage |
@@ -108,9 +95,6 @@ as indicative, not exact**, and check the current ADEXA table before relying on 
 | After several Berufsjahre | €3,000 – €3,600 |
 | Experienced with Weiterbildung, or leading Rezeptur | €3,400 – €4,000 |
 | Hospital pharmacy under **TVöD EG 6–9a** | **€3,240 – €4,980** |
-
-</div>
-
 
 The hospital row is the verified TVöD VKA scale, valid **01.05.2026 – 31.03.2027**, and — as
 with [MFA](/jobs-in-germany/healthcare/medizinische-fachangestellte-r/) — the public-sector employer is frequently the
@@ -171,5 +155,3 @@ pull in opposite directions.
 - ADEXA — https://www.adexa-online.de , accessed 2026-09
 - ABDA, Zahlen zur Apothekenzahl — https://www.abda.de , accessed 2026-09
 - TVöD VKA pay table — https://oeffentlicher-dienst.info , verified 2026-09
-
-</div>

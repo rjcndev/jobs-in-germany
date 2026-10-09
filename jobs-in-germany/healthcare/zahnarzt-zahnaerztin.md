@@ -2,7 +2,7 @@
 title: "Zahnarzt / Zahnärztin (Dentist)"
 ---
 
-<div class="jig" markdown="1">
+<div class="jig-page"></div>
 
 <p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/healthcare/">Healthcare</a></p>
 
@@ -11,8 +11,7 @@ title: "Zahnarzt / Zahnärztin (Dentist)"
 > of a deliberately basic statutory entitlement.** The second is what makes dentistry
 > financially unlike the rest of healthcare in this repo.
 
-
-<div class="jig-facts" markdown="1">
+<div class="jig-facts"></div>
 
 | | |
 |---|---|
@@ -23,9 +22,6 @@ title: "Zahnarzt / Zahnärztin (Dentist)"
 | **Examining body** | State examination office; **Zahnärztekammer** for specialisation |
 | **Regulated** | **Yes** — Approbation. Treating statutory patients needs a further Zulassung |
 | **Last reviewed** | 2026-09 |
-
-</div>
-
 
 ## Qualification route {#qualification-route}
 
@@ -68,16 +64,10 @@ an employee. Hospital and university posts exist but are a small minority.
 Statutory health insurance covers a **deliberately basic standard**: the treatment necessary,
 in its plainest adequate form. Nearly everything better is paid by the patient.
 
-
-<div class="jig-table" markdown="1">
-
 | System | Covers |
 |---|---|
 | **BEMA** | The statutory scale. Basic fillings, standard treatment, and a **Festzuschuss** — a fixed subsidy — toward dentures and crowns |
 | **GOZ** | The private scale. Applies to privately insured patients, and to every upgrade a statutory patient chooses |
-
-</div>
-
 
 So implants, high-grade restorations, aligners, whitening and better prosthetics are
 private revenue from statutorily insured patients. No other profession in this repo has a
@@ -92,9 +82,6 @@ room. The profession's own ethics debate is about exactly that, and patients kno
 
 **Market estimate throughout** — there is no binding tariff for dentists in private practice.
 
-
-<div class="jig-table" markdown="1">
-
 | Stage | Gross/month |
 |---|---|
 | Vorbereitungsassistent/in (the two years) | €3,000 – €4,000 |
@@ -102,9 +89,6 @@ room. The profession's own ethics debate is about exactly that, and patients kno
 | Employed, experienced or with a specialisation | €6,000 – €9,000 |
 | Hospital / university (TV-Ärzte or TV-L) | Comparable to the medical scale |
 | **Practice owner** | Not comparable — see below |
-
-</div>
-
 
 **Practice ownership** is where the profession's reputation for income comes from. Owners'
 surplus before tax is statistically among the highest of any occupation in Germany. It is
@@ -171,5 +155,3 @@ Trends worth knowing:
 - Bundeszahnärztekammer — https://www.bzaek.de , accessed 2026-09
 - KZBV, Jahrbuch and Festzuschuss system — https://www.kzbv.de , accessed 2026-09
 - Directive 2005/36/EC, Annex V.3 — https://eur-lex.europa.eu , accessed 2026-09
-
-</div>

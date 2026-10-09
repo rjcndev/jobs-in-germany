@@ -2,7 +2,7 @@
 title: "Shift work and supplements"
 ---
 
-<div class="jig" markdown="1">
+<div class="jig-page"></div>
 
 <p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/reference/">Reference</a></p>
 
@@ -16,26 +16,17 @@ take-home is larger still.
 
 ## Two different things, often confused {#two-different-things-often-confused}
 
-
-<div class="jig-table" markdown="1">
-
 | | **Zeitzuschläge** (§8 Abs. 1 TVöD) | **Schichtzulagen** (§8 Abs. 5–6) |
 |---|---|---|
 | Basis | **Per hour worked** at an unsocial time | **Per month**, for working in a shift system |
 | Depends on | When you actually worked | The roster you are on |
 | Paid | Every unsocial hour | Whether or not this month was unsocial |
 
-</div>
-
-
 You can receive both at once. They are separate entitlements.
 
 ## Zeitzuschläge — the hourly supplements <a id="zeitzuschläge--the-hourly-supplements"></a>
 
 **Verified against §8 TVöD, 2026-09:**
-
-
-<div class="jig-table" markdown="1">
 
 | Hours worked | Supplement |
 |---|---|
@@ -46,9 +37,6 @@ You can receive both at once. They are separate entitlements.
 | **Feiertag, without time off in lieu** | **135%** |
 | **24.12. and 31.12., from 06:00** | **35%** |
 | Überstunden | **30%** up to E 9b / S 13 / P 11; **15%** from E 9c upward |
-
-</div>
-
 
 Two rules that are not obvious and that people get wrong:
 
@@ -61,16 +49,10 @@ Two rules that are not obvious and that people get wrong:
 
 ## Schichtzulagen — the monthly allowances {#schichtzulagen--the-monthly-allowances}
 
-
-<div class="jig-table" markdown="1">
-
 | Allowance | Permanent | Occasional |
 |---|---|---|
 | **Wechselschichtzulage** | **€105/month** (**€155** under TVöD-K, i.e. hospitals) | €0.63/h (TVöD-K €0.93/h) |
 | **Schichtzulage** | **€40/month** | €0.24/h |
-
-</div>
-
 
 **Wechselschicht** means genuinely round-the-clock rotation including regular night shifts.
 **Schicht** means a shift plan with varying start times but without the full night rotation —
@@ -84,9 +66,6 @@ for night work, scaled by how many qualifying months you work.
 **§3b EStG** exempts supplements for night, Sunday and holiday work from income tax and, up
 to a base rate ceiling, from social contributions — within these limits:
 
-
-<div class="jig-table" markdown="1">
-
 | Work | Tax-free up to |
 |---|---|
 | Night work | **25%** |
@@ -94,9 +73,6 @@ to a base rate ceiling, from social contributions — within these limits:
 | Sunday | **50%** |
 | Public holidays | **125%** |
 | 24.12. from 14:00, 25. and 26.12., 1 May | **150%** |
-
-</div>
-
 
 Compare with the TVöD rates above. **The 20% night supplement sits entirely inside the 25%
 tax-free allowance. The 25% Sunday supplement sits well inside 50%. The 135% holiday
@@ -113,9 +89,6 @@ A [nurse](/jobs-in-germany/healthcare/pflegefachfrau-pflegefachmann/) on **P 7 S
 €3,701/month under TVöD-K (38.5 h/week ≈ 167 monthly hours) — an hourly base of about
 **€22**.
 
-
-<div class="jig-table" markdown="1">
-
 | Component | Amount |
 |---|---|
 | Base | €3,701 |
@@ -123,9 +96,6 @@ A [nurse](/jobs-in-germany/healthcare/pflegefachfrau-pflegefachmann/) on **P 7 S
 | ~60 night hours at 20% of ≈€22 | **+€265** |
 | Two Sunday shifts, ~16 h at 25% | **+€88** |
 | **Total** | **≈ €4,209** |
-
-</div>
-
 
 That is **about 14% above the base figure the pay table shows** — and the €353 of
 Zeitzuschläge in it is largely tax-free, so the gap in *net* terms is wider again. Add a
@@ -144,9 +114,6 @@ Distinct from shift supplements, and easy to conflate:
 
 ## Outside the public sector {#outside-the-public-sector}
 
-
-<div class="jig-table" markdown="1">
-
 | Sector | How supplements work |
 |---|---|
 | **IG Metall / IG BCE** ([industrial trades](/jobs-in-germany/industrial/)) | Shift and night supplements under regional agreements, generally comparable or better, plus the 13th month |
@@ -154,9 +121,6 @@ Distinct from shift supplements, and easy to conflate:
 | [**Road haulage**](/jobs-in-germany/logistics/berufskraftfahrer-in/) | **Spesen** — tax-free per-diems for time away, a different mechanism entirely and a large share of take-home |
 | [**Hospitality**](/jobs-in-germany/hospitality/) | Supplements are patchy; **tips** are the real uplift, tax-free without limit under §3 Nr. 51 EStG |
 | Non-tariff private employers | Whatever the contract says. Often nothing beyond the statutory minimum for night work under §6 ArbZG |
-
-</div>
-
 
 ## Who this affects in this repo {#who-this-affects-in-this-repo}
 
@@ -182,5 +146,3 @@ For all of them, the [pay table](/jobs-in-germany/reference/pay/) is a floor, no
 - Einkommensteuergesetz §3b — https://www.gesetze-im-internet.de/estg/ , accessed 2026-09
 - Arbeitszeitgesetz §6 — https://www.gesetze-im-internet.de/arbzg/ , accessed 2026-09
 - oeffentlicher-dienst.info — https://oeffentlicher-dienst.info , verified 2026-09
-
-</div>

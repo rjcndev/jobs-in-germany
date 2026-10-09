@@ -2,7 +2,7 @@
 title: "Pferdewirt/in (Equine Professional)"
 ---
 
-<div class="jig" markdown="1">
+<div class="jig-page"></div>
 
 <p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/green/">Grüne Berufe — agriculture, forestry and horticulture</a></p>
 
@@ -12,8 +12,7 @@ title: "Pferdewirt/in (Equine Professional)"
 > real, skilled and physically dangerous. It is also one of the worst-paid qualified
 > occupations in this collection.
 
-
-<div class="jig-facts" markdown="1">
+<div class="jig-facts"></div>
 
 | | |
 |---|---|
@@ -25,13 +24,7 @@ title: "Pferdewirt/in (Equine Professional)"
 | **Regulated** | **No** |
 | **Last reviewed** | 2026-09 |
 
-</div>
-
-
 ## The five Fachrichtungen {#the-five-fachrichtungen}
-
-
-<div class="jig-table" markdown="1">
 
 | Fachrichtung | What it is |
 |---|---|
@@ -41,9 +34,6 @@ title: "Pferdewirt/in (Equine Professional)"
 | **Pferderennen** | Racing — flat, jumps and harness. A small, separate world |
 | **Spezialreitweisen** | Western and gaited disciplines |
 
-</div>
-
-
 Above them: **Pferdewirtschaftsmeister/in**, which is the qualification for running a yard,
 training at a professional level and taking apprentices.
 
@@ -51,18 +41,12 @@ training at a professional level and taking apprentices.
 
 Confusing from outside, and worth getting right:
 
-
-<div class="jig-table" markdown="1">
-
 | | **Pferdewirt/in** | **FN Trainer C / B / A** |
 |---|---|---|
 | What it is | A **state-recognised Ausbildung**, 3 years, dual | A **federation licence** from the Deutsche Reiterliche Vereinigung, earned in courses |
 | Covers | The whole occupation — care, management, training | **Instruction and coaching** specifically |
 | Counts for a visa? | **Yes** — §18a | **No** |
 | Who holds it | Career professionals | Many riding instructors, including part-time ones |
-
-</div>
-
 
 Plenty of people teach riding in Germany on a Trainer licence with no Ausbildung. That is
 legal — instruction is unregulated — but it is not a vocational qualification, and for anyone
@@ -89,9 +73,6 @@ agricultural Berufsgenossenschaft's rules on handling, equipment and helmets app
 
 **Market estimate**, and low.
 
-
-<div class="jig-table" markdown="1">
-
 | Stage | Gross/month |
 |---|---|
 | Qualified Pferdewirt/in, employed | €2,200 – €2,800 |
@@ -99,9 +80,6 @@ agricultural Berufsgenossenschaft's rules on handling, equipment and helmets app
 | **Pferdewirtschaftsmeister/in**, employed | €3,000 – €4,000 |
 | Yard manager, large professional operation | €3,400 – €4,500 |
 | Self-employed trainer / yard owner | Not comparable — a small business, asset-heavy |
-
-</div>
-
 
 **Accommodation and keeping your own horse are frequently part of the package**, and they are
 also how below-market cash pay gets rationalised. Both have a statutory valuation, both
@@ -161,5 +139,3 @@ What follows practically:
 - Deutsche Reiterliche Vereinigung (FN) — https://www.pferd-aktuell.de , accessed 2026-09
 - SVLFG, accident prevention in equine work — https://www.svlfg.de , accessed 2026-09
 - BERUFENET — https://berufenet.arbeitsagentur.de , accessed 2026-09
-
-</div>

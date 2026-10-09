@@ -2,7 +2,7 @@
 title: "Triebfahrzeugführer/in (Train Driver)"
 ---
 
-<div class="jig" markdown="1">
+<div class="jig-page"></div>
 
 <p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/logistics/">Logistics</a></p>
 
@@ -11,8 +11,7 @@ title: "Triebfahrzeugführer/in (Train Driver)"
 > file is the entry route — a severe shortage has made **Quereinstieg** the normal way in,
 > with a retraining of under a year, usually paid for by the employer.
 
-
-<div class="jig-facts" markdown="1">
+<div class="jig-facts"></div>
 
 | | |
 |---|---|
@@ -24,16 +23,10 @@ title: "Triebfahrzeugführer/in (Train Driver)"
 | **Regulated** | **Activity-gated** — TfV licence required to drive at all |
 | **Last reviewed** | 2026-09 |
 
-</div>
-
-
 ## The licence has two parts, and only one of them is yours {#the-licence-has-two-parts-and-only-one-of-them-is-yours}
 
 Under the **Triebfahrzeugführerscheinverordnung (TfV)**, implementing EU Directive
 2007/59/EC:
-
-
-<div class="jig-table" markdown="1">
 
 | | **Triebfahrzeugführerschein** | **Zusatzbescheinigung** |
 |---|---|---|
@@ -41,9 +34,6 @@ Under the **Triebfahrzeugführerscheinverordnung (TfV)**, implementing EU Direct
 | Covers | That you are fit and competent to drive, generally | **Which vehicles** and **which routes** you may actually work |
 | Valid | EU-wide, **10 years**, subject to medical checks | Only with that employer |
 | On changing jobs | **Goes with you** | **Lost.** The new employer trains and issues its own |
-
-</div>
-
 
 This is the single most important practical fact about the profession. **Baureihenkenntnis**
 (vehicle type knowledge) and **Streckenkunde** (route knowledge) are employer-specific and
@@ -110,9 +100,6 @@ The conditions are the substance of the job:
 verify against, the same problem the repo records for
 [bus drivers outside NRW](/jobs-in-germany/reference/pay/#reliability-of-these-figures).
 
-
-<div class="jig-table" markdown="1">
-
 | Stage | Gross/month |
 |---|---|
 | During Quereinstieg retraining | €2,200 – €2,800 |
@@ -120,9 +107,6 @@ verify against, the same problem the repo records for
 | Experienced | €3,400 – €4,200 |
 | Long-distance / specialised, senior | €4,000 – €4,800 |
 | Instructor (Lehrlokführer), dispatcher, operations | €4,200 – €5,200 |
-
-</div>
-
 
 **The supplements are not a detail here.** Night, Sunday and holiday work is constant, most
 of the supplement is **tax-free** under §3b EStG, and there are additional allowances for
@@ -192,5 +176,3 @@ Where the risk sits, honestly:
 - Directive 2007/59/EC on the certification of train drivers — https://eur-lex.europa.eu , accessed 2026-09
 - Eisenbahn-Bundesamt — https://www.eba.bund.de , accessed 2026-09
 - BERUFENET, Eisenbahner/in im Betriebsdienst — https://berufenet.arbeitsagentur.de , accessed 2026-09
-
-</div>

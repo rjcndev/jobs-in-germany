@@ -2,7 +2,7 @@
 title: "Hotelfachmann / Hotelfachfrau (Hotel Specialist)"
 ---
 
-<div class="jig" markdown="1">
+<div class="jig-page"></div>
 
 <p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/hospitality/">Hospitality (Gastgewerbe)</a></p>
 
@@ -10,8 +10,7 @@ title: "Hotelfachmann / Hotelfachfrau (Hotel Specialist)"
 > administration. Broader than it sounds, and the usual stepping stone into hotel
 > management.
 
-
-<div class="jig-facts" markdown="1">
+<div class="jig-facts"></div>
 
 | | |
 |---|---|
@@ -21,9 +20,6 @@ title: "Hotelfachmann / Hotelfachfrau (Hotel Specialist)"
 | **Typical qualification** | Duale Ausbildung, 3 years, IHK exam |
 | **Regulated** | No |
 | **Last reviewed** | 2026-09 |
-
-</div>
-
 
 ## What the job involves {#what-the-job-involves}
 
@@ -48,18 +44,12 @@ generalists, which is exactly why they move into management.
 
 ## Pay {#pay}
 
-
-<div class="jig-table" markdown="1">
-
 | Stage | Gross/month |
 |---|---|
 | Newly qualified | €2,300 – €2,900 |
 | Experienced, e.g. shift lead at reception | €2,900 – €3,500 |
 | Department head (Rezeptionsleitung, Housekeeping-Leitung) | €3,400 – €4,300 |
 | Hotel management | €4,500 – €8,000+, heavily dependent on property |
-
-</div>
-
 
 Chains (Marriott, Accor, Hilton franchises) pay more predictably and offer structured
 progression and international transfers; independent and family-run hotels pay less but
@@ -108,5 +98,3 @@ trained people. Multilingual candidates are actively sought.
 - DEHOGA Bundesverband — https://www.dehoga-bundesverband.de , accessed 2026-09
 - BERUFENET — https://berufenet.arbeitsagentur.de , accessed 2026-09
 - BeschV — https://www.gesetze-im-internet.de/beschv_2013/ , accessed 2026-09
-
-</div>

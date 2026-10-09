@@ -2,7 +2,7 @@
 title: "Werkzeugmechaniker/in (Tool and Die Maker)"
 ---
 
-<div class="jig" markdown="1">
+<div class="jig-page"></div>
 
 <p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/industrial/">Industrial trades (Industrieberufe)</a></p>
 
@@ -10,8 +10,7 @@ title: "Werkzeugmechaniker/in (Tool and Die Maker)"
 > [Zerspanung](/jobs-in-germany/industrial/zerspanungsmechaniker-in/), far harder to automate, and working in a German
 > sector under sustained competitive pressure.
 
-
-<div class="jig-facts" markdown="1">
+<div class="jig-facts"></div>
 
 | | |
 |---|---|
@@ -21,9 +20,6 @@ title: "Werkzeugmechaniker/in (Tool and Die Maker)"
 | **Typical qualification** | Duale Ausbildung, 3.5 years, **IHK** exam |
 | **Regulated** | No |
 | **Last reviewed** | 2026-09 |
-
-</div>
-
 
 ## One level up from machining {#one-level-up-from-machining}
 
@@ -37,18 +33,12 @@ That changes the work fundamentally. There is no series to optimise, no second c
 
 ## Fachrichtungen {#fachrichtungen}
 
-
-<div class="jig-table" markdown="1">
-
 | Fachrichtung | What you build |
 |---|---|
 | **Formentechnik** | Injection moulds for plastics |
 | **Stanztechnik** | Progressive dies for sheet metal — heavily automotive |
 | **Vorrichtungstechnik** | Jigs, fixtures and gauges for production and assembly |
 | **Instrumententechnik** | Surgical and precision instruments |
-
-</div>
-
 
 Instrumententechnik concentrates around **Tuttlingen** in Baden-Württemberg, the centre of
 the German surgical-instrument industry and an unusually specific place to build a career.
@@ -83,9 +73,6 @@ A mould is finished when the parts are right, and getting there is diagnostic wo
 [category README](/jobs-in-germany/industrial/#pay-is-better-here-and-not-verifiable). Approximate gross
 monthly, 2026:
 
-
-<div class="jig-table" markdown="1">
-
 | Stage | Gross/month |
 |---|---|
 | Newly qualified (tariff-bound) | €3,300 – €3,900 |
@@ -93,9 +80,6 @@ monthly, 2026:
 | Werkzeugkonstruktion / CAD-CAM | €4,400 – €5,500 |
 | Industriemeister / Techniker | €4,800 – €5,900 |
 | Werkzeugbauleitung | €5,500 – €7,000 |
-
-</div>
-
 
 Slightly above [Zerspanung](/jobs-in-germany/industrial/zerspanungsmechaniker-in/) at the experienced end, reflecting
 the longer time it takes to become genuinely useful. Toolmaking is also less shift-driven
@@ -145,5 +129,3 @@ hedge.
 - IG Metall — https://www.igmetall.de , accessed 2026-09
 - IHK FOSA — https://www.ihk-fosa.de , accessed 2026-09
 - BERUFENET — https://berufenet.arbeitsagentur.de , accessed 2026-09
-
-</div>

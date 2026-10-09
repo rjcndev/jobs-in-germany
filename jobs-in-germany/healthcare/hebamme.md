@@ -2,7 +2,7 @@
 title: "Hebamme / Entbindungspfleger (Midwife)"
 ---
 
-<div class="jig" markdown="1">
+<div class="jig-page"></div>
 
 <p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/healthcare/">Healthcare</a></p>
 
@@ -11,8 +11,7 @@ title: "Hebamme / Entbindungspfleger (Midwife)"
 > EU pressure. Also the only profession here whose presence at a procedure is legally
 > mandatory — a doctor may not conduct a birth without one.
 
-
-<div class="jig-facts" markdown="1">
+<div class="jig-facts"></div>
 
 | | |
 |---|---|
@@ -23,9 +22,6 @@ title: "Hebamme / Entbindungspfleger (Midwife)"
 | **Examining body** | State examination office; the **Erlaubnis** is issued by the state |
 | **Regulated** | **Yes** — licence required to practise |
 | **Last reviewed** | 2026-09 |
-
-</div>
-
 
 ## The 2020 academisation {#the-2020-academisation}
 
@@ -100,17 +96,11 @@ shortages close wards outright.
 though houses differ and some grade to the P-table; figures are the **TVöD VKA** scale
 already verified for this repo, valid **01.05.2026 – 31.03.2027**.
 
-
-<div class="jig-table" markdown="1">
-
 | Stage | Grade | Gross/month |
 |---|---|---|
 | Entry | EG 9a | €3,659 – €3,878 |
 | Experienced | EG 9a | €4,098 – €4,587 |
 | Senior / Leitung Kreißsaal | EG 9b – 10 | €3,780 – €5,753 |
-
-</div>
-
 
 Delivery wards run around the clock, so **shift, night, Sunday and holiday supplements are a
 substantial and largely tax-free addition** — see
@@ -180,5 +170,3 @@ one-to-one care — the thing most midwives entered the profession to do — oft
 - Directive 2005/36/EC, Annex V.5 — https://eur-lex.europa.eu , accessed 2026-09
 - Deutscher Hebammenverband — https://www.hebammenverband.de , accessed 2026-09
 - TVöD VKA pay table — https://oeffentlicher-dienst.info , verified 2026-09
-
-</div>

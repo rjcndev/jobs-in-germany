@@ -2,15 +2,14 @@
 title: "Kaufmann/-frau für Büromanagement (Office Management Clerk)"
 ---
 
-<div class="jig" markdown="1">
+<div class="jig-page"></div>
 
 <p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/commercial/">Commercial</a></p>
 
 > Germany's single most common Ausbildung. Administration, correspondence, scheduling,
 > invoicing and order processing — in essentially every sector.
 
-
-<div class="jig-facts" markdown="1">
+<div class="jig-facts"></div>
 
 | | |
 |---|---|
@@ -21,9 +20,6 @@ title: "Kaufmann/-frau für Büromanagement (Office Management Clerk)"
 | **Typical qualification** | Duale Ausbildung, 3 years, IHK exam |
 | **Regulated** | No |
 | **Last reviewed** | 2026-09 |
-
-</div>
-
 
 ## What the job involves {#what-the-job-involves}
 
@@ -47,18 +43,12 @@ manufacturer and a city council give the same job title completely different sub
 
 ## Pay {#pay}
 
-
-<div class="jig-table" markdown="1">
-
 | Setting | Gross/month |
 |---|---|
 | Newly qualified, private sector | €2,500 – €3,000 |
 | Experienced | €3,000 – €3,700 |
 | Public sector (TVöD EG 5–6) | €3,124 – €3,926 |
 | Tariff-bound industry (IG Metall etc.) | €3,300 – €4,200 |
-
-</div>
-
 
 The spread here is driven almost entirely by **who employs you**, not by how good you are.
 Tariff-bound industrial employers and the public sector pay well above small private firms
@@ -100,5 +90,3 @@ Choose the Wahlqualifikationen accordingly.
 - BERUFENET — https://berufenet.arbeitsagentur.de , accessed 2026-09
 - IHK FOSA — https://www.ihk-fosa.de , accessed 2026-09
 - TVöD pay tables — https://oeffentlicher-dienst.info , accessed 2026-09
-
-</div>

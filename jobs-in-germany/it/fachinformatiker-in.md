@@ -2,15 +2,14 @@
 title: "Fachinformatiker/in (IT Specialist, dual-trained)"
 ---
 
-<div class="jig" markdown="1">
+<div class="jig-page"></div>
 
 <p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/it/">IT</a></p>
 
 > The vocational route into IT: three years of paid, employer-based training with an IHK
 > qualification at the end. The standard German alternative to a CS degree.
 
-
-<div class="jig-facts" markdown="1">
+<div class="jig-facts"></div>
 
 | | |
 |---|---|
@@ -21,15 +20,9 @@ title: "Fachinformatiker/in (IT Specialist, dual-trained)"
 | **Regulated** | No |
 | **Last reviewed** | 2026-09 |
 
-</div>
-
-
 ## Four specialisations {#four-specialisations}
 
 Restructured in 2020, adding two new directions to the original pair:
-
-
-<div class="jig-table" markdown="1">
 
 | Fachrichtung | Focus |
 |---|---|
@@ -37,9 +30,6 @@ Restructured in 2020, adding two new directions to the original pair:
 | Systemintegration | Infrastructure, networks, servers, IT operations |
 | Daten- und Prozessanalyse | Data analysis, process modelling, reporting |
 | Digitale Vernetzung | Networked systems, IoT, industrial digitalisation |
-
-</div>
-
 
 Pick deliberately: the specialisation is on the certificate and employers read it.
 
@@ -55,17 +45,11 @@ Pick deliberately: the specialisation is on the certificate and employers read i
 
 ## Pay after qualifying {#pay-after-qualifying}
 
-
-<div class="jig-table" markdown="1">
-
 | Stage | Annual gross |
 |---|---|
 | Newly qualified | €38,000 – €46,000 |
 | A few years in | €48,000 – €60,000 |
 | Senior, or with Weiterbildung | €60,000 – €75,000+ |
-
-</div>
-
 
 The trajectory converges with degree holders after roughly five years in most companies —
 with two caveats. Some large corporates still gate senior and management bands on a degree,
@@ -97,5 +81,3 @@ IT is unregulated. You may still want a **Gleichwertigkeitsfeststellung** from t
 - BERUFENET — https://berufenet.arbeitsagentur.de , accessed 2026-09
 - DIHK / IHK training profiles — https://www.ihk.de , accessed 2026-09
 - BQFG — https://www.gesetze-im-internet.de/bqfg/ , accessed 2026-09
-
-</div>

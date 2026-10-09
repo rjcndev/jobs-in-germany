@@ -2,7 +2,7 @@
 title: "Glossary"
 ---
 
-<div class="jig" markdown="1">
+<div class="jig-page"></div>
 
 <p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/reference/">Reference</a></p>
 
@@ -234,5 +234,3 @@ TVöD, **largely tax-free** under §3b EStG. See
 ### Zusatzbeitrag {#zusatzbeitrag}
 The supplementary health-insurance contribution set by each individual Krankenkasse, on top
 of the 14.6% base rate.
-
-</div>

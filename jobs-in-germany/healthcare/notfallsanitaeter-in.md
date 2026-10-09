@@ -2,7 +2,7 @@
 title: "Notfallsanitäter/in (Paramedic)"
 ---
 
-<div class="jig" markdown="1">
+<div class="jig-page"></div>
 
 <p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/healthcare/">Healthcare</a></p>
 
@@ -10,8 +10,7 @@ title: "Notfallsanitäter/in (Paramedic)"
 > carries something rare in this repo: a statutory licence to perform invasive medical
 > measures independently.
 
-
-<div class="jig-facts" markdown="1">
+<div class="jig-facts"></div>
 
 | | |
 |---|---|
@@ -23,16 +22,10 @@ title: "Notfallsanitäter/in (Paramedic)"
 | **Regulated** | Yes — state licence required |
 | **Last reviewed** | 2026-09 |
 
-</div>
-
-
 ## Do not confuse the four qualifications {#do-not-confuse-the-four-qualifications}
 
 This is the most commonly misunderstood ladder in German healthcare, and foreign paramedics
 are routinely slotted into the wrong rung:
-
-
-<div class="jig-table" markdown="1">
 
 | Qualification | Training | What it is |
 |---|---|---|
@@ -40,9 +33,6 @@ are routinely slotted into the wrong rung:
 | **Rettungssanitäter/in** | **~520 h course** | A *Lehrgang*, **not an Ausbildung**. Drives, assists, staffs transport. |
 | **Notfallsanitäter/in** | **3-year Ausbildung** | Full qualification, state licence, §2a competences. |
 | **Notarzt/Notärztin** | Physician + Zusatzbezeichnung | A doctor, not this profession. |
-
-</div>
-
 
 **Rettungssanitäter is not a junior Notfallsanitäter** — it is a different, far shorter
 qualification with no route that automatically converts. Employers hire foreign-trained
@@ -87,9 +77,6 @@ Public-sector operators pay under **TVöD**, where Notfallsanitäter have their 
 **Entgeltgruppe N** (Anlage D.14 to TVöD-V). EG N mirrors **P 8** of the TVöD-P table.
 Verified 2026-09; tables valid **01.05.2026 – 31.03.2027**:
 
-
-<div class="jig-table" markdown="1">
-
 | Role | Grade | Gross/month |
 |---|---|---|
 | Rettungssanitäter/in | EG 4 (+2.3% Zulage) | €2,994 – €3,620 |
@@ -97,9 +84,6 @@ Verified 2026-09; tables valid **01.05.2026 – 31.03.2027**:
 | **Notfallsanitäter/in** | **EG N (= P 8)** | **€3,701 – €4,489** |
 | Stellv. Wachleitung | EG 9a | €3,659 – €4,980 |
 | Leitung einer Rettungswache | EG 9b – E 10 | €3,780 – €5,753 |
-
-</div>
-
 
 Two quirks of EG N: it has **no Stufe 1** — the ladder starts at Stufe 2 — and **Stufe 3 is
 reached only after three years in Stufe 2**, a slower climb than the standard scale.
@@ -165,5 +149,3 @@ teaching.
 - TVöD Entgeltordnung, Rettungsdienst (EG N / Anlage D.14 TVöD-V) — verified 2026-09
 - TVöD-P and TVöD VKA pay tables — https://oeffentlicher-dienst.info , verified 2026-09
 - BERUFENET — https://berufenet.arbeitsagentur.de , accessed 2026-09
-
-</div>

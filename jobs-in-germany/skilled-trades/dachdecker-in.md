@@ -2,7 +2,7 @@
 title: "Dachdecker/in (Roofer)"
 ---
 
-<div class="jig" markdown="1">
+<div class="jig-page"></div>
 
 <p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/skilled-trades/">Skilled trades (Handwerk)</a></p>
 
@@ -11,8 +11,7 @@ title: "Dachdecker/in (Roofer)"
 > large share of the work. Also the clearest case in this repo of **fall-protection law as
 > the job**, and of employment that the weather genuinely controls.
 
-
-<div class="jig-facts" markdown="1">
+<div class="jig-facts"></div>
 
 | | |
 |---|---|
@@ -24,18 +23,12 @@ title: "Dachdecker/in (Roofer)"
 | **Regulated** | Self-employment only |
 | **Last reviewed** | 2026-09 |
 
-</div>
-
-
 ## Not quite Bauhauptgewerbe, not quite Ausbau {#not-quite-bauhauptgewerbe-not-quite-ausbau}
 
 Roofing sits structurally inside the construction world described in
 [The Bauhauptgewerbe](/jobs-in-germany/reference/bauhauptgewerbe/) — a sector holiday fund, an AEntG
 minimum wage above the statutory one, a funded winter — but **under its own agreements**, not
 the BRTV-Bau.
-
-
-<div class="jig-table" markdown="1">
 
 | | Roofing |
 |---|---|
@@ -44,9 +37,6 @@ the BRTV-Bau.
 | Minimum wage | Its **own AEntG-declared** rate, applying nationwide |
 | Winter | **Saison-Kurzarbeitergeld** applies, as in construction |
 
-</div>
-
-
 **So check which agreement a contract names.** "Construction" is not one tariff world, and a
 Dachdecker on a Bau contract or vice versa is in the wrong scheme.
 
@@ -54,18 +44,12 @@ Dachdecker on a Bau contract or vice versa is in the wrong scheme.
 
 Certified **on the qualification** — you choose a Fachrichtung during the Ausbildung:
 
-
-<div class="jig-table" markdown="1">
-
 | Fachrichtung | Work |
 |---|---|
 | **Dach-, Wand- und Abdichtungstechnik** | The main one: pitched and flat roofs, waterproofing |
 | **Energietechnik an Dach und Wand** | **Solar thermal and photovoltaic mounting**, roof-integrated systems, insulation |
 | **Außenwandbekleidungstechnik** | Facade cladding |
 | **Reetdachtechnik** | Thatch — a tiny, regionally concentrated specialism on the North Sea and Baltic coasts |
-
-</div>
-
 
 The Energietechnik Fachrichtung is the reason this trade has a growth story rather than a
 steady one.
@@ -110,9 +94,6 @@ inspected.
 the floor and is a perishable figure — check the current rate rather than trusting one
 written down.
 
-
-<div class="jig-table" markdown="1">
-
 | Stage | Gross/month |
 |---|---|
 | Geselle, entry | €3,000 – €3,600 |
@@ -120,9 +101,6 @@ written down.
 | Vorarbeiter / Kolonnenführer | €4,000 – €4,800 |
 | **Meister**, employed | €4,300 – €5,400 |
 | Meister with own business | Not comparable |
-
-</div>
-
 
 Add the sector's holiday and supplementary-pension entitlements through **SOKA-DACH**, travel
 and away-site allowances, and — in a trade with this much emergency work — overtime that is
@@ -177,5 +155,3 @@ than in most trades.
 - Zentralverband des Deutschen Dachdeckerhandwerks — https://dachdecker.de , accessed 2026-09
 - DGUV rules on work at height, PSAgA — https://www.dguv.de , accessed 2026-09
 - BG BAU — https://www.bgbau.de , accessed 2026-09
-
-</div>

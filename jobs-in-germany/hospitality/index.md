@@ -2,7 +2,7 @@
 title: "Hospitality (Gastgewerbe)"
 ---
 
-<div class="jig" markdown="1">
+<div class="jig-page"></div>
 
 <p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a></p>
 
@@ -14,9 +14,6 @@ restaurant floor. Qualifications matter for two things only: **pay grading** and
 The Gastgewerbe training occupations were overhauled on **1 August 2022**. Old titles
 remain on people's certificates and in job ads:
 
-
-<div class="jig-table" markdown="1">
-
 | Since 2022 | Replaced | Length |
 |---|---|---|
 | Fachkraft für Gastronomie | Fachkraft im Gastgewerbe | 2 years |
@@ -25,9 +22,6 @@ remain on people's certificates and in job ads:
 | Hotelfachmann/-frau | (revised) | 3 years |
 | Hotelkaufmann/-frau | (revised) | 3 years |
 | Koch/Köchin | (revised) | 3 years |
-
-</div>
-
 
 The 2-year Fachkraft qualification can be topped up to a 3-year one.
 
@@ -54,13 +48,9 @@ The 2-year Fachkraft qualification can be topped up to a 3-year one.
 
 ## Professions in this category {#professions-in-this-category}
 
-<div class="jig-cards" markdown="1">
+<div class="jig-cards"></div>
 
 - [Barkeeper/in (Bartender)](/jobs-in-germany/hospitality/barkeeper-in/) <span>Mixing and serving drinks.</span>
 - [Fachmann/-frau für Restaurants und Veranstaltungsgastronomie — "Kellner"](/jobs-in-germany/hospitality/fachmann-frau-restaurants-veranstaltungsgastronomie/) <span>Restaurant and event service.</span>
 - [Hotelfachmann / Hotelfachfrau (Hotel Specialist)](/jobs-in-germany/hospitality/hotelfachmann-frau/) <span>The generalist hotel qualification: reception, housekeeping, F&amp;B service and administration.</span>
 - [Koch / Köchin (Chef / Cook)](/jobs-in-germany/hospitality/koch-koechin/) <span>Cooks professionally.</span>
-
-</div>
-
-</div>

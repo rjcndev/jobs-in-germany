@@ -2,7 +2,7 @@
 title: "Architekt/in (Architect)"
 ---
 
-<div class="jig" markdown="1">
+<div class="jig-page"></div>
 
 <p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/engineering/">Engineering</a></p>
 
@@ -12,8 +12,7 @@ title: "Architekt/in (Architect)"
 > neither: entry to the Architektenliste takes roughly two further years of documented
 > practice.
 
-
-<div class="jig-facts" markdown="1">
+<div class="jig-facts"></div>
 
 | | |
 |---|---|
@@ -25,9 +24,6 @@ title: "Architekt/in (Architect)"
 | **Examining / listing body** | The **Architektenkammer** of the Bundesland |
 | **Regulated** | **Title yes. And one activity: Bauvorlageberechtigung** |
 | **Last reviewed** | 2026-09 |
-
-</div>
-
 
 ## Why this file introduces more patterns than any other here {#why-this-file-introduces-more-patterns-than-any-other-here}
 
@@ -74,9 +70,6 @@ internal-market mechanism, not a quality judgement.
 German practice organises a project into the nine **Leistungsphasen** of the HOAI, and the
 structure shapes careers as much as fees — most architects specialise toward one end:
 
-
-<div class="jig-table" markdown="1">
-
 | LPH | | |
 |---|---|---|
 | 1–2 | Grundlagenermittlung, Vorplanung | Brief, feasibility |
@@ -85,9 +78,6 @@ structure shapes careers as much as fees — most architects specialise toward o
 | 6–7 | Vorbereitung and Mitwirkung bei der Vergabe | Tendering, bills of quantities |
 | 8 | **Objektüberwachung** | Site supervision, defects, cost control |
 | 9 | Objektbetreuung | Post-completion |
-
-</div>
-
 
 A common split is between **Entwurf** people (1–4), who design, and **Ausführung/Bauleitung**
 people (5–8), who make it real. The second group is more in demand and frequently better
@@ -103,9 +93,6 @@ DIN 276 for cost groups, DIN 277 for areas, VOB/B for construction contracts, an
 The Kammer lists them **separately**, and they are separate registrations — not badges on
 one qualification:
 
-
-<div class="jig-table" markdown="1">
-
 | Fachrichtung | Scope | Bauvorlage? |
 |---|---|---|
 | **Architektur** | Buildings | **Yes** |
@@ -113,13 +100,7 @@ one qualification:
 | **Landschaftsarchitektur** | Open space, planting, external works | Generally no |
 | **Stadtplanung** | Urban design, Bauleitplanung | Generally no |
 
-</div>
-
-
 ## Confusable titles {#confusable-titles}
-
-
-<div class="jig-table" markdown="1">
 
 | Title | Reality |
 |---|---|
@@ -128,9 +109,6 @@ one qualification:
 | **Bauzeichner/in** | The [3-year Ausbildung](/jobs-in-germany/engineering/bauzeichner-in/) that produces the drawings. Frequently mistaken abroad for a junior architect |
 | **Architekt im Praktikum / Absolvent** | Holds the degree, **not** the title. May not sign anything |
 | **Softwarearchitekt/in** | Unaffected — the protection lives in building law, and IT usage is not read as claiming it |
-
-</div>
-
 
 ## Qualification route {#qualification-route}
 
@@ -158,9 +136,6 @@ travels with it.
 and engineering offices, but it binds only where an employer has joined, and most have not —
 so architecture is one of the least tariff-covered qualified professions in this repo.
 
-
-<div class="jig-table" markdown="1">
-
 | Stage | Gross/month |
 |---|---|
 | Absolvent, pre-listing ("Architekt im Praktikum") | €3,000 – €3,600 |
@@ -168,9 +143,6 @@ so architecture is one of the least tariff-covered qualified professions in this
 | Projektleitung / Bauleitung, experienced | €4,600 – €6,000 |
 | Büroleitung, associate, large-practice senior | €6,000 – €8,000 |
 | Public sector (Bauamt, Landesbaubehörde) | TVöD/TV-L **EG 11–13**, and **verbeamtet** in some states |
-
-</div>
-
 
 Three things the table cannot show:
 
@@ -278,5 +250,3 @@ Weak: small-practice residential new-build, and anything dependent on speculativ
 - Bundesarchitektenkammer — https://www.bak.de , accessed 2026-09
 - Landesarchitektengesetze, per state — accessed 2026-09
 - BERUFENET — https://berufenet.arbeitsagentur.de , accessed 2026-09
-
-</div>

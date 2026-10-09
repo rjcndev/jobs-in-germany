@@ -2,7 +2,7 @@
 title: "Rechtsanwaltsfachangestellte/r (Legal Secretary / Paralegal)"
 ---
 
-<div class="jig" markdown="1">
+<div class="jig-page"></div>
 
 <p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/commercial/">Commercial</a></p>
 
@@ -10,8 +10,7 @@ title: "Rechtsanwaltsfachangestellte/r (Legal Secretary / Paralegal)"
 > Sits beneath a reserved profession, like
 > [Steuerfachangestellte/r](/jobs-in-germany/commercial/steuerfachangestellte-r/) — but with a harder ceiling.
 
-
-<div class="jig-facts" markdown="1">
+<div class="jig-facts"></div>
 
 | | |
 |---|---|
@@ -22,9 +21,6 @@ title: "Rechtsanwaltsfachangestellte/r (Legal Secretary / Paralegal)"
 | **Typical qualification** | Duale Ausbildung, 3 years, Rechtsanwaltskammer exam |
 | **Regulated** | No — the work is supervised, not licensed |
 | **Last reviewed** | 2026-09 |
-
-</div>
-
 
 ## The reserved-activity structure, and why the ceiling is harder {#the-reserved-activity-structure-and-why-the-ceiling-is-harder}
 
@@ -70,9 +66,6 @@ The profession's structural complaint: high responsibility, modest pay, and an e
 spread by employer type. Approximate gross monthly, 2026 — **market estimates, not
 tariff-verified**; there is no widely binding collective agreement:
 
-
-<div class="jig-table" markdown="1">
-
 | Setting | Gross/month |
 |---|---|
 | Small Kanzlei, newly qualified | €2,400 – €3,000 |
@@ -80,9 +73,6 @@ tariff-verified**; there is no widely binding collective agreement:
 | Rechtsfachwirt/in | €3,800 – €4,800 |
 | **Großkanzlei / international firm** | **€3,500 – €5,500** |
 | Bürovorsteher/in, large firm | €4,500 – €6,000 |
-
-</div>
-
 
 **Employer type matters more than experience.** An international firm in Frankfurt,
 Düsseldorf or Munich can pay a newly qualified assistant what a small-town Kanzlei pays a
@@ -124,5 +114,3 @@ qualified candidates is unusually strong — better than the pay levels suggest.
 - Rechtsanwaltsvergütungsgesetz (RVG) — https://www.gesetze-im-internet.de/rvg/ , accessed 2026-09
 - Bundesrechtsanwaltskammer — https://www.brak.de , accessed 2026-09
 - BERUFENET — https://berufenet.arbeitsagentur.de , accessed 2026-09
-
-</div>

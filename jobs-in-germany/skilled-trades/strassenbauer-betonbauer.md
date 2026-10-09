@@ -2,7 +2,7 @@
 title: "Straßenbauer/in und Beton- und Stahlbetonbauer/in (Road Builder; Concrete and Reinforced Concrete Worker)"
 ---
 
-<div class="jig" markdown="1">
+<div class="jig-page"></div>
 
 <p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/skilled-trades/">Skilled trades (Handwerk)</a></p>
 
@@ -13,8 +13,7 @@ title: "Straßenbauer/in und Beton- und Stahlbetonbauer/in (Road Builder; Concre
 > the housing market that governs the rest of the
 > [Bauhauptgewerbe](/jobs-in-germany/reference/bauhauptgewerbe/).
 
-
-<div class="jig-facts" markdown="1">
+<div class="jig-facts"></div>
 
 | | |
 |---|---|
@@ -26,13 +25,7 @@ title: "Straßenbauer/in und Beton- und Stahlbetonbauer/in (Road Builder; Concre
 | **Regulated** | Self-employment only |
 | **Last reviewed** | 2026-09 |
 
-</div>
-
-
 ## Two trades, one structure {#two-trades-one-structure}
-
-
-<div class="jig-table" markdown="1">
 
 | | **Straßenbauer/in** | **Beton- und Stahlbetonbauer/in** |
 |---|---|---|
@@ -40,9 +33,6 @@ title: "Straßenbauer/in und Beton- und Stahlbetonbauer/in (Road Builder; Concre
 | Core skills | Setting out and levels, base layers, **Asphalteinbau**, **Pflasterarbeiten**, edge and drainage detail | **Schalung** (formwork), **Bewehrung** (reinforcement), pouring, curing, finishing, precast erection |
 | Typical projects | Municipal streets, motorway sections, cycle infrastructure, site access | Bridges, tunnels, retaining structures, industrial floors, wind-turbine foundations, multi-storey frames |
 | Stage-2 qualification | **Tiefbaufacharbeiter/in** | **Hochbaufacharbeiter/in** |
-
-</div>
-
 
 Both run through the staged Bau Ausbildung described in [Maurer](/jobs-in-germany/skilled-trades/maurer-in/): a common
 first year, a recognised intermediate qualification after the second, the full trade after
@@ -57,18 +47,12 @@ part most exposed to knee and back injury over a career.
 Most Handwerk trades in this repo mean a small firm with a Meister who owns it. These two
 frequently do not:
 
-
-<div class="jig-table" markdown="1">
-
 | Employer | What it means |
 |---|---|
 | **Large contractors** (the national and international construction groups) | Tariff-bound, structured career paths, mobility across regions, long framework contracts |
 | **Municipal Bauhof / Straßenbauamt** | **TVöD**, verifiable pay, regular hours, local work, a pension arrangement, and no winter uncertainty |
 | **Autobahn GmbH and state road authorities** | Public employment on federal and state roads |
 | Small specialist firms | Paving, drainage, private access works |
-
-</div>
-
 
 The municipal route is the underrated one. For anyone who wants construction work without
 the away-site life, the working-time account and the winter Kurzarbeit, a **Bauhof** post is
@@ -98,9 +82,6 @@ management — which are quick, employer-funded, and the usual route to a pay st
 **Market estimate**, except the municipal row. The AEntG **Bau-Mindestlohn** is the floor and
 is not quoted here.
 
-
-<div class="jig-table" markdown="1">
-
 | Stage | Gross/month |
 |---|---|
 | Tiefbau-/Hochbaufacharbeiter (after 2 years) | €2,800 – €3,300 |
@@ -109,9 +90,6 @@ is not quoted here.
 | **Polier** | €4,200 – €5,300 |
 | **Meister**, employed | €4,400 – €5,600 |
 | **Municipal Bauhof (TVöD EG 5–7)** | **€3,124 – €4,045** |
-
-</div>
-
 
 Contractor work adds **Auslösung** and travel allowances — large projects mean long-distance
 working and weeks away — plus the 13th month and SOKA-BAU's holiday and pension. Municipal
@@ -166,5 +144,3 @@ qualified Tiefbau workers is severe and is itself a reported reason for projects
 - BG BAU, Tiefbau and Straßenbau rules — https://www.bgbau.de , accessed 2026-09
 - SOKA-BAU — https://www.soka-bau.de , accessed 2026-09
 - TVöD VKA pay table — https://oeffentlicher-dienst.info , verified 2026-09
-
-</div>

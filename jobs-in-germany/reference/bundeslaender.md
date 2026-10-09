@@ -2,7 +2,7 @@
 title: "Choosing a Bundesland"
 ---
 
-<div class="jig" markdown="1">
+<div class="jig-page"></div>
 
 <p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/reference/">Reference</a></p>
 
@@ -15,9 +15,6 @@ ones where the advice is worth acting on.
 
 ## Where it genuinely matters {#where-it-genuinely-matters}
 
-
-<div class="jig-table" markdown="1">
-
 | Profession | What varies | How much |
 |---|---|---|
 | [**Lehrer/in**](/jobs-in-germany/education/lehrer-in/) | The entire system: training structure, subject combinations, **whether you are made a Beamter**, and A13-für-alle status | **Decisive** |
@@ -27,9 +24,6 @@ ones where the advice is worth acting on.
 | [Green professions](/jobs-in-germany/green/) | Whether a **Landwirtschaftskammer exists** at all, or a ministry does the job | High |
 | Licensed healthcare | The competent authority differs; **the standard is federal**, so outcomes are broadly consistent | Low — procedural only |
 | Everything unregulated | Nothing formally. Only the labour market | Low |
-
-</div>
-
 
 **The distinction to hold on to:** for federally regulated professions the *office* is
 state-level but the *standard* is national. For **teaching and Erzieher/in the standard
@@ -95,5 +89,3 @@ this repo covers. For a tariff-paid profession that combination is favourable.
 - Anerkennung in Deutschland — https://www.anerkennung-in-deutschland.de , accessed 2026-09
 - Kultusministerkonferenz — https://www.kmk.org , accessed 2026-09
 - Besoldung tables by state — https://oeffentlicher-dienst.info , accessed 2026-09
-
-</div>

@@ -2,15 +2,14 @@
 title: "Konstruktionsmechaniker/in (Structural Metalworker / Fabricator)"
 ---
 
-<div class="jig" markdown="1">
+<div class="jig-page"></div>
 
 <p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/industrial/">Industrial trades (Industrieberufe)</a></p>
 
 > Builds structures out of steel: plate, profile and tube, cut, formed, welded and erected.
 > The trade where **welding certification, not the job title, decides what you may work on.**
 
-
-<div class="jig-facts" markdown="1">
+<div class="jig-facts"></div>
 
 | | |
 |---|---|
@@ -21,16 +20,10 @@ title: "Konstruktionsmechaniker/in (Structural Metalworker / Fabricator)"
 | **Regulated** | No — but welding and EN 1090 gate the work |
 | **Last reviewed** | 2026-09 |
 
-</div>
-
-
 ## Its Handwerk twin: Metallbauer/in {#its-handwerk-twin-metallbauerin}
 
 The same work exists in both systems, and the difference is the one this category is built
 around:
-
-
-<div class="jig-table" markdown="1">
 
 | | **Konstruktionsmechaniker/in** | **Metallbauer/in** |
 |---|---|---|
@@ -40,9 +33,6 @@ around:
 | Typical employer | Stahlbau firms, shipyards, plant builders | Metal workshops, Schlossereien |
 | Tariff | IG Metall / sector agreements | Handwerk agreements, generally lower |
 
-</div>
-
-
 Exactly the pattern of
 [Elektroniker Betriebstechnik vs the Handwerk electrician](/jobs-in-germany/industrial/elektroniker-in-betriebstechnik/):
 comparable work, better industrial pay, no business rights. Metallbauer has its own
@@ -50,18 +40,12 @@ Fachrichtungen (Konstruktionstechnik, Metallgestaltung, Nutzfahrzeugbau).
 
 ## Fachrichtungen {#fachrichtungen}
 
-
-<div class="jig-table" markdown="1">
-
 | Fachrichtung | Focus |
 |---|---|
 | **Schweißtechnik** | Welded fabrication — the broadest route |
 | **Feinblechbautechnik** | Sheet metal: enclosures, ducting, housings |
 | **Schiffbau** | Ship sections and hull structures |
 | **Ausrüstungstechnik** | Piping, plant and equipment fit-out |
-
-</div>
-
 
 ## Welding is the qualification that matters {#welding-is-the-qualification-that-matters}
 
@@ -109,9 +93,6 @@ height. Occupational health is a genuine long-term consideration, not a formalit
 **Tariff-bound where IG Metall or a sector agreement applies. Market estimates** — see the
 [category README](/jobs-in-germany/industrial/#pay-is-better-here-and-not-verifiable):
 
-
-<div class="jig-table" markdown="1">
-
 | Stage | Gross/month |
 |---|---|
 | Newly qualified (tariff-bound) | €3,200 – €3,800 |
@@ -119,9 +100,6 @@ height. Occupational health is a genuine long-term consideration, not a formalit
 | With sought-after welding certificates | €4,200 – €5,000 |
 | Schweißfachmann / Schweißtechniker | €4,500 – €5,500 |
 | Industriemeister / Techniker | €4,700 – €5,800 |
-
-</div>
-
 
 **Montage is the earnings lever.** Site work adds tax-free per-diems and travel allowances
 that can lift take-home well above the table, at the cost of long periods away —
@@ -168,5 +146,3 @@ concentrated and politically exposed sector, not a general one.
 - DVS — Deutscher Verband für Schweißen und verwandte Verfahren — https://www.dvs-home.de , accessed 2026-09
 - IG Metall — https://www.igmetall.de , accessed 2026-09
 - BERUFENET — https://berufenet.arbeitsagentur.de , accessed 2026-09
-
-</div>

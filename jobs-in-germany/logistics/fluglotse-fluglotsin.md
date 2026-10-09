@@ -2,7 +2,7 @@
 title: "Fluglotse / Fluglotsin (Air Traffic Controller)"
 ---
 
-<div class="jig" markdown="1">
+<div class="jig-page"></div>
 
 <p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/logistics/">Logistics</a></p>
 
@@ -10,8 +10,7 @@ title: "Fluglotse / Fluglotsin (Air Traffic Controller)"
 > and pay at the top of everything in this repo that is not a business you own. The inverse
 > of [Pilot/in](/jobs-in-germany/logistics/pilot-in/) in every respect: they pay to qualify, you are paid to.
 
-
-<div class="jig-facts" markdown="1">
+<div class="jig-facts"></div>
 
 | | |
 |---|---|
@@ -22,9 +21,6 @@ title: "Fluglotse / Fluglotsin (Air Traffic Controller)"
 | **Licensing body** | **Bundesaufsichtsamt für Flugsicherung (BAF)**, under EU rules |
 | **Regulated** | **Yes** — licence with unit endorsements required |
 | **Last reviewed** | 2026-09 |
-
-</div>
-
 
 ## One employer, essentially {#one-employer-essentially}
 
@@ -69,17 +65,11 @@ any comparison in this repo:
 
 Ratings determine what you control:
 
-
-<div class="jig-table" markdown="1">
-
 | Rating | Work |
 |---|---|
 | **Tower (ADI)** | Runway, taxiways and the immediate airspace — visual control |
 | **Approach (APS)** | Sequencing arrivals and departures around an airport |
 | **Area (ACS)** | En-route traffic in a control centre |
-
-</div>
-
 
 **The endorsement is unit-specific.** Like the [train driver's route
 certificate](/jobs-in-germany/logistics/triebfahrzeugfuehrer-in/), competence is validated for the sector you
@@ -113,18 +103,12 @@ The conditions:
 **Market estimate**, but unusually well-documented publicly because DFS pay is negotiated
 collectively and reported.
 
-
-<div class="jig-table" markdown="1">
-
 | Stage | Gross/month |
 |---|---|
 | Trainee, during the ~3 years | €1,200 – €2,000 rising through the phases |
 | Newly licensed | €6,000 – €7,500 |
 | Experienced, busy unit | €8,500 – €11,000 |
 | Senior / supervisor roles | €11,000 – €13,000+ |
-
-</div>
-
 
 Plus shift and unit allowances, and the **transitional pension arrangement** for early
 retirement, which is a substantial part of the total and has no equivalent elsewhere in this
@@ -186,5 +170,3 @@ and not because of recognition rules.**
 - Deutsche Flugsicherung, careers — https://www.dfs.de , accessed 2026-09
 - Bundesaufsichtsamt für Flugsicherung — https://www.baf.bund.de , accessed 2026-09
 - Luftsicherheitsgesetz §7, Zuverlässigkeitsüberprüfung — https://www.gesetze-im-internet.de/luftsig , accessed 2026-09
-
-</div>

@@ -2,7 +2,7 @@
 title: "Logopäde/in und Ergotherapeut/in (Speech and Occupational Therapy)"
 ---
 
-<div class="jig" markdown="1">
+<div class="jig-page"></div>
 
 <p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/healthcare/">Healthcare</a></p>
 
@@ -12,8 +12,7 @@ title: "Logopäde/in und Ergotherapeut/in (Speech and Occupational Therapy)"
 > the responsibility, and an academisation that has been announced for years and not
 > delivered. [Hebamme](/jobs-in-germany/healthcare/hebamme/) is what it looks like when it finally is.
 
-
-<div class="jig-facts" markdown="1">
+<div class="jig-facts"></div>
 
 | | |
 |---|---|
@@ -24,9 +23,6 @@ title: "Logopäde/in und Ergotherapeut/in (Speech and Occupational Therapy)"
 | **Examining body** | State examination office |
 | **Regulated** | **Yes** — state Erlaubnis required to practise |
 | **Last reviewed** | 2026-09 |
-
-</div>
-
 
 ## Why one file {#why-one-file}
 
@@ -70,9 +66,6 @@ Where they genuinely diverge, it is marked below.
 
 ## Confusable titles {#confusable-titles}
 
-
-<div class="jig-table" markdown="1">
-
 | Title | Reality |
 |---|---|
 | **Sprachtherapeut/in** | A wider, partly academic group — **Klinische Linguistik**, **Sprachheilpädagogik**, **Patholinguistik**. They may obtain the same insurance billing approval and do the same work, from a **degree** rather than the Logopädie school route |
@@ -80,9 +73,6 @@ Where they genuinely diverge, it is marked below.
 | **[Physiotherapeut/in](/jobs-in-germany/healthcare/physiotherapeut-in/)** | The third Heilmittel profession. Same structure, different body |
 | **Ergotherapie vs. Arbeitstherapie** | Arbeitstherapie is one field *within* Ergotherapie, not a separate qualification |
 | **"Therapeut"** alone | Unprotected. Anyone may use it |
-
-</div>
-
 
 That first row matters more than it looks: **Logopädie is one of the few German professions
 reachable by two structurally different routes**, one vocational and one academic, ending at
@@ -119,15 +109,9 @@ whether any training allowance is paid, before signing anything.
 Both professions run on post-qualification certificates that are **billing permissions as
 much as skills** — they decide what a practice may invoice and at what rate.
 
-
-<div class="jig-table" markdown="1">
-
 | Logopädie | Ergotherapie |
 |---|---|
 | LSVT LOUD, FOTT, Castillo Morales, Trachealkanülenmanagement, Dysphagie-specific courses | Bobath, Handtherapie (DAHTH), Sensorische Integration, Affolter, psychiatric method courses |
-
-</div>
-
 
 They are **frequently self-funded**, cost hundreds to thousands of euro each, and consume
 unpaid leave. [Occupational certificates](/jobs-in-germany/reference/occupational-certificates/)
@@ -139,9 +123,6 @@ and it is worth asking an employer to fund it, because some do.
 
 **Market estimate**, except the public-sector row.
 
-
-<div class="jig-table" markdown="1">
-
 | Setting | Gross/month |
 |---|---|
 | Entry, private practice | €2,600 – €3,000 |
@@ -149,9 +130,6 @@ and it is worth asking an employer to fund it, because some do.
 | With sought-after certificates (Dysphagie, Handtherapie, Neuro) | €3,300 – €4,000 |
 | **Clinic / rehab / public sector, TVöD EG 7–9a** | **€3,295 – €4,980** |
 | Practice owner | Not comparable — a small business |
-
-</div>
-
 
 TVöD VKA row verified for this repo, valid **01.05.2026 – 31.03.2027**.
 
@@ -218,5 +196,3 @@ waiting lists are long everywhere.
 - dbl (Deutscher Bundesverband für Logopädie) — https://www.dbl-ev.de , accessed 2026-09
 - DVE (Deutscher Verband der Ergotherapeuten) — https://dve.info , accessed 2026-09
 - TVöD VKA pay table — https://oeffentlicher-dienst.info , verified 2026-09
-
-</div>

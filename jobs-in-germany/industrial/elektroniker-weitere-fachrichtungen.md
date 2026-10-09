@@ -2,7 +2,7 @@
 title: "Elektroniker — the remaining Fachrichtungen, and the tier below"
 ---
 
-<div class="jig" markdown="1">
+<div class="jig-page"></div>
 
 <p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/industrial/">Industrial trades (Industrieberufe)</a></p>
 
@@ -13,8 +13,7 @@ title: "Elektroniker — the remaining Fachrichtungen, and the tier below"
 > the **Gebäudesystemintegration** qualification created in 2021, and
 > **Industrieelektriker**, the two-year tier beneath all of them.
 
-
-<div class="jig-facts" markdown="1">
+<div class="jig-facts"></div>
 
 | | |
 |---|---|
@@ -25,9 +24,6 @@ title: "Elektroniker — the remaining Fachrichtungen, and the tier below"
 | **Examining body** | **IHK**, or **HWK** for Gebäudesystemintegration |
 | **Regulated** | No — but see the Elektrofachkraft rule below |
 | **Last reviewed** | 2026-09 |
-
-</div>
-
 
 ## First, the rule that governs all of them {#first-the-rule-that-governs-all-of-them}
 
@@ -101,18 +97,12 @@ Elektrofachkraft **for a defined, narrower scope**.
 Lagerlogistik](/jobs-in-germany/logistics/fachkraft-fuer-lagerlogistik/) exactly**, and the same
 advice applies:
 
-
-<div class="jig-table" markdown="1">
-
 | | Industrieelektriker (2 yrs) | Elektroniker (3.5 yrs) |
 |---|---|---|
 | Scope as EFK | Narrower, defined | Broad |
 | Pay | Lower — a grade or two below | Higher |
 | Progression | **Credited toward the 3.5-year qualification** | — |
 | Visa (§18a) | **Qualifies** — it meets the two-year minimum | Qualifies |
-
-</div>
-
 
 **Do not stop there if you can avoid it.** The two-year route exists to bring people into
 the trade, and employers use it both to widen recruitment and — less benignly — to staff
@@ -128,17 +118,11 @@ qualifications elsewhere in this repo do not.
 and as the [sector README](/jobs-in-germany/industrial/) records, those agreements are regionally fragmented
 with employer-specific ERA grading — there is no single scale to verify against.
 
-
-<div class="jig-table" markdown="1">
-
 | Qualification | Entry | Experienced | Ceiling |
 |---|---|---|---|
 | **Industrieelektriker** | €2,900 – €3,400 | €3,300 – €3,900 | €4,200 – €5,000 |
 | **Elektroniker Automatisierungstechnik** | €3,400 – €4,000 | €4,100 – €4,900 | €5,600 – €7,000 (Techniker, Inbetriebnehmer, Projektleitung) |
 | **Elektroniker Gebäudesystemintegration** | €3,000 – €3,600 | €3,600 – €4,400 | €4,300 – €5,400 (Meister) |
-
-</div>
-
 
 Automation is the highest-paying non-degree electrical route here, and commissioning work
 adds per-diems on top.
@@ -196,5 +180,3 @@ in this family.
 - DGUV V3; VDE 1000-10 — https://www.dguv.de , accessed 2026-09
 - ZVEH, Elektrohandwerk — https://www.zveh.de , accessed 2026-09
 - BERUFENET — https://berufenet.arbeitsagentur.de , accessed 2026-09
-
-</div>

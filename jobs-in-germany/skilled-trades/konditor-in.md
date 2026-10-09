@@ -2,15 +2,14 @@
 title: "Konditor/in (Pastry Chef / Confectioner)"
 ---
 
-<div class="jig" markdown="1">
+<div class="jig-page"></div>
 
 <p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/skilled-trades/">Skilled trades (Handwerk)</a></p>
 
 > Cakes, tortes, pralines, chocolate and desserts. The most creative of the food trades, with
 > better hours than [baking](/jobs-in-germany/skilled-trades/baecker-in/) and a sector holding up rather better.
 
-
-<div class="jig-facts" markdown="1">
+<div class="jig-facts"></div>
 
 | | |
 |---|---|
@@ -21,22 +20,13 @@ title: "Konditor/in (Pastry Chef / Confectioner)"
 | **Regulated** | Meisterpflicht for self-employment |
 | **Last reviewed** | 2026-09 |
 
-</div>
-
-
 ## Konditor, Bäcker, Patissier — three different things <a id="konditor-bäcker-patissier--three-different-things"></a>
-
-
-<div class="jig-table" markdown="1">
 
 | Role | What it is |
 |---|---|
 | **Konditor/in** | Handwerk trade, own Ausbildung: cakes, tortes, pralines, chocolate, desserts |
 | [**Bäcker/in**](/jobs-in-germany/skilled-trades/baecker-in/) | Handwerk trade: bread, rolls, Feingebäck. Overlapping but separate |
 | **Patissier** | Not an Ausbildung at all — a **kitchen role**, reached through the [Koch](/jobs-in-germany/hospitality/koch-koechin/) qualification and specialisation |
-
-</div>
-
 
 A hotel advertising for a "Patissier" usually wants a Koch who specialises in desserts; a
 Konditorei wants the Handwerk qualification. Both ads use both words.
@@ -69,9 +59,6 @@ Fachrichtung Konditorei.
 
 **Market estimates**, not tariff-verified:
 
-
-<div class="jig-table" markdown="1">
-
 | Stage | Gross/month |
 |---|---|
 | Geselle, newly qualified | €2,400 – €3,100 |
@@ -79,9 +66,6 @@ Fachrichtung Konditorei.
 | Hotel or restaurant pastry section | €3,000 – €3,900 |
 | Meister (employed) | €3,600 – €4,600 |
 | Meister with own Konditorei | Highly variable; premium and occasion work is the profitable end |
-
-</div>
-
 
 Fewer night and Sunday supplements than baking, so the base is closer to the take-home.
 
@@ -125,5 +109,3 @@ reasonable. As with [Werkzeugbau](/jobs-in-germany/industrial/werkzeugmechaniker
 - Infektionsschutzgesetz §43 — https://www.gesetze-im-internet.de/ifsg/ , accessed 2026-09
 - Zentralverband des Deutschen Bäckerhandwerks / Konditorenbund — accessed 2026-09
 - BERUFENET — https://berufenet.arbeitsagentur.de , accessed 2026-09
-
-</div>

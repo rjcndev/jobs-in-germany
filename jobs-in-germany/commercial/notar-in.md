@@ -2,7 +2,7 @@
 title: "Notar/in (Civil-Law Notary)"
 ---
 
-<div class="jig" markdown="1">
+<div class="jig-page"></div>
 
 <p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/commercial/">Commercial</a></p>
 
@@ -11,8 +11,7 @@ title: "Notar/in (Civil-Law Notary)"
 > a **legal monopoly** over authenticating the transactions that matter most in German life,
 > and charges fees set by statute with **no room to compete on price at all**.
 
-
-<div class="jig-facts" markdown="1">
+<div class="jig-facts"></div>
 
 | | |
 |---|---|
@@ -23,9 +22,6 @@ title: "Notar/in (Civil-Law Notary)"
 | **Appointing body** | The **state justice administration** |
 | **Regulated** | **Yes — and the number of posts is capped** |
 | **Last reviewed** | 2026-09 |
-
-</div>
-
 
 ## What only a notary may do {#what-only-a-notary-may-do}
 
@@ -52,18 +48,12 @@ be done by a lawyer who is not also a notary.
 
 This is the first thing to establish, because the career is completely different in each:
 
-
-<div class="jig-table" markdown="1">
-
 | | **Nurnotariat** | **Anwaltsnotariat** |
 |---|---|---|
 | Who | A full-time notary and nothing else | A practising **Rechtsanwalt** who is also appointed as a notary |
 | Where | Most of Germany, including Bayern, Baden-Württemberg (since its reform), Rheinland-Pfalz, Saarland, the eastern states, Hamburg | Parts of the north and west, including Niedersachsen, Bremen, Schleswig-Holstein, Hessen, Berlin and parts of NRW |
 | Route | **Notarassessor** — a salaried preparatory service of several years after the state exams | Practise as a lawyer for a qualifying period, then apply |
 | Selection | A **ranked list**, on exam grades plus a notarial examination | Professional experience plus a notarial examination |
-
-</div>
-
 
 Which system applies is fixed by the Bundesland, so — as with
 [teaching](/jobs-in-germany/education/lehrer-in/), [Besoldung](/jobs-in-germany/reference/beamte-vs-angestellte/)
@@ -122,18 +112,12 @@ statutory scheme.
 **Market estimate**, and unusually hard to generalise, because a notary is an office-holder
 running an office: the income is fee revenue minus the cost of premises and staff.
 
-
-<div class="jig-table" markdown="1">
-
 | Stage | Gross/month |
 |---|---|
 | **Notarassessor** (salaried preparatory service) | €4,500 – €6,000 |
 | Newly appointed notary, smaller district | Highly variable; the office's costs come first |
 | Established notary | **High** — commonly well into six figures annually, before tax and office costs |
 | Anwaltsnotar | Law practice income plus notarial fees |
-
-</div>
-
 
 Two honest qualifications. Fee income tracks **property transaction volumes and company
 formations**, so it fell materially in the 2022–2024 property downturn. And the
@@ -191,5 +175,3 @@ the German legal qualification, not nationality.**
 - GNotKG — https://www.gesetze-im-internet.de/gnotkg , accessed 2026-09
 - ECJ C-54/08, Commission v Germany (2011) — https://curia.europa.eu , accessed 2026-09
 - Bundesnotarkammer — https://www.bnotk.de , accessed 2026-09
-
-</div>

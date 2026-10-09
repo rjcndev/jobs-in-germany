@@ -2,15 +2,14 @@
 title: "Feuerwehrmann / Feuerwehrfrau (Firefighter)"
 ---
 
-<div class="jig" markdown="1">
+<div class="jig-page"></div>
 
 <p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/public-service/">Public service (öffentlicher Dienst) — the Beamten careers</a></p>
 
 > Mostly a rescue service, mostly staffed by volunteers, and professionally entered only
 > **after** you already hold a trade qualification.
 
-
-<div class="jig-facts" markdown="1">
+<div class="jig-facts"></div>
 
 | | |
 |---|---|
@@ -21,26 +20,17 @@ title: "Feuerwehrmann / Feuerwehrfrau (Firefighter)"
 | **Status** | **Beamter/Beamtin** in the Berufsfeuerwehr — see [Beamte vs. Angestellte](/jobs-in-germany/reference/beamte-vs-angestellte/) |
 | **Last reviewed** | 2026-09 |
 
-</div>
-
-
 ## Germany's fire cover is a volunteer system {#germanys-fire-cover-is-a-volunteer-system}
 
 This surprises almost everyone from outside Germany. Roughly **a million volunteers** staff
 the **Freiwillige Feuerwehr** against some tens of thousands of professionals. Most
 municipalities have no professional brigade at all.
 
-
-<div class="jig-table" markdown="1">
-
 | Type | Who | Status |
 |---|---|---|
 | **Freiwillige Feuerwehr** | The large majority of German fire cover | Volunteers; expense allowances, statutory release from work, accident cover |
 | **Berufsfeuerwehr** | Required only in larger cities — the threshold is set by each state's Brandschutzgesetz, commonly around 100,000 inhabitants | **Beamte** |
 | **Werkfeuerwehr** | Chemical plants, refineries, airports, large industrial sites | **Employees**, often under industrial tariffs — frequently paid well |
-
-</div>
-
 
 **For a foreign resident, the Freiwillige Feuerwehr is genuinely open.** It needs no
 citizenship, no qualification and no German-born network, it trains you, and it is one of
@@ -105,9 +95,6 @@ As a Beamter you have **no right to strike**.
 **Besoldung — state law, NRW figures, valid 01.04.2026 – 28.02.2027**, verified 2026-09.
 They do **not** transfer between Bundesländer:
 
-
-<div class="jig-table" markdown="1">
-
 | Stage | Grade | Gross/month |
 |---|---|---|
 | Brandmeisteranwärter/in (training) | AW A 7 | **€1,560** |
@@ -115,9 +102,6 @@ They do **not** transfer between Bundesländer:
 | Oberbrandmeister/in | A 9 | €3,438 – €4,295 |
 | Gehobener Dienst, Brandoberinspektor/in | A 10 – A 11 | €3,694 – €5,257 |
 | Senior posts | A 12 – A 13 | €4,505 – €6,381 |
-
-</div>
-
 
 Plus **Feuerwehrzulage** and supplements for night, weekend and holiday duty, which are
 substantial on a 24-hour shift pattern. Remember Beamte gross is **not comparable** to an
@@ -161,5 +145,3 @@ inconvenience.
 - DGUV Grundsatz G 26.3 (Atemschutz) — https://www.dguv.de , accessed 2026-09
 - NRW Besoldung tables — https://oeffentlicher-dienst.info , verified 2026-09
 - Deutscher Feuerwehrverband — https://www.feuerwehrverband.de , accessed 2026-09
-
-</div>

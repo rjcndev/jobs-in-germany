@@ -2,15 +2,14 @@
 title: "Lehrer/in (Teacher)"
 ---
 
-<div class="jig" markdown="1">
+<div class="jig-page"></div>
 
 <p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/education/">Education</a></p>
 
 > Teaches at a state or private school. The most state-fragmented profession in this repo,
 > and one where **your passport, not your qualification, may decide your pay for life.**
 
-
-<div class="jig-facts" markdown="1">
+<div class="jig-facts"></div>
 
 | | |
 |---|---|
@@ -21,9 +20,6 @@ title: "Lehrer/in (Teacher)"
 | **Regulated** | Yes — state teaching qualification required |
 | **Usual status** | **Beamte/r** — read [beamte-vs-angestellte](/jobs-in-germany/reference/beamte-vs-angestellte/) first |
 | **Last reviewed** | 2026-09 |
-
-</div>
-
 
 ## Sixteen school systems, not one {#sixteen-school-systems-not-one}
 
@@ -42,9 +38,6 @@ your subject combination and whether you are made a Beamter at all.
 
 ## Lehrämter <a id="lehrämter"></a>
 
-
-<div class="jig-table" markdown="1">
-
 | Lehramt | Level |
 |---|---|
 | Grundschule / Primarstufe | Years 1–4 |
@@ -52,9 +45,6 @@ your subject combination and whether you are made a Beamter at all.
 | Gymnasium / Sekundarstufe II | Upper secondary, Abitur |
 | **Berufsbildende Schulen / Berufskolleg** | Vocational schools — the deepest shortage |
 | **Sonderpädagogik / Förderschule** | Special needs — also acutely short |
-
-</div>
-
 
 You qualify for **one** Lehramt. Moving between them means retraining.
 
@@ -89,9 +79,6 @@ angestellt. Ask precisely which, in writing, before accepting.
 **As a Beamter** — Besoldung, and therefore **state law**. NRW 2026, verified 2026-09,
 table valid **01.04.2026 – 28.02.2027**:
 
-
-<div class="jig-table" markdown="1">
-
 | Grade | Typical role | Gross/month |
 |---|---|---|
 | **A 12** | Grundschule / Sek I in states that have not equalised | €4,505 – €5,771 |
@@ -99,26 +86,17 @@ table valid **01.04.2026 – 28.02.2027**:
 | A 14 | Senior posts, Fachleitung | €5,531 – €7,035 |
 | A 15 | Schulleitung | €6,356 – €7,906 |
 
-</div>
-
-
 **"A13 für alle"** — the long campaign to pay primary teachers the same as secondary — has
 succeeded in most Bundesländer over recent years. Whether it applies to you is a
 state-by-state question and one of the first things to check.
 
 **As an employee** — TV-L, all states except Hessen, valid **01.04.2026 – 28.02.2027**:
 
-
-<div class="jig-table" markdown="1">
-
 | Grade | Gross/month |
 |---|---|
 | E 11 | €4,178 – €6,051 |
 | E 12 | €4,311 – €6,627 |
 | E 13 | €4,759 – €6,765 |
-
-</div>
-
 
 The gross figures look comparable. **They are not comparable.** A Beamter on A 13 nets
 substantially more than an employee on E 13 — no pension contribution, no unemployment
@@ -180,5 +158,3 @@ subjects, not the headline.
 - Kultusministerkonferenz — https://www.kmk.org , accessed 2026-09
 - Anerkennung in Deutschland — https://www.anerkennung-in-deutschland.de , accessed 2026-09
 - NRW Besoldung and TV-L tables — https://oeffentlicher-dienst.info , verified 2026-09
-
-</div>

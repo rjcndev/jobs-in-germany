@@ -2,15 +2,14 @@
 title: "Medizinische/r Technologe/Technologin (MT) — formerly MTA"
 ---
 
-<div class="jig" markdown="1">
+<div class="jig-page"></div>
 
 <p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/healthcare/">Healthcare</a></p>
 
 > Runs the diagnostic technology behind medical decisions: lab analyses, imaging, and
 > functional testing. Doctors interpret results; MTs produce them.
 
-
-<div class="jig-facts" markdown="1">
+<div class="jig-facts"></div>
 
 | | |
 |---|---|
@@ -21,9 +20,6 @@ title: "Medizinische/r Technologe/Technologin (MT) — formerly MTA"
 | **Typical qualification** | Ausbildung, 3 years, state exam |
 | **Regulated** | Yes — state licence (Erlaubnis zum Führen der Berufsbezeichnung) required |
 | **Last reviewed** | 2026-09 |
-
-</div>
-
 
 ## The 2023 renaming {#the-2023-renaming}
 
@@ -39,18 +35,12 @@ In practice the old abbreviations persist. Search job boards for both — an ad 
 
 ## Specialisations {#specialisations}
 
-
-<div class="jig-table" markdown="1">
-
 | Branch | New | Old | Scope |
 |---|---|---|---|
 | Laboratoriumsanalytik | MTL | MTLA | Clinical chemistry, haematology, microbiology, histology |
 | Radiologie | MTR | MTRA | X-ray, CT, MRI, nuclear medicine, radiotherapy |
 | Funktionsdiagnostik | MTF | MTAF | EEG, ECG, lung function, audiometry, sleep lab |
 | Veterinärmedizin | MTV | VMTA | Veterinary lab diagnostics |
-
-</div>
-
 
 You qualify in **one** branch. Moving between them later means retraining, not a transfer.
 
@@ -84,17 +74,11 @@ Public hospitals pay under **TVöD-K**, typically **Entgeltgruppe 9a**. Gross mo
 the table valid **01.05.2026 – 31.03.2027**, verified against the published TVöD VKA
 scale 2026-09:
 
-
-<div class="jig-table" markdown="1">
-
 | Stage | Gross/month |
 |---|---|
 | Entry (Stufe 1–2) | €3,659 – €3,878 |
 | Mid-career (Stufe 3–4) | €4,098 – €4,587 |
 | Experienced (Stufe 5–6) | €4,697 – €4,980 |
-
-</div>
-
 
 On top of that: shift supplements (Schichtzulage), night and weekend rates, on-call pay,
 and in radiology sometimes a radiation-exposure allowance. For MTR with regular night
@@ -147,5 +131,3 @@ skilled-worker visa path.
 - Anerkennung in Deutschland — https://www.anerkennung-in-deutschland.de , accessed 2026-09
 - BERUFENET, Bundesagentur für Arbeit — https://berufenet.arbeitsagentur.de , accessed 2026-09
 - TVöD pay tables — https://oeffentlicher-dienst.info , accessed 2026-09
-
-</div>

@@ -2,7 +2,7 @@
 title: "Grüne Berufe — agriculture, forestry and horticulture"
 ---
 
-<div class="jig" markdown="1">
+<div class="jig-page"></div>
 
 <p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a></p>
 
@@ -50,7 +50,7 @@ Identify the competent body for your target Bundesland before anything else.
 
 ## Professions in this category {#professions-in-this-category}
 
-<div class="jig-cards" markdown="1">
+<div class="jig-cards"></div>
 
 - [Fachkraft Agrarservice (Agricultural Contracting Technician)](/jobs-in-germany/green/fachkraft-agrarservice/) <span>The contractor side of agriculture, and the part nobody outside the sector sees.</span>
 - [Fischwirt/in (Fisheries and Aquaculture Worker)](/jobs-in-germany/green/fischwirt-in/) <span>The smallest occupation in this repo, and split into two halves moving in opposite directions: aquaculture, which is short of qualified people, and coastal fishing, which is being ended by quota.</span>
@@ -61,7 +61,3 @@ Identify the competent body for your target Bundesland before anything else.
 - [Pferdewirt/in (Equine Professional)](/jobs-in-germany/green/pferdewirt-in/) <span>This is the file where the repo's honesty convention matters most.</span>
 - [Tierwirt/in (Livestock Farmer)](/jobs-in-germany/green/tierwirt-in/) <span>Five Fachrichtungen under one qualification, and they range from industrial-scale dairy and poultry units to Schäferei — a subsidised, culturally protected occupation with a few hundred full-time practitioners, and one of the genuine edge cases in this repo.</span>
 - [Winzer/in (Winegrower)](/jobs-in-germany/green/winzer-in/) <span>Viticulture and cellar work in one qualification, concentrated in a handful of Bundesländer, and run overwhelmingly on family succession.</span>
-
-</div>
-
-</div>

@@ -2,7 +2,7 @@
 title: "The Bauhauptgewerbe — how construction differs"
 ---
 
-<div class="jig" markdown="1">
+<div class="jig-page"></div>
 
 <p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/reference/">Reference</a></p>
 
@@ -16,16 +16,10 @@ This file exists so the individual trade profiles do not each explain it badly.
 
 ## Bauhaupt- vs. Baunebengewerbe {#bauhaupt--vs-baunebengewerbe}
 
-
-<div class="jig-table" markdown="1">
-
 | | Examples | Tariff world |
 |---|---|---|
 | **Bauhauptgewerbe** — structural work | Maurer, Beton- und Stahlbetonbauer, Zimmerer, Straßenbauer, Gerüstbauer, Dachdecker* | **BRTV-Bau**, SOKA-BAU, Bau-Mindestlohn |
 | **Baunebengewerbe / Ausbaugewerbe** — finishing and building services | [Elektroniker EGT](/jobs-in-germany/skilled-trades/elektroniker-in-energie-und-gebaeudetechnik/), [SHK](/jobs-in-germany/skilled-trades/anlagenmechaniker-in-shk/), Maler, Fliesenleger, Raumausstatter | Own sector agreements; some have their own AEntG minimum |
-
-</div>
-
 
 \* Dachdecker and Gerüstbauer have their **own** sector agreements and their own
 AEntG-declared minimum wage, separate from the Bau one. They sit in this world structurally
@@ -90,16 +84,10 @@ Two features worth knowing before signing:
 Construction has a sector minimum wage set by **AEntG declaration**, sitting **above** the
 statutory Mindestlohn, in **two wage groups**:
 
-
-<div class="jig-table" markdown="1">
-
 | Group | Work |
 |---|---|
 | **Lohngruppe 1** | Unskilled site work — Bauhelfer |
 | **Lohngruppe 2** | Skilled craft work — a qualified Facharbeiter rate; West only, historically |
-
-</div>
-
 
 Both are **perishable figures and are not quoted here** — they are renegotiated on their
 own cycle. Check the current values at [soka-bau.de](https://www.soka-bau.de) or with the
@@ -118,17 +106,11 @@ Two things follow from it being an *AEntG* minimum rather than a company agreeme
 Site work stops or slows when the ground freezes. Germany does not handle this by laying
 people off; it funds the gap, so that firms keep crews on the books through the winter.
 
-
-<div class="jig-table" markdown="1">
-
 | Instrument | What it does |
 |---|---|
 | **Saison-Kurzarbeitergeld** | Wage replacement from the Bundesagentur für Arbeit for weather- and order-related downtime in the *Schlechtwetterzeit* (December–March) |
 | **Zuschuss-Wintergeld / Mehraufwands-Wintergeld** | Supplements funded from the **Winterbeschäftigungsumlage**, a levy on employers and employees, administered via SOKA-BAU |
 | **Working-time account** | Hours banked in summer are drawn down first, before the state instruments start |
-
-</div>
-
 
 **What this means for you:** a winter with reduced or zero site hours is expected and paid
 for, and your contract should not end because of it. If an employer proposes a
@@ -193,5 +175,3 @@ workers, and including where the employment itself turns out to be undeclared.
 - AEntG — https://www.gesetze-im-internet.de/aentg_2009 , accessed 2026-09
 - Saison-Kurzarbeitergeld, Bundesagentur für Arbeit — https://www.arbeitsagentur.de , accessed 2026-09
 - BG BAU — https://www.bgbau.de , accessed 2026-09
-
-</div>

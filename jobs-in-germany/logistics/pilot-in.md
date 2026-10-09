@@ -2,7 +2,7 @@
 title: "Pilot/in — Verkehrsflugzeugführer/in (Airline Pilot)"
 ---
 
-<div class="jig" markdown="1">
+<div class="jig-page"></div>
 
 <p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/logistics/">Logistics</a></p>
 
@@ -11,8 +11,7 @@ title: "Pilot/in — Verkehrsflugzeugführer/in (Airline Pilot)"
 > or a few hundred euro ([occupational certificates](/jobs-in-germany/reference/occupational-certificates/)).
 > An airline licence costs a six-figure sum, and you generally pay it before you have a job.
 
-
-<div class="jig-facts" markdown="1">
+<div class="jig-facts"></div>
 
 | | |
 |---|---|
@@ -24,17 +23,11 @@ title: "Pilot/in — Verkehrsflugzeugführer/in (Airline Pilot)"
 | **Regulated** | **Activity-gated** — licence, medical and type rating all required |
 | **Last reviewed** | 2026-09 |
 
-</div>
-
-
 ## The licence stack {#the-licence-stack}
 
 European, not German. A German ATPL is an **EASA** licence and is valid across the EASA
 states — genuinely portable, like the
 [train driver's](/jobs-in-germany/logistics/triebfahrzeugfuehrer-in/), and unlike almost everything else here.
-
-
-<div class="jig-table" markdown="1">
 
 | Element | What it is |
 |---|---|
@@ -45,9 +38,6 @@ states — genuinely portable, like the
 | **Type Rating** | Per aircraft type. **Without it you cannot fly that aircraft** |
 | **Medical Class 1** | Annual, and more often with age. **This is the career's single point of failure** |
 
-</div>
-
-
 **Everything above expires.** Proficiency checks roughly every six months, line checks,
 recurrent training, and the Class 1 medical every year. A cardiac, neurological, visual or
 metabolic finding can end the career outright, which is why **loss-of-licence insurance** is
@@ -55,18 +45,12 @@ standard in the profession and should be treated as essential rather than option
 
 ## The routes in, and what they cost {#the-routes-in-and-what-they-cost}
 
-
-<div class="jig-table" markdown="1">
-
 | Route | Shape | Cost |
 |---|---|---|
 | **Integrated ATPL** at an ATO | 18–24 months full time, zero to frozen ATPL | **€80,000 – €120,000+**, self-funded |
 | **Modular** | PPL → hour building → CPL/IR/ATPL theory, in stages | Similar total, spread out, often alongside work |
 | **Airline cadet programme** | Selection by the carrier, training at its academy | Still largely **self-funded or loan-funded** — the fully sponsored model ended years ago |
 | **Bundeswehr** | Military flying, then a transition to civil aviation | No fee; a long service commitment instead |
-
-</div>
-
 
 **The debt is the defining fact.** Trainees commonly finish with a six-figure loan, no
 guaranteed job, and a **type rating** that may also have to be paid for before a first
@@ -83,9 +67,6 @@ by a downturn are the ones who have just borrowed the money.
 negotiates at the legacy carriers — and varies enormously between a network airline, a
 low-cost operator and a contract arrangement.
 
-
-<div class="jig-table" markdown="1">
-
 | Stage | Gross/month |
 |---|---|
 | Flight instructor, hour building | €1,800 – €2,800 |
@@ -94,9 +75,6 @@ low-cost operator and a contract arrangement.
 | First Officer, experienced | €7,000 – €9,500 |
 | **Captain, network carrier** | **€10,000 – €16,000+** |
 | Cargo, business aviation | Wide range, often comparable to network |
-
-</div>
-
 
 Add to this: **per-diems (Spesen)**, which are substantially tax-free — see
 [tax and net pay](/jobs-in-germany/reference/taxes-and-net-pay/) — and, at legacy carriers, pension
@@ -174,5 +152,3 @@ Honest qualifications:
 - Flight time limitations, Regulation (EU) 965/2012 ORO.FTL — https://www.easa.europa.eu , accessed 2026-09
 - Luftfahrt-Bundesamt — https://www.lba.de , accessed 2026-09
 - Vereinigung Cockpit — https://www.vcockpit.de , accessed 2026-09
-
-</div>

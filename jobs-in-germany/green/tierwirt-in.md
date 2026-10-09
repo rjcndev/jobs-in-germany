@@ -2,7 +2,7 @@
 title: "Tierwirt/in (Livestock Farmer)"
 ---
 
-<div class="jig" markdown="1">
+<div class="jig-page"></div>
 
 <p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/green/">Grüne Berufe — agriculture, forestry and horticulture</a></p>
 
@@ -10,8 +10,7 @@ title: "Tierwirt/in (Livestock Farmer)"
 > poultry units to **Schäferei** — a subsidised, culturally protected occupation with a few
 > hundred full-time practitioners, and one of the genuine edge cases in this repo.
 
-
-<div class="jig-facts" markdown="1">
+<div class="jig-facts"></div>
 
 | | |
 |---|---|
@@ -23,13 +22,7 @@ title: "Tierwirt/in (Livestock Farmer)"
 | **Regulated** | No — but animal-welfare, medicine and hygiene law govern the work closely |
 | **Last reviewed** | 2026-09 |
 
-</div>
-
-
 ## The five Fachrichtungen {#the-five-fachrichtungen}
-
-
-<div class="jig-table" markdown="1">
 
 | Fachrichtung | What it is | Outlook |
 |---|---|---|
@@ -38,9 +31,6 @@ title: "Tierwirt/in (Livestock Farmer)"
 | **Geflügelhaltung** | Laying hens, broilers, turkeys. Large, integrated, technical | Stable |
 | **Schäferei** | Shepherding, including transhumant **Wanderschäferei** | Tiny, subsidised, culturally protected |
 | **Imkerei** | Beekeeping — honey, pollination services, queen breeding | Very small as a full-time occupation |
-
-</div>
-
 
 **Rinderhaltung is the mainstream choice**, and the one with a genuine employed career: large
 dairy units, particularly in eastern Germany, employ herd managers, milking specialists and
@@ -97,9 +87,6 @@ in any unit large enough to have staff.
 
 **Market estimate.**
 
-
-<div class="jig-table" markdown="1">
-
 | Stage | Gross/month |
 |---|---|
 | Qualified Tierwirt/in, employed | €2,600 – €3,200 |
@@ -107,9 +94,6 @@ in any unit large enough to have staff.
 | **Herdenmanager/in**, large dairy unit | €3,600 – €4,600 |
 | **Tierwirtschaftsmeister / Betriebsleiter** | €4,000 – €5,200 |
 | Schäferei | Substantially below all of the above; frequently self-employed and subsidy-dependent |
-
-</div>
-
 
 Accommodation is often part of the package on livestock units, at statutory valuation rates.
 
@@ -151,5 +135,3 @@ Accommodation is often part of the package on livestock units, at statutory valu
 - BMEL, livestock statistics and Haltungsform — https://www.bmel.de , accessed 2026-09
 - Vereinigung Deutscher Landesschafzuchtverbände — accessed 2026-09
 - BERUFENET — https://berufenet.arbeitsagentur.de , accessed 2026-09
-
-</div>

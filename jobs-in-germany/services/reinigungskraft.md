@@ -2,7 +2,7 @@
 title: "Reinigungskraft (Cleaner — commercial, no qualification)"
 ---
 
-<div class="jig" markdown="1">
+<div class="jig-page"></div>
 
 <p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/services/">Services and other sectors</a></p>
 
@@ -11,8 +11,7 @@ title: "Reinigungskraft (Cleaner — commercial, no qualification)"
 > equivalence step** — which means this file is about something else: employment status,
 > what you are legally owed, and how to tell whether you are getting it.
 
-
-<div class="jig-facts" markdown="1">
+<div class="jig-facts"></div>
 
 | | |
 |---|---|
@@ -23,13 +22,7 @@ title: "Reinigungskraft (Cleaner — commercial, no qualification)"
 | **Regulated** | No |
 | **Last reviewed** | 2026-09 |
 
-</div>
-
-
 ## Who employs you decides almost everything {#who-employs-you-decides-almost-everything}
-
-
-<div class="jig-table" markdown="1">
 
 | Employer | Pay floor | Notes |
 |---|---|---|
@@ -38,9 +31,6 @@ title: "Reinigungskraft (Cleaner — commercial, no qualification)"
 | **A public employer** — school, municipality, hospital | **TVöD**, lowest groups | Rare and good: tariff pay, 30 days' leave, a pension arrangement |
 | **A temp agency** (Zeitarbeit) | Agency tariff, then **equal pay** after nine months | Check when equal pay starts |
 | **"Self-employed", invoicing the contractor** | — | **Refuse this.** It is the Scheinselbstständigkeit pattern; you lose every right below |
-
-</div>
-
 
 **The first row is the one that matters most.** The cleaning sector's minimum wage is
 declared generally binding under the **AEntG**, which means it applies to every employer
@@ -55,9 +45,6 @@ the Zoll publishes the current rates, and the Zoll is also who enforces them.
 All of these apply to unqualified cleaning work, including part-time and
 [Minijob](/jobs-in-germany/reference/minijob-und-geringfuegige-beschaeftigung/) contracts:
 
-
-<div class="jig-table" markdown="1">
-
 | Entitlement | Frequently denied by |
 |---|---|
 | **The sector minimum wage, for every hour worked** | Under-recorded hours |
@@ -66,9 +53,6 @@ All of these apply to unqualified cleaning work, including part-time and
 | **Pay for travel between sites during a shift** | Treating it as your own time — **it is working time** |
 | **Written recording of all hours** | Simply not doing it |
 | **A written contract with the essential terms** | Verbal arrangements |
-
-</div>
-
 
 > **Leistungsvorgaben are where this goes wrong in practice.** Contracts are won on price,
 > so cleaners are given square-metre-per-hour targets that cannot be met in the hours paid.
@@ -94,18 +78,12 @@ employer obligations, not extras.
 
 **Market estimate**, anchored to the sector minimum.
 
-
-<div class="jig-table" markdown="1">
-
 | | Gross/month, full-time equivalent |
 |---|---|
 | Interior cleaning, sector minimum | €2,100 – €2,400 |
 | Glass and facade group | €2,500 – €3,000 |
 | Experienced, with responsibility for a site | €2,600 – €3,100 |
 | **Public employer (TVöD, lowest groups)** | **€2,700 – €3,100** |
-
-</div>
-
 
 **Almost nobody in this occupation works full time.** Part-time and Minijob contracts
 dominate, so the realistic monthly figure is a fraction of the above. That is the single most
@@ -161,5 +139,3 @@ qualified trade does.
 - MiLoG, recording of working time — https://www.gesetze-im-internet.de/milog , accessed 2026-09
 - Zoll, Finanzkontrolle Schwarzarbeit — https://www.zoll.de , accessed 2026-09
 - IG BAU, Gebäudereinigung — https://www.igbau.de , accessed 2026-09
-
-</div>

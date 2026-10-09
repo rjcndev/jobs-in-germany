@@ -2,15 +2,14 @@
 title: "Polizist/in (Police Officer)"
 ---
 
-<div class="jig" markdown="1">
+<div class="jig-page"></div>
 
 <p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/public-service/">Public service (öffentlicher Dienst) — the Beamten careers</a></p>
 
 > Sixteen state forces plus two federal ones, each recruiting separately. A career you enter
 > by being paid to take a degree — if you clear the citizenship, medical and fitness gates.
 
-
-<div class="jig-facts" markdown="1">
+<div class="jig-facts"></div>
 
 | | |
 |---|---|
@@ -20,9 +19,6 @@ title: "Polizist/in (Police Officer)"
 | **Typical qualification** | **3-year Bachelor** in the gehobener Dienst, taken as a paid Anwärter |
 | **Status** | **Beamter/Beamtin** — see [Beamte vs. Angestellte](/jobs-in-germany/reference/beamte-vs-angestellte/) |
 | **Last reviewed** | 2026-09 |
-
-</div>
-
 
 ## Eighteen separate employers {#eighteen-separate-employers}
 
@@ -107,9 +103,6 @@ As a Beamter you have **no right to strike**.
 **Besoldung — state law, NRW figures, valid 01.04.2026 – 28.02.2027**, verified 2026-09.
 They do **not** transfer to other Bundesländer:
 
-
-<div class="jig-table" markdown="1">
-
 | Stage | Grade | Gross/month |
 |---|---|---|
 | Kommissaranwärter/in (during the degree) | AW A 9 | **€1,616** |
@@ -117,9 +110,6 @@ They do **not** transfer to other Bundesländer:
 | Polizeioberkommissar/in | A 10 | €3,694 – €4,784 |
 | Polizeihauptkommissar/in | A 11 – A 12 | €4,048 – €5,771 |
 | Senior posts | A 13 | €5,221 – €6,381 |
-
-</div>
-
 
 Plus **Erschwerniszulagen** for night, weekend and holiday duty, which are substantial in
 shift service, and in some states a **Polizeizulage** — its existence, size and
@@ -162,5 +152,3 @@ generally been lowered — the constraint is suitable applicants, not vacancies.
 - Strafgesetzbuch §132 — https://www.gesetze-im-internet.de/stgb/ , accessed 2026-09
 - NRW Besoldung tables — https://oeffentlicher-dienst.info , verified 2026-09
 - Deutsche Hochschule der Polizei — https://www.dhpol.de , accessed 2026-09
-
-</div>

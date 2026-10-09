@@ -2,7 +2,7 @@
 title: "Employment basics"
 ---
 
-<div class="jig" markdown="1">
+<div class="jig-page"></div>
 
 <p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a> <span>›</span> <a href="/jobs-in-germany/reference/">Reference</a></p>
 
@@ -51,9 +51,6 @@ to the term.
 After it, **§622 BGB** sets the statutory minimum: **four weeks to the 15th or the end of a
 calendar month**. The *employer's* notice then lengthens with your tenure:
 
-
-<div class="jig-table" markdown="1">
-
 | Your tenure | Employer's notice |
 |---|---|
 | 2 years | 1 month, to month end |
@@ -63,9 +60,6 @@ calendar month**. The *employer's* notice then lengthens with your tenure:
 | 12 years | 5 months |
 | 15 years | 6 months |
 | 20 years | **7 months** |
-
-</div>
-
 
 **The lengthening is one-directional.** Your own notice stays at four weeks unless the
 contract says otherwise — and a contract may not give you a longer period than the employer
@@ -161,9 +155,6 @@ It must be **truthful** and **benevolently worded** at the same time — an obli
 made the document impossible to write honestly, so the profession evolved a code instead.
 Grades hide in the degree words:
 
-
-<div class="jig-table" markdown="1">
-
 | Phrase | Grade |
 |---|---|
 | *stets zu unserer **vollsten** Zufriedenheit* | 1 |
@@ -171,9 +162,6 @@ Grades hide in the degree words:
 | *zu unserer **vollen** Zufriedenheit* | 3 |
 | *zu unserer Zufriedenheit* | 4 |
 | *im Großen und Ganzen zu unserer Zufriedenheit* | 5 |
-
-</div>
-
 
 The closing formula carries as much weight as the body. A full ending **thanks** you,
 **regrets** your leaving and **wishes** you well. An ending that omits the regret, or omits
@@ -199,5 +187,3 @@ employees can call a meeting to elect one, and the law protects those who do.
 - Arbeitszeitgesetz, Bundesurlaubsgesetz, Entgeltfortzahlungsgesetz — https://www.gesetze-im-internet.de , accessed 2026-09
 - §109 GewO — https://www.gesetze-im-internet.de/gewo/__109.html , accessed 2026-09
 - BMAS, Arbeitsrecht overview — https://www.bmas.de , accessed 2026-09
-
-</div>

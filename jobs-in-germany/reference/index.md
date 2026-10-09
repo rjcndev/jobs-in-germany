@@ -2,13 +2,13 @@
 title: "Reference"
 ---
 
-<div class="jig" markdown="1">
+<div class="jig-page"></div>
 
 <p class="jig-crumbs"><a href="/jobs-in-germany/">Jobs in Germany</a></p>
 
 Background material the profession profiles link to.
 
-<div class="jig-cards" markdown="1">
+<div class="jig-cards"></div>
 
 - [Ausbildung — the dual system](/jobs-in-germany/reference/ausbildung/)
 - [The Bauhauptgewerbe — how construction differs](/jobs-in-germany/reference/bauhauptgewerbe/)
@@ -29,7 +29,3 @@ Background material the profession profiles link to.
 - [Versorgungswerke — the pension system for the Kammerberufe](/jobs-in-germany/reference/versorgungswerke/)
 - [Visa and residence routes, by profession](/jobs-in-germany/reference/visa-routes/) <span>Unregulated does not mean paperwork-free.</span>
 - [How retraining is paid for](/jobs-in-germany/reference/weiterbildung-funding/)
-
-</div>
-
-</div>
