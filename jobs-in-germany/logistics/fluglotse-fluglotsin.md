@@ -118,9 +118,9 @@ Longer term:
 
 ## Sources {#sources}
 
-- Regulation (EU) 2015/340, air traffic controller licensing — https://www.easa.europa.eu , accessed 2026-09
-- Deutsche Flugsicherung, careers — https://www.dfs.de , accessed 2026-09
-- Bundesaufsichtsamt für Flugsicherung — https://www.baf.bund.de , accessed 2026-09
-- Luftsicherheitsgesetz §7, Zuverlässigkeitsüberprüfung — https://www.gesetze-im-internet.de/luftsig , accessed 2026-09
+- Regulation (EU) 2015/340, air traffic controller licensing — [easa.europa.eu](https://www.easa.europa.eu), accessed 2026-09
+- Deutsche Flugsicherung, careers — [dfs.de](https://www.dfs.de), accessed 2026-09
+- Bundesaufsichtsamt für Flugsicherung — [baf.bund.de](https://www.baf.bund.de), accessed 2026-09
+- Luftsicherheitsgesetz §7, Zuverlässigkeitsüberprüfung — [gesetze-im-internet.de/luftsig](https://www.gesetze-im-internet.de/luftsig), accessed 2026-09
 
 <p class="jig-back"><a href="/jobs-in-germany/logistics/">← Back to Logistics</a></p>

@@ -99,10 +99,10 @@ Honest counterweight: the sales end of this industry has a reputation problem it
 
 ## Sources {#sources}
 
-- §34d, §34f, §34h, §34i GewO; VersVermV; FinVermV — https://www.gesetze-im-internet.de/gewo , accessed 2026-09
-- Insurance Distribution Directive (EU) 2016/97 — https://eur-lex.europa.eu , accessed 2026-09
-- Vermittlerregister, DIHK — https://www.vermittlerregister.info , accessed 2026-09
-- Verordnung über die Berufsausbildung zum Kaufmann für Versicherungen und Finanzanlagen — https://www.gesetze-im-internet.de , accessed 2026-09
-- BERUFENET — https://berufenet.arbeitsagentur.de , accessed 2026-09
+- §34d, §34f, §34h, §34i GewO; VersVermV; FinVermV — [gesetze-im-internet.de/gewo](https://www.gesetze-im-internet.de/gewo), accessed 2026-09
+- Insurance Distribution Directive (EU) 2016/97 — [eur-lex.europa.eu](https://eur-lex.europa.eu), accessed 2026-09
+- Vermittlerregister, DIHK — [vermittlerregister.info](https://www.vermittlerregister.info), accessed 2026-09
+- Verordnung über die Berufsausbildung zum Kaufmann für Versicherungen und Finanzanlagen — [gesetze-im-internet.de](https://www.gesetze-im-internet.de), accessed 2026-09
+- BERUFENET — [berufenet.arbeitsagentur.de](https://berufenet.arbeitsagentur.de), accessed 2026-09
 
 <p class="jig-back"><a href="/jobs-in-germany/commercial/">← Back to Commercial</a></p>

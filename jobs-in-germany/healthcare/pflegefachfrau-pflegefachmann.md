@@ -77,8 +77,8 @@ Hospitals, nursing homes (Pflegeheime), outpatient care services (ambulante Pfle
 
 ## Sources {#sources}
 
-- Pflegeberufegesetz (PflBG) — https://www.gesetze-im-internet.de/pflbg/ , accessed 2026-09
-- Anerkennung in Deutschland — https://www.anerkennung-in-deutschland.de , accessed 2026-09
-- TVöD-P pay tables — https://oeffentlicher-dienst.info , accessed 2026-09
+- Pflegeberufegesetz (PflBG) — [gesetze-im-internet.de/pflbg](https://www.gesetze-im-internet.de/pflbg/), accessed 2026-09
+- Anerkennung in Deutschland — [anerkennung-in-deutschland.de](https://www.anerkennung-in-deutschland.de), accessed 2026-09
+- TVöD-P pay tables — [oeffentlicher-dienst.info](https://oeffentlicher-dienst.info), accessed 2026-09
 
 <p class="jig-back"><a href="/jobs-in-germany/healthcare/">← Back to Healthcare</a></p>

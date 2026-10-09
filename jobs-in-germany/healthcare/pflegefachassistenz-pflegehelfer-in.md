@@ -102,10 +102,10 @@ None of this makes the arrangement a bad one. Entering at A2 and qualifying here
 
 ## Sources {#sources}
 
-- §4 Pflegeberufegesetz (PflBG) — https://www.gesetze-im-internet.de/pflbg , accessed 2026-09
+- §4 Pflegeberufegesetz (PflBG) — [gesetze-im-internet.de/pflbg](https://www.gesetze-im-internet.de/pflbg), accessed 2026-09
 - State Pflegehelfer/Pflegeassistenz regulations, per Bundesland — accessed 2026-09
-- Pflegemindestlohn, Pflegekommission — https://www.bmas.de , accessed 2026-09
-- TVöD-P pay table — https://oeffentlicher-dienst.info , verified 2026-09
-- anerkennung-in-deutschland.de — https://www.anerkennung-in-deutschland.de , accessed 2026-09
+- Pflegemindestlohn, Pflegekommission — [bmas.de](https://www.bmas.de), accessed 2026-09
+- TVöD-P pay table — [oeffentlicher-dienst.info](https://oeffentlicher-dienst.info), verified 2026-09
+- anerkennung-in-deutschland.de — [anerkennung-in-deutschland.de](https://www.anerkennung-in-deutschland.de), accessed 2026-09
 
 <p class="jig-back"><a href="/jobs-in-germany/healthcare/">← Back to Healthcare</a></p>

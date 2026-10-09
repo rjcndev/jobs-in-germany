@@ -111,9 +111,9 @@ High. A retirement wave is passing through most forces and every Bundesland has 
 
 ## Sources {#sources}
 
-- Beamtenstatusgesetz (BeamtStG) §7 — https://www.gesetze-im-internet.de/beamtstg/ , accessed 2026-09
-- Strafgesetzbuch §132 — https://www.gesetze-im-internet.de/stgb/ , accessed 2026-09
-- NRW Besoldung tables — https://oeffentlicher-dienst.info , verified 2026-09
-- Deutsche Hochschule der Polizei — https://www.dhpol.de , accessed 2026-09
+- Beamtenstatusgesetz (BeamtStG) §7 — [gesetze-im-internet.de/beamtstg](https://www.gesetze-im-internet.de/beamtstg/), accessed 2026-09
+- Strafgesetzbuch §132 — [gesetze-im-internet.de/stgb](https://www.gesetze-im-internet.de/stgb/), accessed 2026-09
+- NRW Besoldung tables — [oeffentlicher-dienst.info](https://oeffentlicher-dienst.info), verified 2026-09
+- Deutsche Hochschule der Polizei — [dhpol.de](https://www.dhpol.de), accessed 2026-09
 
 <p class="jig-back"><a href="/jobs-in-germany/public-service/">← Back to Public service (öffentlicher Dienst) — the Beamten careers</a></p>

@@ -98,10 +98,10 @@ Trends worth knowing:
 
 ## Sources {#sources}
 
-- Zahnheilkundegesetz (ZHG) — https://www.gesetze-im-internet.de/zhg , accessed 2026-09
-- ZApprO 2021 — https://www.gesetze-im-internet.de , accessed 2026-09
-- Bundeszahnärztekammer — https://www.bzaek.de , accessed 2026-09
-- KZBV, Jahrbuch and Festzuschuss system — https://www.kzbv.de , accessed 2026-09
-- Directive 2005/36/EC, Annex V.3 — https://eur-lex.europa.eu , accessed 2026-09
+- Zahnheilkundegesetz (ZHG) — [gesetze-im-internet.de/zhg](https://www.gesetze-im-internet.de/zhg), accessed 2026-09
+- ZApprO 2021 — [gesetze-im-internet.de](https://www.gesetze-im-internet.de), accessed 2026-09
+- Bundeszahnärztekammer — [bzaek.de](https://www.bzaek.de), accessed 2026-09
+- KZBV, Jahrbuch and Festzuschuss system — [kzbv.de](https://www.kzbv.de), accessed 2026-09
+- Directive 2005/36/EC, Annex V.3 — [eur-lex.europa.eu](https://eur-lex.europa.eu), accessed 2026-09
 
 <p class="jig-back"><a href="/jobs-in-germany/healthcare/">← Back to Healthcare</a></p>

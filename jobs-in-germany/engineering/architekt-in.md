@@ -159,11 +159,11 @@ Weak: small-practice residential new-build, and anything dependent on speculativ
 
 ## Sources {#sources}
 
-- Directive 2005/36/EC, Annex V.7 — https://eur-lex.europa.eu , accessed 2026-09
-- ECJ C-377/17, Commission v Germany (HOAI), 4 July 2019 — https://curia.europa.eu , accessed 2026-09
-- HOAI 2021 — https://www.gesetze-im-internet.de/hoai_2021 , accessed 2026-09
-- Bundesarchitektenkammer — https://www.bak.de , accessed 2026-09
+- Directive 2005/36/EC, Annex V.7 — [eur-lex.europa.eu](https://eur-lex.europa.eu), accessed 2026-09
+- ECJ C-377/17, Commission v Germany (HOAI), 4 July 2019 — [curia.europa.eu](https://curia.europa.eu), accessed 2026-09
+- HOAI 2021 — [gesetze-im-internet.de/hoai_2021](https://www.gesetze-im-internet.de/hoai_2021), accessed 2026-09
+- Bundesarchitektenkammer — [bak.de](https://www.bak.de), accessed 2026-09
 - Landesarchitektengesetze, per state — accessed 2026-09
-- BERUFENET — https://berufenet.arbeitsagentur.de , accessed 2026-09
+- BERUFENET — [berufenet.arbeitsagentur.de](https://berufenet.arbeitsagentur.de), accessed 2026-09
 
 <p class="jig-back"><a href="/jobs-in-germany/engineering/">← Back to Engineering</a></p>

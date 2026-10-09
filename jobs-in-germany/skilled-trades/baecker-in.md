@@ -83,9 +83,9 @@ Same reading as [butchery](/jobs-in-germany/skilled-trades/fleischer-in/): emplo
 
 ## Sources {#sources}
 
-- Handwerksordnung (HwO) — https://www.gesetze-im-internet.de/hwo/ , accessed 2026-09
-- Infektionsschutzgesetz §43 — https://www.gesetze-im-internet.de/ifsg/ , accessed 2026-09
-- Zentralverband des Deutschen Bäckerhandwerks — https://www.baeckerhandwerk.de , accessed 2026-09
-- BERUFENET — https://berufenet.arbeitsagentur.de , accessed 2026-09
+- Handwerksordnung (HwO) — [gesetze-im-internet.de/hwo](https://www.gesetze-im-internet.de/hwo/), accessed 2026-09
+- Infektionsschutzgesetz §43 — [gesetze-im-internet.de/ifsg](https://www.gesetze-im-internet.de/ifsg/), accessed 2026-09
+- Zentralverband des Deutschen Bäckerhandwerks — [baeckerhandwerk.de](https://www.baeckerhandwerk.de), accessed 2026-09
+- BERUFENET — [berufenet.arbeitsagentur.de](https://berufenet.arbeitsagentur.de), accessed 2026-09
 
 <p class="jig-back"><a href="/jobs-in-germany/skilled-trades/">← Back to Skilled trades (Handwerk)</a></p>

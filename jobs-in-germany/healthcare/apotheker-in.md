@@ -107,11 +107,11 @@ None of this makes the profession a bad one — pharmacists are in demand and em
 
 ## Sources {#sources}
 
-- Bundes-Apothekerordnung (BApO) — https://www.gesetze-im-internet.de/bapo/ , accessed 2026-09
-- Apothekengesetz (ApoG) — https://www.gesetze-im-internet.de/apog/ , accessed 2026-09
-- Apothekenbetriebsordnung (ApBetrO) — https://www.gesetze-im-internet.de/apobetro_1987/ , accessed 2026-09
-- ADEXA/ADA Gehaltstarifvertrag 2026 — https://www.adexa-online.de , verified 2026-09
-- ABDA — https://www.abda.de , accessed 2026-09
-- TVöD VKA pay table — https://oeffentlicher-dienst.info , verified 2026-09
+- Bundes-Apothekerordnung (BApO) — [gesetze-im-internet.de/bapo](https://www.gesetze-im-internet.de/bapo/), accessed 2026-09
+- Apothekengesetz (ApoG) — [gesetze-im-internet.de/apog](https://www.gesetze-im-internet.de/apog/), accessed 2026-09
+- Apothekenbetriebsordnung (ApBetrO) — [gesetze-im-internet.de/apobetro_1987](https://www.gesetze-im-internet.de/apobetro_1987/), accessed 2026-09
+- ADEXA/ADA Gehaltstarifvertrag 2026 — [adexa-online.de](https://www.adexa-online.de), verified 2026-09
+- ABDA — [abda.de](https://www.abda.de), accessed 2026-09
+- TVöD VKA pay table — [oeffentlicher-dienst.info](https://oeffentlicher-dienst.info), verified 2026-09
 
 <p class="jig-back"><a href="/jobs-in-germany/healthcare/">← Back to Healthcare</a></p>

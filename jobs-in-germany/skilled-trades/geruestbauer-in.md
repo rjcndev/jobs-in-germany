@@ -93,10 +93,10 @@ Constraints: firms are small and regional, the work is seasonal at the margins, 
 
 ## Sources {#sources}
 
-- HwO Anlage A — https://www.gesetze-im-internet.de/hwo , accessed 2026-09
-- TRBS 2121, Gefährdung bei Arbeiten an und auf Gerüsten — https://www.baua.de , accessed 2026-09
-- BG BAU — https://www.bgbau.de , accessed 2026-09
-- Bundesverband Gerüstbau — https://www.geruestbauhandwerk.de , accessed 2026-09
-- SOKA-BAU — https://www.soka-bau.de , accessed 2026-09
+- HwO Anlage A — [gesetze-im-internet.de/hwo](https://www.gesetze-im-internet.de/hwo), accessed 2026-09
+- TRBS 2121, Gefährdung bei Arbeiten an und auf Gerüsten — [baua.de](https://www.baua.de), accessed 2026-09
+- BG BAU — [bgbau.de](https://www.bgbau.de), accessed 2026-09
+- Bundesverband Gerüstbau — [geruestbauhandwerk.de](https://www.geruestbauhandwerk.de), accessed 2026-09
+- SOKA-BAU — [soka-bau.de](https://www.soka-bau.de), accessed 2026-09
 
 <p class="jig-back"><a href="/jobs-in-germany/skilled-trades/">← Back to Skilled trades (Handwerk)</a></p>

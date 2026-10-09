@@ -94,9 +94,9 @@ If you are considering this work: establish **who your employer is**, which coun
 
 ## Sources {#sources}
 
-- §8a SGB IV, Haushaltsscheckverfahren — https://www.gesetze-im-internet.de/sgb_4 , accessed 2026-09
-- §35a EStG — https://www.gesetze-im-internet.de/estg/__35a.html , accessed 2026-09
-- Minijob-Zentrale, Haushaltsscheck — https://www.minijob-zentrale.de , accessed 2026-09
-- Bundesarbeitsgericht on working time in live-in care (2021) — https://www.bundesarbeitsgericht.de , accessed 2026-09
+- §8a SGB IV, Haushaltsscheckverfahren — [gesetze-im-internet.de/sgb_4](https://www.gesetze-im-internet.de/sgb_4), accessed 2026-09
+- §35a EStG — [gesetze-im-internet.de/estg/__35a.html](https://www.gesetze-im-internet.de/estg/__35a.html), accessed 2026-09
+- Minijob-Zentrale, Haushaltsscheck — [minijob-zentrale.de](https://www.minijob-zentrale.de), accessed 2026-09
+- Bundesarbeitsgericht on working time in live-in care (2021) — [bundesarbeitsgericht.de](https://www.bundesarbeitsgericht.de), accessed 2026-09
 
 <p class="jig-back"><a href="/jobs-in-germany/services/">← Back to Services and other sectors</a></p>

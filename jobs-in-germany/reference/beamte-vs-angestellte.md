@@ -86,8 +86,8 @@ Appointment then runs **Beamter auf Probe** (usually three years) before **auf L
 
 ## Sources {#sources}
 
-- Beamtenstatusgesetz (BeamtStG) — https://www.gesetze-im-internet.de/beamtstg/ , accessed 2026-09
-- Bundesbesoldungsgesetz — https://www.gesetze-im-internet.de/bbesg/ , accessed 2026-09
-- State Besoldung tables — https://oeffentlicher-dienst.info , verified 2026-09
+- Beamtenstatusgesetz (BeamtStG) — [gesetze-im-internet.de/beamtstg](https://www.gesetze-im-internet.de/beamtstg/), accessed 2026-09
+- Bundesbesoldungsgesetz — [gesetze-im-internet.de/bbesg](https://www.gesetze-im-internet.de/bbesg/), accessed 2026-09
+- State Besoldung tables — [oeffentlicher-dienst.info](https://oeffentlicher-dienst.info), verified 2026-09
 
 <p class="jig-back"><a href="/jobs-in-germany/reference/">← Back to Reference</a></p>

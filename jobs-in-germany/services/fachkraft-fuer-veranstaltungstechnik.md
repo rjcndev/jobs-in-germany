@@ -107,9 +107,9 @@ Structural direction: more LED and video, more complex rigging, more power deman
 ## Sources {#sources}
 
 - Musterversammlungsstättenverordnung (MVStättVO) and the state versions — accessed 2026-09
-- DGUV Vorschrift 17/18, Veranstaltungs- und Produktionsstätten — https://www.dguv.de , accessed 2026-09
-- Verordnung über die Berufsausbildung zur Fachkraft für Veranstaltungstechnik — https://www.gesetze-im-internet.de , accessed 2026-09
-- VPLT, Verband für Medien- und Veranstaltungstechnik — https://www.vplt.org , accessed 2026-09
-- TVöD / TV-L pay tables — https://oeffentlicher-dienst.info , verified 2026-09
+- DGUV Vorschrift 17/18, Veranstaltungs- und Produktionsstätten — [dguv.de](https://www.dguv.de), accessed 2026-09
+- Verordnung über die Berufsausbildung zur Fachkraft für Veranstaltungstechnik — [gesetze-im-internet.de](https://www.gesetze-im-internet.de), accessed 2026-09
+- VPLT, Verband für Medien- und Veranstaltungstechnik — [vplt.org](https://www.vplt.org), accessed 2026-09
+- TVöD / TV-L pay tables — [oeffentlicher-dienst.info](https://oeffentlicher-dienst.info), verified 2026-09
 
 <p class="jig-back"><a href="/jobs-in-germany/services/">← Back to Services and other sectors</a></p>

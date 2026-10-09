@@ -106,8 +106,8 @@ For all of them, the [pay table](/jobs-in-germany/reference/pay/) is a floor, no
 ## Sources {#sources}
 
 - TVöD §8 (Zeitzuschläge, Schichtzulagen) — verified 2026-09
-- Einkommensteuergesetz §3b — https://www.gesetze-im-internet.de/estg/ , accessed 2026-09
-- Arbeitszeitgesetz §6 — https://www.gesetze-im-internet.de/arbzg/ , accessed 2026-09
-- oeffentlicher-dienst.info — https://oeffentlicher-dienst.info , verified 2026-09
+- Einkommensteuergesetz §3b — [gesetze-im-internet.de/estg](https://www.gesetze-im-internet.de/estg/), accessed 2026-09
+- Arbeitszeitgesetz §6 — [gesetze-im-internet.de/arbzg](https://www.gesetze-im-internet.de/arbzg/), accessed 2026-09
+- oeffentlicher-dienst.info — [oeffentlicher-dienst.info](https://oeffentlicher-dienst.info), verified 2026-09
 
 <p class="jig-back"><a href="/jobs-in-germany/reference/">← Back to Reference</a></p>

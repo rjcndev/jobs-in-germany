@@ -103,10 +103,10 @@ The public-sector row is the verified TVöD VKA scale, valid **01.05.2026 – 31
 
 ## Sources {#sources}
 
-- Verordnung über die Berufsausbildung zum Bauzeichner — https://www.gesetze-im-internet.de , accessed 2026-09
-- BIM-Leitfaden and federal BIM requirements, BMDV — https://www.bmdv.bund.de , accessed 2026-09
+- Verordnung über die Berufsausbildung zum Bauzeichner — [gesetze-im-internet.de](https://www.gesetze-im-internet.de), accessed 2026-09
+- BIM-Leitfaden and federal BIM requirements, BMDV — [bmdv.bund.de](https://www.bmdv.bund.de), accessed 2026-09
 - DIN 276, DIN 277 — accessed 2026-09
-- TVöD VKA pay table — https://oeffentlicher-dienst.info , verified 2026-09
-- BERUFENET — https://berufenet.arbeitsagentur.de , accessed 2026-09
+- TVöD VKA pay table — [oeffentlicher-dienst.info](https://oeffentlicher-dienst.info), verified 2026-09
+- BERUFENET — [berufenet.arbeitsagentur.de](https://berufenet.arbeitsagentur.de), accessed 2026-09
 
 <p class="jig-back"><a href="/jobs-in-germany/engineering/">← Back to Engineering</a></p>

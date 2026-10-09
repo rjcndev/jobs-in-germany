@@ -95,10 +95,10 @@ Being *qualified* is the way out of the bottom of it. The trade's own problem is
 
 ## Sources {#sources}
 
-- HwO Anlage B1 — https://www.gesetze-im-internet.de/hwo , accessed 2026-09
-- AEntG and the Gebäudereiniger-Mindestlohn — https://www.gesetze-im-internet.de/aentg_2009 , accessed 2026-09
-- Bundesinnungsverband des Gebäudereiniger-Handwerks — https://www.die-gebaeudedienstleister.de , accessed 2026-09
-- Zoll, Finanzkontrolle Schwarzarbeit — https://www.zoll.de , accessed 2026-09
-- BERUFENET — https://berufenet.arbeitsagentur.de , accessed 2026-09
+- HwO Anlage B1 — [gesetze-im-internet.de/hwo](https://www.gesetze-im-internet.de/hwo), accessed 2026-09
+- AEntG and the Gebäudereiniger-Mindestlohn — [gesetze-im-internet.de/aentg_2009](https://www.gesetze-im-internet.de/aentg_2009), accessed 2026-09
+- Bundesinnungsverband des Gebäudereiniger-Handwerks — [die-gebaeudedienstleister.de](https://www.die-gebaeudedienstleister.de), accessed 2026-09
+- Zoll, Finanzkontrolle Schwarzarbeit — [zoll.de](https://www.zoll.de), accessed 2026-09
+- BERUFENET — [berufenet.arbeitsagentur.de](https://berufenet.arbeitsagentur.de), accessed 2026-09
 
 <p class="jig-back"><a href="/jobs-in-germany/services/">← Back to Services and other sectors</a></p>

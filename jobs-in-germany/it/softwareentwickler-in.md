@@ -64,8 +64,8 @@ Your foreign degree should be checked against **anabin** (the ZAB database) for 
 
 ## Sources {#sources}
 
-- Make it in Germany — https://www.make-it-in-germany.com , accessed 2026-09
-- anabin (ZAB degree database) — https://anabin.kmk.org , accessed 2026-09
-- AufenthG — https://www.gesetze-im-internet.de/aufenthg_2004/ , accessed 2026-09
+- Make it in Germany — [make-it-in-germany.com](https://www.make-it-in-germany.com), accessed 2026-09
+- anabin (ZAB degree database) — [anabin.kmk.org](https://anabin.kmk.org), accessed 2026-09
+- AufenthG — [gesetze-im-internet.de/aufenthg_2004](https://www.gesetze-im-internet.de/aufenthg_2004/), accessed 2026-09
 
 <p class="jig-back"><a href="/jobs-in-germany/it/">← Back to IT</a></p>

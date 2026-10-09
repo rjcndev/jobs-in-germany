@@ -69,9 +69,9 @@ Solid but not a shortage occupation in the way nursing or driving are. Worth bei
 
 ## Sources {#sources}
 
-- BERUFENET — https://berufenet.arbeitsagentur.de , accessed 2026-09
-- IHK FOSA — https://www.ihk-fosa.de , accessed 2026-09
-- IG Metall tariff information — https://www.igmetall.de , accessed 2026-09
-- anabin (ZAB) — https://anabin.kmk.org , accessed 2026-09
+- BERUFENET — [berufenet.arbeitsagentur.de](https://berufenet.arbeitsagentur.de), accessed 2026-09
+- IHK FOSA — [ihk-fosa.de](https://www.ihk-fosa.de), accessed 2026-09
+- IG Metall tariff information — [igmetall.de](https://www.igmetall.de), accessed 2026-09
+- anabin (ZAB) — [anabin.kmk.org](https://anabin.kmk.org), accessed 2026-09
 
 <p class="jig-back"><a href="/jobs-in-germany/commercial/">← Back to Commercial</a></p>

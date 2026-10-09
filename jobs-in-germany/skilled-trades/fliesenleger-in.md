@@ -102,11 +102,11 @@ The shortage of qualified tilers is severe, and the 2020 re-regulation was partl
 
 ## Sources {#sources}
 
-- Handwerksordnung, Anlage A and B1 — https://www.gesetze-im-internet.de/hwo , accessed 2026-09
-- Viertes Gesetz zur Änderung der Handwerksordnung (2020) — https://www.bgbl.de , accessed 2026-09
+- Handwerksordnung, Anlage A and B1 — [gesetze-im-internet.de/hwo](https://www.gesetze-im-internet.de/hwo), accessed 2026-09
+- Viertes Gesetz zur Änderung der Handwerksordnung (2020) — [bgbl.de](https://www.bgbl.de), accessed 2026-09
 - DIN 18534, Abdichtung von Innenräumen — accessed 2026-09
-- BK 2112, Berufskrankheiten-Verordnung — https://www.gesetze-im-internet.de/bkv , accessed 2026-09
-- BG BAU — https://www.bgbau.de , accessed 2026-09
-- SOKA-BAU — https://www.soka-bau.de , accessed 2026-09
+- BK 2112, Berufskrankheiten-Verordnung — [gesetze-im-internet.de/bkv](https://www.gesetze-im-internet.de/bkv), accessed 2026-09
+- BG BAU — [bgbau.de](https://www.bgbau.de), accessed 2026-09
+- SOKA-BAU — [soka-bau.de](https://www.soka-bau.de), accessed 2026-09
 
 <p class="jig-back"><a href="/jobs-in-germany/skilled-trades/">← Back to Skilled trades (Handwerk)</a></p>

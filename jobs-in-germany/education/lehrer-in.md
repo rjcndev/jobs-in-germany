@@ -106,9 +106,9 @@ Severe and structural, but **uneven**. Acute shortage in Grundschule, Sonderpäd
 
 ## Sources {#sources}
 
-- Beamtenstatusgesetz (BeamtStG) §7 — https://www.gesetze-im-internet.de/beamtstg/ , accessed 2026-09
-- Kultusministerkonferenz — https://www.kmk.org , accessed 2026-09
-- Anerkennung in Deutschland — https://www.anerkennung-in-deutschland.de , accessed 2026-09
-- NRW Besoldung and TV-L tables — https://oeffentlicher-dienst.info , verified 2026-09
+- Beamtenstatusgesetz (BeamtStG) §7 — [gesetze-im-internet.de/beamtstg](https://www.gesetze-im-internet.de/beamtstg/), accessed 2026-09
+- Kultusministerkonferenz — [kmk.org](https://www.kmk.org), accessed 2026-09
+- Anerkennung in Deutschland — [anerkennung-in-deutschland.de](https://www.anerkennung-in-deutschland.de), accessed 2026-09
+- NRW Besoldung and TV-L tables — [oeffentlicher-dienst.info](https://oeffentlicher-dienst.info), verified 2026-09
 
 <p class="jig-back"><a href="/jobs-in-germany/education/">← Back to Education</a></p>

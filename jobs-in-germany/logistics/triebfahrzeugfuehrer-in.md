@@ -110,9 +110,9 @@ Where the risk sits, honestly:
 
 ## Sources {#sources}
 
-- Triebfahrzeugführerscheinverordnung (TfV) — https://www.gesetze-im-internet.de/tfv , accessed 2026-09
-- Directive 2007/59/EC on the certification of train drivers — https://eur-lex.europa.eu , accessed 2026-09
-- Eisenbahn-Bundesamt — https://www.eba.bund.de , accessed 2026-09
-- BERUFENET, Eisenbahner/in im Betriebsdienst — https://berufenet.arbeitsagentur.de , accessed 2026-09
+- Triebfahrzeugführerscheinverordnung (TfV) — [gesetze-im-internet.de/tfv](https://www.gesetze-im-internet.de/tfv), accessed 2026-09
+- Directive 2007/59/EC on the certification of train drivers — [eur-lex.europa.eu](https://eur-lex.europa.eu), accessed 2026-09
+- Eisenbahn-Bundesamt — [eba.bund.de](https://www.eba.bund.de), accessed 2026-09
+- BERUFENET, Eisenbahner/in im Betriebsdienst — [berufenet.arbeitsagentur.de](https://berufenet.arbeitsagentur.de), accessed 2026-09
 
 <p class="jig-back"><a href="/jobs-in-germany/logistics/">← Back to Logistics</a></p>

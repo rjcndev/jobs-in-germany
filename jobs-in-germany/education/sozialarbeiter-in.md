@@ -116,10 +116,10 @@ Honest counterweight: **burnout and moral injury are the profession's real occup
 
 ## Sources {#sources}
 
-- SGB VIII, SGB IX, SGB XII — https://www.gesetze-im-internet.de , accessed 2026-09
+- SGB VIII, SGB IX, SGB XII — [gesetze-im-internet.de](https://www.gesetze-im-internet.de), accessed 2026-09
 - State Anerkennungsverordnungen for Soziale Arbeit, per Bundesland — accessed 2026-09
-- DBSH (Deutscher Berufsverband für Soziale Arbeit) — https://www.dbsh.de , accessed 2026-09
-- TVöD SuE pay table — https://oeffentlicher-dienst.info , verified 2026-09
-- BERUFENET — https://berufenet.arbeitsagentur.de , accessed 2026-09
+- DBSH (Deutscher Berufsverband für Soziale Arbeit) — [dbsh.de](https://www.dbsh.de), accessed 2026-09
+- TVöD SuE pay table — [oeffentlicher-dienst.info](https://oeffentlicher-dienst.info), verified 2026-09
+- BERUFENET — [berufenet.arbeitsagentur.de](https://berufenet.arbeitsagentur.de), accessed 2026-09
 
 <p class="jig-back"><a href="/jobs-in-germany/education/">← Back to Education</a></p>

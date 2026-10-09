@@ -99,9 +99,9 @@ What follows practically:
 
 ## Sources {#sources}
 
-- Verordnung über die Berufsausbildung zum Pferdewirt (2010) — https://www.gesetze-im-internet.de , accessed 2026-09
-- Deutsche Reiterliche Vereinigung (FN) — https://www.pferd-aktuell.de , accessed 2026-09
-- SVLFG, accident prevention in equine work — https://www.svlfg.de , accessed 2026-09
-- BERUFENET — https://berufenet.arbeitsagentur.de , accessed 2026-09
+- Verordnung über die Berufsausbildung zum Pferdewirt (2010) — [gesetze-im-internet.de](https://www.gesetze-im-internet.de), accessed 2026-09
+- Deutsche Reiterliche Vereinigung (FN) — [pferd-aktuell.de](https://www.pferd-aktuell.de), accessed 2026-09
+- SVLFG, accident prevention in equine work — [svlfg.de](https://www.svlfg.de), accessed 2026-09
+- BERUFENET — [berufenet.arbeitsagentur.de](https://berufenet.arbeitsagentur.de), accessed 2026-09
 
 <p class="jig-back"><a href="/jobs-in-germany/green/">← Back to Grüne Berufe — agriculture, forestry and horticulture</a></p>

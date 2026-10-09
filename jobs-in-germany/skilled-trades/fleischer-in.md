@@ -96,9 +96,9 @@ The honest reading: secure employment, poor sector growth, and ownership opportu
 
 ## Sources {#sources}
 
-- Handwerksordnung (HwO) — https://www.gesetze-im-internet.de/hwo/ , accessed 2026-09
-- Arbeitsschutzkontrollgesetz — https://www.gesetze-im-internet.de/arbschg/ , accessed 2026-09
-- Infektionsschutzgesetz §43 — https://www.gesetze-im-internet.de/ifsg/ , accessed 2026-09
-- Deutscher Fleischer-Verband — https://www.fleischerhandwerk.de , accessed 2026-09
+- Handwerksordnung (HwO) — [gesetze-im-internet.de/hwo](https://www.gesetze-im-internet.de/hwo/), accessed 2026-09
+- Arbeitsschutzkontrollgesetz — [gesetze-im-internet.de/arbschg](https://www.gesetze-im-internet.de/arbschg/), accessed 2026-09
+- Infektionsschutzgesetz §43 — [gesetze-im-internet.de/ifsg](https://www.gesetze-im-internet.de/ifsg/), accessed 2026-09
+- Deutscher Fleischer-Verband — [fleischerhandwerk.de](https://www.fleischerhandwerk.de), accessed 2026-09
 
 <p class="jig-back"><a href="/jobs-in-germany/skilled-trades/">← Back to Skilled trades (Handwerk)</a></p>

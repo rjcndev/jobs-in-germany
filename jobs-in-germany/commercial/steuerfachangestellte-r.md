@@ -75,8 +75,8 @@ Pay has risen sharply because the shortage is severe: the profession is ageing, 
 
 ## Sources {#sources}
 
-- Steuerberatungsgesetz (StBerG) — https://www.gesetze-im-internet.de/stberg/ , accessed 2026-09
-- Bundessteuerberaterkammer — https://www.bstbk.de , accessed 2026-09
-- BERUFENET — https://berufenet.arbeitsagentur.de , accessed 2026-09
+- Steuerberatungsgesetz (StBerG) — [gesetze-im-internet.de/stberg](https://www.gesetze-im-internet.de/stberg/), accessed 2026-09
+- Bundessteuerberaterkammer — [bstbk.de](https://www.bstbk.de), accessed 2026-09
+- BERUFENET — [berufenet.arbeitsagentur.de](https://berufenet.arbeitsagentur.de), accessed 2026-09
 
 <p class="jig-back"><a href="/jobs-in-germany/commercial/">← Back to Commercial</a></p>

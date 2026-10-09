@@ -67,9 +67,9 @@ See [visa routes](/jobs-in-germany/reference/visa-routes/) for how §16a compare
 
 ## Sources {#sources}
 
-- Berufsbildungsgesetz (BBiG) — https://www.gesetze-im-internet.de/bbig_2005/ , accessed 2026-09
-- Handwerksordnung (HwO) — https://www.gesetze-im-internet.de/hwo/ , accessed 2026-09
-- Jugendarbeitsschutzgesetz — https://www.gesetze-im-internet.de/jarbschg/ , accessed 2026-09
-- BIBB — https://www.bibb.de , accessed 2026-09
+- Berufsbildungsgesetz (BBiG) — [gesetze-im-internet.de/bbig_2005](https://www.gesetze-im-internet.de/bbig_2005/), accessed 2026-09
+- Handwerksordnung (HwO) — [gesetze-im-internet.de/hwo](https://www.gesetze-im-internet.de/hwo/), accessed 2026-09
+- Jugendarbeitsschutzgesetz — [gesetze-im-internet.de/jarbschg](https://www.gesetze-im-internet.de/jarbschg/), accessed 2026-09
+- BIBB — [bibb.de](https://www.bibb.de), accessed 2026-09
 
 <p class="jig-back"><a href="/jobs-in-germany/reference/">← Back to Reference</a></p>

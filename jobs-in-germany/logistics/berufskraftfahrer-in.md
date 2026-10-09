@@ -75,9 +75,9 @@ This is where it gets difficult. Read carefully.
 
 ## Sources {#sources}
 
-- Berufskraftfahrer-Qualifikations-Gesetz (BKrFQG) — https://www.gesetze-im-internet.de/bkrfqg/ , accessed 2026-09
-- Fahrerlaubnis-Verordnung (FeV) — https://www.gesetze-im-internet.de/fev_2010/ , accessed 2026-09
-- BAG / BALM — https://www.balm.bund.de , accessed 2026-09
-- BERUFENET — https://berufenet.arbeitsagentur.de , accessed 2026-09
+- Berufskraftfahrer-Qualifikations-Gesetz (BKrFQG) — [gesetze-im-internet.de/bkrfqg](https://www.gesetze-im-internet.de/bkrfqg/), accessed 2026-09
+- Fahrerlaubnis-Verordnung (FeV) — [gesetze-im-internet.de/fev_2010](https://www.gesetze-im-internet.de/fev_2010/), accessed 2026-09
+- BAG / BALM — [balm.bund.de](https://www.balm.bund.de), accessed 2026-09
+- BERUFENET — [berufenet.arbeitsagentur.de](https://berufenet.arbeitsagentur.de), accessed 2026-09
 
 <p class="jig-back"><a href="/jobs-in-germany/logistics/">← Back to Logistics</a></p>

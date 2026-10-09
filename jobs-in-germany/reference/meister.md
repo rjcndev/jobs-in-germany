@@ -72,9 +72,9 @@ Across the trade files in this repo, the Meister is consistently a step of rough
 
 ## Sources {#sources}
 
-- Handwerksordnung (HwO) — https://www.gesetze-im-internet.de/hwo/ , accessed 2026-09
-- Aufstiegsfortbildungsförderungsgesetz (AFBG) — https://www.gesetze-im-internet.de/afbg/ , accessed 2026-09
-- Deutscher Qualifikationsrahmen — https://www.dqr.de , accessed 2026-09
-- ZDH — https://www.zdh.de , accessed 2026-09
+- Handwerksordnung (HwO) — [gesetze-im-internet.de/hwo](https://www.gesetze-im-internet.de/hwo/), accessed 2026-09
+- Aufstiegsfortbildungsförderungsgesetz (AFBG) — [gesetze-im-internet.de/afbg](https://www.gesetze-im-internet.de/afbg/), accessed 2026-09
+- Deutscher Qualifikationsrahmen — [dqr.de](https://www.dqr.de), accessed 2026-09
+- ZDH — [zdh.de](https://www.zdh.de), accessed 2026-09
 
 <p class="jig-back"><a href="/jobs-in-germany/reference/">← Back to Reference</a></p>

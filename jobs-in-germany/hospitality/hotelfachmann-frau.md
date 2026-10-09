@@ -69,9 +69,9 @@ High, particularly at reception and in housekeeping supervision. The staffing sh
 
 ## Sources {#sources}
 
-- IHK FOSA (recognition) — https://www.ihk-fosa.de , accessed 2026-09
-- DEHOGA Bundesverband — https://www.dehoga-bundesverband.de , accessed 2026-09
-- BERUFENET — https://berufenet.arbeitsagentur.de , accessed 2026-09
-- BeschV — https://www.gesetze-im-internet.de/beschv_2013/ , accessed 2026-09
+- IHK FOSA (recognition) — [ihk-fosa.de](https://www.ihk-fosa.de), accessed 2026-09
+- DEHOGA Bundesverband — [dehoga-bundesverband.de](https://www.dehoga-bundesverband.de), accessed 2026-09
+- BERUFENET — [berufenet.arbeitsagentur.de](https://berufenet.arbeitsagentur.de), accessed 2026-09
+- BeschV — [gesetze-im-internet.de/beschv_2013](https://www.gesetze-im-internet.de/beschv_2013/), accessed 2026-09
 
 <p class="jig-back"><a href="/jobs-in-germany/hospitality/">← Back to Hospitality (Gastgewerbe)</a></p>

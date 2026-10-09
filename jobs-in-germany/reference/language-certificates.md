@@ -86,11 +86,11 @@ The repo contains roles where English genuinely is half the job — [Spedition](
 
 ## Sources {#sources}
 
-- BAMF, Integrationskurse and Berufssprachkurse — https://www.bamf.de , accessed 2026-09
-- Goethe-Institut — https://www.goethe.de , accessed 2026-09
-- telc — https://www.telc.net , accessed 2026-09
-- TestDaF / g.a.s.t. — https://www.testdaf.de , accessed 2026-09
-- Bundesärztekammer, Fachsprachenprüfung — https://www.bundesaerztekammer.de , accessed 2026-09
-- anerkennung-in-deutschland.de — https://www.anerkennung-in-deutschland.de , accessed 2026-09
+- BAMF, Integrationskurse and Berufssprachkurse — [bamf.de](https://www.bamf.de), accessed 2026-09
+- Goethe-Institut — [goethe.de](https://www.goethe.de), accessed 2026-09
+- telc — [telc.net](https://www.telc.net), accessed 2026-09
+- TestDaF / g.a.s.t. — [testdaf.de](https://www.testdaf.de), accessed 2026-09
+- Bundesärztekammer, Fachsprachenprüfung — [bundesaerztekammer.de](https://www.bundesaerztekammer.de), accessed 2026-09
+- anerkennung-in-deutschland.de — [anerkennung-in-deutschland.de](https://www.anerkennung-in-deutschland.de), accessed 2026-09
 
 <p class="jig-back"><a href="/jobs-in-germany/reference/">← Back to Reference</a></p>

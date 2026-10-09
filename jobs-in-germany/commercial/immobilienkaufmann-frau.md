@@ -102,10 +102,10 @@ Together they cut brokerage income substantially and pushed the industry toward 
 
 ## Sources {#sources}
 
-- §34c GewO and the MaBV — https://www.gesetze-im-internet.de/gewo , accessed 2026-09
-- Wohnungseigentumsgesetz (WEG) — https://www.gesetze-im-internet.de/woeigg , accessed 2026-09
-- Gesetz über die Verteilung der Maklerkosten (2020) — https://www.bgbl.de , accessed 2026-09
-- Verordnung über die Berufsausbildung zum Immobilienkaufmann — https://www.gesetze-im-internet.de , accessed 2026-09
-- BERUFENET — https://berufenet.arbeitsagentur.de , accessed 2026-09
+- §34c GewO and the MaBV — [gesetze-im-internet.de/gewo](https://www.gesetze-im-internet.de/gewo), accessed 2026-09
+- Wohnungseigentumsgesetz (WEG) — [gesetze-im-internet.de/woeigg](https://www.gesetze-im-internet.de/woeigg), accessed 2026-09
+- Gesetz über die Verteilung der Maklerkosten (2020) — [bgbl.de](https://www.bgbl.de), accessed 2026-09
+- Verordnung über die Berufsausbildung zum Immobilienkaufmann — [gesetze-im-internet.de](https://www.gesetze-im-internet.de), accessed 2026-09
+- BERUFENET — [berufenet.arbeitsagentur.de](https://berufenet.arbeitsagentur.de), accessed 2026-09
 
 <p class="jig-back"><a href="/jobs-in-germany/commercial/">← Back to Commercial</a></p>

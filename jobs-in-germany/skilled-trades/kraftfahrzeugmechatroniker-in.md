@@ -91,9 +91,9 @@ Severe shortage, and self-inflicted in part — low Handwerk pay pushes trained 
 
 ## Sources {#sources}
 
-- Handwerksordnung (HwO) — https://www.gesetze-im-internet.de/hwo/ , accessed 2026-09
-- DGUV Information 209-093 (Qualifizierung für Arbeiten an Fahrzeugen mit Hochvoltsystemen) — https://www.dguv.de , accessed 2026-09
-- Zentralverband Deutsches Kraffahrzeuggewerbe (ZDK) — https://www.kfzgewerbe.de , accessed 2026-09
-- BERUFENET — https://berufenet.arbeitsagentur.de , accessed 2026-09
+- Handwerksordnung (HwO) — [gesetze-im-internet.de/hwo](https://www.gesetze-im-internet.de/hwo/), accessed 2026-09
+- DGUV Information 209-093 (Qualifizierung für Arbeiten an Fahrzeugen mit Hochvoltsystemen) — [dguv.de](https://www.dguv.de), accessed 2026-09
+- Zentralverband Deutsches Kraffahrzeuggewerbe (ZDK) — [kfzgewerbe.de](https://www.kfzgewerbe.de), accessed 2026-09
+- BERUFENET — [berufenet.arbeitsagentur.de](https://berufenet.arbeitsagentur.de), accessed 2026-09
 
 <p class="jig-back"><a href="/jobs-in-germany/skilled-trades/">← Back to Skilled trades (Handwerk)</a></p>

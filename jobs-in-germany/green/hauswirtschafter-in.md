@@ -105,11 +105,11 @@ The pay difference between unqualified and qualified in the same building is sev
 
 ## Sources {#sources}
 
-- Verordnung über die Berufsausbildung zum Hauswirtschafter — https://www.gesetze-im-internet.de , accessed 2026-09
-- §43 Infektionsschutzgesetz — https://www.gesetze-im-internet.de/ifsg , accessed 2026-09
-- §43b SGB XI, Betreuungskräfte — https://www.gesetze-im-internet.de/sgb_11 , accessed 2026-09
-- Ganztagsförderungsgesetz — https://www.bmfsfj.de , accessed 2026-09
-- Deutsche Gesellschaft für Hauswirtschaft — https://www.dghev.de , accessed 2026-09
-- TVöD VKA pay table — https://oeffentlicher-dienst.info , verified 2026-09
+- Verordnung über die Berufsausbildung zum Hauswirtschafter — [gesetze-im-internet.de](https://www.gesetze-im-internet.de), accessed 2026-09
+- §43 Infektionsschutzgesetz — [gesetze-im-internet.de/ifsg](https://www.gesetze-im-internet.de/ifsg), accessed 2026-09
+- §43b SGB XI, Betreuungskräfte — [gesetze-im-internet.de/sgb_11](https://www.gesetze-im-internet.de/sgb_11), accessed 2026-09
+- Ganztagsförderungsgesetz — [bmfsfj.de](https://www.bmfsfj.de), accessed 2026-09
+- Deutsche Gesellschaft für Hauswirtschaft — [dghev.de](https://www.dghev.de), accessed 2026-09
+- TVöD VKA pay table — [oeffentlicher-dienst.info](https://oeffentlicher-dienst.info), verified 2026-09
 
 <p class="jig-back"><a href="/jobs-in-germany/green/">← Back to Grüne Berufe — agriculture, forestry and horticulture</a></p>

@@ -102,10 +102,10 @@ Counterweights worth knowing: the work is shift-based, emotionally heavy, and ca
 
 ## Sources {#sources}
 
-- Hebammengesetz (HebG) and Hebammenreformgesetz — https://www.gesetze-im-internet.de/hebg_2020 , accessed 2026-09
-- §134a SGB V, Hebammenhilfevertrag — https://www.gesetze-im-internet.de/sgb_5 , accessed 2026-09
-- Directive 2005/36/EC, Annex V.5 — https://eur-lex.europa.eu , accessed 2026-09
-- Deutscher Hebammenverband — https://www.hebammenverband.de , accessed 2026-09
-- TVöD VKA pay table — https://oeffentlicher-dienst.info , verified 2026-09
+- Hebammengesetz (HebG) and Hebammenreformgesetz — [gesetze-im-internet.de/hebg_2020](https://www.gesetze-im-internet.de/hebg_2020), accessed 2026-09
+- §134a SGB V, Hebammenhilfevertrag — [gesetze-im-internet.de/sgb_5](https://www.gesetze-im-internet.de/sgb_5), accessed 2026-09
+- Directive 2005/36/EC, Annex V.5 — [eur-lex.europa.eu](https://eur-lex.europa.eu), accessed 2026-09
+- Deutscher Hebammenverband — [hebammenverband.de](https://www.hebammenverband.de), accessed 2026-09
+- TVöD VKA pay table — [oeffentlicher-dienst.info](https://oeffentlicher-dienst.info), verified 2026-09
 
 <p class="jig-back"><a href="/jobs-in-germany/healthcare/">← Back to Healthcare</a></p>

@@ -81,9 +81,9 @@ Aviation security is the best-paid end and has its own federal certification and
 
 ## Sources {#sources}
 
-- Gewerbeordnung §34a — https://www.gesetze-im-internet.de/gewo/ , accessed 2026-09
-- Bewachungsverordnung (BewachV) — https://www.gesetze-im-internet.de/bewachv_2019/ , accessed 2026-09
-- Luftsicherheitsgesetz §5 — https://www.gesetze-im-internet.de/luftsig/ , accessed 2026-09
-- BDSW — https://www.bdsw.de , accessed 2026-09
+- Gewerbeordnung §34a — [gesetze-im-internet.de/gewo](https://www.gesetze-im-internet.de/gewo/), accessed 2026-09
+- Bewachungsverordnung (BewachV) — [gesetze-im-internet.de/bewachv_2019](https://www.gesetze-im-internet.de/bewachv_2019/), accessed 2026-09
+- Luftsicherheitsgesetz §5 — [gesetze-im-internet.de/luftsig](https://www.gesetze-im-internet.de/luftsig/), accessed 2026-09
+- BDSW — [bdsw.de](https://www.bdsw.de), accessed 2026-09
 
 <p class="jig-back"><a href="/jobs-in-germany/security/">← Back to Private security (Bewachungsgewerbe)</a></p>

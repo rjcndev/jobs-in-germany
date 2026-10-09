@@ -110,10 +110,10 @@ Direction of travel: more delegation (VERAH, Impfassistenz, telemedicine triage)
 
 ## Sources {#sources}
 
-- Verordnung über die Berufsausbildung zum/zur Medizinischen Fachangestellten — https://www.gesetze-im-internet.de , accessed 2026-09
-- Bundesärztekammer, MFA-Ausbildung und Fortbildung — https://www.bundesaerztekammer.de , accessed 2026-09
-- Verband medizinischer Fachberufe (vmf) — https://www.vmf-online.de , accessed 2026-09
-- TVöD VKA pay table — https://oeffentlicher-dienst.info , verified 2026-09
-- BERUFENET — https://berufenet.arbeitsagentur.de , accessed 2026-09
+- Verordnung über die Berufsausbildung zum/zur Medizinischen Fachangestellten — [gesetze-im-internet.de](https://www.gesetze-im-internet.de), accessed 2026-09
+- Bundesärztekammer, MFA-Ausbildung und Fortbildung — [bundesaerztekammer.de](https://www.bundesaerztekammer.de), accessed 2026-09
+- Verband medizinischer Fachberufe (vmf) — [vmf-online.de](https://www.vmf-online.de), accessed 2026-09
+- TVöD VKA pay table — [oeffentlicher-dienst.info](https://oeffentlicher-dienst.info), verified 2026-09
+- BERUFENET — [berufenet.arbeitsagentur.de](https://berufenet.arbeitsagentur.de), accessed 2026-09
 
 <p class="jig-back"><a href="/jobs-in-germany/healthcare/">← Back to Healthcare</a></p>

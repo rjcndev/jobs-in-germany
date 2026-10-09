@@ -65,8 +65,8 @@ If you already hold a foreign IT qualification, you do **not** need it recognise
 
 ## Sources {#sources}
 
-- BERUFENET — https://berufenet.arbeitsagentur.de , accessed 2026-09
-- DIHK / IHK training profiles — https://www.ihk.de , accessed 2026-09
-- BQFG — https://www.gesetze-im-internet.de/bqfg/ , accessed 2026-09
+- BERUFENET — [berufenet.arbeitsagentur.de](https://berufenet.arbeitsagentur.de), accessed 2026-09
+- DIHK / IHK training profiles — [ihk.de](https://www.ihk.de), accessed 2026-09
+- BQFG — [gesetze-im-internet.de/bqfg](https://www.gesetze-im-internet.de/bqfg/), accessed 2026-09
 
 <p class="jig-back"><a href="/jobs-in-germany/it/">← Back to IT</a></p>

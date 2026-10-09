@@ -122,9 +122,9 @@ Rule of thumb: for federally regulated professions the *office* is state-level b
 
 ## Sources {#sources}
 
-- Anerkennung in Deutschland — https://www.anerkennung-in-deutschland.de , accessed 2026-09
-- BQFG — https://www.gesetze-im-internet.de/bqfg/ , accessed 2026-09
-- IHK FOSA — https://www.ihk-fosa.de , accessed 2026-09
-- anabin (ZAB) — https://anabin.kmk.org , accessed 2026-09
+- Anerkennung in Deutschland — [anerkennung-in-deutschland.de](https://www.anerkennung-in-deutschland.de), accessed 2026-09
+- BQFG — [gesetze-im-internet.de/bqfg](https://www.gesetze-im-internet.de/bqfg/), accessed 2026-09
+- IHK FOSA — [ihk-fosa.de](https://www.ihk-fosa.de), accessed 2026-09
+- anabin (ZAB) — [anabin.kmk.org](https://anabin.kmk.org), accessed 2026-09
 
 <p class="jig-back"><a href="/jobs-in-germany/reference/">← Back to Reference</a></p>

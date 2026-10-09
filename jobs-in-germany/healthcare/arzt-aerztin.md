@@ -66,9 +66,9 @@ Established practice owners (niedergelassene Ärzte) earn on a completely differ
 
 ## Sources {#sources}
 
-- Bundesärzteordnung (BÄO) — https://www.gesetze-im-internet.de/b_o/ , accessed 2026-09
-- Bundesärztekammer — https://www.bundesaerztekammer.de , accessed 2026-09
-- Anerkennung in Deutschland — https://www.anerkennung-in-deutschland.de , accessed 2026-09
-- Marburger Bund (collective agreements) — https://www.marburger-bund.de , accessed 2026-09
+- Bundesärzteordnung (BÄO) — [gesetze-im-internet.de/b_o](https://www.gesetze-im-internet.de/b_o/), accessed 2026-09
+- Bundesärztekammer — [bundesaerztekammer.de](https://www.bundesaerztekammer.de), accessed 2026-09
+- Anerkennung in Deutschland — [anerkennung-in-deutschland.de](https://www.anerkennung-in-deutschland.de), accessed 2026-09
+- Marburger Bund (collective agreements) — [marburger-bund.de](https://www.marburger-bund.de), accessed 2026-09
 
 <p class="jig-back"><a href="/jobs-in-germany/healthcare/">← Back to Healthcare</a></p>

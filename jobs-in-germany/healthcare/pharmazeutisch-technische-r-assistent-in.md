@@ -103,10 +103,10 @@ Against the pharmacist's **€4,166 rising to €4,922 after eleven years**, the
 
 ## Sources {#sources}
 
-- PTA-Berufsgesetz (PTAG) and PTA-Reformgesetz — https://www.gesetze-im-internet.de , accessed 2026-09
-- Apothekenbetriebsordnung — https://www.gesetze-im-internet.de/apobetro_1987 , accessed 2026-09
-- ADEXA — https://www.adexa-online.de , accessed 2026-09
-- ABDA, Zahlen zur Apothekenzahl — https://www.abda.de , accessed 2026-09
-- TVöD VKA pay table — https://oeffentlicher-dienst.info , verified 2026-09
+- PTA-Berufsgesetz (PTAG) and PTA-Reformgesetz — [gesetze-im-internet.de](https://www.gesetze-im-internet.de), accessed 2026-09
+- Apothekenbetriebsordnung — [gesetze-im-internet.de/apobetro_1987](https://www.gesetze-im-internet.de/apobetro_1987), accessed 2026-09
+- ADEXA — [adexa-online.de](https://www.adexa-online.de), accessed 2026-09
+- ABDA, Zahlen zur Apothekenzahl — [abda.de](https://www.abda.de), accessed 2026-09
+- TVöD VKA pay table — [oeffentlicher-dienst.info](https://oeffentlicher-dienst.info), verified 2026-09
 
 <p class="jig-back"><a href="/jobs-in-germany/healthcare/">← Back to Healthcare</a></p>

@@ -84,9 +84,9 @@ Acute and legally driven. Two statutory entitlements create demand the system ca
 
 ## Sources {#sources}
 
-- Anerkennung in Deutschland — https://www.anerkennung-in-deutschland.de , accessed 2026-09
-- SGB VIII (Kinder- und Jugendhilfe) — https://www.gesetze-im-internet.de/sgb_8/ , accessed 2026-09
-- TVöD SuE pay tables — https://oeffentlicher-dienst.info , accessed 2026-09
-- BERUFENET — https://berufenet.arbeitsagentur.de , accessed 2026-09
+- Anerkennung in Deutschland — [anerkennung-in-deutschland.de](https://www.anerkennung-in-deutschland.de), accessed 2026-09
+- SGB VIII (Kinder- und Jugendhilfe) — [gesetze-im-internet.de/sgb_8](https://www.gesetze-im-internet.de/sgb_8/), accessed 2026-09
+- TVöD SuE pay tables — [oeffentlicher-dienst.info](https://oeffentlicher-dienst.info), accessed 2026-09
+- BERUFENET — [berufenet.arbeitsagentur.de](https://berufenet.arbeitsagentur.de), accessed 2026-09
 
 <p class="jig-back"><a href="/jobs-in-germany/education/">← Back to Education</a></p>

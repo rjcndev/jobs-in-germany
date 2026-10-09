@@ -108,10 +108,10 @@ Against that: the residential new-build contraction affects roofing as it affect
 
 ## Sources {#sources}
 
-- HwO Anlage A — https://www.gesetze-im-internet.de/hwo , accessed 2026-09
-- SOKA-DACH — https://www.soka-dach.de , accessed 2026-09
-- Zentralverband des Deutschen Dachdeckerhandwerks — https://dachdecker.de , accessed 2026-09
-- DGUV rules on work at height, PSAgA — https://www.dguv.de , accessed 2026-09
-- BG BAU — https://www.bgbau.de , accessed 2026-09
+- HwO Anlage A — [gesetze-im-internet.de/hwo](https://www.gesetze-im-internet.de/hwo), accessed 2026-09
+- SOKA-DACH — [soka-dach.de](https://www.soka-dach.de), accessed 2026-09
+- Zentralverband des Deutschen Dachdeckerhandwerks — [dachdecker.de](https://dachdecker.de), accessed 2026-09
+- DGUV rules on work at height, PSAgA — [dguv.de](https://www.dguv.de), accessed 2026-09
+- BG BAU — [bgbau.de](https://www.bgbau.de), accessed 2026-09
 
 <p class="jig-back"><a href="/jobs-in-germany/skilled-trades/">← Back to Skilled trades (Handwerk)</a></p>

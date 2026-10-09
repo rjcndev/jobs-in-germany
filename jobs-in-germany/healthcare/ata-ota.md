@@ -110,9 +110,9 @@ Outlook is stable: surgical volume is not falling, day surgery is expanding, and
 
 ## Sources {#sources}
 
-- ATA-OTA-Gesetz and ATA-OTA-APrV — https://www.gesetze-im-internet.de , accessed 2026-09
-- Deutsche Krankenhausgesellschaft — https://www.dkgev.de , accessed 2026-09
-- TVöD VKA pay table — https://oeffentlicher-dienst.info , verified 2026-09
-- BERUFENET — https://berufenet.arbeitsagentur.de , accessed 2026-09
+- ATA-OTA-Gesetz and ATA-OTA-APrV — [gesetze-im-internet.de](https://www.gesetze-im-internet.de), accessed 2026-09
+- Deutsche Krankenhausgesellschaft — [dkgev.de](https://www.dkgev.de), accessed 2026-09
+- TVöD VKA pay table — [oeffentlicher-dienst.info](https://oeffentlicher-dienst.info), verified 2026-09
+- BERUFENET — [berufenet.arbeitsagentur.de](https://berufenet.arbeitsagentur.de), accessed 2026-09
 
 <p class="jig-back"><a href="/jobs-in-germany/healthcare/">← Back to Healthcare</a></p>

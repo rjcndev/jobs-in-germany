@@ -84,10 +84,10 @@ That does not make the qualification a bad bet — but it changes what a good be
 
 ## Sources {#sources}
 
-- WpHG §87 — https://www.gesetze-im-internet.de/wphg/ , accessed 2026-09
-- MaAnzV — https://www.gesetze-im-internet.de/maanzv/ , accessed 2026-09
-- BaFin employee register — https://www.bafin.de , accessed 2026-09
-- TVöD-S pay table — https://oeffentlicher-dienst.info , verified 2026-09
-- BERUFENET — https://berufenet.arbeitsagentur.de , accessed 2026-09
+- WpHG §87 — [gesetze-im-internet.de/wphg](https://www.gesetze-im-internet.de/wphg/), accessed 2026-09
+- MaAnzV — [gesetze-im-internet.de/maanzv](https://www.gesetze-im-internet.de/maanzv/), accessed 2026-09
+- BaFin employee register — [bafin.de](https://www.bafin.de), accessed 2026-09
+- TVöD-S pay table — [oeffentlicher-dienst.info](https://oeffentlicher-dienst.info), verified 2026-09
+- BERUFENET — [berufenet.arbeitsagentur.de](https://berufenet.arbeitsagentur.de), accessed 2026-09
 
 <p class="jig-back"><a href="/jobs-in-germany/commercial/">← Back to Commercial</a></p>

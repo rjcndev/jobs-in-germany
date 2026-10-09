@@ -105,9 +105,9 @@ Caps are set in §35a EStG and change with tax legislation; figures accessed 202
 
 ## Sources {#sources}
 
-- §8, §8a SGB IV — https://www.gesetze-im-internet.de/sgb_4 , accessed 2026-09
-- §35a EStG — https://www.gesetze-im-internet.de/estg/__35a.html , accessed 2026-09
-- Minijob-Zentrale — https://www.minijob-zentrale.de , accessed 2026-09
-- Deutsche Rentenversicherung, Übergangsbereich — https://www.deutsche-rentenversicherung.de , accessed 2026-09
+- §8, §8a SGB IV — [gesetze-im-internet.de/sgb_4](https://www.gesetze-im-internet.de/sgb_4), accessed 2026-09
+- §35a EStG — [gesetze-im-internet.de/estg/__35a.html](https://www.gesetze-im-internet.de/estg/__35a.html), accessed 2026-09
+- Minijob-Zentrale — [minijob-zentrale.de](https://www.minijob-zentrale.de), accessed 2026-09
+- Deutsche Rentenversicherung, Übergangsbereich — [deutsche-rentenversicherung.de](https://www.deutsche-rentenversicherung.de), accessed 2026-09
 
 <p class="jig-back"><a href="/jobs-in-germany/reference/">← Back to Reference</a></p>

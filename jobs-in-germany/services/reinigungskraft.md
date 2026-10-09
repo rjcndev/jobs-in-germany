@@ -96,9 +96,9 @@ This is the most useful thing in this file. The unqualified tier has no ladder; 
 
 ## Sources {#sources}
 
-- AEntG and the Gebäudereiniger minimum wage — https://www.gesetze-im-internet.de/aentg_2009 , accessed 2026-09
-- MiLoG, recording of working time — https://www.gesetze-im-internet.de/milog , accessed 2026-09
-- Zoll, Finanzkontrolle Schwarzarbeit — https://www.zoll.de , accessed 2026-09
-- IG BAU, Gebäudereinigung — https://www.igbau.de , accessed 2026-09
+- AEntG and the Gebäudereiniger minimum wage — [gesetze-im-internet.de/aentg_2009](https://www.gesetze-im-internet.de/aentg_2009), accessed 2026-09
+- MiLoG, recording of working time — [gesetze-im-internet.de/milog](https://www.gesetze-im-internet.de/milog), accessed 2026-09
+- Zoll, Finanzkontrolle Schwarzarbeit — [zoll.de](https://www.zoll.de), accessed 2026-09
+- IG BAU, Gebäudereinigung — [igbau.de](https://www.igbau.de), accessed 2026-09
 
 <p class="jig-back"><a href="/jobs-in-germany/services/">← Back to Services and other sectors</a></p>

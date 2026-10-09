@@ -98,9 +98,9 @@ Metallgestaltung is the exception — genuinely niche, and best entered with eye
 
 ## Sources {#sources}
 
-- Handwerksordnung (HwO) — https://www.gesetze-im-internet.de/hwo/ , accessed 2026-09
+- Handwerksordnung (HwO) — [gesetze-im-internet.de/hwo](https://www.gesetze-im-internet.de/hwo/), accessed 2026-09
 - DIN EN 1090 (execution of steel structures) — accessed 2026-09
-- DVS — https://www.dvs-home.de , accessed 2026-09
-- BERUFENET — https://berufenet.arbeitsagentur.de , accessed 2026-09
+- DVS — [dvs-home.de](https://www.dvs-home.de), accessed 2026-09
+- BERUFENET — [berufenet.arbeitsagentur.de](https://berufenet.arbeitsagentur.de), accessed 2026-09
 
 <p class="jig-back"><a href="/jobs-in-germany/skilled-trades/">← Back to Skilled trades (Handwerk)</a></p>

@@ -81,9 +81,9 @@ Severe shortage. Training numbers have fallen for years while the deadline and f
 
 ## Sources {#sources}
 
-- Rechtsdienstleistungsgesetz (RDG) — https://www.gesetze-im-internet.de/rdg/ , accessed 2026-09
-- Rechtsanwaltsvergütungsgesetz (RVG) — https://www.gesetze-im-internet.de/rvg/ , accessed 2026-09
-- Bundesrechtsanwaltskammer — https://www.brak.de , accessed 2026-09
-- BERUFENET — https://berufenet.arbeitsagentur.de , accessed 2026-09
+- Rechtsdienstleistungsgesetz (RDG) — [gesetze-im-internet.de/rdg](https://www.gesetze-im-internet.de/rdg/), accessed 2026-09
+- Rechtsanwaltsvergütungsgesetz (RVG) — [gesetze-im-internet.de/rvg](https://www.gesetze-im-internet.de/rvg/), accessed 2026-09
+- Bundesrechtsanwaltskammer — [brak.de](https://www.brak.de), accessed 2026-09
+- BERUFENET — [berufenet.arbeitsagentur.de](https://berufenet.arbeitsagentur.de), accessed 2026-09
 
 <p class="jig-back"><a href="/jobs-in-germany/commercial/">← Back to Commercial</a></p>

@@ -99,10 +99,10 @@ TVöD row verified for this repo, valid **01.05.2026 – 31.03.2027**. Municipal
 
 ## Sources {#sources}
 
-- Verordnung über die Berufsausbildung im Gartenbau — https://www.gesetze-im-internet.de , accessed 2026-09
-- Bundesverband Garten-, Landschafts- und Sportplatzbau (BGL) — https://www.galabau.de , accessed 2026-09
-- FLL, Forschungsgesellschaft Landschaftsentwicklung Landschaftsbau — https://www.fll.de , accessed 2026-09
-- TVöD VKA pay table — https://oeffentlicher-dienst.info , verified 2026-09
-- BERUFENET — https://berufenet.arbeitsagentur.de , accessed 2026-09
+- Verordnung über die Berufsausbildung im Gartenbau — [gesetze-im-internet.de](https://www.gesetze-im-internet.de), accessed 2026-09
+- Bundesverband Garten-, Landschafts- und Sportplatzbau (BGL) — [galabau.de](https://www.galabau.de), accessed 2026-09
+- FLL, Forschungsgesellschaft Landschaftsentwicklung Landschaftsbau — [fll.de](https://www.fll.de), accessed 2026-09
+- TVöD VKA pay table — [oeffentlicher-dienst.info](https://oeffentlicher-dienst.info), verified 2026-09
+- BERUFENET — [berufenet.arbeitsagentur.de](https://berufenet.arbeitsagentur.de), accessed 2026-09
 
 <p class="jig-back"><a href="/jobs-in-germany/green/">← Back to Grüne Berufe — agriculture, forestry and horticulture</a></p>

@@ -74,9 +74,9 @@ Severe shortage. Hospitality lost a large share of its workforce during the pand
 
 ## Sources {#sources}
 
-- Infektionsschutzgesetz §43 — https://www.gesetze-im-internet.de/ifsg/ , accessed 2026-09
-- Arbeitszeitgesetz — https://www.gesetze-im-internet.de/arbzg/ , accessed 2026-09
-- IHK FOSA (recognition) — https://www.ihk-fosa.de , accessed 2026-09
-- DEHOGA Bundesverband — https://www.dehoga-bundesverband.de , accessed 2026-09
+- Infektionsschutzgesetz §43 — [gesetze-im-internet.de/ifsg](https://www.gesetze-im-internet.de/ifsg/), accessed 2026-09
+- Arbeitszeitgesetz — [gesetze-im-internet.de/arbzg](https://www.gesetze-im-internet.de/arbzg/), accessed 2026-09
+- IHK FOSA (recognition) — [ihk-fosa.de](https://www.ihk-fosa.de), accessed 2026-09
+- DEHOGA Bundesverband — [dehoga-bundesverband.de](https://www.dehoga-bundesverband.de), accessed 2026-09
 
 <p class="jig-back"><a href="/jobs-in-germany/hospitality/">← Back to Hospitality (Gastgewerbe)</a></p>

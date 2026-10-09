@@ -98,9 +98,9 @@ The practical reading matches [Werkzeugbau](/jobs-in-germany/industrial/werkzeug
 
 ## Sources {#sources}
 
-- Handwerksordnung (HwO) — https://www.gesetze-im-internet.de/hwo/ , accessed 2026-09
-- TRGS 553 (Holzstaub) — https://www.baua.de , accessed 2026-09
-- Tischler Schreiner Deutschland — https://www.tischler-schreiner.de , accessed 2026-09
-- BERUFENET — https://berufenet.arbeitsagentur.de , accessed 2026-09
+- Handwerksordnung (HwO) — [gesetze-im-internet.de/hwo](https://www.gesetze-im-internet.de/hwo/), accessed 2026-09
+- TRGS 553 (Holzstaub) — [baua.de](https://www.baua.de), accessed 2026-09
+- Tischler Schreiner Deutschland — [tischler-schreiner.de](https://www.tischler-schreiner.de), accessed 2026-09
+- BERUFENET — [berufenet.arbeitsagentur.de](https://berufenet.arbeitsagentur.de), accessed 2026-09
 
 <p class="jig-back"><a href="/jobs-in-germany/skilled-trades/">← Back to Skilled trades (Handwerk)</a></p>

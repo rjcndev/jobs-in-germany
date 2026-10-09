@@ -87,8 +87,8 @@ Not every Kammerberuf has one in every Bundesland, and **Wirtschaftsprüfer** ar
 
 ## Sources {#sources}
 
-- §6, §172a SGB VI — https://www.gesetze-im-internet.de/sgb_6 , accessed 2026-09
-- Arbeitsgemeinschaft berufsständischer Versorgungseinrichtungen (ABV) — https://www.abv.de , accessed 2026-09
-- Deutsche Rentenversicherung, Befreiung von der Versicherungspflicht — https://www.deutsche-rentenversicherung.de , accessed 2026-09
+- §6, §172a SGB VI — [gesetze-im-internet.de/sgb_6](https://www.gesetze-im-internet.de/sgb_6), accessed 2026-09
+- Arbeitsgemeinschaft berufsständischer Versorgungseinrichtungen (ABV) — [abv.de](https://www.abv.de), accessed 2026-09
+- Deutsche Rentenversicherung, Befreiung von der Versicherungspflicht — [deutsche-rentenversicherung.de](https://www.deutsche-rentenversicherung.de), accessed 2026-09
 
 <p class="jig-back"><a href="/jobs-in-germany/reference/">← Back to Reference</a></p>

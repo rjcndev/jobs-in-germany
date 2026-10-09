@@ -62,8 +62,8 @@ Routine clerical work is the part of the German labour market most exposed to au
 
 ## Sources {#sources}
 
-- BERUFENET — https://berufenet.arbeitsagentur.de , accessed 2026-09
-- IHK FOSA — https://www.ihk-fosa.de , accessed 2026-09
-- TVöD pay tables — https://oeffentlicher-dienst.info , accessed 2026-09
+- BERUFENET — [berufenet.arbeitsagentur.de](https://berufenet.arbeitsagentur.de), accessed 2026-09
+- IHK FOSA — [ihk-fosa.de](https://www.ihk-fosa.de), accessed 2026-09
+- TVöD pay tables — [oeffentlicher-dienst.info](https://oeffentlicher-dienst.info), accessed 2026-09
 
 <p class="jig-back"><a href="/jobs-in-germany/commercial/">← Back to Commercial</a></p>

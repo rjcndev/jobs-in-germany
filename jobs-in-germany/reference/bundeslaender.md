@@ -58,8 +58,8 @@ Eastern states generally pay less privately, cost considerably less to live in, 
 
 ## Sources {#sources}
 
-- Anerkennung in Deutschland — https://www.anerkennung-in-deutschland.de , accessed 2026-09
-- Kultusministerkonferenz — https://www.kmk.org , accessed 2026-09
-- Besoldung tables by state — https://oeffentlicher-dienst.info , accessed 2026-09
+- Anerkennung in Deutschland — [anerkennung-in-deutschland.de](https://www.anerkennung-in-deutschland.de), accessed 2026-09
+- Kultusministerkonferenz — [kmk.org](https://www.kmk.org), accessed 2026-09
+- Besoldung tables by state — [oeffentlicher-dienst.info](https://oeffentlicher-dienst.info), accessed 2026-09
 
 <p class="jig-back"><a href="/jobs-in-germany/reference/">← Back to Reference</a></p>

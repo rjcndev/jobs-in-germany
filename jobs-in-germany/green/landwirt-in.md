@@ -113,11 +113,11 @@ This is not the same thing as the qualified occupation the rest of this file des
 
 ## Sources {#sources}
 
-- §8 SGB IV, kurzfristige Beschäftigung — https://www.gesetze-im-internet.de/sgb_4 , accessed 2026-09
-- Verordnung über die Berufsausbildung zum Landwirt — https://www.gesetze-im-internet.de , accessed 2026-09
-- Düngeverordnung; Pflanzenschutzgesetz — https://www.gesetze-im-internet.de , accessed 2026-09
-- SVLFG, agricultural social insurance — https://www.svlfg.de , accessed 2026-09
-- Zoll, Finanzkontrolle Schwarzarbeit — https://www.zoll.de , accessed 2026-09
+- §8 SGB IV, kurzfristige Beschäftigung — [gesetze-im-internet.de/sgb_4](https://www.gesetze-im-internet.de/sgb_4), accessed 2026-09
+- Verordnung über die Berufsausbildung zum Landwirt — [gesetze-im-internet.de](https://www.gesetze-im-internet.de), accessed 2026-09
+- Düngeverordnung; Pflanzenschutzgesetz — [gesetze-im-internet.de](https://www.gesetze-im-internet.de), accessed 2026-09
+- SVLFG, agricultural social insurance — [svlfg.de](https://www.svlfg.de), accessed 2026-09
+- Zoll, Finanzkontrolle Schwarzarbeit — [zoll.de](https://www.zoll.de), accessed 2026-09
 - Initiative Faire Landarbeit — accessed 2026-09
 
 <p class="jig-back"><a href="/jobs-in-germany/green/">← Back to Grüne Berufe — agriculture, forestry and horticulture</a></p>

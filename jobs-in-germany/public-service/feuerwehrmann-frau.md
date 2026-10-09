@@ -101,9 +101,9 @@ Steady and rising as cities expand professional cover and rescue-service volume 
 
 ## Sources {#sources}
 
-- Beamtenstatusgesetz (BeamtStG) — https://www.gesetze-im-internet.de/beamtstg/ , accessed 2026-09
-- DGUV Grundsatz G 26.3 (Atemschutz) — https://www.dguv.de , accessed 2026-09
-- NRW Besoldung tables — https://oeffentlicher-dienst.info , verified 2026-09
-- Deutscher Feuerwehrverband — https://www.feuerwehrverband.de , accessed 2026-09
+- Beamtenstatusgesetz (BeamtStG) — [gesetze-im-internet.de/beamtstg](https://www.gesetze-im-internet.de/beamtstg/), accessed 2026-09
+- DGUV Grundsatz G 26.3 (Atemschutz) — [dguv.de](https://www.dguv.de), accessed 2026-09
+- NRW Besoldung tables — [oeffentlicher-dienst.info](https://oeffentlicher-dienst.info), verified 2026-09
+- Deutscher Feuerwehrverband — [feuerwehrverband.de](https://www.feuerwehrverband.de), accessed 2026-09
 
 <p class="jig-back"><a href="/jobs-in-germany/public-service/">← Back to Public service (öffentlicher Dienst) — the Beamten careers</a></p>

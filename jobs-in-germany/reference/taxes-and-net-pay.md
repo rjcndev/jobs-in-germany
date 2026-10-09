@@ -104,9 +104,9 @@ Not compulsory for every employee, but usually worth filing — refunds are comm
 
 ## Sources {#sources}
 
-- Einkommensteuergesetz (EStG) — https://www.gesetze-im-internet.de/estg/ , accessed 2026-09
-- SGB IV, V, VI, XI — https://www.gesetze-im-internet.de , accessed 2026-09
-- ELSTER — https://www.elster.de , accessed 2026-09
-- Bundeszentralamt für Steuern — https://www.bzst.de , accessed 2026-09
+- Einkommensteuergesetz (EStG) — [gesetze-im-internet.de/estg](https://www.gesetze-im-internet.de/estg/), accessed 2026-09
+- SGB IV, V, VI, XI — [gesetze-im-internet.de](https://www.gesetze-im-internet.de), accessed 2026-09
+- ELSTER — [elster.de](https://www.elster.de), accessed 2026-09
+- Bundeszentralamt für Steuern — [bzst.de](https://www.bzst.de), accessed 2026-09
 
 <p class="jig-back"><a href="/jobs-in-germany/reference/">← Back to Reference</a></p>

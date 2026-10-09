@@ -107,10 +107,10 @@ Against that: it competes with DIY and with cheap imported furniture at the low 
 
 ## Sources {#sources}
 
-- Handwerksordnung, Anlage A and B1 — https://www.gesetze-im-internet.de/hwo , accessed 2026-09
-- Viertes Gesetz zur Änderung der Handwerksordnung (2020) — https://www.bgbl.de , accessed 2026-09
-- Zentralverband Raum und Ausstattung — https://www.zvr-ev.de , accessed 2026-09
-- ZDH, on the 2020 re-regulation — https://www.zdh.de , accessed 2026-09
-- BERUFENET — https://berufenet.arbeitsagentur.de , accessed 2026-09
+- Handwerksordnung, Anlage A and B1 — [gesetze-im-internet.de/hwo](https://www.gesetze-im-internet.de/hwo), accessed 2026-09
+- Viertes Gesetz zur Änderung der Handwerksordnung (2020) — [bgbl.de](https://www.bgbl.de), accessed 2026-09
+- Zentralverband Raum und Ausstattung — [zvr-ev.de](https://www.zvr-ev.de), accessed 2026-09
+- ZDH, on the 2020 re-regulation — [zdh.de](https://www.zdh.de), accessed 2026-09
+- BERUFENET — [berufenet.arbeitsagentur.de](https://berufenet.arbeitsagentur.de), accessed 2026-09
 
 <p class="jig-back"><a href="/jobs-in-germany/skilled-trades/">← Back to Skilled trades (Handwerk)</a></p>

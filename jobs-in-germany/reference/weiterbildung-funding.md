@@ -75,10 +75,10 @@ And the fallback: **Weiterbildung costs are tax-deductible** as Werbungskosten w
 
 ## Sources {#sources}
 
-- §81, §82 SGB III — https://www.gesetze-im-internet.de/sgb_3 , accessed 2026-09
-- AFBG (Aufstiegs-BAföG) — https://www.aufstiegs-bafoeg.de , accessed 2026-09
-- Qualifizierungsgeld, Bundesagentur für Arbeit — https://www.arbeitsagentur.de , accessed 2026-09
-- SBB Begabtenförderung — https://www.sbb-stipendien.de , accessed 2026-09
-- Bildungsurlaub, per-state overview — https://www.bildungsurlaub.de , accessed 2026-09
+- §81, §82 SGB III — [gesetze-im-internet.de/sgb_3](https://www.gesetze-im-internet.de/sgb_3), accessed 2026-09
+- AFBG (Aufstiegs-BAföG) — [aufstiegs-bafoeg.de](https://www.aufstiegs-bafoeg.de), accessed 2026-09
+- Qualifizierungsgeld, Bundesagentur für Arbeit — [arbeitsagentur.de](https://www.arbeitsagentur.de), accessed 2026-09
+- SBB Begabtenförderung — [sbb-stipendien.de](https://www.sbb-stipendien.de), accessed 2026-09
+- Bildungsurlaub, per-state overview — [bildungsurlaub.de](https://www.bildungsurlaub.de), accessed 2026-09
 
 <p class="jig-back"><a href="/jobs-in-germany/reference/">← Back to Reference</a></p>

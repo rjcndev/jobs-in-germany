@@ -113,10 +113,10 @@ Cover is automatic, employer-funded, and applies from the first hour — includi
 
 ## Sources {#sources}
 
-- SOKA-BAU — https://www.soka-bau.de , accessed 2026-09
-- BRTV-Bau and sector agreements, ZDB / HDB — https://www.zdb.de , accessed 2026-09
-- AEntG — https://www.gesetze-im-internet.de/aentg_2009 , accessed 2026-09
-- Saison-Kurzarbeitergeld, Bundesagentur für Arbeit — https://www.arbeitsagentur.de , accessed 2026-09
-- BG BAU — https://www.bgbau.de , accessed 2026-09
+- SOKA-BAU — [soka-bau.de](https://www.soka-bau.de), accessed 2026-09
+- BRTV-Bau and sector agreements, ZDB / HDB — [zdb.de](https://www.zdb.de), accessed 2026-09
+- AEntG — [gesetze-im-internet.de/aentg_2009](https://www.gesetze-im-internet.de/aentg_2009), accessed 2026-09
+- Saison-Kurzarbeitergeld, Bundesagentur für Arbeit — [arbeitsagentur.de](https://www.arbeitsagentur.de), accessed 2026-09
+- BG BAU — [bgbau.de](https://www.bgbau.de), accessed 2026-09
 
 <p class="jig-back"><a href="/jobs-in-germany/reference/">← Back to Reference</a></p>

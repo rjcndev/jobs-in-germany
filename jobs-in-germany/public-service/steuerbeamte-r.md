@@ -101,9 +101,9 @@ Strong. A retirement wave is passing through the Finanzämter, and understaffing
 
 ## Sources {#sources}
 
-- Beamtenstatusgesetz (BeamtStG) §7 — https://www.gesetze-im-internet.de/beamtstg/ , accessed 2026-09
-- Steuerberatungsgesetz (StBerG) §§3, 36 — https://www.gesetze-im-internet.de/stberg/ , accessed 2026-09
-- NRW Besoldung tables — https://oeffentlicher-dienst.info , verified 2026-09
-- BERUFENET — https://berufenet.arbeitsagentur.de , accessed 2026-09
+- Beamtenstatusgesetz (BeamtStG) §7 — [gesetze-im-internet.de/beamtstg](https://www.gesetze-im-internet.de/beamtstg/), accessed 2026-09
+- Steuerberatungsgesetz (StBerG) §§3, 36 — [gesetze-im-internet.de/stberg](https://www.gesetze-im-internet.de/stberg/), accessed 2026-09
+- NRW Besoldung tables — [oeffentlicher-dienst.info](https://oeffentlicher-dienst.info), verified 2026-09
+- BERUFENET — [berufenet.arbeitsagentur.de](https://berufenet.arbeitsagentur.de), accessed 2026-09
 
 <p class="jig-back"><a href="/jobs-in-germany/public-service/">← Back to Public service (öffentlicher Dienst) — the Beamten careers</a></p>

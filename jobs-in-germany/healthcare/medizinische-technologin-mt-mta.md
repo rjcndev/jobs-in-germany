@@ -95,9 +95,9 @@ Hospitals, university clinics, private laboratory groups (Synlab, Labor Berlin, 
 
 ## Sources {#sources}
 
-- MT-Berufe-Gesetz (MTBG) — https://www.gesetze-im-internet.de/mtbg/ , accessed 2026-09
-- Anerkennung in Deutschland — https://www.anerkennung-in-deutschland.de , accessed 2026-09
-- BERUFENET, Bundesagentur für Arbeit — https://berufenet.arbeitsagentur.de , accessed 2026-09
-- TVöD pay tables — https://oeffentlicher-dienst.info , accessed 2026-09
+- MT-Berufe-Gesetz (MTBG) — [gesetze-im-internet.de/mtbg](https://www.gesetze-im-internet.de/mtbg/), accessed 2026-09
+- Anerkennung in Deutschland — [anerkennung-in-deutschland.de](https://www.anerkennung-in-deutschland.de), accessed 2026-09
+- BERUFENET, Bundesagentur für Arbeit — [berufenet.arbeitsagentur.de](https://berufenet.arbeitsagentur.de), accessed 2026-09
+- TVöD pay tables — [oeffentlicher-dienst.info](https://oeffentlicher-dienst.info), accessed 2026-09
 
 <p class="jig-back"><a href="/jobs-in-germany/healthcare/">← Back to Healthcare</a></p>

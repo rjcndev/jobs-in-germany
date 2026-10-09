@@ -63,8 +63,8 @@ Public-sector employment pays better than private practice, which is the reverse
 
 ## Sources {#sources}
 
-- Masseur- und Physiotherapeutengesetz (MPhG) — https://www.gesetze-im-internet.de/mphg/ , accessed 2026-09
-- Anerkennung in Deutschland — https://www.anerkennung-in-deutschland.de , accessed 2026-09
-- BERUFENET — https://berufenet.arbeitsagentur.de , accessed 2026-09
+- Masseur- und Physiotherapeutengesetz (MPhG) — [gesetze-im-internet.de/mphg](https://www.gesetze-im-internet.de/mphg/), accessed 2026-09
+- Anerkennung in Deutschland — [anerkennung-in-deutschland.de](https://www.anerkennung-in-deutschland.de), accessed 2026-09
+- BERUFENET — [berufenet.arbeitsagentur.de](https://berufenet.arbeitsagentur.de), accessed 2026-09
 
 <p class="jig-back"><a href="/jobs-in-germany/healthcare/">← Back to Healthcare</a></p>

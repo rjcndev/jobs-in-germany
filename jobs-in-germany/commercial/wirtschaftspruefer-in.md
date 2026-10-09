@@ -102,9 +102,9 @@ Direction of travel: **sustainability assurance**. Auditing non-financial and su
 
 ## Sources {#sources}
 
-- Wirtschaftsprüferordnung (WPO) — https://www.gesetze-im-internet.de/wipro , accessed 2026-09
-- Finanzmarktintegritätsstärkungsgesetz (FISG, 2021) — https://www.bgbl.de , accessed 2026-09
-- Wirtschaftsprüferkammer — https://www.wpk.de , accessed 2026-09
-- Abschlussprüferaufsichtsstelle (APAS) — https://www.apasbafa.bund.de , accessed 2026-09
+- Wirtschaftsprüferordnung (WPO) — [gesetze-im-internet.de/wipro](https://www.gesetze-im-internet.de/wipro), accessed 2026-09
+- Finanzmarktintegritätsstärkungsgesetz (FISG, 2021) — [bgbl.de](https://www.bgbl.de), accessed 2026-09
+- Wirtschaftsprüferkammer — [wpk.de](https://www.wpk.de), accessed 2026-09
+- Abschlussprüferaufsichtsstelle (APAS) — [apasbafa.bund.de](https://www.apasbafa.bund.de), accessed 2026-09
 
 <p class="jig-back"><a href="/jobs-in-germany/commercial/">← Back to Commercial</a></p>

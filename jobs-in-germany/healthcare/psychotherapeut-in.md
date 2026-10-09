@@ -117,10 +117,10 @@ Two honest qualifications. A Kassensitz is bought, so the headline practice inco
 
 ## Sources {#sources}
 
-- Psychotherapeutengesetz (PsychThG) 2020 — https://www.gesetze-im-internet.de/psychthg_2020 , accessed 2026-09
-- Approbationsordnung für Psychotherapeutinnen und Psychotherapeuten — https://www.gesetze-im-internet.de , accessed 2026-09
-- Bundespsychotherapeutenkammer — https://www.bptk.de , accessed 2026-09
-- Bedarfsplanungs-Richtlinie, G-BA — https://www.g-ba.de , accessed 2026-09
-- TVöD/TV-L pay tables — https://oeffentlicher-dienst.info , verified 2026-09
+- Psychotherapeutengesetz (PsychThG) 2020 — [gesetze-im-internet.de/psychthg_2020](https://www.gesetze-im-internet.de/psychthg_2020), accessed 2026-09
+- Approbationsordnung für Psychotherapeutinnen und Psychotherapeuten — [gesetze-im-internet.de](https://www.gesetze-im-internet.de), accessed 2026-09
+- Bundespsychotherapeutenkammer — [bptk.de](https://www.bptk.de), accessed 2026-09
+- Bedarfsplanungs-Richtlinie, G-BA — [g-ba.de](https://www.g-ba.de), accessed 2026-09
+- TVöD/TV-L pay tables — [oeffentlicher-dienst.info](https://oeffentlicher-dienst.info), verified 2026-09
 
 <p class="jig-back"><a href="/jobs-in-germany/healthcare/">← Back to Healthcare</a></p>

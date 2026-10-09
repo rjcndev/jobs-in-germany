@@ -69,9 +69,9 @@ Public-sector engineers (Bauämter, municipal utilities) sit in **TVöD EG 11–
 
 ## Sources {#sources}
 
-- anabin (ZAB) — https://anabin.kmk.org , accessed 2026-09
-- Bundesingenieurkammer — https://www.bingk.de , accessed 2026-09
-- IG Metall tariff information — https://www.igmetall.de , accessed 2026-09
-- Make it in Germany — https://www.make-it-in-germany.com , accessed 2026-09
+- anabin (ZAB) — [anabin.kmk.org](https://anabin.kmk.org), accessed 2026-09
+- Bundesingenieurkammer — [bingk.de](https://www.bingk.de), accessed 2026-09
+- IG Metall tariff information — [igmetall.de](https://www.igmetall.de), accessed 2026-09
+- Make it in Germany — [make-it-in-germany.com](https://www.make-it-in-germany.com), accessed 2026-09
 
 <p class="jig-back"><a href="/jobs-in-germany/engineering/">← Back to Engineering</a></p>

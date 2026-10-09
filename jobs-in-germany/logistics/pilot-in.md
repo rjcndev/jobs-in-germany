@@ -103,9 +103,9 @@ Honest qualifications:
 
 ## Sources {#sources}
 
-- EASA Part-FCL, Regulation (EU) 1178/2011 — https://www.easa.europa.eu , accessed 2026-09
-- Flight time limitations, Regulation (EU) 965/2012 ORO.FTL — https://www.easa.europa.eu , accessed 2026-09
-- Luftfahrt-Bundesamt — https://www.lba.de , accessed 2026-09
-- Vereinigung Cockpit — https://www.vcockpit.de , accessed 2026-09
+- EASA Part-FCL, Regulation (EU) 1178/2011 — [easa.europa.eu](https://www.easa.europa.eu), accessed 2026-09
+- Flight time limitations, Regulation (EU) 965/2012 ORO.FTL — [easa.europa.eu](https://www.easa.europa.eu), accessed 2026-09
+- Luftfahrt-Bundesamt — [lba.de](https://www.lba.de), accessed 2026-09
+- Vereinigung Cockpit — [vcockpit.de](https://www.vcockpit.de), accessed 2026-09
 
 <p class="jig-back"><a href="/jobs-in-germany/logistics/">← Back to Logistics</a></p>

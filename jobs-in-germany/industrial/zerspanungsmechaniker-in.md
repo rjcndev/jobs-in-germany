@@ -91,9 +91,9 @@ On automation, honestly: **this trade is genuinely automating** — automated lo
 
 ## Sources {#sources}
 
-- Berufsbildungsgesetz (BBiG) — https://www.gesetze-im-internet.de/bbig_2005/ , accessed 2026-09
-- IG Metall — https://www.igmetall.de , accessed 2026-09
-- IHK FOSA — https://www.ihk-fosa.de , accessed 2026-09
-- BERUFENET — https://berufenet.arbeitsagentur.de , accessed 2026-09
+- Berufsbildungsgesetz (BBiG) — [gesetze-im-internet.de/bbig_2005](https://www.gesetze-im-internet.de/bbig_2005/), accessed 2026-09
+- IG Metall — [igmetall.de](https://www.igmetall.de), accessed 2026-09
+- IHK FOSA — [ihk-fosa.de](https://www.ihk-fosa.de), accessed 2026-09
+- BERUFENET — [berufenet.arbeitsagentur.de](https://berufenet.arbeitsagentur.de), accessed 2026-09
 
 <p class="jig-back"><a href="/jobs-in-germany/industrial/">← Back to Industrial trades (Industrieberufe)</a></p>

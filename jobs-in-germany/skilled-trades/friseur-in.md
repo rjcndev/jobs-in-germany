@@ -97,9 +97,9 @@ Chronic shortage, driven by attrition rather than growth. Trainee numbers have f
 
 ## Sources {#sources}
 
-- Handwerksordnung (HwO) — https://www.gesetze-im-internet.de/hwo/ , accessed 2026-09
-- Arbeitnehmer-Entsendegesetz (AEntG) — https://www.gesetze-im-internet.de/aentg_2009/ , accessed 2026-09
-- BGW, occupational skin disease in hairdressing — https://www.bgw-online.de , accessed 2026-09
-- Zentralverband des Deutschen Friseurhandwerks — https://www.friseurhandwerk.de , accessed 2026-09
+- Handwerksordnung (HwO) — [gesetze-im-internet.de/hwo](https://www.gesetze-im-internet.de/hwo/), accessed 2026-09
+- Arbeitnehmer-Entsendegesetz (AEntG) — [gesetze-im-internet.de/aentg_2009](https://www.gesetze-im-internet.de/aentg_2009/), accessed 2026-09
+- BGW, occupational skin disease in hairdressing — [bgw-online.de](https://www.bgw-online.de), accessed 2026-09
+- Zentralverband des Deutschen Friseurhandwerks — [friseurhandwerk.de](https://www.friseurhandwerk.de), accessed 2026-09
 
 <p class="jig-back"><a href="/jobs-in-germany/skilled-trades/">← Back to Skilled trades (Handwerk)</a></p>

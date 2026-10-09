@@ -110,10 +110,10 @@ At the same time the workforce has shrunk for decades as state forest services c
 
 ## Sources {#sources}
 
-- TV-L-Forst (TdL) — https://www.tdl-online.de , accessed 2026-09
-- TVöD VKA and TV-L pay tables — https://oeffentlicher-dienst.info , verified 2026-09
-- NRW Besoldung — https://oeffentlicher-dienst.info , verified 2026-09
-- DGUV, forestry safety rules — https://www.dguv.de , accessed 2026-09
-- BERUFENET — https://berufenet.arbeitsagentur.de , accessed 2026-09
+- TV-L-Forst (TdL) — [tdl-online.de](https://www.tdl-online.de), accessed 2026-09
+- TVöD VKA and TV-L pay tables — [oeffentlicher-dienst.info](https://oeffentlicher-dienst.info), verified 2026-09
+- NRW Besoldung — [oeffentlicher-dienst.info](https://oeffentlicher-dienst.info), verified 2026-09
+- DGUV, forestry safety rules — [dguv.de](https://www.dguv.de), accessed 2026-09
+- BERUFENET — [berufenet.arbeitsagentur.de](https://berufenet.arbeitsagentur.de), accessed 2026-09
 
 <p class="jig-back"><a href="/jobs-in-germany/green/">← Back to Grüne Berufe — agriculture, forestry and horticulture</a></p>

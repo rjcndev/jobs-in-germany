@@ -104,10 +104,10 @@ Accommodation is often part of the package on livestock units, at statutory valu
 
 ## Sources {#sources}
 
-- Verordnung über die Berufsausbildung zum Tierwirt — https://www.gesetze-im-internet.de , accessed 2026-09
-- Tierschutz-Nutztierhaltungsverordnung — https://www.gesetze-im-internet.de , accessed 2026-09
-- BMEL, livestock statistics and Haltungsform — https://www.bmel.de , accessed 2026-09
+- Verordnung über die Berufsausbildung zum Tierwirt — [gesetze-im-internet.de](https://www.gesetze-im-internet.de), accessed 2026-09
+- Tierschutz-Nutztierhaltungsverordnung — [gesetze-im-internet.de](https://www.gesetze-im-internet.de), accessed 2026-09
+- BMEL, livestock statistics and Haltungsform — [bmel.de](https://www.bmel.de), accessed 2026-09
 - Vereinigung Deutscher Landesschafzuchtverbände — accessed 2026-09
-- BERUFENET — https://berufenet.arbeitsagentur.de , accessed 2026-09
+- BERUFENET — [berufenet.arbeitsagentur.de](https://berufenet.arbeitsagentur.de), accessed 2026-09
 
 <p class="jig-back"><a href="/jobs-in-germany/green/">← Back to Grüne Berufe — agriculture, forestry and horticulture</a></p>

@@ -95,10 +95,10 @@ Share-based crew payment is worth understanding before signing: it moves the ris
 
 ## Sources {#sources}
 
-- Verordnung über die Berufsausbildung zum Fischwirt — https://www.gesetze-im-internet.de , accessed 2026-09
-- EU Common Fisheries Policy, TAC and quotas — https://oceans-and-fisheries.ec.europa.eu , accessed 2026-09
-- Bundesanstalt für Landwirtschaft und Ernährung, fisheries — https://www.ble.de , accessed 2026-09
-- See-Berufsgenossenschaft / BG Verkehr, maritime certification — https://www.bg-verkehr.de , accessed 2026-09
-- BERUFENET — https://berufenet.arbeitsagentur.de , accessed 2026-09
+- Verordnung über die Berufsausbildung zum Fischwirt — [gesetze-im-internet.de](https://www.gesetze-im-internet.de), accessed 2026-09
+- EU Common Fisheries Policy, TAC and quotas — [oceans-and-fisheries.ec.europa.eu](https://oceans-and-fisheries.ec.europa.eu), accessed 2026-09
+- Bundesanstalt für Landwirtschaft und Ernährung, fisheries — [ble.de](https://www.ble.de), accessed 2026-09
+- See-Berufsgenossenschaft / BG Verkehr, maritime certification — [bg-verkehr.de](https://www.bg-verkehr.de), accessed 2026-09
+- BERUFENET — [berufenet.arbeitsagentur.de](https://berufenet.arbeitsagentur.de), accessed 2026-09
 
 <p class="jig-back"><a href="/jobs-in-germany/green/">← Back to Grüne Berufe — agriculture, forestry and horticulture</a></p>

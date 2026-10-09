@@ -108,10 +108,10 @@ The shortage of qualified operators is genuine, and contractors compete for them
 
 ## Sources {#sources}
 
-- Verordnung über die Berufsausbildung zur Fachkraft Agrarservice — https://www.gesetze-im-internet.de , accessed 2026-09
-- Bundesverband Lohnunternehmen — https://www.lohnunternehmen.de , accessed 2026-09
-- Düngeverordnung — https://www.gesetze-im-internet.de , accessed 2026-09
-- SVLFG — https://www.svlfg.de , accessed 2026-09
-- BERUFENET — https://berufenet.arbeitsagentur.de , accessed 2026-09
+- Verordnung über die Berufsausbildung zur Fachkraft Agrarservice — [gesetze-im-internet.de](https://www.gesetze-im-internet.de), accessed 2026-09
+- Bundesverband Lohnunternehmen — [lohnunternehmen.de](https://www.lohnunternehmen.de), accessed 2026-09
+- Düngeverordnung — [gesetze-im-internet.de](https://www.gesetze-im-internet.de), accessed 2026-09
+- SVLFG — [svlfg.de](https://www.svlfg.de), accessed 2026-09
+- BERUFENET — [berufenet.arbeitsagentur.de](https://berufenet.arbeitsagentur.de), accessed 2026-09
 
 <p class="jig-back"><a href="/jobs-in-germany/green/">← Back to Grüne Berufe — agriculture, forestry and horticulture</a></p>

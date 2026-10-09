@@ -96,10 +96,10 @@ Demand is high and rising — call volumes have grown for years. The harder prob
 
 ## Sources {#sources}
 
-- Notfallsanitätergesetz (NotSanG) — https://www.gesetze-im-internet.de/notsang/ , accessed 2026-09
-- NotSan-APrV — https://www.gesetze-im-internet.de/notsan-aprv/ , accessed 2026-09
+- Notfallsanitätergesetz (NotSanG) — [gesetze-im-internet.de/notsang](https://www.gesetze-im-internet.de/notsang/), accessed 2026-09
+- NotSan-APrV — [gesetze-im-internet.de/notsan-aprv](https://www.gesetze-im-internet.de/notsan-aprv/), accessed 2026-09
 - TVöD Entgeltordnung, Rettungsdienst (EG N / Anlage D.14 TVöD-V) — verified 2026-09
-- TVöD-P and TVöD VKA pay tables — https://oeffentlicher-dienst.info , verified 2026-09
-- BERUFENET — https://berufenet.arbeitsagentur.de , accessed 2026-09
+- TVöD-P and TVöD VKA pay tables — [oeffentlicher-dienst.info](https://oeffentlicher-dienst.info), verified 2026-09
+- BERUFENET — [berufenet.arbeitsagentur.de](https://berufenet.arbeitsagentur.de), accessed 2026-09
 
 <p class="jig-back"><a href="/jobs-in-germany/healthcare/">← Back to Healthcare</a></p>

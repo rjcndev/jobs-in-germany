@@ -111,9 +111,9 @@ Where one exists, it is usually the fastest route to fixing something. Where non
 
 ## Sources {#sources}
 
-- §622, §623 BGB; Kündigungsschutzgesetz; Nachweisgesetz; TzBfG — https://www.gesetze-im-internet.de , accessed 2026-09
-- Arbeitszeitgesetz, Bundesurlaubsgesetz, Entgeltfortzahlungsgesetz — https://www.gesetze-im-internet.de , accessed 2026-09
-- §109 GewO — https://www.gesetze-im-internet.de/gewo/__109.html , accessed 2026-09
-- BMAS, Arbeitsrecht overview — https://www.bmas.de , accessed 2026-09
+- §622, §623 BGB; Kündigungsschutzgesetz; Nachweisgesetz; TzBfG — [gesetze-im-internet.de](https://www.gesetze-im-internet.de), accessed 2026-09
+- Arbeitszeitgesetz, Bundesurlaubsgesetz, Entgeltfortzahlungsgesetz — [gesetze-im-internet.de](https://www.gesetze-im-internet.de), accessed 2026-09
+- §109 GewO — [gesetze-im-internet.de/gewo/__109.html](https://www.gesetze-im-internet.de/gewo/__109.html), accessed 2026-09
+- BMAS, Arbeitsrecht overview — [bmas.de](https://www.bmas.de), accessed 2026-09
 
 <p class="jig-back"><a href="/jobs-in-germany/reference/">← Back to Reference</a></p>

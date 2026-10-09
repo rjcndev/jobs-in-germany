@@ -104,10 +104,10 @@ Growth where it exists: direct sales and wine tourism, organic and PIWI producti
 
 ## Sources {#sources}
 
-- Weingesetz and Weinverordnung — https://www.gesetze-im-internet.de , accessed 2026-09
-- Verordnung über die Berufsausbildung zum Winzer — https://www.gesetze-im-internet.de , accessed 2026-09
-- Deutsches Weininstitut — https://www.deutscheweine.de , accessed 2026-09
-- DLR Rheinland-Pfalz — https://www.dlr.rlp.de , accessed 2026-09
-- BERUFENET — https://berufenet.arbeitsagentur.de , accessed 2026-09
+- Weingesetz and Weinverordnung — [gesetze-im-internet.de](https://www.gesetze-im-internet.de), accessed 2026-09
+- Verordnung über die Berufsausbildung zum Winzer — [gesetze-im-internet.de](https://www.gesetze-im-internet.de), accessed 2026-09
+- Deutsches Weininstitut — [deutscheweine.de](https://www.deutscheweine.de), accessed 2026-09
+- DLR Rheinland-Pfalz — [dlr.rlp.de](https://www.dlr.rlp.de), accessed 2026-09
+- BERUFENET — [berufenet.arbeitsagentur.de](https://berufenet.arbeitsagentur.de), accessed 2026-09
 
 <p class="jig-back"><a href="/jobs-in-germany/green/">← Back to Grüne Berufe — agriculture, forestry and horticulture</a></p>

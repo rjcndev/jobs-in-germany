@@ -102,9 +102,9 @@ Two things worth weighing:
 
 ## Sources {#sources}
 
-- Wissenschaftszeitvertragsgesetz (WissZeitVG) — https://www.gesetze-im-internet.de/wisszeitvg , accessed 2026-09
-- §18d AufenthG, researchers — https://www.gesetze-im-internet.de/aufenthg_2004 , accessed 2026-09
-- Bundesbericht Wissenschaftlicher Nachwuchs (BuWiN) — https://www.buwin.de , accessed 2026-09
-- TV-L pay table — https://oeffentlicher-dienst.info , verified 2026-09
+- Wissenschaftszeitvertragsgesetz (WissZeitVG) — [gesetze-im-internet.de/wisszeitvg](https://www.gesetze-im-internet.de/wisszeitvg), accessed 2026-09
+- §18d AufenthG, researchers — [gesetze-im-internet.de/aufenthg_2004](https://www.gesetze-im-internet.de/aufenthg_2004), accessed 2026-09
+- Bundesbericht Wissenschaftlicher Nachwuchs (BuWiN) — [buwin.de](https://www.buwin.de), accessed 2026-09
+- TV-L pay table — [oeffentlicher-dienst.info](https://oeffentlicher-dienst.info), verified 2026-09
 
 <p class="jig-back"><a href="/jobs-in-germany/services/">← Back to Services and other sectors</a></p>

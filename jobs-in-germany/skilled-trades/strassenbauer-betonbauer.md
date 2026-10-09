@@ -102,10 +102,10 @@ None of this depends on interest rates or housing demand the way the rest of the
 
 ## Sources {#sources}
 
-- HwO Anlage A — https://www.gesetze-im-internet.de/hwo , accessed 2026-09
-- Verordnung über die Berufsausbildung in der Bauwirtschaft — https://www.gesetze-im-internet.de , accessed 2026-09
-- BG BAU, Tiefbau and Straßenbau rules — https://www.bgbau.de , accessed 2026-09
-- SOKA-BAU — https://www.soka-bau.de , accessed 2026-09
-- TVöD VKA pay table — https://oeffentlicher-dienst.info , verified 2026-09
+- HwO Anlage A — [gesetze-im-internet.de/hwo](https://www.gesetze-im-internet.de/hwo), accessed 2026-09
+- Verordnung über die Berufsausbildung in der Bauwirtschaft — [gesetze-im-internet.de](https://www.gesetze-im-internet.de), accessed 2026-09
+- BG BAU, Tiefbau and Straßenbau rules — [bgbau.de](https://www.bgbau.de), accessed 2026-09
+- SOKA-BAU — [soka-bau.de](https://www.soka-bau.de), accessed 2026-09
+- TVöD VKA pay table — [oeffentlicher-dienst.info](https://oeffentlicher-dienst.info), verified 2026-09
 
 <p class="jig-back"><a href="/jobs-in-germany/skilled-trades/">← Back to Skilled trades (Handwerk)</a></p>

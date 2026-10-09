@@ -73,9 +73,9 @@ Consistently high, driven by e-commerce and contract logistics. Also the sector 
 
 ## Sources {#sources}
 
-- BERUFENET — https://berufenet.arbeitsagentur.de , accessed 2026-09
-- DGUV Vorschrift 68 (Flurförderzeuge) — https://www.dguv.de , accessed 2026-09
-- Arbeitnehmerüberlassungsgesetz — https://www.gesetze-im-internet.de/a_g/ , accessed 2026-09
-- IHK FOSA — https://www.ihk-fosa.de , accessed 2026-09
+- BERUFENET — [berufenet.arbeitsagentur.de](https://berufenet.arbeitsagentur.de), accessed 2026-09
+- DGUV Vorschrift 68 (Flurförderzeuge) — [dguv.de](https://www.dguv.de), accessed 2026-09
+- Arbeitnehmerüberlassungsgesetz — [gesetze-im-internet.de/a_g](https://www.gesetze-im-internet.de/a_g/), accessed 2026-09
+- IHK FOSA — [ihk-fosa.de](https://www.ihk-fosa.de), accessed 2026-09
 
 <p class="jig-back"><a href="/jobs-in-germany/logistics/">← Back to Logistics</a></p>

@@ -110,9 +110,9 @@ The Zoll recruits in the thousands each year across both careers, and the FKS in
 
 ## Sources {#sources}
 
-- Bundesbeamtengesetz (BBG) — https://www.gesetze-im-internet.de/bbg_2009/ , accessed 2026-09
-- Schwarzarbeitsbekämpfungsgesetz — https://www.gesetze-im-internet.de/schwarzarbg_2004/ , accessed 2026-09
-- Zoll — https://www.zoll.de , accessed 2026-09
-- Bundesbesoldung tables — https://oeffentlicher-dienst.info , verified 2026-09
+- Bundesbeamtengesetz (BBG) — [gesetze-im-internet.de/bbg_2009](https://www.gesetze-im-internet.de/bbg_2009/), accessed 2026-09
+- Schwarzarbeitsbekämpfungsgesetz — [gesetze-im-internet.de/schwarzarbg_2004](https://www.gesetze-im-internet.de/schwarzarbg_2004/), accessed 2026-09
+- Zoll — [zoll.de](https://www.zoll.de), accessed 2026-09
+- Bundesbesoldung tables — [oeffentlicher-dienst.info](https://oeffentlicher-dienst.info), verified 2026-09
 
 <p class="jig-back"><a href="/jobs-in-germany/public-service/">← Back to Public service (öffentlicher Dienst) — the Beamten careers</a></p>

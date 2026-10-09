@@ -68,9 +68,9 @@ The most foreigner-friendly occupation in this repo after software development.
 
 ## Sources {#sources}
 
-- HGB (Frachtgeschäft, §§407 ff.) — https://www.gesetze-im-internet.de/hgb/ , accessed 2026-09
-- DSLV Bundesverband Spedition und Logistik — https://www.dslv.org , accessed 2026-09
-- Zoll — https://www.zoll.de , accessed 2026-09
-- BERUFENET — https://berufenet.arbeitsagentur.de , accessed 2026-09
+- HGB (Frachtgeschäft, §§407 ff.) — [gesetze-im-internet.de/hgb](https://www.gesetze-im-internet.de/hgb/), accessed 2026-09
+- DSLV Bundesverband Spedition und Logistik — [dslv.org](https://www.dslv.org), accessed 2026-09
+- Zoll — [zoll.de](https://www.zoll.de), accessed 2026-09
+- BERUFENET — [berufenet.arbeitsagentur.de](https://berufenet.arbeitsagentur.de), accessed 2026-09
 
 <p class="jig-back"><a href="/jobs-in-germany/logistics/">← Back to Logistics</a></p>

@@ -66,9 +66,9 @@ Severe shortage, and politically salient. The heating transition requires far mo
 
 ## Sources {#sources}
 
-- Handwerksordnung (HwO) — https://www.gesetze-im-internet.de/hwo/ , accessed 2026-09
-- Gebäudeenergiegesetz (GEG) — https://www.gesetze-im-internet.de/geg/ , accessed 2026-09
-- Zentralverband Sanitär Heizung Klima — https://www.zvshk.de , accessed 2026-09
-- BERUFENET — https://berufenet.arbeitsagentur.de , accessed 2026-09
+- Handwerksordnung (HwO) — [gesetze-im-internet.de/hwo](https://www.gesetze-im-internet.de/hwo/), accessed 2026-09
+- Gebäudeenergiegesetz (GEG) — [gesetze-im-internet.de/geg](https://www.gesetze-im-internet.de/geg/), accessed 2026-09
+- Zentralverband Sanitär Heizung Klima — [zvshk.de](https://www.zvshk.de), accessed 2026-09
+- BERUFENET — [berufenet.arbeitsagentur.de](https://berufenet.arbeitsagentur.de), accessed 2026-09
 
 <p class="jig-back"><a href="/jobs-in-germany/skilled-trades/">← Back to Skilled trades (Handwerk)</a></p>

@@ -119,10 +119,10 @@ Two honest qualifications. Fee income tracks **property transaction volumes and 
 
 ## Sources {#sources}
 
-- Bundesnotarordnung (BNotO) — https://www.gesetze-im-internet.de/bnoto , accessed 2026-09
-- Beurkundungsgesetz — https://www.gesetze-im-internet.de/beurkg , accessed 2026-09
-- GNotKG — https://www.gesetze-im-internet.de/gnotkg , accessed 2026-09
-- ECJ C-54/08, Commission v Germany (2011) — https://curia.europa.eu , accessed 2026-09
-- Bundesnotarkammer — https://www.bnotk.de , accessed 2026-09
+- Bundesnotarordnung (BNotO) — [gesetze-im-internet.de/bnoto](https://www.gesetze-im-internet.de/bnoto), accessed 2026-09
+- Beurkundungsgesetz — [gesetze-im-internet.de/beurkg](https://www.gesetze-im-internet.de/beurkg), accessed 2026-09
+- GNotKG — [gesetze-im-internet.de/gnotkg](https://www.gesetze-im-internet.de/gnotkg), accessed 2026-09
+- ECJ C-54/08, Commission v Germany (2011) — [curia.europa.eu](https://curia.europa.eu), accessed 2026-09
+- Bundesnotarkammer — [bnotk.de](https://www.bnotk.de), accessed 2026-09
 
 <p class="jig-back"><a href="/jobs-in-germany/commercial/">← Back to Commercial</a></p>

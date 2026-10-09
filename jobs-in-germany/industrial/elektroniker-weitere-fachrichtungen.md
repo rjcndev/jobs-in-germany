@@ -112,10 +112,10 @@ The honest risk, as in [Betriebstechnik](/jobs-in-germany/industrial/elektronike
 
 ## Sources {#sources}
 
-- Verordnung über die Berufsausbildung in den industriellen Elektroberufen — https://www.gesetze-im-internet.de , accessed 2026-09
-- Verordnung über die Berufsausbildung zum Elektroniker für Gebäudesystemintegration (2021) — https://www.gesetze-im-internet.de , accessed 2026-09
-- DGUV V3; VDE 1000-10 — https://www.dguv.de , accessed 2026-09
-- ZVEH, Elektrohandwerk — https://www.zveh.de , accessed 2026-09
-- BERUFENET — https://berufenet.arbeitsagentur.de , accessed 2026-09
+- Verordnung über die Berufsausbildung in den industriellen Elektroberufen — [gesetze-im-internet.de](https://www.gesetze-im-internet.de), accessed 2026-09
+- Verordnung über die Berufsausbildung zum Elektroniker für Gebäudesystemintegration (2021) — [gesetze-im-internet.de](https://www.gesetze-im-internet.de), accessed 2026-09
+- DGUV V3; VDE 1000-10 — [dguv.de](https://www.dguv.de), accessed 2026-09
+- ZVEH, Elektrohandwerk — [zveh.de](https://www.zveh.de), accessed 2026-09
+- BERUFENET — [berufenet.arbeitsagentur.de](https://berufenet.arbeitsagentur.de), accessed 2026-09
 
 <p class="jig-back"><a href="/jobs-in-germany/industrial/">← Back to Industrial trades (Industrieberufe)</a></p>

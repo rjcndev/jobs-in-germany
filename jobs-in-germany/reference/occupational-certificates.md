@@ -60,9 +60,9 @@ So a profession with modest pay carries a large, continuing, personally-borne tr
 
 ## Sources {#sources}
 
-- DGUV rules and information sheets — https://www.dguv.de , accessed 2026-09
-- §34a GewO, §43 IfSG, BKrFQG, PflSchG, StrlSchV — https://www.gesetze-im-internet.de , accessed 2026-09
-- DVGW — https://www.dvgw.de , accessed 2026-09
-- BERUFENET — https://berufenet.arbeitsagentur.de , accessed 2026-09
+- DGUV rules and information sheets — [dguv.de](https://www.dguv.de), accessed 2026-09
+- §34a GewO, §43 IfSG, BKrFQG, PflSchG, StrlSchV — [gesetze-im-internet.de](https://www.gesetze-im-internet.de), accessed 2026-09
+- DVGW — [dvgw.de](https://www.dvgw.de), accessed 2026-09
+- BERUFENET — [berufenet.arbeitsagentur.de](https://berufenet.arbeitsagentur.de), accessed 2026-09
 
 <p class="jig-back"><a href="/jobs-in-germany/reference/">← Back to Reference</a></p>

@@ -131,11 +131,11 @@ One genuine improvement worth recording: **Heilmittel prices were substantially 
 
 ## Sources {#sources}
 
-- Logopädengesetz (LogopG) and ErgThG — https://www.gesetze-im-internet.de , accessed 2026-09
-- Heilmittel-Richtlinie, G-BA — https://www.g-ba.de , accessed 2026-09
-- TSVG, Heilmittelvergütung — https://www.gesetze-im-internet.de , accessed 2026-09
-- dbl (Deutscher Bundesverband für Logopädie) — https://www.dbl-ev.de , accessed 2026-09
-- DVE (Deutscher Verband der Ergotherapeuten) — https://dve.info , accessed 2026-09
-- TVöD VKA pay table — https://oeffentlicher-dienst.info , verified 2026-09
+- Logopädengesetz (LogopG) and ErgThG — [gesetze-im-internet.de](https://www.gesetze-im-internet.de), accessed 2026-09
+- Heilmittel-Richtlinie, G-BA — [g-ba.de](https://www.g-ba.de), accessed 2026-09
+- TSVG, Heilmittelvergütung — [gesetze-im-internet.de](https://www.gesetze-im-internet.de), accessed 2026-09
+- dbl (Deutscher Bundesverband für Logopädie) — [dbl-ev.de](https://www.dbl-ev.de), accessed 2026-09
+- DVE (Deutscher Verband der Ergotherapeuten) — [dve.info](https://dve.info), accessed 2026-09
+- TVöD VKA pay table — [oeffentlicher-dienst.info](https://oeffentlicher-dienst.info), verified 2026-09
 
 <p class="jig-back"><a href="/jobs-in-germany/healthcare/">← Back to Healthcare</a></p>

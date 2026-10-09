@@ -65,9 +65,9 @@ Several Bundesländer now also offer a **pauschale Beihilfe**, a flat subsidy th
 
 ## Sources {#sources}
 
-- SGB V — https://www.gesetze-im-internet.de/sgb_5/ , accessed 2026-09
-- SGB XI (Pflegeversicherung) — https://www.gesetze-im-internet.de/sgb_11/ , accessed 2026-09
-- GKV-Spitzenverband — https://www.gkv-spitzenverband.de , accessed 2026-09
-- Make it in Germany — https://www.make-it-in-germany.com , accessed 2026-09
+- SGB V — [gesetze-im-internet.de/sgb_5](https://www.gesetze-im-internet.de/sgb_5/), accessed 2026-09
+- SGB XI (Pflegeversicherung) — [gesetze-im-internet.de/sgb_11](https://www.gesetze-im-internet.de/sgb_11/), accessed 2026-09
+- GKV-Spitzenverband — [gkv-spitzenverband.de](https://www.gkv-spitzenverband.de), accessed 2026-09
+- Make it in Germany — [make-it-in-germany.com](https://www.make-it-in-germany.com), accessed 2026-09
 
 <p class="jig-back"><a href="/jobs-in-germany/reference/">← Back to Reference</a></p>
