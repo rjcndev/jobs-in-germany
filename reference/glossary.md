@@ -4,7 +4,7 @@ This repo is written in English and deliberately keeps German terms in place, be
 is how you will meet them — in job adverts, on authority websites, and on forms. Around 250
 recur across the files. These are the ones that carry meaning.
 
-**If you read only ten:** [Ausbildung](#ausbildung), [Geselle](#geselle),
+**If you read only ten:** [Ausbildung](#ausbildung), [Geselle](#geselle--gesellin),
 [Meisterbrief](#meisterbrief), [Anlage A](#anlage-a--anlage-b),
 [Kammer](#kammer), [Anerkennung](#anerkennung), [Gleichwertigkeitsprüfung](#gleichwertigkeitsprüfung),
 [Tarifvertrag](#tarifvertrag), [Beamter](#beamter--beamtin), [brutto / netto](#brutto--netto).
@@ -17,7 +17,7 @@ The final examination of an [Ausbildung](#ausbildung). Modern occupations use a
 with Teil 1 counting toward the final grade. See [ausbildung.md](ausbildung.md).
 
 ### Altgesellenregelung
-**§7b HwO.** Lets a [Geselle](#geselle) with six years in an [Anlage A](#anlage-a--anlage-b)
+**§7b HwO.** Lets a [Geselle](#geselle--gesellin) with six years in an [Anlage A](#anlage-a--anlage-b)
 trade — four of them in a leading position — run a business **without a
 [Meisterbrief](#meisterbrief)**. Excludes the health-related trades. The most underused route
 in the Handwerk. See [meister.md](meister.md).
@@ -33,7 +33,7 @@ and pursue recognition after arrival. Used mainly in
 [nursing](../jobs/healthcare/pflegefachfrau-pflegefachmann.md).
 
 ### Anlage A / Anlage B
-The two schedules of the [Handwerksordnung](#handwerksordnung). **Anlage A** trades require a
+The two schedules of the [Handwerksordnung](#handwerksordnung--hwo). **Anlage A** trades require a
 [Meisterbrief](#meisterbrief) to run a business ([Meisterpflicht](#meisterpflicht)); Anlage B
 trades do not. Not static — twelve trades were **re-regulated in 2020**.
 
@@ -127,7 +127,7 @@ full equivalence, partial with stated gaps, or none. (**Gleichwertigkeitsfestste
 the same procedure for unregulated occupations.)
 
 ### Handwerk
-The skilled trades, regulated by the [Handwerksordnung](#handwerksordnung) through the
+The skilled trades, regulated by the [Handwerksordnung](#handwerksordnung--hwo) through the
 **Handwerkskammer (HWK)**. Distinct from industry, which answers to the [IHK](#ihk).
 
 ### Handwerksordnung — HwO
