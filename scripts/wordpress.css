@@ -69,10 +69,10 @@
 }
 .entry-content:has(> .jig-page) blockquote p:last-child { margin-bottom: 0; }
 
-/* Tables: ruled rows, tinted header; on phones they scroll sideways. */
+/* Tables: ruled rows, tinted header; below 900px they scroll sideways. */
 .entry-content:has(> .jig-page) table {
   width: 100%;
-  font-size: 0.9375rem;
+  font-size: 0.875rem;
   line-height: 1.5;
   margin-bottom: 1.75rem;
   border: 1px solid var(--jig-line);
@@ -83,7 +83,7 @@
 }
 .entry-content:has(> .jig-page) th,
 .entry-content:has(> .jig-page) td {
-  padding: 0.6rem 0.85rem;
+  padding: 0.55rem 0.7rem;
   text-align: left;
   vertical-align: top;
   border: 0;
@@ -93,7 +93,6 @@
   background: var(--jig-soft);
   color: var(--jig-ink);
   font-weight: 600;
-  white-space: nowrap;
 }
 .entry-content:has(> .jig-page) tbody tr:last-child td { border-bottom: 0; }
 .entry-content:has(> .jig-page) tbody tr:hover td { background: var(--jig-soft); }
@@ -161,10 +160,27 @@
   text-decoration-thickness: 1px;
 }
 
+/* Narrow screens: wide tables scroll inside their border, with a shadow on
+ * whichever edge has more to see. The white "local" gradients cover the
+ * shadows once you reach that end. */
+@media (max-width: 900px) {
+  .entry-content:has(> .jig-page) table {
+    display: block;
+    width: fit-content;
+    max-width: 100%;
+    overflow-x: auto;
+    background:
+      linear-gradient(to right, var(--jig-bg) 40%, rgba(255, 255, 255, 0)) left / 1.5rem 100% no-repeat local,
+      linear-gradient(to left, var(--jig-bg) 40%, rgba(255, 255, 255, 0)) right / 1.5rem 100% no-repeat local,
+      linear-gradient(to right, rgba(26, 32, 44, 0.14), rgba(26, 32, 44, 0)) left / 0.75rem 100% no-repeat scroll,
+      linear-gradient(to left, rgba(26, 32, 44, 0.14), rgba(26, 32, 44, 0)) right / 0.75rem 100% no-repeat scroll;
+    background-color: var(--jig-bg);
+  }
+  .entry-content .jig-facts + table { display: table; background: var(--jig-bg); }
+}
+
 @media (max-width: 600px) {
   .entry-content:has(> .jig-page) { font-size: 1rem; }
-  .entry-content:has(> .jig-page) table { display: block; overflow-x: auto; }
-  .entry-content .jig-facts + table { display: table; }
   .entry-content .jig-facts + table td:first-child { width: 40%; }
   .entry-content:has(> .jig-page) h2 { font-size: 1.35rem; }
 }
