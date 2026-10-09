@@ -19,7 +19,8 @@ Links to anything not published (TODO.md, TEMPLATE.md, ...) point at GitHub.
 import json, os, re, subprocess, sys, tempfile, pathlib, unicodedata
 
 BASE = '/jobs-in-germany'
-GITHUB = 'https://github.com/rjcndev/jobs-in-germany/blob/main'
+REPO = 'https://github.com/rjcndev/jobs-in-germany'
+GITHUB = f'{REPO}/blob/main'
 BRANCH = 'wordpress'
 
 root = pathlib.Path(__file__).resolve().parent.parent
@@ -109,6 +110,12 @@ def link_tree(text):
     return re.sub(r'(?<=## Structure\n\n)```\n(.*?)```\n', repl, text, flags=re.S)
 
 
+def landing(text):
+    """The README as the site's landing page: linked folder tree, repo link."""
+    source = f'The source is on GitHub: [rjcndev/jobs-in-germany]({REPO}).\n\n'
+    return link_tree(text).replace('## Structure', source + '## Structure', 1)
+
+
 def convert(src, url, text=None):
     text = src.read_text() if text is None else text
     lines = text.split('\n')
@@ -174,7 +181,7 @@ with tempfile.TemporaryDirectory() as tmp:
             finally:
                 os.unlink(g.name)
         else:
-            text = link_tree(src.read_text()) if src == root / 'README.md' else None
+            text = landing(src.read_text()) if src == root / 'README.md' else None
             dest.write_text(convert(src, url, text))
 
     if problems:
