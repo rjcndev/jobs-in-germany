@@ -107,7 +107,7 @@ This is where it gets difficult. Read carefully.
 
 ## Sources
 
-- Berufskraftfahrer-Qualifikations-Gesetz (BKrFQG) — https://www.gesetze-im-internet.de/bkrfqg/ , accessed 2026-09
+- Berufskraftfahrer-Qualifikations-Gesetz (BKrFQG) — https://www.gesetze-im-internet.de/bkrfqg_2020/ , accessed 2026-10
 - Fahrerlaubnis-Verordnung (FeV) — https://www.gesetze-im-internet.de/fev_2010/ , accessed 2026-09
 - BAG / BALM — https://www.balm.bund.de , accessed 2026-09
 - BERUFENET — https://berufenet.arbeitsagentur.de , accessed 2026-09

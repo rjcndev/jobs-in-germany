@@ -142,6 +142,6 @@ about whether the 2004 reform or the 2020 reversal did more harm is unresolved.
 
 - Handwerksordnung, Anlage A and B1 — https://www.gesetze-im-internet.de/hwo , accessed 2026-09
 - Viertes Gesetz zur Änderung der Handwerksordnung (2020) — https://www.bgbl.de , accessed 2026-09
-- Zentralverband Raum und Ausstattung — https://www.zvr-ev.de , accessed 2026-09
+- Zentralverband Raum und Ausstattung — https://www.zvr.de , accessed 2026-10
 - ZDH, on the 2020 re-regulation — https://www.zdh.de , accessed 2026-09
 - BERUFENET — https://berufenet.arbeitsagentur.de , accessed 2026-09
