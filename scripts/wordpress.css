@@ -1,9 +1,35 @@
-/* Styles for the jobs-in-germany pages on rjcn.dev.
+/* Styles for rjcn.dev.
  *
- * Paste into WordPress: Appearance → Customize → Additional CSS. Every rule is
- * scoped to pages carrying the .jig-page marker that scripts/wordpress.py puts
- * at the top of each page, so the rest of the site is untouched. Colours come
- * from the Kadence palette, with fallbacks. */
+ * Paste into WordPress: Appearance → Customize → Additional CSS.
+ *
+ * The first block is site-wide dark mode: it follows the visitor's system
+ * setting by swapping the Kadence colour palette, which the whole theme draws
+ * from. Everything after it is scoped to pages carrying the .jig-page marker
+ * that scripts/wordpress.py puts at the top of each jobs-in-germany page, and
+ * takes its colours from the same palette, so it follows along. */
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --global-palette1: #6ba7ec;  /* accent, links */
+    --global-palette2: #9ac3f2;  /* accent hover */
+    --global-palette3: #f1f4f8;  /* headings */
+    --global-palette4: #d9dfe7;  /* strong text */
+    --global-palette5: #b7c1cd;  /* body text */
+    --global-palette6: #8a97a8;  /* muted text */
+    --global-palette7: #222a35;  /* borders, title banner */
+    --global-palette8: #0f1419;  /* page background */
+    --global-palette9: #171d25;  /* content background */
+    --global-palette9rgb: 23, 29, 37;
+    --jig-shadow: 0, 0, 0;
+    color-scheme: dark;
+  }
+  /* The header background is set in the Customizer as a fixed white. */
+  #masthead,
+  #masthead .kadence-sticky-header.item-is-fixed:not(.item-at-start):not(.site-header-row-container):not(.site-main-header-wrap),
+  #masthead .kadence-sticky-header.item-is-fixed:not(.item-at-start) > .site-header-row-container-inner {
+    background: var(--global-palette9);
+  }
+}
 
 .entry-content:has(> .jig-page) {
   --jig-accent: var(--global-palette1, #2b6cb0);
@@ -14,6 +40,7 @@
   --jig-soft: var(--global-palette8, #f7fafc);
   --jig-bg: var(--global-palette9, #fff);
   --jig-radius: 10px;
+  --jig-shade: var(--jig-shadow, 26, 32, 44);  /* rgb triple for shadows */
   color: var(--jig-text);
   font-size: 1.0625rem;
   line-height: 1.7;
@@ -100,7 +127,7 @@
 /* Key facts: a card with labels on the left, no header row. */
 .entry-content .jig-facts + table {
   background: var(--jig-bg);
-  box-shadow: 0 1px 3px rgba(26, 32, 44, 0.06);
+  box-shadow: 0 1px 3px rgba(var(--jig-shade), 0.06);
 }
 .entry-content .jig-facts + table thead { display: none; }
 .entry-content .jig-facts + table td:first-child {
@@ -133,7 +160,7 @@
 }
 .entry-content .jig-cards + ul li:hover {
   border-color: var(--jig-accent);
-  box-shadow: 0 4px 14px rgba(26, 32, 44, 0.08);
+  box-shadow: 0 4px 14px rgba(var(--jig-shade), 0.08);
   transform: translateY(-1px);
 }
 .entry-content .jig-cards + ul a {
@@ -173,8 +200,8 @@
     background:
       linear-gradient(to right, var(--jig-bg) 40%, rgba(255, 255, 255, 0)) left / 1.5rem 100% no-repeat local,
       linear-gradient(to left, var(--jig-bg) 40%, rgba(255, 255, 255, 0)) right / 1.5rem 100% no-repeat local,
-      linear-gradient(to right, rgba(26, 32, 44, 0.14), rgba(26, 32, 44, 0)) left / 0.75rem 100% no-repeat scroll,
-      linear-gradient(to left, rgba(26, 32, 44, 0.14), rgba(26, 32, 44, 0)) right / 0.75rem 100% no-repeat scroll;
+      linear-gradient(to right, rgba(var(--jig-shade), 0.14), rgba(var(--jig-shade), 0)) left / 0.75rem 100% no-repeat scroll,
+      linear-gradient(to left, rgba(var(--jig-shade), 0.14), rgba(var(--jig-shade), 0)) right / 0.75rem 100% no-repeat scroll;
     background-color: var(--jig-bg);
   }
   .entry-content .jig-facts + table { display: table; background: var(--jig-bg); }
