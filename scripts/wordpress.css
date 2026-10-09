@@ -2,14 +2,31 @@
  *
  * Paste into WordPress: Appearance → Customize → Additional CSS.
  *
- * The first block is site-wide dark mode: it follows the visitor's system
- * setting by swapping the Kadence colour palette, which the whole theme draws
- * from. Everything after it is scoped to pages carrying the .jig-page marker
+ * The first blocks are site-wide dark mode and the header's light/dark
+ * switch: dark mode swaps the Kadence colour palette, which the whole theme
+ * draws from. Everything after them is scoped to pages carrying the .jig-page marker
  * that scripts/wordpress.py puts at the top of each jobs-in-germany page, and
  * takes its colours from the same palette, so it follows along. */
 
+/* Dark palette: used when the visitor picks dark with the header switch
+ * (data-theme="dark", set by scripts/theme-toggle.html), or when they have
+ * made no choice and their system is set to dark. */
+:root[data-theme="dark"] {
+  --global-palette1: #6ba7ec;  /* accent, links */
+  --global-palette2: #9ac3f2;  /* accent hover */
+  --global-palette3: #f1f4f8;  /* headings */
+  --global-palette4: #d9dfe7;  /* strong text */
+  --global-palette5: #b7c1cd;  /* body text */
+  --global-palette6: #8a97a8;  /* muted text */
+  --global-palette7: #222a35;  /* borders, title banner */
+  --global-palette8: #0f1419;  /* page background */
+  --global-palette9: #171d25;  /* content background */
+  --global-palette9rgb: 23, 29, 37;
+  --jig-shadow: 0, 0, 0;
+  color-scheme: dark;
+}
 @media (prefers-color-scheme: dark) {
-  :root {
+  :root:not([data-theme="light"]) {
     --global-palette1: #6ba7ec;  /* accent, links */
     --global-palette2: #9ac3f2;  /* accent hover */
     --global-palette3: #f1f4f8;  /* headings */
@@ -23,13 +40,44 @@
     --jig-shadow: 0, 0, 0;
     color-scheme: dark;
   }
-  /* The header background is set in the Customizer as a fixed white. */
-  #masthead,
-  #masthead .kadence-sticky-header.item-is-fixed:not(.item-at-start):not(.site-header-row-container):not(.site-main-header-wrap),
-  #masthead .kadence-sticky-header.item-is-fixed:not(.item-at-start) > .site-header-row-container-inner {
-    background: var(--global-palette9);
-  }
 }
+
+/* The header background is set in the Customizer as a fixed white; tie it to
+ * the palette so it follows the mode (palette 9 is white in light mode). */
+#masthead,
+#masthead .kadence-sticky-header.item-is-fixed:not(.item-at-start):not(.site-header-row-container):not(.site-main-header-wrap),
+#masthead .kadence-sticky-header.item-is-fixed:not(.item-at-start) > .site-header-row-container-inner {
+  background: var(--global-palette9);
+}
+
+/* Light/dark switch in the header (added by scripts/theme-toggle.html) */
+.jig-theme-item { display: flex; align-items: center; }
+.jig-theme-toggle {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 2.25rem;
+  height: 2.25rem;
+  margin: 0 0.25rem;
+  padding: 0;
+  border: 1px solid var(--global-palette7);
+  border-radius: 999px;
+  background: transparent;
+  color: var(--global-palette4);
+  cursor: pointer;
+  transition: border-color 0.15s, color 0.15s;
+}
+.jig-theme-toggle:hover,
+.jig-theme-toggle:focus-visible {
+  border-color: var(--global-palette1);
+  color: var(--global-palette1);
+  background: transparent;
+}
+.jig-theme-toggle svg { width: 1.1rem; height: 1.1rem; }
+.jig-theme-toggle .jig-moon,
+:root[data-theme-effective="dark"] .jig-theme-toggle .jig-sun { display: block; }
+.jig-theme-toggle .jig-sun,
+:root[data-theme-effective="dark"] .jig-theme-toggle .jig-moon { display: none; }
 
 .entry-content:has(> .jig-page) {
   --jig-accent: var(--global-palette1, #2b6cb0);
