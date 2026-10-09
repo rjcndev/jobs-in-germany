@@ -110,8 +110,8 @@ def link_tree(text):
     return re.sub(r'(?<=## Structure\n\n)```\n(.*?)```\n', repl, text, flags=re.S)
 
 
-# README sections about maintaining the repo, left off the site.
-REPO_ONLY = ('Adding a profession', 'Checks', 'Publishing')
+# README sections for whoever maintains the repo, left off the site.
+REPO_ONLY = ('Adding a profession', 'Checks', 'Publishing', 'Conventions')
 
 
 def landing(text):
