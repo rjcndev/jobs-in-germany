@@ -1,0 +1,145 @@
+---
+title: "Language requirements, by profession"
+---
+
+Cross-reference over every profile in this repo. Figures are drawn from the individual
+files — if the two disagree, the profession file is the source of truth.
+
+## The distinction that matters {#the-distinction-that-matters}
+
+Two different things get called "the language requirement", and conflating them causes
+people to over- or under-prepare:
+
+- **Legally required** — what an authority demands before granting a licence, a
+  recognition, or a visa. A hard gate. Below this, you cannot proceed at all.
+- **Realistically needed** — what the job actually takes to do competently, and what
+  employers screen for. Usually **higher** than the legal minimum, and in unregulated
+  professions it is the *only* bar that exists.
+
+For regulated professions the legal minimum is the binding constraint. For free
+professions there is no legal minimum at all — but that does not make them accessible
+without German. It moves the bar from an authority to a hiring manager.
+
+## CEFR levels in practice {#cefr-levels-in-practice}
+
+| Level | What it means here |
+|---|---|
+| **A2** | Basic instructions, safety briefings with support. Enough for some warehouse work. |
+| **B1** | Routine workplace conversation. The floor for Berufsschule and most trades. |
+| **B2** | Independent professional communication. The standard licensing threshold in healthcare. |
+| **C1** | Fluent, nuanced, register-switching. Needed wherever writing, law or advising is the job. |
+
+Accepted certificates are usually **Goethe, telc, ÖSD, TestDaF** or **DSH**. Authorities
+vary in what they accept — check with the specific body, not with a general list.
+
+## The table {#the-table}
+
+| Profession | Legally required | Realistically needed | Notes |
+|---|---|---|---|
+| [Arzt / Ärztin](/jobs-in-germany/healthcare/arzt-aerztin/) | **B2 general + C1 medical** (Fachsprachprüfung) | C1 | The FSP, not clinical knowledge, is the usual failure point |
+| [Zahnarzt / Zahnärztin](/jobs-in-germany/healthcare/zahnarzt-zahnaerztin/) | **B2 general + C1 professional** (Fachsprachprüfung) | C1 | Examined by the Zahnärztekammer; treatment-cost conversations are a daily part of the job |
+| [Psychotherapeut/in](/jobs-in-germany/healthcare/psychotherapeut-in/) | **C1**, assessed in the Approbation procedure | **C1** | Language *is* the treatment — nuance and register are the working instrument |
+| [Wirtschaftsprüfer/in](/jobs-in-germany/commercial/wirtschaftspruefer-in/) | **C1** — the examination is in German | **C1** | The audit opinion is a German legal document |
+| [Lehrer/in](/jobs-in-germany/education/lehrer-in/) | **C1 minimum, C2 commonly required** | **C2** | The highest bar here — you model the language of instruction |
+| [Notar/in](/jobs-in-germany/commercial/notar-in/) | **Both German state law examinations** | **Near-native** | The office is drafting, reading aloud and explaining instruments to non-lawyers |
+| [Fluglotse / Fluglotsin](/jobs-in-germany/logistics/fluglotse-fluglotsin/) | **ICAO English Level 4 _and_ German**, both tested | **Near-native German** plus fluent English | The only double language requirement in this repo; domestic VFR traffic is worked in German |
+| [Polizist/in](/jobs-in-germany/public-service/polizist-in/) | **C1 minimum**, tested in selection | **Near-native** | Statements and reports are evidential; de-escalation happens under stress |
+| [Feuerwehrmann / Feuerwehrfrau](/jobs-in-germany/public-service/feuerwehrmann-frau/) | **C1** | C1 | Radio traffic, incident command and casualty handover are time-critical |
+| [Zollbeamte/r](/jobs-in-germany/public-service/zollbeamte-r/) | **C1** | C1 | The gehobener Dienst training is a law degree; decisions are binding legal acts |
+| [Steuerbeamte/r](/jobs-in-germany/public-service/steuerbeamte-r/) | **C1** | C1 | Assessments are binding legal acts; appeals turn on written reasoning |
+| [Apotheker/in](/jobs-in-germany/healthcare/apotheker-in/) | **B2 general + C1 professional** (Fachsprachprüfung) | C1 | German pharmacy law and reimbursement are the exam's substance |
+| [Steuerfachangestellte/r](/jobs-in-germany/commercial/steuerfachangestellte-r/) | None — unregulated | **C1** | Tax law, Finanzamt correspondence, client advice |
+| [Rechtsanwaltsfachangestellte/r](/jobs-in-germany/commercial/rechtsanwaltsfachangestellte-r/) | None — unregulated | **C1** | ZPO deadlines and court correspondence; unforgiving of error |
+| [Bankkaufmann/-frau](/jobs-in-germany/commercial/bankkaufmann-frau/) | None for the title | **C1** | Advisory conversations carry legal weight and are documented |
+| [Immobilienkaufmann/-frau](/jobs-in-germany/commercial/immobilienkaufmann-frau/) | None for the title | **C1** | Tenancy law, service-charge accounting and owners' meetings — adversarial and documented |
+| [Versicherungen und Finanzanlagen](/jobs-in-germany/commercial/kaufmann-frau-versicherungen-finanzanlagen/) | None for the title; **the IHK Sachkunde exam is in German** | **C1** | Advice is documented and legally consequential; the products are German legal constructs |
+| [Erzieher/in](/jobs-in-germany/education/erzieher-in/) | **B2**, several states **C1** | C1 | Higher bar than pay suggests: supporting children's language development |
+| [Sozialarbeiter/in](/jobs-in-germany/education/sozialarbeiter-in/) | **C1** in practice, set by the state Anerkennung | **C1** | Case documentation is evidential and court reports are read by judges |
+| [Kaufmann/-frau für Büromanagement](/jobs-in-germany/commercial/kaufmann-frau-fuer-bueromanagement/) | None — unregulated | **B2–C1** | Correspondence and phone work are the job |
+| [Notfallsanitäter/in](/jobs-in-germany/healthcare/notfallsanitaeter-in/) | **B2** | **C1** | Handover, radio and documentation are time-critical and unforgiving |
+| [Pflegefachfrau/-mann](/jobs-in-germany/healthcare/pflegefachfrau-pflegefachmann/) | **B2** | B2–C1 | Some states and employers add a care-specific test |
+| [MT / MTA](/jobs-in-germany/healthcare/medizinische-technologin-mt-mta/) | **B2** | B2–C1 | C1 more often expected in patient-facing MTR |
+| [ATA / OTA](/jobs-in-germany/healthcare/ata-ota/) | **B2** | B2–C1 | Theatre communication is terse, fast and safety-critical; the swab count is called aloud |
+| [Hebamme](/jobs-in-germany/healthcare/hebamme/) | **B2** | **C1** | Consent, escalation and handover under time pressure |
+| [Physiotherapeut/in](/jobs-in-germany/healthcare/physiotherapeut-in/) | **B2** | B2 | Patient instruction is continuous |
+| [Logopädie / Ergotherapie](/jobs-in-germany/healthcare/therapieberufe-logopaedie-ergotherapie/) | **B2** | **Near-native for Logopädie**; B2–C1 for Ergotherapie | The only profession here where German is the *object* of the work, not the medium |
+| [Pflegefachassistenz / Pflegehelfer/in](/jobs-in-germany/healthcare/pflegefachassistenz-pflegehelfer-in/) | None federally — **state-set** | **B1** | A2 is enough to enter under an Anerkennungspartnerschaft; handover and documentation need more |
+| [PTA — Pharmazeutisch-technische/r Assistent/in](/jobs-in-germany/healthcare/pharmazeutisch-technische-r-assistent-in/) | **B2** | B2–C1 | Dispensing advice is patient-facing and a wrong dose instruction is a safety event |
+| [MFA — Medizinische/r Fachangestellte/r](/jobs-in-germany/healthcare/medizinische-fachangestellte-r/) | None — unregulated | **B2** | Telephone triage, distressed patients and precise documentation — a high bar at low pay |
+| [Industriekaufmann/-frau](/jobs-in-germany/commercial/industriekaufmann-frau/) | None | **B2–C1** | Purchasing and sales often need German *and* English |
+| [Spedition und Logistikdienstleistung](/jobs-in-germany/logistics/kaufmann-frau-spedition-logistikdienstleistung/) | None | **B2** | English is genuinely half the job — a rare case |
+| [Ingenieur/in](/jobs-in-germany/engineering/ingenieur-in/) | None | **B2+**, varies sharply | English viable in corporate R&D; German essential in Mittelstand and construction |
+| [Wissenschaftliche/r Mitarbeiter/in](/jobs-in-germany/services/wissenschaftliche-r-mitarbeiter-in/) | None | **Discipline-dependent** — English viable in the sciences, C1 German in the humanities | **Teaching duties are usually in German**; establish this before accepting |
+| [Architekt/in](/jobs-in-germany/engineering/architekt-in/) | None to do the work; Kammer entry is assessed in German | **C1** | Building law, authority correspondence and site instruction that becomes evidence |
+| [Bauzeichner/in](/jobs-in-germany/engineering/bauzeichner-in/) | None — unregulated | **B2** | Drawings are annotated in German and the norms are German |
+| [Pilot/in](/jobs-in-germany/logistics/pilot-in/) | **ICAO English Level 4** — German not legally required | **B2 German** to be hired here | The licence runs on English; German carriers hire on German |
+| [Hotelfachmann/-frau](/jobs-in-germany/hospitality/hotelfachmann-frau/) | None | **B1–B2** | English an asset, not a substitute |
+| [Fachkraft für Schutz und Sicherheit](/jobs-in-germany/security/fachkraft-fuer-schutz-und-sicherheit/) | None — but the **§34a exam is in German** | **B2** | Reports, legal limits, DSGVO duties, liaison with authorities |
+| [Sicherheitsmitarbeiter/in](/jobs-in-germany/security/sicherheitsmitarbeiter-in/) | None — but the **§34a exam is in German** | **B1–B2** | The Sachkundeprüfung is a legal exam, and it is what separates the pay bands |
+| [Barkeeper/in](/jobs-in-germany/hospitality/barkeeper-in/) | None | **B1** | City bars often run in English; age-verification and licensing duties are in German |
+| [Elektroniker/in EGT](/jobs-in-germany/skilled-trades/elektroniker-in-energie-und-gebaeudetechnik/) | None to be employed | **B1–B2** | Site safety and VDE norms are in German |
+| [Elektroniker/in Betriebstechnik](/jobs-in-germany/industrial/elektroniker-in-betriebstechnik/) | None | **B1–B2** | Safety instruction, VDE and shift handover in German |
+| [Elektroniker — Automatisierung, GSI, Industrieelektriker](/jobs-in-germany/industrial/elektroniker-weitere-fachrichtungen/) | None | **B1–B2** | VDE standards and safety instruction in German; commissioning abroad often runs in English |
+| [Mechatroniker/in](/jobs-in-germany/industrial/mechatroniker-in/) | None | **B1–B2** | Commissioning teams abroad often work in English |
+| [Industriemechaniker/in](/jobs-in-germany/industrial/industriemechaniker-in/) | None | **B1–B2** | Drawings and shift handover in German; Montage abroad often English |
+| [Zerspanungsmechaniker/in](/jobs-in-germany/industrial/zerspanungsmechaniker-in/) | None | **B1–B2** | Drawings, tolerances and quality documentation in German |
+| [Werkzeugmechaniker/in](/jobs-in-germany/industrial/werkzeugmechaniker-in/) | None | **B1–B2** | Try-out is collaborative problem-solving — harder in a second language |
+| [Konstruktionsmechaniker/in](/jobs-in-germany/industrial/konstruktionsmechaniker-in/) | None | **B1–B2** | Welding procedure specs and site safety coordination in German |
+| [Anlagenmechaniker/in SHK](/jobs-in-germany/skilled-trades/anlagenmechaniker-in-shk/) | None to be employed | **B1–B2** | Constant customer contact in people's homes |
+| [Kfz-Mechatroniker/in](/jobs-in-germany/skilled-trades/kraftfahrzeugmechatroniker-in/) | None to be employed | **B1–B2** | Diagnostic software and manufacturer documentation are in German |
+| [Forstwirt/in](/jobs-in-germany/green/forstwirt-in/) | None | **B1–B2** | Felling coordination and emergency communication — a misunderstanding is not harmless |
+| [Landwirt/in](/jobs-in-germany/green/landwirt-in/) | None | **B1–B2** | Machinery safety, animal health, and a great deal of German documentation |
+| [Gärtner/in](/jobs-in-germany/green/gaertner-in/) | None | **B1–B2** | Plant names in German and Latin; GaLaBau adds private customers |
+| [Winzer/in](/jobs-in-germany/green/winzer-in/) | None | **B1–B2 to work, C1 to sell** | Direct sales are half the job at a small estate |
+| [Tierwirt/in](/jobs-in-germany/green/tierwirt-in/) | None | **B1–B2** | Animal health, medicine records and machinery safety |
+| [Pferdewirt/in](/jobs-in-germany/green/pferdewirt-in/) | None | **B1–B2** | Owners are customers with strong opinions; vets and transport need precision |
+| [Fachkraft Agrarservice](/jobs-in-germany/green/fachkraft-agrarservice/) | None | **B1–B2** | You are working on other people's farms — customer contact plus application documentation |
+| [Fischwirt/in](/jobs-in-germany/green/fischwirt-in/) | None | **B1–B2** | More for authority and advisory roles; sea-going safety training is in German |
+| [Hauswirtschafter/in](/jobs-in-germany/green/hauswirtschafter-in/) | None | **B1–B2** | Allergen and diet information, HACCP documentation, and care-home residents |
+| [Metallbauer/in](/jobs-in-germany/skilled-trades/metallbauer-in/) | None to be employed | **B2** | In customers' buildings daily — more language-dependent than the industrial metal trades |
+| [Maurer/in](/jobs-in-germany/skilled-trades/maurer-in/) | None to be employed | **B1–B2** | Site instruction and safety briefings; the Bau Berufsschule is unadapted German |
+| [Zimmerer / Zimmerin](/jobs-in-germany/skilled-trades/zimmerer-zimmerin/) | None to be employed | **B1–B2** | Crane signalling, structural drawings and site coordination |
+| [Dachdecker/in](/jobs-in-germany/skilled-trades/dachdecker-in/) | None to be employed | **B1–B2** | Safety coordination at height, and constant customer contact on domestic roofs |
+| [Gerüstbauer/in](/jobs-in-germany/skilled-trades/geruestbauer-in/) | None to be employed — **but the safety training is in German** | **B1–B2** | Erection is verbal coordination at height, and the Freigabe is a document you sign |
+| [Straßenbauer / Beton- und Stahlbetonbauer](/jobs-in-germany/skilled-trades/strassenbauer-betonbauer/) | None to be employed | **B1–B2** | Setting out, traffic-management briefings, and residents if you work for a municipality |
+| [Friseur/in](/jobs-in-germany/skilled-trades/friseur-in/) | None to be employed | **B2** | **The highest language bar at the lowest pay in this repo** — consultation is the work |
+| [Tischler/in — Schreiner/in](/jobs-in-germany/skilled-trades/tischler-in/) | None to be employed | **B2** | Measuring and agreeing changes in customers' homes |
+| [Raumausstatter/in](/jobs-in-germany/skilled-trades/raumausstatter-in/) | None to be employed | **B2** | A consultative trade practised in customers' homes — measuring, advising, agreeing changes |
+| [Fliesen-, Platten- und Mosaikleger/in](/jobs-in-germany/skilled-trades/fliesenleger-in/) | None to be employed | **B1–B2** | Site coordination, and domestic customers whose bathroom you are standing in |
+| [Konditor/in](/jobs-in-germany/skilled-trades/konditor-in/) | None to be employed | **B1–B2** | B1 for production; B2 for occasion-cake consultations |
+| [Fleischer/in — Metzger/in](/jobs-in-germany/skilled-trades/fleischer-in/) | None to be employed | **B1–B2** | More needed in a counter-facing role |
+| [Bäcker/in](/jobs-in-germany/skilled-trades/baecker-in/) | None to be employed | **B1** | Production work is among the least language-dependent here |
+| [Berufskraftfahrer/in](/jobs-in-germany/logistics/berufskraftfahrer-in/) | None directly — but the **theory test** is a real gate | **B1** | Test language availability varies by authority |
+| [Triebfahrzeugführer/in](/jobs-in-germany/logistics/triebfahrzeugfuehrer-in/) | **B2 in practice** — radio wordings and rules are examined in German | **B2** | EU rules set roughly B1 as a floor; German operators ask for more, for obvious reasons |
+| [Koch / Köchin](/jobs-in-germany/hospitality/koch-koechin/) | None | **B1**, B2 to progress | Kitchen German is learnable on the job; HACCP paperwork is not |
+| [Restaurant- und Veranstaltungsgastronomie](/jobs-in-germany/hospitality/fachmann-frau-restaurants-veranstaltungsgastronomie/) | None | **B1**, B2 to progress | Casual service can run on English; wine advice and event coordination cannot |
+| [Fachkraft für Lagerlogistik](/jobs-in-germany/logistics/fachkraft-fuer-lagerlogistik/) | None | **A2–B1**, B2 to supervise | Lowest bar in the repo; employers must still ensure safety instruction is understood |
+| [Gebäudereiniger/in](/jobs-in-germany/services/gebaeudereiniger-in/) | None | **A2–B1**, B2 to supervise | Hazard communication, chemical labelling and hygiene protocols |
+| [Fachkraft für Veranstaltungstechnik](/jobs-in-germany/services/fachkraft-fuer-veranstaltungstechnik/) | None | **B1–B2** | Touring runs on English; the German venue, its fire officer and its paperwork do not |
+| [Reinigungskraft](/jobs-in-germany/services/reinigungskraft/) | None — **no qualification exists** | **A2**, B1 for better sites | Hazard labels and chemical instructions are German |
+| [Haushaltshilfe](/jobs-in-germany/services/haushaltshilfe/) | None — **no qualification exists** | **A2** | More if you arrange the work yourself |
+| [Fachinformatiker/in](/jobs-in-germany/it/fachinformatiker-in/) | **B1–B2** if training here | B1–B2 | Berufsschule and its exam are in German, without exception |
+| [Softwareentwickler/in](/jobs-in-germany/it/softwareentwickler-in/) | **None** — explicitly none on the §19c(2) route | Often none | The only profession here where you can build a career without German |
+
+## Patterns worth noticing {#patterns-worth-noticing}
+
+**Language difficulty does not track pay.** [Friseur/in](/jobs-in-germany/skilled-trades/friseur-in/)
+is the extreme case — the lowest entry pay in the repo and a B2 requirement, because
+consultation *is* the work. Steuerfachangestellte,
+Rechtsanwaltsfachangestellte and Erzieher/in all demand C1 at mid-range salaries, while software development pays the most and can require
+no German at all. If German is your constraint, this table is a better guide to what to
+aim at than any salary table.
+
+**The Ausbildung route always requires German**, whatever the occupation. Berufsschule is
+taught and examined in German. A2 or B1 entry jobs exist, but the *qualification* route
+behind them does not accommodate non-German speakers.
+
+**Regulated professions gate on a certificate; free professions gate on performance.** A
+B2 certificate satisfies a licensing authority. It does not satisfy an employer who needs
+you to write client correspondence — hence the gap between the two columns in the
+commercial roles.
+
+**Medical German is a separate skill.** The Fachsprachprüfung tests register-switching
+between patient, colleague and documentation. Doctors with strong everyday German fail it
+routinely. Prepare for it specifically. Pharmacists sit an equivalent exam at the
+Apothekerkammer, and it is the usual obstacle for them too.
