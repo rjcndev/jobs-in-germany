@@ -1,5 +1,5 @@
 ---
-title: "Public service (öffentlicher Dienst) — the Beamten careers <a id=\"public-service-öffentlicher-dienst--the-beamten-careers\"></a>"
+title: "Public service (öffentlicher Dienst) — the Beamten careers"
 ---
 
 Professions entered as a **Beamter/Beamtin** rather than an employee. Read

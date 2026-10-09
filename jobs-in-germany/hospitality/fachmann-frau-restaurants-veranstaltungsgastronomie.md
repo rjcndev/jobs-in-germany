@@ -1,5 +1,5 @@
 ---
-title: "Fachmann/-frau für Restaurants und Veranstaltungsgastronomie — \"Kellner\" <a id=\"fachmann-frau-für-restaurants-und-veranstaltungsgastronomie--kellner\"></a>"
+title: "Fachmann/-frau für Restaurants und Veranstaltungsgastronomie — \"Kellner\""
 ---
 
 > Restaurant and event service. Unusually in this repo, **most people doing this job do not

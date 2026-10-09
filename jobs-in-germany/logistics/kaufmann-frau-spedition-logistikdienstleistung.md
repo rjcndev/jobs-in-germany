@@ -1,5 +1,5 @@
 ---
-title: "Kaufmann/-frau für Spedition und Logistikdienstleistung (Freight Forwarding Clerk) <a id=\"kaufmann-frau-für-spedition-und-logistikdienstleistung-freight-forwarding-clerk\"></a>"
+title: "Kaufmann/-frau für Spedition und Logistikdienstleistung (Freight Forwarding Clerk)"
 ---
 
 > Organises the movement of goods rather than moving them: routing, carrier contracting,

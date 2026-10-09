@@ -1,5 +1,5 @@
 ---
-title: "Kaufmann/-frau für Versicherungen und Finanzanlagen (Insurance and Financial Services Agent) <a id=\"kaufmann-frau-für-versicherungen-und-finanzanlagen-insurance-and-financial-services-agent\"></a>"
+title: "Kaufmann/-frau für Versicherungen und Finanzanlagen (Insurance and Financial Services Agent)"
 ---
 
 > Completes the finance-sector permit picture. [Banking](/jobs-in-germany/commercial/bankkaufmann-frau/) is gated by

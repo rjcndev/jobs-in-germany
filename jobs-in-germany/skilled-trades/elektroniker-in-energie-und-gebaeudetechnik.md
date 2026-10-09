@@ -1,5 +1,5 @@
 ---
-title: "Elektroniker/in für Energie- und Gebäudetechnik (Electrician) <a id=\"elektronikerin-für-energie--und-gebäudetechnik-electrician\"></a>"
+title: "Elektroniker/in für Energie- und Gebäudetechnik (Electrician)"
 ---
 
 > Installs and maintains electrical systems in buildings. A Handwerk trade with the

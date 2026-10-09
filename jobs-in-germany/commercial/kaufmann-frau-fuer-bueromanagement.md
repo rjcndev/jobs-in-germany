@@ -1,5 +1,5 @@
 ---
-title: "Kaufmann/-frau für Büromanagement (Office Management Clerk) <a id=\"kaufmann-frau-für-büromanagement-office-management-clerk\"></a>"
+title: "Kaufmann/-frau für Büromanagement (Office Management Clerk)"
 ---
 
 > Germany's single most common Ausbildung. Administration, correspondence, scheduling,

@@ -1,5 +1,5 @@
 ---
-title: "Notfallsanitäter/in (Paramedic) <a id=\"notfallsanitäterin-paramedic\"></a>"
+title: "Notfallsanitäter/in (Paramedic)"
 ---
 
 > The highest non-physician qualification in German emergency medicine. Since 2021 it

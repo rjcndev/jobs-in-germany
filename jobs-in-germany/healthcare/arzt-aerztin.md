@@ -1,5 +1,5 @@
 ---
-title: "Arzt / Ärztin (Physician) <a id=\"arzt--ärztin-physician\"></a>"
+title: "Arzt / Ärztin (Physician)"
 ---
 
 > Diagnoses and treats patients. The most heavily regulated profession in this repo, and

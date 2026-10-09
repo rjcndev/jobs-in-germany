@@ -1,5 +1,5 @@
 ---
-title: "Wirtschaftsprüfer/in (Statutory Auditor) <a id=\"wirtschaftsprüferin-statutory-auditor\"></a>"
+title: "Wirtschaftsprüfer/in (Statutory Auditor)"
 ---
 
 > A **reserved activity** under the WPO — only a Wirtschaftsprüfer may sign a statutory audit

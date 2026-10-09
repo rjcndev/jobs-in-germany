@@ -1,5 +1,5 @@
 ---
-title: "Koch / Köchin (Chef / Cook) <a id=\"koch--köchin-chef--cook\"></a>"
+title: "Koch / Köchin (Chef / Cook)"
 ---
 
 > Cooks professionally. Unregulated, chronically short-staffed, and one of the few German

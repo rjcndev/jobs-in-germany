@@ -1,5 +1,5 @@
 ---
-title: "Gärtner/in (Horticulturist / Landscape Gardener) <a id=\"gärtnerin-horticulturist--landscape-gardener\"></a>"
+title: "Gärtner/in (Horticulturist / Landscape Gardener)"
 ---
 
 > Seven Fachrichtungen under one job title, and they are not variations on a theme — the

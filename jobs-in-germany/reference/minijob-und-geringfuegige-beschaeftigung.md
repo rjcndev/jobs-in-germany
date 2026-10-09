@@ -1,5 +1,5 @@
 ---
-title: "Minijob and geringfügige Beschäftigung <a id=\"minijob-and-geringfügige-beschäftigung\"></a>"
+title: "Minijob and geringfügige Beschäftigung"
 ---
 
 A large share of German employment is not a job in the sense the rest of this repo

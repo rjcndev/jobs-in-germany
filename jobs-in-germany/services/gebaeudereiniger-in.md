@@ -1,5 +1,5 @@
 ---
-title: "Gebäudereiniger/in (Building Cleaner — the skilled trade) <a id=\"gebäudereinigerin-building-cleaner--the-skilled-trade\"></a>"
+title: "Gebäudereiniger/in (Building Cleaner — the skilled trade)"
 ---
 
 > **The largest Handwerk trade in Germany by headcount**, and absent from this repo until

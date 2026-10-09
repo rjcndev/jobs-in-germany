@@ -1,5 +1,5 @@
 ---
-title: "Elektroniker/in für Betriebstechnik (Industrial Electrician) <a id=\"elektronikerin-für-betriebstechnik-industrial-electrician\"></a>"
+title: "Elektroniker/in für Betriebstechnik (Industrial Electrician)"
 ---
 
 > Keeps a factory's electrical systems running. Same trade name as the

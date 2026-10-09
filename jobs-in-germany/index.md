@@ -11,23 +11,20 @@ on authority websites, and in application forms, so translating them away is unh
 
 ## Structure {#structure}
 
-```
-reference/          cross-cutting tables — start here if you are choosing a profession
-jobs/
-├── healthcare/
-├── education/
-├── it/
-├── engineering/
-├── skilled-trades/
-├── green/
-├── services/
-├── security/
-├── public-service/
-├── industrial/
-├── commercial/
-├── logistics/
-└── hospitality/
-```
+- [reference](/jobs-in-germany/reference/) — cross-cutting tables — start here if you are choosing a profession
+- [healthcare](/jobs-in-germany/healthcare/)
+- [education](/jobs-in-germany/education/)
+- [it](/jobs-in-germany/it/)
+- [engineering](/jobs-in-germany/engineering/)
+- [skilled-trades](/jobs-in-germany/skilled-trades/)
+- [green](/jobs-in-germany/green/)
+- [services](/jobs-in-germany/services/)
+- [security](/jobs-in-germany/security/)
+- [public-service](/jobs-in-germany/public-service/)
+- [industrial](/jobs-in-germany/industrial/)
+- [commercial](/jobs-in-germany/commercial/)
+- [logistics](/jobs-in-germany/logistics/)
+- [hospitality](/jobs-in-germany/hospitality/)
 
 One file per profession, named after the German job title in kebab-case.
 

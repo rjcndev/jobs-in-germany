@@ -1,5 +1,5 @@
 ---
-title: "Gerüstbauer/in (Scaffolder) <a id=\"gerüstbauerin-scaffolder\"></a>"
+title: "Gerüstbauer/in (Scaffolder)"
 ---
 
 > Builds the fall protection that every other trade on the site depends on, and is exposed

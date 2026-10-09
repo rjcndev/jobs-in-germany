@@ -1,5 +1,5 @@
 ---
-title: "Triebfahrzeugführer/in (Train Driver) <a id=\"triebfahrzeugführerin-train-driver\"></a>"
+title: "Triebfahrzeugführer/in (Train Driver)"
 ---
 
 > The rail counterpart to [Berufskraftfahrer/in](/jobs-in-germany/logistics/berufskraftfahrer-in/), and structurally

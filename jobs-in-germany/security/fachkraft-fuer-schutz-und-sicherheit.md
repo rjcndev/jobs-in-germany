@@ -1,5 +1,5 @@
 ---
-title: "Fachkraft für Schutz und Sicherheit (Security Specialist) <a id=\"fachkraft-für-schutz-und-sicherheit-security-specialist\"></a>"
+title: "Fachkraft für Schutz und Sicherheit (Security Specialist)"
 ---
 
 > The three-year qualification above the §34a courses. Legally it unlocks nothing extra —

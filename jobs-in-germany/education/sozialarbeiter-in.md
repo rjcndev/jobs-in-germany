@@ -1,5 +1,5 @@
 ---
-title: "Sozialarbeiter/in — Sozialpädagoge/in (Social Worker) <a id=\"sozialarbeiterin--sozialpädagogein-social-worker\"></a>"
+title: "Sozialarbeiter/in — Sozialpädagoge/in (Social Worker)"
 ---
 
 > A Bachelor that is not enough on its own. The degree qualifies you; the **staatliche

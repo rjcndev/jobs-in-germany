@@ -1,5 +1,5 @@
 ---
-title: "Fachkraft für Lagerlogistik (Warehouse Logistics Specialist) <a id=\"fachkraft-für-lagerlogistik-warehouse-logistics-specialist\"></a>"
+title: "Fachkraft für Lagerlogistik (Warehouse Logistics Specialist)"
 ---
 
 > Runs warehouse operations: goods receipt, storage, picking, dispatch and the paperwork

@@ -1,5 +1,5 @@
 ---
-title: "Grüne Berufe — agriculture, forestry and horticulture <a id=\"grüne-berufe--agriculture-forestry-and-horticulture\"></a>"
+title: "Grüne Berufe — agriculture, forestry and horticulture"
 ---
 
 Fourteen recognised occupations covering farming, forestry, horticulture, viticulture,

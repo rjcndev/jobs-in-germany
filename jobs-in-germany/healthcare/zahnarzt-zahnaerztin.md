@@ -1,5 +1,5 @@
 ---
-title: "Zahnarzt / Zahnärztin (Dentist) <a id=\"zahnarzt--zahnärztin-dentist\"></a>"
+title: "Zahnarzt / Zahnärztin (Dentist)"
 ---
 
 > Approbation, like a doctor — but with two things medicine does not have: **no specialist

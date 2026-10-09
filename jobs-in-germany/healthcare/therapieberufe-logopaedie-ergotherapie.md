@@ -1,5 +1,5 @@
 ---
-title: "Logopäde/in und Ergotherapeut/in (Speech and Occupational Therapy) <a id=\"logopädein-und-ergotherapeutin-speech-and-occupational-therapy\"></a>"
+title: "Logopäde/in und Ergotherapeut/in (Speech and Occupational Therapy)"
 ---
 
 > Two regulated professions written as one file, because their structural story is

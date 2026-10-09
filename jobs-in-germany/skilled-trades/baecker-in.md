@@ -1,5 +1,5 @@
 ---
-title: "Bäcker/in (Baker) <a id=\"bäckerin-baker\"></a>"
+title: "Bäcker/in (Baker)"
 ---
 
 > Bread, rolls and Feingebäck, produced overnight. The trade whose working hours define it,

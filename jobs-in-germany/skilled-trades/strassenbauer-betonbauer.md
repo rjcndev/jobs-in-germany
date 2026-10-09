@@ -1,5 +1,5 @@
 ---
-title: "Straßenbauer/in und Beton- und Stahlbetonbauer/in (Road Builder; Concrete and Reinforced Concrete Worker) <a id=\"straßenbauerin-und-beton--und-stahlbetonbauerin-road-builder-concrete-and-reinforced-concrete-worker\"></a>"
+title: "Straßenbauer/in und Beton- und Stahlbetonbauer/in (Road Builder; Concrete and Reinforced Concrete Worker)"
 ---
 
 > The two trades that build infrastructure rather than buildings. Written together because

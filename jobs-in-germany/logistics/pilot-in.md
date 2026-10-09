@@ -1,5 +1,5 @@
 ---
-title: "Pilot/in — Verkehrsflugzeugführer/in (Airline Pilot) <a id=\"pilotin--verkehrsflugzeugführerin-airline-pilot\"></a>"
+title: "Pilot/in — Verkehrsflugzeugführer/in (Airline Pilot)"
 ---
 
 > The extreme case of a theme that runs through this repo: **what it costs to be allowed to

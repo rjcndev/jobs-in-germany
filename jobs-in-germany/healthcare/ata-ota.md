@@ -1,5 +1,5 @@
 ---
-title: "ATA / OTA — Anästhesie- und Operationstechnische Assistenz (Anaesthesia and Surgical Assistants) <a id=\"ata--ota--anästhesie--und-operationstechnische-assistenz-anaesthesia-and-surgical-assistants\"></a>"
+title: "ATA / OTA — Anästhesie- und Operationstechnische Assistenz (Anaesthesia and Surgical Assistants)"
 ---
 
 > **Federally regulated since 2022**, and before that not regulated at all. The clearest

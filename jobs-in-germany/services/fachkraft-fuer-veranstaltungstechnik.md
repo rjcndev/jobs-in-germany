@@ -1,5 +1,5 @@
 ---
-title: "Fachkraft für Veranstaltungstechnik (Event and Stage Technician) <a id=\"fachkraft-für-veranstaltungstechnik-event-and-stage-technician\"></a>"
+title: "Fachkraft für Veranstaltungstechnik (Event and Stage Technician)"
 ---
 
 > Stage, lighting, sound, video, rigging and power for everything from a municipal theatre to
