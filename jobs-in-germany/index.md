@@ -309,18 +309,6 @@ for non-EU citizens.** Nobody needs recognition to cook or to work a hotel recep
 the skilled-worker *visa* requires a recognised qualification anyway. Employers will hire
 you without it; the Ausländerbehörde will not issue the permit. Sort recognition first.
 
-## Conventions {#conventions}
-
-- **Titles.** Give the German title first, English gloss second. Note whether the title is
-  legally protected (*geschützte Berufsbezeichnung*) — this decides whether recognition is
-  mandatory or merely helpful.
-- **Money.** Gross monthly (*brutto*) unless stated otherwise, since that is how German
-  contracts and collective agreements quote it. Name the collective agreement
-  (TVöD, TV-L, IG Metall, …) and pay grade where one applies.
-- **Numbers are approximate** and drift. Date them, and cite the source.
-- **Recognition rules are federal in law, cantonal in practice** — competent authorities
-  differ per Bundesland. Say so rather than naming one state's office as if it were national.
-
 ## Sources worth citing {#sources-worth-citing}
 
 - [anerkennung-in-deutschland.de](https://www.anerkennung-in-deutschland.de) — official recognition portal, multilingual
