@@ -64,15 +64,15 @@ Whatever you do: **keep the membership number and the annual statement**, and te
 
 ## Who this applies to in this repo {#who-this-applies-to-in-this-repo}
 
-| Profession | Versorgungswerk |
-|---|---|
-| [Arzt / Ärztin](/jobs-in-germany/healthcare/arzt-aerztin/) <span class="jig-en">Physician</span> | Ärzteversorgung — the largest and oldest group |
-| [Apotheker/in](/jobs-in-germany/healthcare/apotheker-in/) <span class="jig-en">Pharmacist</span> | Apothekerversorgung |
-| [Zahnarzt / Zahnärztin](/jobs-in-germany/healthcare/zahnarzt-zahnaerztin/) <span class="jig-en">Dentist</span> | Zahnärzteversorgung |
-| [Psychotherapeut/in](/jobs-in-germany/healthcare/psychotherapeut-in/) <span class="jig-en">Psychotherapist</span> | Via the Psychotherapeutenkammer; arrangements vary by state |
-| [Architekt/in](/jobs-in-germany/engineering/architekt-in/) <span class="jig-en">Architect</span> | Architektenversorgung in most states; joint schemes in others |
-| **Rechtsanwalt/-anwältin**, **Notar/in** | Rechtsanwaltsversorgung — reachable from [Rechtsanwaltsfachangestellte/r](/jobs-in-germany/commercial/rechtsanwaltsfachangestellte-r/) |
-| **Steuerberater/in** | Steuerberaterversorgung — reachable from [Steuerfachangestellte/r](/jobs-in-germany/commercial/steuerfachangestellte-r/) |
+| Profession | English | Versorgungswerk |
+|---|---|---|
+| [Arzt / Ärztin](/jobs-in-germany/healthcare/arzt-aerztin/) | Physician | Ärzteversorgung — the largest and oldest group |
+| [Apotheker/in](/jobs-in-germany/healthcare/apotheker-in/) | Pharmacist | Apothekerversorgung |
+| [Zahnarzt / Zahnärztin](/jobs-in-germany/healthcare/zahnarzt-zahnaerztin/) | Dentist | Zahnärzteversorgung |
+| [Psychotherapeut/in](/jobs-in-germany/healthcare/psychotherapeut-in/) | Psychotherapist | Via the Psychotherapeutenkammer; arrangements vary by state |
+| [Architekt/in](/jobs-in-germany/engineering/architekt-in/) | Architect | Architektenversorgung in most states; joint schemes in others |
+| **Rechtsanwalt/-anwältin**, **Notar/in** | | Rechtsanwaltsversorgung — reachable from [Rechtsanwaltsfachangestellte/r](/jobs-in-germany/commercial/rechtsanwaltsfachangestellte-r/) |
+| **Steuerberater/in** | | Steuerberaterversorgung — reachable from [Steuerfachangestellte/r](/jobs-in-germany/commercial/steuerfachangestellte-r/) |
 
 Not every Kammerberuf has one in every Bundesland, and **Wirtschaftsprüfer** are a partial case — many are covered through the Steuerberater scheme rather than one of their own. Confirm with the chamber of the state you will actually practise in.
 

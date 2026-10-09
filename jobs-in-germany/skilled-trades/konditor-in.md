@@ -24,7 +24,7 @@ title: "Konditor/in (Pastry Chef / Confectioner)"
 | Role | What it is |
 |---|---|
 | **Konditor/in** | Handwerk trade, own Ausbildung: cakes, tortes, pralines, chocolate, desserts |
-| [**Bäcker/in**](/jobs-in-germany/skilled-trades/baecker-in/) <span class="jig-en">Baker</span> | Handwerk trade: bread, rolls, Feingebäck. Overlapping but separate |
+| [**Bäcker/in**](/jobs-in-germany/skilled-trades/baecker-in/) | Handwerk trade: bread, rolls, Feingebäck. Overlapping but separate |
 | **Patissier** | Not an Ausbildung at all — a **kitchen role**, reached through the [Koch](/jobs-in-germany/hospitality/koch-koechin/) qualification and specialisation |
 
 A hotel advertising for a "Patissier" usually wants a Koch who specialises in desserts; a Konditorei wants the Handwerk qualification. Both ads use both words.

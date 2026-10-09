@@ -24,11 +24,11 @@ title: "Bauzeichner/in (Construction Draughtsperson / BIM Modeller)"
 
 **Certified on the qualification** — you choose a Fachrichtung during the Ausbildung and it appears on the certificate:
 
-| Fachrichtung | Work | Sits with |
-|---|---|---|
-| **Architektur** | Floor plans, sections, elevations, Genehmigungs- and Werkplanung | [Architekt/in](/jobs-in-germany/engineering/architekt-in/) <span class="jig-en">Architect</span> |
-| **Ingenieurbau** | **Schal- und Bewehrungspläne** — formwork and reinforcement drawings for concrete structures | [Beton- und Stahlbetonbauer](/jobs-in-germany/skilled-trades/strassenbauer-betonbauer/) <span class="jig-en">Road Builder; Concrete and Reinforced Concrete Worker</span>, structural engineers |
-| **Tief-, Straßen- und Landschaftsbau** | Roads, drainage, earthworks, site plans, longitudinal sections | [Straßenbauer](/jobs-in-germany/skilled-trades/strassenbauer-betonbauer/) <span class="jig-en">Road Builder; Concrete and Reinforced Concrete Worker</span>, municipal engineering |
+| Fachrichtung | Work | Sits with | English |
+|---|---|---|---|
+| **Architektur** | Floor plans, sections, elevations, Genehmigungs- and Werkplanung | [Architekt/in](/jobs-in-germany/engineering/architekt-in/) | Architect |
+| **Ingenieurbau** | **Schal- und Bewehrungspläne** — formwork and reinforcement drawings for concrete structures | [Beton- und Stahlbetonbauer](/jobs-in-germany/skilled-trades/strassenbauer-betonbauer/), structural engineers | Road Builder; Concrete and Reinforced Concrete Worker |
+| **Tief-, Straßen- und Landschaftsbau** | Roads, drainage, earthworks, site plans, longitudinal sections | [Straßenbauer](/jobs-in-germany/skilled-trades/strassenbauer-betonbauer/), municipal engineering | Road Builder; Concrete and Reinforced Concrete Worker |
 
 The Ingenieurbau Fachrichtung is the most technical and the best paid; reinforcement drawings are a skill that takes years and that a structural engineer will not do themselves.
 

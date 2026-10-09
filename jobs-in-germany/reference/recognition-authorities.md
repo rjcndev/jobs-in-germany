@@ -42,14 +42,14 @@ Most people know the first two exist and are surprised by the third. Note also t
 
 Self-governing professional bodies, organised **per Bundesland**:
 
-| Kammer | Profession |
-|---|---|
-| **Landesärztekammer** | [Doctors](/jobs-in-germany/healthcare/arzt-aerztin/) <span class="jig-en">Physician</span> — the Fachsprachprüfung, and Facharzt recognition |
-| **Apothekerkammer** | [Pharmacists](/jobs-in-germany/healthcare/apotheker-in/) — Fachsprachprüfung |
-| **Rechtsanwaltskammer** | [Legal secretaries](/jobs-in-germany/commercial/rechtsanwaltsfachangestellte-r/) <span class="jig-en">Legal Secretary / Paralegal</span> — note: **not** IHK FOSA, because this is a freier-Beruf occupation |
-| **Steuerberaterkammer** | [Tax clerks](/jobs-in-germany/commercial/steuerfachangestellte-r/) — likewise |
-| **Architektenkammer** | Architects — entry in the Architektenliste |
-| **Ingenieurkammer** | [Engineers](/jobs-in-germany/engineering/ingenieur-in/) — for the protected *title*, not the work |
+| Kammer | Profession | English |
+|---|---|---|
+| **Landesärztekammer** | [Doctors](/jobs-in-germany/healthcare/arzt-aerztin/) — the Fachsprachprüfung, and Facharzt recognition | Physician |
+| **Apothekerkammer** | [Pharmacists](/jobs-in-germany/healthcare/apotheker-in/) — Fachsprachprüfung | Pharmacist |
+| **Rechtsanwaltskammer** | [Legal secretaries](/jobs-in-germany/commercial/rechtsanwaltsfachangestellte-r/) — note: **not** IHK FOSA, because this is a freier-Beruf occupation | Legal Secretary / Paralegal |
+| **Steuerberaterkammer** | [Tax clerks](/jobs-in-germany/commercial/steuerfachangestellte-r/) — likewise | Tax Clerk |
+| **Architektenkammer** | Architects — entry in the Architektenliste | |
+| **Ingenieurkammer** | [Engineers](/jobs-in-germany/engineering/ingenieur-in/) — for the protected *title*, not the work | Engineer |
 
 The trap: two of these look like ordinary commercial office jobs and are examined by a professional chamber instead of the IHK. Sending the file to the wrong body loses months.
 
@@ -57,12 +57,12 @@ The trap: two of these look like ordinary commercial office jobs and are examine
 
 For the **licensed healthcare professions** and **teaching**, the competent body is an organ of the Bundesland — and its name differs by state:
 
-| Body | Typically handles |
-|---|---|
-| **Landesprüfungsamt** | [Doctors](/jobs-in-germany/healthcare/arzt-aerztin/) <span class="jig-en">Physician</span>, [MT/MTA](/jobs-in-germany/healthcare/medizinische-technologin-mt-mta/), [physiotherapists](/jobs-in-germany/healthcare/physiotherapeut-in/), [paramedics](/jobs-in-germany/healthcare/notfallsanitaeter-in/) |
-| **Bezirksregierung / Landesamt für Gesundheit** | [Nursing](/jobs-in-germany/healthcare/pflegefachfrau-pflegefachmann/) <span class="jig-en">Registered Nurse</span> and others, depending on the state |
-| **Zeugnisanerkennungsstelle** | [Teachers](/jobs-in-germany/education/lehrer-in/) |
-| **Kultusministerium / Landesjugendamt** | [Erzieher/in](/jobs-in-germany/education/erzieher-in/) <span class="jig-en">Early Years &amp; Social Education Practitioner</span> |
+| Body | Typically handles | English |
+|---|---|---|
+| **Landesprüfungsamt** | [Doctors](/jobs-in-germany/healthcare/arzt-aerztin/), [MT/MTA](/jobs-in-germany/healthcare/medizinische-technologin-mt-mta/), [physiotherapists](/jobs-in-germany/healthcare/physiotherapeut-in/), [paramedics](/jobs-in-germany/healthcare/notfallsanitaeter-in/) | Physician |
+| **Bezirksregierung / Landesamt für Gesundheit** | [Nursing](/jobs-in-germany/healthcare/pflegefachfrau-pflegefachmann/) and others, depending on the state | Registered Nurse |
+| **Zeugnisanerkennungsstelle** | [Teachers](/jobs-in-germany/education/lehrer-in/) | Teacher |
+| **Kultusministerium / Landesjugendamt** | [Erzieher/in](/jobs-in-germany/education/erzieher-in/) | Early Years & Social Education Practitioner |
 
 ### 4. ZAB and anabin — degrees, not professions {#4-zab-and-anabin--degrees-not-professions}
 

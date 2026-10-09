@@ -93,7 +93,7 @@ Distinct from shift supplements, and easy to conflate:
 |---|---|
 | **IG Metall / IG BCE** ([industrial trades](/jobs-in-germany/industrial/)) | Shift and night supplements under regional agreements, generally comparable or better, plus the 13th month |
 | **Beamte** ([police](/jobs-in-germany/public-service/polizist-in/), [fire](/jobs-in-germany/public-service/feuerwehrmann-frau/)) | **Erschwerniszulagen** — a separate system with its own rates, not the TVöD figures above |
-| [**Road haulage**](/jobs-in-germany/logistics/berufskraftfahrer-in/) <span class="jig-en">Professional Truck / Bus Driver</span> | **Spesen** — tax-free per-diems for time away, a different mechanism entirely and a large share of take-home |
+| [**Road haulage**](/jobs-in-germany/logistics/berufskraftfahrer-in/) | **Spesen** — tax-free per-diems for time away, a different mechanism entirely and a large share of take-home |
 | [**Hospitality**](/jobs-in-germany/hospitality/) | Supplements are patchy; **tips** are the real uplift, tax-free without limit under §3 Nr. 51 EStG |
 | Non-tariff private employers | Whatever the contract says. Often nothing beyond the statutory minimum for night work under §6 ArbZG |
 

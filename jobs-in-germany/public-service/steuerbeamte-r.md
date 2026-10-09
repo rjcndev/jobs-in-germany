@@ -24,7 +24,7 @@ title: "Steuerbeamte/r (Tax Official)"
 
 A distinction that confuses almost everyone, including Germans:
 
-| | [**Zoll**](/jobs-in-germany/public-service/zollbeamte-r/) <span class="jig-en">Customs Officer</span> | **Finanzamt** |
+| | [**Zoll**](/jobs-in-germany/public-service/zollbeamte-r/) | **Finanzamt** |
 |---|---|---|
 | Employer | **Federal** — Bundeszollverwaltung | **A Bundesland** — Landesfinanzverwaltung |
 | Collects | Customs duties, excise (energy, tobacco, alcohol), Kfz-Steuer | Income, corporation, trade and value-added tax |

@@ -60,154 +60,154 @@ Once you are comparing professions rather than reading up on one, start here:
 ### healthcare {#healthcare}
 See the [sector overview](/jobs-in-germany/healthcare/) — recognition is near-identical across most of these and is collected there, along with the two exceptions that are not regulated at all.
 
-| Profession | Regulated | Recognition needed to work |
-|---|---|---|
-| [Medizinische/r Technologe/Technologin (MT / MTA)](/jobs-in-germany/healthcare/medizinische-technologin-mt-mta/) <span class="jig-en">Medical Technologist</span> | Yes | Yes |
-| [Pflegefachfrau / Pflegefachmann](/jobs-in-germany/healthcare/pflegefachfrau-pflegefachmann/) <span class="jig-en">Registered Nurse</span> | Yes | Yes |
-| [Arzt / Ärztin](/jobs-in-germany/healthcare/arzt-aerztin/) <span class="jig-en">Physician</span> | Yes | Yes — Approbation |
-| [Apotheker/in](/jobs-in-germany/healthcare/apotheker-in/) <span class="jig-en">Pharmacist</span> | Yes | Yes — Approbation; **ownership also reserved** |
-| [Notfallsanitäter/in](/jobs-in-germany/healthcare/notfallsanitaeter-in/) <span class="jig-en">Paramedic</span> | Yes | Yes |
-| [Physiotherapeut/in](/jobs-in-germany/healthcare/physiotherapeut-in/) <span class="jig-en">Physiotherapist</span> | Yes | Yes |
-| [Hebamme](/jobs-in-germany/healthcare/hebamme/) <span class="jig-en">Midwife</span> | Yes | Yes — and **a doctor may not conduct a birth without one** |
-| [Psychotherapeut/in](/jobs-in-germany/healthcare/psychotherapeut-in/) <span class="jig-en">Psychotherapist</span> | Yes — Approbation | Yes; **and the statutory-patient licence is separately rationed** |
-| [Zahnarzt / Zahnärztin](/jobs-in-germany/healthcare/zahnarzt-zahnaerztin/) <span class="jig-en">Dentist</span> | Yes — Approbation | Yes; **plus two years' Vorbereitungszeit for an own licence** |
-| [MFA — Medizinische/r Fachangestellte/r](/jobs-in-germany/healthcare/medizinische-fachangestellte-r/) <span class="jig-en">Medical Assistant</span> | No | No to work; **yes for the visa — via the Ärztekammer** |
-| [PTA — Pharmazeutisch-technische/r Assistent/in](/jobs-in-germany/healthcare/pharmazeutisch-technische-r-assistent-in/) <span class="jig-en">Pharmaceutical Technical Assistant</span> | Yes | Yes — and **the training is unpaid** |
-| [Pflegefachassistenz / Pflegehelfer/in](/jobs-in-germany/healthcare/pflegefachassistenz-pflegehelfer-in/) <span class="jig-en">Nursing Assistant</span> | Under **state** law — sixteen versions | No to work; **a one-year qualification supports no visa** |
-| [ATA / OTA](/jobs-in-germany/healthcare/ata-ota/) <span class="jig-en">Anaesthesia and Surgical Assistants</span> | **Yes — since 2022** | Yes; the procedure itself is new |
-| [Logopädie / Ergotherapie](/jobs-in-germany/healthcare/therapieberufe-logopaedie-ergotherapie/) <span class="jig-en">Speech and Occupational Therapy</span> | Yes | Yes — and **check the Schulgeld position in your Bundesland** |
+| Profession | English | Regulated | Recognition needed to work |
+|---|---|---|---|
+| [Medizinische/r Technologe/Technologin (MT / MTA)](/jobs-in-germany/healthcare/medizinische-technologin-mt-mta/) | Medical Technologist | Yes | Yes |
+| [Pflegefachfrau / Pflegefachmann](/jobs-in-germany/healthcare/pflegefachfrau-pflegefachmann/) | Registered Nurse | Yes | Yes |
+| [Arzt / Ärztin](/jobs-in-germany/healthcare/arzt-aerztin/) | Physician | Yes | Yes — Approbation |
+| [Apotheker/in](/jobs-in-germany/healthcare/apotheker-in/) | Pharmacist | Yes | Yes — Approbation; **ownership also reserved** |
+| [Notfallsanitäter/in](/jobs-in-germany/healthcare/notfallsanitaeter-in/) | Paramedic | Yes | Yes |
+| [Physiotherapeut/in](/jobs-in-germany/healthcare/physiotherapeut-in/) | Physiotherapist | Yes | Yes |
+| [Hebamme](/jobs-in-germany/healthcare/hebamme/) | Midwife | Yes | Yes — and **a doctor may not conduct a birth without one** |
+| [Psychotherapeut/in](/jobs-in-germany/healthcare/psychotherapeut-in/) | Psychotherapist | Yes — Approbation | Yes; **and the statutory-patient licence is separately rationed** |
+| [Zahnarzt / Zahnärztin](/jobs-in-germany/healthcare/zahnarzt-zahnaerztin/) | Dentist | Yes — Approbation | Yes; **plus two years' Vorbereitungszeit for an own licence** |
+| [MFA — Medizinische/r Fachangestellte/r](/jobs-in-germany/healthcare/medizinische-fachangestellte-r/) | Medical Assistant | No | No to work; **yes for the visa — via the Ärztekammer** |
+| [PTA — Pharmazeutisch-technische/r Assistent/in](/jobs-in-germany/healthcare/pharmazeutisch-technische-r-assistent-in/) | Pharmaceutical Technical Assistant | Yes | Yes — and **the training is unpaid** |
+| [Pflegefachassistenz / Pflegehelfer/in](/jobs-in-germany/healthcare/pflegefachassistenz-pflegehelfer-in/) | Nursing Assistant | Under **state** law — sixteen versions | No to work; **a one-year qualification supports no visa** |
+| [ATA / OTA](/jobs-in-germany/healthcare/ata-ota/) | Anaesthesia and Surgical Assistants | **Yes — since 2022** | Yes; the procedure itself is new |
+| [Logopädie / Ergotherapie](/jobs-in-germany/healthcare/therapieberufe-logopaedie-ergotherapie/) | Speech and Occupational Therapy | Yes | Yes — and **check the Schulgeld position in your Bundesland** |
 
 ### education {#education}
-| Profession | Regulated | Recognition needed to work |
-|---|---|---|
-| [Lehrer/in](/jobs-in-germany/education/lehrer-in/) <span class="jig-en">Teacher</span> | Yes — under **state** law | Yes; and Verbeamtung needs EU citizenship |
-| [Erzieher/in](/jobs-in-germany/education/erzieher-in/) <span class="jig-en">Early Years &amp; Social Education Practitioner</span> | Yes — under **state** law | Yes, and it varies by Bundesland |
-| [Sozialarbeiter/in](/jobs-in-germany/education/sozialarbeiter-in/) <span class="jig-en">Social Worker</span> | **Title yes — under state law** | A degree is not enough: the **staatliche Anerkennung** is a separate act |
+| Profession | English | Regulated | Recognition needed to work |
+|---|---|---|---|
+| [Lehrer/in](/jobs-in-germany/education/lehrer-in/) | Teacher | Yes — under **state** law | Yes; and Verbeamtung needs EU citizenship |
+| [Erzieher/in](/jobs-in-germany/education/erzieher-in/) | Early Years & Social Education Practitioner | Yes — under **state** law | Yes, and it varies by Bundesland |
+| [Sozialarbeiter/in](/jobs-in-germany/education/sozialarbeiter-in/) | Social Worker | **Title yes — under state law** | A degree is not enough: the **staatliche Anerkennung** is a separate act |
 
 ### it {#it}
-| Profession | Regulated | Recognition needed to work |
-|---|---|---|
-| [Softwareentwickler/in](/jobs-in-germany/it/softwareentwickler-in/) <span class="jig-en">Software Developer</span> | No | No |
-| [Fachinformatiker/in](/jobs-in-germany/it/fachinformatiker-in/) <span class="jig-en">IT Specialist, dual-trained</span> | No | No |
+| Profession | English | Regulated | Recognition needed to work |
+|---|---|---|---|
+| [Softwareentwickler/in](/jobs-in-germany/it/softwareentwickler-in/) | Software Developer | No | No |
+| [Fachinformatiker/in](/jobs-in-germany/it/fachinformatiker-in/) | IT Specialist, dual-trained | No | No |
 
 ### engineering {#engineering}
-| Profession | Regulated | Recognition needed to work |
-|---|---|---|
-| [Ingenieur/in](/jobs-in-germany/engineering/ingenieur-in/) | Title only | No — but title use is restricted |
-| [Architekt/in](/jobs-in-germany/engineering/architekt-in/) <span class="jig-en">Architect</span> | **Title yes** (state law) — and **Bauvorlage is a reserved activity** | Listing needs a degree **plus ~2 years' practice** |
-| [Bauzeichner/in](/jobs-in-germany/engineering/bauzeichner-in/) <span class="jig-en">Construction Draughtsperson / BIM Modeller</span> | No | No to work; **yes for the visa** — IHK FOSA |
+| Profession | English | Regulated | Recognition needed to work |
+|---|---|---|---|
+| [Ingenieur/in](/jobs-in-germany/engineering/ingenieur-in/) | Engineer | Title only | No — but title use is restricted |
+| [Architekt/in](/jobs-in-germany/engineering/architekt-in/) | Architect | **Title yes** (state law) — and **Bauvorlage is a reserved activity** | Listing needs a degree **plus ~2 years' practice** |
+| [Bauzeichner/in](/jobs-in-germany/engineering/bauzeichner-in/) | Construction Draughtsperson / BIM Modeller | No | No to work; **yes for the visa** — IHK FOSA |
 
 ### industrial {#industrial}
 See the [sector overview](/jobs-in-germany/industrial/) for the Handwerk vs. Industrie divide — different chamber, tariff, pay and self-employment rights.
 
-| Profession | Regulated | Recognition needed to work |
-|---|---|---|
-| [Elektroniker/in für Betriebstechnik](/jobs-in-germany/industrial/elektroniker-in-betriebstechnik/) <span class="jig-en">Industrial Electrician</span> | No — but DGUV V3 gates the work | No to work; **yes for the visa** |
-| [Mechatroniker/in](/jobs-in-germany/industrial/mechatroniker-in/) <span class="jig-en">Mechatronics Technician</span> | No | No to work; **yes for the visa** |
-| [Industriemechaniker/in](/jobs-in-germany/industrial/industriemechaniker-in/) <span class="jig-en">Industrial Mechanic</span> | No | No to work; **yes for the visa** |
-| [Zerspanungsmechaniker/in](/jobs-in-germany/industrial/zerspanungsmechaniker-in/) <span class="jig-en">Precision Machinist / CNC Machinist</span> | No | No to work; **yes for the visa** |
-| [Werkzeugmechaniker/in](/jobs-in-germany/industrial/werkzeugmechaniker-in/) <span class="jig-en">Tool and Die Maker</span> | No | No to work; **yes for the visa** |
-| [Konstruktionsmechaniker/in](/jobs-in-germany/industrial/konstruktionsmechaniker-in/) <span class="jig-en">Structural Metalworker / Fabricator</span> | No — **welding certificates gate the work** | No to work; **yes for the visa** |
-| [Elektroniker — Automatisierung, GSI, Industrieelektriker](/jobs-in-germany/industrial/elektroniker-weitere-fachrichtungen/) <span class="jig-en">Electronics Technician (other specialisations)</span> | No — but **DGUV V3 gates the work** | No to work; **yes for the visa**. GSI is Handwerk, the others IHK |
+| Profession | English | Regulated | Recognition needed to work |
+|---|---|---|---|
+| [Elektroniker/in für Betriebstechnik](/jobs-in-germany/industrial/elektroniker-in-betriebstechnik/) | Industrial Electrician | No — but DGUV V3 gates the work | No to work; **yes for the visa** |
+| [Mechatroniker/in](/jobs-in-germany/industrial/mechatroniker-in/) | Mechatronics Technician | No | No to work; **yes for the visa** |
+| [Industriemechaniker/in](/jobs-in-germany/industrial/industriemechaniker-in/) | Industrial Mechanic | No | No to work; **yes for the visa** |
+| [Zerspanungsmechaniker/in](/jobs-in-germany/industrial/zerspanungsmechaniker-in/) | Precision Machinist / CNC Machinist | No | No to work; **yes for the visa** |
+| [Werkzeugmechaniker/in](/jobs-in-germany/industrial/werkzeugmechaniker-in/) | Tool and Die Maker | No | No to work; **yes for the visa** |
+| [Konstruktionsmechaniker/in](/jobs-in-germany/industrial/konstruktionsmechaniker-in/) | Structural Metalworker / Fabricator | No — **welding certificates gate the work** | No to work; **yes for the visa** |
+| [Elektroniker — Automatisierung, GSI, Industrieelektriker](/jobs-in-germany/industrial/elektroniker-weitere-fachrichtungen/) | Electronics Technician (other specialisations) | No — but **DGUV V3 gates the work** | No to work; **yes for the visa**. GSI is Handwerk, the others IHK |
 
 ### skilled-trades {#skilled-trades}
 See the [sector overview](/jobs-in-germany/skilled-trades/) for the Anlage A rule: employment is free, self-employment needs the Meister.
 
-| Profession | Regulated | Recognition needed to work |
-|---|---|---|
-| [Elektroniker/in Energie- und Gebäudetechnik](/jobs-in-germany/skilled-trades/elektroniker-in-energie-und-gebaeudetechnik/) <span class="jig-en">Electrician</span> | Self-employment only | No to be employed; yes to run a business |
-| [Anlagenmechaniker/in SHK](/jobs-in-germany/skilled-trades/anlagenmechaniker-in-shk/) <span class="jig-en">Plumbing, Heating &amp; AC Technician</span> | Self-employment only | No to be employed; yes to run a business |
-| [Kraftfahrzeugmechatroniker/in](/jobs-in-germany/skilled-trades/kraftfahrzeugmechatroniker-in/) <span class="jig-en">Vehicle Mechatronics Technician</span> | Self-employment only | No to be employed; **HV work is separately gated** |
-| [Metallbauer/in](/jobs-in-germany/skilled-trades/metallbauer-in/) <span class="jig-en">Metalworker / Structural Smith</span> | Self-employment only | No to be employed; yes to run a business |
-| [Maurer/in](/jobs-in-germany/skilled-trades/maurer-in/) <span class="jig-en">Bricklayer / Mason</span> | Self-employment only | No to be employed; **and read the Bauhauptgewerbe reference first** |
-| [Zimmerer / Zimmerin](/jobs-in-germany/skilled-trades/zimmerer-zimmerin/) <span class="jig-en">Carpenter</span> | Self-employment only | No to be employed; **Bauhauptgewerbe, unlike Tischler** |
-| [Dachdecker/in](/jobs-in-germany/skilled-trades/dachdecker-in/) <span class="jig-en">Roofer</span> | Self-employment only | No to be employed; **own sector fund (SOKA-DACH), not SOKA-BAU** |
-| [Gerüstbauer/in](/jobs-in-germany/skilled-trades/geruestbauer-in/) <span class="jig-en">Scaffolder</span> | Self-employment only | No to be employed; **but erecting scaffold requires German training** |
-| [Straßenbauer / Beton- und Stahlbetonbauer](/jobs-in-germany/skilled-trades/strassenbauer-betonbauer/) <span class="jig-en">Road Builder; Concrete and Reinforced Concrete Worker</span> | Self-employment only | No to be employed; **municipal Bauhof work is TVöD** |
-| [Tischler/in — Schreiner/in](/jobs-in-germany/skilled-trades/tischler-in/) <span class="jig-en">Joiner / Cabinetmaker</span> | Self-employment only | No to be employed; yes to run a business |
-| [Raumausstatter/in](/jobs-in-germany/skilled-trades/raumausstatter-in/) <span class="jig-en">Interior Furnisher / Soft Furnishings Fitter</span> | Self-employment only — **re-regulated in 2020** | No to be employed; **and Bestandsschutz means two classes of owner** |
-| [Fliesen-, Platten- und Mosaikleger/in](/jobs-in-germany/skilled-trades/fliesenleger-in/) <span class="jig-en">Tiler</span> | Self-employment only — **re-regulated in 2020** | No to be employed; **knee damage is a recognised occupational disease** |
-| [Fleischer/in — Metzger/in](/jobs-in-germany/skilled-trades/fleischer-in/) <span class="jig-en">Butcher</span> | Self-employment only | No to be employed; yes to run a business |
-| [Bäcker/in](/jobs-in-germany/skilled-trades/baecker-in/) <span class="jig-en">Baker</span> | Self-employment only | No to be employed; yes to run a business |
-| [Konditor/in](/jobs-in-germany/skilled-trades/konditor-in/) <span class="jig-en">Pastry Chef / Confectioner</span> | Self-employment only | No to be employed; yes to run a business |
-| [Friseur/in](/jobs-in-germany/skilled-trades/friseur-in/) <span class="jig-en">Hairdresser</span> | Self-employment only | No to be employed; **Stuhlmiete counts as self-employment** |
+| Profession | English | Regulated | Recognition needed to work |
+|---|---|---|---|
+| [Elektroniker/in Energie- und Gebäudetechnik](/jobs-in-germany/skilled-trades/elektroniker-in-energie-und-gebaeudetechnik/) | Electrician | Self-employment only | No to be employed; yes to run a business |
+| [Anlagenmechaniker/in SHK](/jobs-in-germany/skilled-trades/anlagenmechaniker-in-shk/) | Plumbing, Heating & AC Technician | Self-employment only | No to be employed; yes to run a business |
+| [Kraftfahrzeugmechatroniker/in](/jobs-in-germany/skilled-trades/kraftfahrzeugmechatroniker-in/) | Vehicle Mechatronics Technician | Self-employment only | No to be employed; **HV work is separately gated** |
+| [Metallbauer/in](/jobs-in-germany/skilled-trades/metallbauer-in/) | Metalworker / Structural Smith | Self-employment only | No to be employed; yes to run a business |
+| [Maurer/in](/jobs-in-germany/skilled-trades/maurer-in/) | Bricklayer / Mason | Self-employment only | No to be employed; **and read the Bauhauptgewerbe reference first** |
+| [Zimmerer / Zimmerin](/jobs-in-germany/skilled-trades/zimmerer-zimmerin/) | Carpenter | Self-employment only | No to be employed; **Bauhauptgewerbe, unlike Tischler** |
+| [Dachdecker/in](/jobs-in-germany/skilled-trades/dachdecker-in/) | Roofer | Self-employment only | No to be employed; **own sector fund (SOKA-DACH), not SOKA-BAU** |
+| [Gerüstbauer/in](/jobs-in-germany/skilled-trades/geruestbauer-in/) | Scaffolder | Self-employment only | No to be employed; **but erecting scaffold requires German training** |
+| [Straßenbauer / Beton- und Stahlbetonbauer](/jobs-in-germany/skilled-trades/strassenbauer-betonbauer/) | Road Builder; Concrete and Reinforced Concrete Worker | Self-employment only | No to be employed; **municipal Bauhof work is TVöD** |
+| [Tischler/in — Schreiner/in](/jobs-in-germany/skilled-trades/tischler-in/) | Joiner / Cabinetmaker | Self-employment only | No to be employed; yes to run a business |
+| [Raumausstatter/in](/jobs-in-germany/skilled-trades/raumausstatter-in/) | Interior Furnisher / Soft Furnishings Fitter | Self-employment only — **re-regulated in 2020** | No to be employed; **and Bestandsschutz means two classes of owner** |
+| [Fliesen-, Platten- und Mosaikleger/in](/jobs-in-germany/skilled-trades/fliesenleger-in/) | Tiler | Self-employment only — **re-regulated in 2020** | No to be employed; **knee damage is a recognised occupational disease** |
+| [Fleischer/in — Metzger/in](/jobs-in-germany/skilled-trades/fleischer-in/) | Butcher | Self-employment only | No to be employed; yes to run a business |
+| [Bäcker/in](/jobs-in-germany/skilled-trades/baecker-in/) | Baker | Self-employment only | No to be employed; yes to run a business |
+| [Konditor/in](/jobs-in-germany/skilled-trades/konditor-in/) | Pastry Chef / Confectioner | Self-employment only | No to be employed; yes to run a business |
+| [Friseur/in](/jobs-in-germany/skilled-trades/friseur-in/) | Hairdresser | Self-employment only | No to be employed; **Stuhlmiete counts as self-employment** |
 
 ### commercial {#commercial}
-| Profession | Regulated | Recognition needed to work |
-|---|---|---|
-| [Kaufmann/-frau für Büromanagement](/jobs-in-germany/commercial/kaufmann-frau-fuer-bueromanagement/) <span class="jig-en">Office Management Clerk</span> | No | No to work; **yes for the visa** |
-| [Industriekaufmann/-frau](/jobs-in-germany/commercial/industriekaufmann-frau/) <span class="jig-en">Industrial Clerk</span> | No | No to work; **yes for the visa** |
-| [Steuerfachangestellte/r](/jobs-in-germany/commercial/steuerfachangestellte-r/) <span class="jig-en">Tax Clerk</span> | No — but Steuerberater above it is | No to work; **yes for the visa** |
-| [Rechtsanwaltsfachangestellte/r](/jobs-in-germany/commercial/rechtsanwaltsfachangestellte-r/) <span class="jig-en">Legal Secretary / Paralegal</span> | No — but Rechtsanwalt above it is | No to work; **yes for the visa** |
-| [Bankkaufmann/-frau](/jobs-in-germany/commercial/bankkaufmann-frau/) <span class="jig-en">Bank Clerk</span> | Title no — **advisory activity yes (BaFin)** | No to work; registration to advise |
-| [Immobilienkaufmann/-frau](/jobs-in-germany/commercial/immobilienkaufmann-frau/) <span class="jig-en">Real Estate Manager / Agent</span> | Title no — **activity yes (§34c GewO)** | No to work; **yes for the visa**. The permit is the firm's |
-| [Kaufmann/-frau für Versicherungen und Finanzanlagen](/jobs-in-germany/commercial/kaufmann-frau-versicherungen-finanzanlagen/) <span class="jig-en">Insurance and Financial Services Agent</span> | Title no — **activity yes (§34d/f/i)** | No to work; **yes for the visa**. Supervised by the IHK, not BaFin |
-| [Wirtschaftsprüfer/in](/jobs-in-germany/commercial/wirtschaftspruefer-in/) <span class="jig-en">Statutory Auditor</span> | **Yes — the statutory audit is reserved** | Yes; **EU auditors take an aptitude test instead of the full exam** |
-| [Notar/in](/jobs-in-germany/commercial/notar-in/) <span class="jig-en">Civil-Law Notary</span> | **Yes — a capped public office with a reserved activity** | **No equivalence route**: both German state law exams, and **EU citizenship** |
+| Profession | English | Regulated | Recognition needed to work |
+|---|---|---|---|
+| [Kaufmann/-frau für Büromanagement](/jobs-in-germany/commercial/kaufmann-frau-fuer-bueromanagement/) | Office Management Clerk | No | No to work; **yes for the visa** |
+| [Industriekaufmann/-frau](/jobs-in-germany/commercial/industriekaufmann-frau/) | Industrial Clerk | No | No to work; **yes for the visa** |
+| [Steuerfachangestellte/r](/jobs-in-germany/commercial/steuerfachangestellte-r/) | Tax Clerk | No — but Steuerberater above it is | No to work; **yes for the visa** |
+| [Rechtsanwaltsfachangestellte/r](/jobs-in-germany/commercial/rechtsanwaltsfachangestellte-r/) | Legal Secretary / Paralegal | No — but Rechtsanwalt above it is | No to work; **yes for the visa** |
+| [Bankkaufmann/-frau](/jobs-in-germany/commercial/bankkaufmann-frau/) | Bank Clerk | Title no — **advisory activity yes (BaFin)** | No to work; registration to advise |
+| [Immobilienkaufmann/-frau](/jobs-in-germany/commercial/immobilienkaufmann-frau/) | Real Estate Manager / Agent | Title no — **activity yes (§34c GewO)** | No to work; **yes for the visa**. The permit is the firm's |
+| [Kaufmann/-frau für Versicherungen und Finanzanlagen](/jobs-in-germany/commercial/kaufmann-frau-versicherungen-finanzanlagen/) | Insurance and Financial Services Agent | Title no — **activity yes (§34d/f/i)** | No to work; **yes for the visa**. Supervised by the IHK, not BaFin |
+| [Wirtschaftsprüfer/in](/jobs-in-germany/commercial/wirtschaftspruefer-in/) | Statutory Auditor | **Yes — the statutory audit is reserved** | Yes; **EU auditors take an aptitude test instead of the full exam** |
+| [Notar/in](/jobs-in-germany/commercial/notar-in/) | Civil-Law Notary | **Yes — a capped public office with a reserved activity** | **No equivalence route**: both German state law exams, and **EU citizenship** |
 
 ### logistics {#logistics}
-| Profession | Regulated | Recognition needed to work |
-|---|---|---|
-| [Berufskraftfahrer/in](/jobs-in-germany/logistics/berufskraftfahrer-in/) <span class="jig-en">Professional Truck / Bus Driver</span> | Title no — **licence yes** | Licence and code 95 are mandatory |
-| [Triebfahrzeugführer/in](/jobs-in-germany/logistics/triebfahrzeugfuehrer-in/) <span class="jig-en">Train Driver</span> | Title no — **licence yes (TfV)** | The EBA licence travels; the employer's route certificate does not |
-| [Pilot/in](/jobs-in-germany/logistics/pilot-in/) <span class="jig-en">Airline Pilot</span> | Title no — **EASA licence yes** | Licence, medical and type rating; **training is self-funded at six figures** |
-| [Fluglotse / Fluglotsin](/jobs-in-germany/logistics/fluglotse-fluglotsin/) <span class="jig-en">Air Traffic Controller</span> | Yes — licence with unit endorsement | **No practical foreign route**; selection, not qualification, is the filter |
-| [Fachkraft für Lagerlogistik](/jobs-in-germany/logistics/fachkraft-fuer-lagerlogistik/) <span class="jig-en">Warehouse Logistics Specialist</span> | No | No to work; **yes for the visa** |
-| [Kaufmann/-frau für Spedition und Logistikdienstleistung](/jobs-in-germany/logistics/kaufmann-frau-spedition-logistikdienstleistung/) <span class="jig-en">Freight Forwarding Clerk</span> | No | No to work; **yes for the visa** |
+| Profession | English | Regulated | Recognition needed to work |
+|---|---|---|---|
+| [Berufskraftfahrer/in](/jobs-in-germany/logistics/berufskraftfahrer-in/) | Professional Truck / Bus Driver | Title no — **licence yes** | Licence and code 95 are mandatory |
+| [Triebfahrzeugführer/in](/jobs-in-germany/logistics/triebfahrzeugfuehrer-in/) | Train Driver | Title no — **licence yes (TfV)** | The EBA licence travels; the employer's route certificate does not |
+| [Pilot/in](/jobs-in-germany/logistics/pilot-in/) | Airline Pilot | Title no — **EASA licence yes** | Licence, medical and type rating; **training is self-funded at six figures** |
+| [Fluglotse / Fluglotsin](/jobs-in-germany/logistics/fluglotse-fluglotsin/) | Air Traffic Controller | Yes — licence with unit endorsement | **No practical foreign route**; selection, not qualification, is the filter |
+| [Fachkraft für Lagerlogistik](/jobs-in-germany/logistics/fachkraft-fuer-lagerlogistik/) | Warehouse Logistics Specialist | No | No to work; **yes for the visa** |
+| [Kaufmann/-frau für Spedition und Logistikdienstleistung](/jobs-in-germany/logistics/kaufmann-frau-spedition-logistikdienstleistung/) | Freight Forwarding Clerk | No | No to work; **yes for the visa** |
 
 ### green (Grüne Berufe) <a id="green-grüne-berufe"></a>
 See the [sector overview](/jobs-in-germany/green/) — a **third chamber system**: the Landwirtschaftskammer, and only in some Bundesländer.
 
-| Profession | Regulated | Recognition needed to work |
-|---|---|---|
-| [Forstwirt/in](/jobs-in-germany/green/forstwirt-in/) <span class="jig-en">Forest Worker</span> | No — but chainsaw and pesticide certification gate the work | No to work; **yes for the visa** |
-| [Landwirt/in](/jobs-in-germany/green/landwirt-in/) <span class="jig-en">Farmer / Agricultural Worker</span> | No — but **Pflanzenschutz-Sachkunde gates pesticide work** | No to work; **yes for the visa** |
-| [Gärtner/in](/jobs-in-germany/green/gaertner-in/) <span class="jig-en">Horticulturist / Landscape Gardener</span> | No — but pesticide and chainsaw certification gate parts of the work | No to work; **yes for the visa** |
-| [Winzer/in](/jobs-in-germany/green/winzer-in/) <span class="jig-en">Winegrower</span> | No | No to work; **yes for the visa** — and the competent body differs by wine region |
-| [Tierwirt/in](/jobs-in-germany/green/tierwirt-in/) <span class="jig-en">Livestock Farmer</span> | No | No to work; **yes for the visa** |
-| [Pferdewirt/in](/jobs-in-germany/green/pferdewirt-in/) <span class="jig-en">Equine Professional</span> | No | No to work; **yes for the visa — and a Trainer licence is not one** |
-| [Fachkraft Agrarservice](/jobs-in-germany/green/fachkraft-agrarservice/) <span class="jig-en">Agricultural Contracting Technician</span> | No — but **driving licences gate the work** | No to work; **yes for the visa** |
-| [Fischwirt/in](/jobs-in-germany/green/fischwirt-in/) <span class="jig-en">Fisheries and Aquaculture Worker</span> | No — **but sea-going work needs maritime certificates** | No to work; **yes for the visa** |
-| [Hauswirtschafter/in](/jobs-in-germany/green/hauswirtschafter-in/) <span class="jig-en">Home Economics / Institutional Housekeeping</span> | No | No to work; **yes for the visa** — and the body is agricultural, not the care regulator |
+| Profession | English | Regulated | Recognition needed to work |
+|---|---|---|---|
+| [Forstwirt/in](/jobs-in-germany/green/forstwirt-in/) | Forest Worker | No — but chainsaw and pesticide certification gate the work | No to work; **yes for the visa** |
+| [Landwirt/in](/jobs-in-germany/green/landwirt-in/) | Farmer / Agricultural Worker | No — but **Pflanzenschutz-Sachkunde gates pesticide work** | No to work; **yes for the visa** |
+| [Gärtner/in](/jobs-in-germany/green/gaertner-in/) | Horticulturist / Landscape Gardener | No — but pesticide and chainsaw certification gate parts of the work | No to work; **yes for the visa** |
+| [Winzer/in](/jobs-in-germany/green/winzer-in/) | Winegrower | No | No to work; **yes for the visa** — and the competent body differs by wine region |
+| [Tierwirt/in](/jobs-in-germany/green/tierwirt-in/) | Livestock Farmer | No | No to work; **yes for the visa** |
+| [Pferdewirt/in](/jobs-in-germany/green/pferdewirt-in/) | Equine Professional | No | No to work; **yes for the visa — and a Trainer licence is not one** |
+| [Fachkraft Agrarservice](/jobs-in-germany/green/fachkraft-agrarservice/) | Agricultural Contracting Technician | No — but **driving licences gate the work** | No to work; **yes for the visa** |
+| [Fischwirt/in](/jobs-in-germany/green/fischwirt-in/) | Fisheries and Aquaculture Worker | No — **but sea-going work needs maritime certificates** | No to work; **yes for the visa** |
+| [Hauswirtschafter/in](/jobs-in-germany/green/hauswirtschafter-in/) | Home Economics / Institutional Housekeeping | No | No to work; **yes for the visa** — and the body is agricultural, not the care regulator |
 
 ### services {#services}
 See the [sector overview](/jobs-in-germany/services/) — the folder for occupations that belong to no chamber-defined sector, including **two files with no qualification to write about**.
 
-| Profession | Regulated | Recognition needed to work |
-|---|---|---|
-| [Gebäudereiniger/in](/jobs-in-germany/services/gebaeudereiniger-in/) <span class="jig-en">Building Cleaner</span> | No — **Anlage B1**, so self-employment is free too | No to work; **yes for the visa** |
-| [Reinigungskraft](/jobs-in-germany/services/reinigungskraft/) <span class="jig-en">Cleaner</span> | No — **no qualification exists** | None to work; **and none supports a visa** |
-| [Haushaltshilfe](/jobs-in-germany/services/haushaltshilfe/) <span class="jig-en">Domestic Cleaner / Household Help</span> | No — **no qualification exists** | None; the legal question is **declared or not** |
-| [Wissenschaftliche/r Mitarbeiter/in](/jobs-in-germany/services/wissenschaftliche-r-mitarbeiter-in/) <span class="jig-en">Research Associate / Academic Staff</span> | No — but the **WissZeitVG** modifies employment law | No; **§18d is the route built for researchers** |
-| [Fachkraft für Veranstaltungstechnik](/jobs-in-germany/services/fachkraft-fuer-veranstaltungstechnik/) <span class="jig-en">Event and Stage Technician</span> | No — **but the venue's competent person must hold the Meister** | No to work; **yes for the visa** |
+| Profession | English | Regulated | Recognition needed to work |
+|---|---|---|---|
+| [Gebäudereiniger/in](/jobs-in-germany/services/gebaeudereiniger-in/) | Building Cleaner | No — **Anlage B1**, so self-employment is free too | No to work; **yes for the visa** |
+| [Reinigungskraft](/jobs-in-germany/services/reinigungskraft/) | Cleaner | No — **no qualification exists** | None to work; **and none supports a visa** |
+| [Haushaltshilfe](/jobs-in-germany/services/haushaltshilfe/) | Domestic Cleaner / Household Help | No — **no qualification exists** | None; the legal question is **declared or not** |
+| [Wissenschaftliche/r Mitarbeiter/in](/jobs-in-germany/services/wissenschaftliche-r-mitarbeiter-in/) | Research Associate / Academic Staff | No — but the **WissZeitVG** modifies employment law | No; **§18d is the route built for researchers** |
+| [Fachkraft für Veranstaltungstechnik](/jobs-in-germany/services/fachkraft-fuer-veranstaltungstechnik/) | Event and Stage Technician | No — **but the venue's competent person must hold the Meister** | No to work; **yes for the visa** |
 
 ### public-service {#public-service}
 See the [sector overview](/jobs-in-germany/public-service/) — Beamten careers: you are appointed as a paid Anwärter, not hired into a job.
 
-| Profession | Regulated | Recognition needed to work |
-|---|---|---|
-| [Polizist/in](/jobs-in-germany/public-service/polizist-in/) <span class="jig-en">Police Officer</span> | Yes — Beamtenrecht | **No recognition route exists**; citizenship is the gate |
-| [Feuerwehrmann / Feuerwehrfrau](/jobs-in-germany/public-service/feuerwehrmann-frau/) <span class="jig-en">Firefighter</span> | Yes in the professional service | **A recognised trade comes first**; volunteer service is open to anyone |
-| [Zollbeamte/r](/jobs-in-germany/public-service/zollbeamte-r/) <span class="jig-en">Customs Officer</span> | Yes — Beamtenrecht | No recognition route; **federal, so one system not sixteen** |
-| [Steuerbeamte/r](/jobs-in-germany/public-service/steuerbeamte-r/) <span class="jig-en">Tax Official</span> | Yes — Beamtenrecht | No recognition route; **state-level, so sixteen systems** |
+| Profession | English | Regulated | Recognition needed to work |
+|---|---|---|---|
+| [Polizist/in](/jobs-in-germany/public-service/polizist-in/) | Police Officer | Yes — Beamtenrecht | **No recognition route exists**; citizenship is the gate |
+| [Feuerwehrmann / Feuerwehrfrau](/jobs-in-germany/public-service/feuerwehrmann-frau/) | Firefighter | Yes in the professional service | **A recognised trade comes first**; volunteer service is open to anyone |
+| [Zollbeamte/r](/jobs-in-germany/public-service/zollbeamte-r/) | Customs Officer | Yes — Beamtenrecht | No recognition route; **federal, so one system not sixteen** |
+| [Steuerbeamte/r](/jobs-in-germany/public-service/steuerbeamte-r/) | Tax Official | Yes — Beamtenrecht | No recognition route; **state-level, so sixteen systems** |
 
 ### security {#security}
 See the [sector overview](/jobs-in-germany/security/) — **§34a GewO** gates the activity, not the title: a 40-hour Unterrichtung for basic guarding, an IHK **Sachkundeprüfung** for door work, patrols and retail.
 
-| Profession | Regulated | Recognition needed to work |
-|---|---|---|
-| [Sicherheitsmitarbeiter/in](/jobs-in-germany/security/sicherheitsmitarbeiter-in/) <span class="jig-en">Security Officer, Door Supervisor, Night Guard</span> | **Activity-gated (§34a)** | §34a compliance; **Unterrichtung is not a qualification for the visa** |
-| [Fachkraft für Schutz und Sicherheit](/jobs-in-germany/security/fachkraft-fuer-schutz-und-sicherheit/) <span class="jig-en">Security Specialist</span> | Activity-gated (§34a) | No to work; **recognisable for §18a** |
+| Profession | English | Regulated | Recognition needed to work |
+|---|---|---|---|
+| [Sicherheitsmitarbeiter/in](/jobs-in-germany/security/sicherheitsmitarbeiter-in/) | Security Officer, Door Supervisor, Night Guard | **Activity-gated (§34a)** | §34a compliance; **Unterrichtung is not a qualification for the visa** |
+| [Fachkraft für Schutz und Sicherheit](/jobs-in-germany/security/fachkraft-fuer-schutz-und-sicherheit/) | Security Specialist | Activity-gated (§34a) | No to work; **recognisable for §18a** |
 
 ### hospitality {#hospitality}
 See the [sector overview](/jobs-in-germany/hospitality/) for the 2022 restructuring, minimum wage and working-time facts.
 
-| Profession | Regulated | Recognition needed to work |
-|---|---|---|
-| [Koch / Köchin](/jobs-in-germany/hospitality/koch-koechin/) <span class="jig-en">Chef / Cook</span> | No | No to work; **yes for the visa** |
-| [Fachmann/-frau Restaurants und Veranstaltungsgastronomie — "Kellner"](/jobs-in-germany/hospitality/fachmann-frau-restaurants-veranstaltungsgastronomie/) <span class="jig-en">Restaurant Specialist / Waiter</span> | No | No to work; **yes for the visa** |
-| [Hotelfachmann/-frau](/jobs-in-germany/hospitality/hotelfachmann-frau/) <span class="jig-en">Hotel Specialist</span> | No | No to work; **yes for the visa** |
-| [Barkeeper/in](/jobs-in-germany/hospitality/barkeeper-in/) <span class="jig-en">Bartender</span> | No | **No German qualification exists** — no §18a route |
+| Profession | English | Regulated | Recognition needed to work |
+|---|---|---|---|
+| [Koch / Köchin](/jobs-in-germany/hospitality/koch-koechin/) | Chef / Cook | No | No to work; **yes for the visa** |
+| [Fachmann/-frau Restaurants und Veranstaltungsgastronomie — "Kellner"](/jobs-in-germany/hospitality/fachmann-frau-restaurants-veranstaltungsgastronomie/) | Restaurant Specialist / Waiter | No | No to work; **yes for the visa** |
+| [Hotelfachmann/-frau](/jobs-in-germany/hospitality/hotelfachmann-frau/) | Hotel Specialist | No | No to work; **yes for the visa** |
+| [Barkeeper/in](/jobs-in-germany/hospitality/barkeeper-in/) | Bartender | No | **No German qualification exists** — no §18a route |
 
 ## The one distinction that matters {#the-one-distinction-that-matters}
 

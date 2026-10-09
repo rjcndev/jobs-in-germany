@@ -33,7 +33,7 @@ German metalworking splits into several distinct occupations that outsiders read
 | Occupation | What it actually is |
 |---|---|
 | **Industriemechaniker/in** | This one — assembly, machines, plant, maintenance |
-| [Mechatroniker/in](/jobs-in-germany/industrial/mechatroniker-in/) <span class="jig-en">Mechatronics Technician</span> | Adds electrical and control systems to the mechanical side |
+| [Mechatroniker/in](/jobs-in-germany/industrial/mechatroniker-in/) | Adds electrical and control systems to the mechanical side |
 | **Zerspanungsmechaniker/in** | CNC machining specialist — turning and milling to tolerance |
 | **Konstruktionsmechaniker/in** | Steel and metal structures, welding-heavy |
 | **Werkzeugmechaniker/in** | Tools, dies and moulds |

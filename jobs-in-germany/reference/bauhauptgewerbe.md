@@ -12,10 +12,10 @@ This file exists so the individual trade profiles do not each explain it badly.
 
 ## Bauhaupt- vs. Baunebengewerbe {#bauhaupt--vs-baunebengewerbe}
 
-| | Examples | Tariff world |
-|---|---|---|
-| **Bauhauptgewerbe** — structural work | Maurer, Beton- und Stahlbetonbauer, Zimmerer, Straßenbauer, Gerüstbauer, Dachdecker* | **BRTV-Bau**, SOKA-BAU, Bau-Mindestlohn |
-| **Baunebengewerbe / Ausbaugewerbe** — finishing and building services | [Elektroniker EGT](/jobs-in-germany/skilled-trades/elektroniker-in-energie-und-gebaeudetechnik/) <span class="jig-en">Electrician</span>, [SHK](/jobs-in-germany/skilled-trades/anlagenmechaniker-in-shk/), Maler, Fliesenleger, Raumausstatter | Own sector agreements; some have their own AEntG minimum |
+| | Examples | English | Tariff world |
+|---|---|---|---|
+| **Bauhauptgewerbe** — structural work | Maurer, Beton- und Stahlbetonbauer, Zimmerer, Straßenbauer, Gerüstbauer, Dachdecker* | | **BRTV-Bau**, SOKA-BAU, Bau-Mindestlohn |
+| **Baunebengewerbe / Ausbaugewerbe** — finishing and building services | [Elektroniker EGT](/jobs-in-germany/skilled-trades/elektroniker-in-energie-und-gebaeudetechnik/), [SHK](/jobs-in-germany/skilled-trades/anlagenmechaniker-in-shk/), Maler, Fliesenleger, Raumausstatter | Electrician | Own sector agreements; some have their own AEntG minimum |
 
 \* Dachdecker and Gerüstbauer have their **own** sector agreements and their own AEntG-declared minimum wage, separate from the Bau one. They sit in this world structurally but not under the same paper. Check the agreement named in the contract, not the trade.
 
