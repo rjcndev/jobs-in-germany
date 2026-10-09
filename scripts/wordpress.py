@@ -128,7 +128,8 @@ def landing(text):
             problems.append(f'README.md: no "## {heading}" section to leave off the site')
     text = text.replace('One file per profession, named after the German job title in kebab-case.\n\n', '')
     source = f'The source is on GitHub: [rjcndev/jobs-in-germany]({REPO}).\n\n'
-    return link_tree(text).replace('## Structure', source + '## Structure', 1)
+    text = link_tree(text).replace('## Structure', source + '## Browse by category', 1)
+    return text
 
 
 def first_heading(path):

@@ -69,17 +69,17 @@
 }
 .entry-content:has(> .jig-page) blockquote p:last-child { margin-bottom: 0; }
 
-/* Tables: ruled rows, tinted header, sideways scroll when too wide. */
+/* Tables: ruled rows, tinted header; on phones they scroll sideways. */
 .entry-content:has(> .jig-page) table {
-  display: block;
-  overflow-x: auto;
   width: 100%;
-  border-collapse: collapse;
   font-size: 0.9375rem;
   line-height: 1.5;
   margin-bottom: 1.75rem;
   border: 1px solid var(--jig-line);
   border-radius: var(--jig-radius);
+  border-collapse: separate;
+  border-spacing: 0;
+  overflow: hidden;
 }
 .entry-content:has(> .jig-page) th,
 .entry-content:has(> .jig-page) td {
@@ -100,7 +100,6 @@
 
 /* Key facts: a card with labels on the left, no header row. */
 .entry-content .jig-facts + table {
-  display: table;
   background: var(--jig-bg);
   box-shadow: 0 1px 3px rgba(26, 32, 44, 0.06);
 }
@@ -164,6 +163,8 @@
 
 @media (max-width: 600px) {
   .entry-content:has(> .jig-page) { font-size: 1rem; }
+  .entry-content:has(> .jig-page) table { display: block; overflow-x: auto; }
+  .entry-content .jig-facts + table { display: table; }
   .entry-content .jig-facts + table td:first-child { width: 40%; }
   .entry-content:has(> .jig-page) h2 { font-size: 1.35rem; }
 }
