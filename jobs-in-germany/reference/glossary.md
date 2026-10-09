@@ -1,6 +1,5 @@
 ---
 title: "Glossary"
-menu_order: 0
 ---
 
 This repo is written in English and deliberately keeps German terms in place, because that
