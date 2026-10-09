@@ -258,6 +258,35 @@ def back_link(url):
     return f'<p class="jig-back"><a href="{href}">← Back to {html.escape(name)}</a></p>'
 
 
+# English names for the three profiles whose title has none in brackets.
+ENGLISH_OVERRIDES = {
+    'medizinische-technologin-mt-mta': 'Medical Technologist',
+    'fachmann-frau-restaurants-veranstaltungsgastronomie': 'Restaurant Specialist / Waiter',
+    'elektroniker-weitere-fachrichtungen': 'Electronics Technician (other specialisations)',
+}
+
+
+def english_name(path):
+    """English name of a profession: the bracketed end of its title, minus any
+    trailing qualifier after a dash."""
+    if path.stem in ENGLISH_OVERRIDES:
+        return ENGLISH_OVERRIDES[path.stem]
+    m = re.search(r'\(([^()]*)\)\s*$', first_heading(path))
+    return m.group(1).split(' — ')[0].strip() if m else None
+
+
+def english_in_tables(lines):
+    """In table cells that start with a link to a profession, add its English
+    name underneath (styled by .jig-en)."""
+    def cell(c):
+        m = re.match(r'(\s*\[([^\]]*)\]\((/jobs-in-germany/[^/)]+/[^/)]+/)\))', c)
+        name = english.get(m.group(3)) if m else None
+        if not name or name.lower() in c.lower():
+            return c
+        return f'{m.group(1)} <span class="jig-en">{html.escape(name, quote=False)}</span>{c[m.end():]}'
+    return ['|'.join(cell(c) for c in l.split('|')) if l.startswith('|') else l for l in lines]
+
+
 def convert(src, url, text):
     lines = text.split('\n')
     h1 = next((i for i, l in enumerate(lines) if l.startswith('# ')), None)
@@ -270,6 +299,7 @@ def convert(src, url, text):
     if h1 is not None:
         del lines[h1]  # the theme prints the page title itself
     body = rewrite_links('\n'.join(mark_facts(linkify(unwrap(lines)))).strip('\n'), src, url)
+    body = '\n'.join(english_in_tables(body.split('\n')))
     # The page marker scopes the site's stylesheet (scripts/wordpress.css) to these pages.
     body = f'{marker("page")}\n\n{breadcrumbs(url, title)}\n\n{body}'
     if back := back_link(url):
@@ -298,6 +328,9 @@ ref = sorted((root / 'reference').glob('*.md'))
 pages.append(('jobs-in-germany/reference/index.md', root / 'reference' / 'README.md',
               generated_index('Reference', 'Background material the profession profiles link to.', ref)))
 pages += [(f'jobs-in-germany/reference/{f.name}', f, f.read_text()) for f in ref]
+
+english = {page_url(f.relative_to(root).as_posix()): english_name(f)
+           for f in (root / 'jobs').glob('*/*.md') if f.name != 'README.md'}
 
 # Anchors each page will carry, so links to #sections can be checked.
 anchors = {page_url(src.relative_to(root).as_posix()): {a for _, a in headings(text)}

@@ -197,6 +197,14 @@ body:has(.entry-content > .jig-page) .kadence-breadcrumbs { display: none; }
 .entry-content:has(> .jig-page) tbody tr:last-child td { border-bottom: 0; }
 .entry-content:has(> .jig-page) tbody tr:hover td { background: var(--jig-soft); }
 
+/* English name under a German profession name in tables */
+.entry-content .jig-en {
+  display: block;
+  margin-top: 0.1rem;
+  font-size: 0.8125rem;
+  color: var(--jig-muted);
+}
+
 /* Key facts: a card with labels on the left, no header row. */
 .entry-content .jig-facts + table {
   background: var(--jig-bg);
