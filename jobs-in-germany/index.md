@@ -9,6 +9,8 @@ to practise it.
 Written in English, with German terms kept in place — you will meet those terms in job ads,
 on authority websites, and in application forms, so translating them away is unhelpful.
 
+The source is on GitHub: [rjcndev/jobs-in-germany](https://github.com/rjcndev/jobs-in-germany).
+
 ## Structure {#structure}
 
 - [reference](/jobs-in-germany/reference/) — cross-cutting tables — start here if you are choosing a profession
