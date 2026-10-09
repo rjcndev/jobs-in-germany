@@ -224,7 +224,7 @@ def breadcrumbs(url, title):
     crumbs = [f'<a href="{href}">{html.escape(name)}</a>' for name, href in ancestors(url)]
     crumbs.append(f'<span aria-current="page">{html.escape(title)}</span>')
     return ('<nav class="jig-crumbs" aria-label="Breadcrumb">'
-            + ' <span aria-hidden="true">›</span> '.join(crumbs) + '</nav>')
+            + ' <span aria-hidden="true">/</span> '.join(crumbs) + '</nav>')
 
 
 def back_link(url):
