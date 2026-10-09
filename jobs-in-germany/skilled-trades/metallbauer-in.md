@@ -22,7 +22,7 @@ title: "Metallbauer/in (Metalworker / Structural Smith)"
 
 ## The pairing {#the-pairing}
 
-| | **Metallbauer/in** | [**Konstruktionsmechaniker/in**](/jobs-in-germany/industrial/konstruktionsmechaniker-in/) |
+| | **Metallbauer/in** | [**Konstruktionsmechaniker/in**](/jobs-in-germany/industrial/konstruktionsmechaniker-in/) <span class="jig-en">Structural Metalworker / Fabricator</span> |
 |---|---|---|
 | System | Handwerk, **HWK** | Industrie, **IHK** |
 | Anlage A | **Yes — Meisterpflicht** | — |

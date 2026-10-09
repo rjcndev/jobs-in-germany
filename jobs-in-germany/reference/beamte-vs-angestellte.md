@@ -80,8 +80,8 @@ Appointment then runs **Beamter auf Probe** (usually three years) before **auf L
 
 | Profession | Status |
 |---|---|
-| [Lehrer/in](/jobs-in-germany/education/lehrer-in/) | Usually verbeamtet; Angestellte on TV-L where not |
-| [Notfallsanitäter/in](/jobs-in-germany/healthcare/notfallsanitaeter-in/) | Verbeamtet **only** via the Berufsfeuerwehr route |
+| [Lehrer/in](/jobs-in-germany/education/lehrer-in/) <span class="jig-en">Teacher</span> | Usually verbeamtet; Angestellte on TV-L where not |
+| [Notfallsanitäter/in](/jobs-in-germany/healthcare/notfallsanitaeter-in/) <span class="jig-en">Paramedic</span> | Verbeamtet **only** via the Berufsfeuerwehr route |
 | Police, customs, tax administration, judges | Planned additions — see [TODO.md](https://github.com/rjcndev/jobs-in-germany/blob/main/TODO.md) |
 
 ## Sources {#sources}

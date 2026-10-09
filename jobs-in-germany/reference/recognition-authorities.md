@@ -44,9 +44,9 @@ Self-governing professional bodies, organised **per Bundesland**:
 
 | Kammer | Profession |
 |---|---|
-| **Landesärztekammer** | [Doctors](/jobs-in-germany/healthcare/arzt-aerztin/) — the Fachsprachprüfung, and Facharzt recognition |
+| **Landesärztekammer** | [Doctors](/jobs-in-germany/healthcare/arzt-aerztin/) <span class="jig-en">Physician</span> — the Fachsprachprüfung, and Facharzt recognition |
 | **Apothekerkammer** | [Pharmacists](/jobs-in-germany/healthcare/apotheker-in/) — Fachsprachprüfung |
-| **Rechtsanwaltskammer** | [Legal secretaries](/jobs-in-germany/commercial/rechtsanwaltsfachangestellte-r/) — note: **not** IHK FOSA, because this is a freier-Beruf occupation |
+| **Rechtsanwaltskammer** | [Legal secretaries](/jobs-in-germany/commercial/rechtsanwaltsfachangestellte-r/) <span class="jig-en">Legal Secretary / Paralegal</span> — note: **not** IHK FOSA, because this is a freier-Beruf occupation |
 | **Steuerberaterkammer** | [Tax clerks](/jobs-in-germany/commercial/steuerfachangestellte-r/) — likewise |
 | **Architektenkammer** | Architects — entry in the Architektenliste |
 | **Ingenieurkammer** | [Engineers](/jobs-in-germany/engineering/ingenieur-in/) — for the protected *title*, not the work |
@@ -59,10 +59,10 @@ For the **licensed healthcare professions** and **teaching**, the competent body
 
 | Body | Typically handles |
 |---|---|
-| **Landesprüfungsamt** | [Doctors](/jobs-in-germany/healthcare/arzt-aerztin/), [MT/MTA](/jobs-in-germany/healthcare/medizinische-technologin-mt-mta/), [physiotherapists](/jobs-in-germany/healthcare/physiotherapeut-in/), [paramedics](/jobs-in-germany/healthcare/notfallsanitaeter-in/) |
-| **Bezirksregierung / Landesamt für Gesundheit** | [Nursing](/jobs-in-germany/healthcare/pflegefachfrau-pflegefachmann/) and others, depending on the state |
+| **Landesprüfungsamt** | [Doctors](/jobs-in-germany/healthcare/arzt-aerztin/) <span class="jig-en">Physician</span>, [MT/MTA](/jobs-in-germany/healthcare/medizinische-technologin-mt-mta/), [physiotherapists](/jobs-in-germany/healthcare/physiotherapeut-in/), [paramedics](/jobs-in-germany/healthcare/notfallsanitaeter-in/) |
+| **Bezirksregierung / Landesamt für Gesundheit** | [Nursing](/jobs-in-germany/healthcare/pflegefachfrau-pflegefachmann/) <span class="jig-en">Registered Nurse</span> and others, depending on the state |
 | **Zeugnisanerkennungsstelle** | [Teachers](/jobs-in-germany/education/lehrer-in/) |
-| **Kultusministerium / Landesjugendamt** | [Erzieher/in](/jobs-in-germany/education/erzieher-in/) |
+| **Kultusministerium / Landesjugendamt** | [Erzieher/in](/jobs-in-germany/education/erzieher-in/) <span class="jig-en">Early Years &amp; Social Education Practitioner</span> |
 
 ### 4. ZAB and anabin — degrees, not professions {#4-zab-and-anabin--degrees-not-professions}
 

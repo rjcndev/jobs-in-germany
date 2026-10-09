@@ -66,11 +66,11 @@ Whatever you do: **keep the membership number and the annual statement**, and te
 
 | Profession | Versorgungswerk |
 |---|---|
-| [Arzt / Ärztin](/jobs-in-germany/healthcare/arzt-aerztin/) | Ärzteversorgung — the largest and oldest group |
-| [Apotheker/in](/jobs-in-germany/healthcare/apotheker-in/) | Apothekerversorgung |
-| [Zahnarzt / Zahnärztin](/jobs-in-germany/healthcare/zahnarzt-zahnaerztin/) | Zahnärzteversorgung |
-| [Psychotherapeut/in](/jobs-in-germany/healthcare/psychotherapeut-in/) | Via the Psychotherapeutenkammer; arrangements vary by state |
-| [Architekt/in](/jobs-in-germany/engineering/architekt-in/) | Architektenversorgung in most states; joint schemes in others |
+| [Arzt / Ärztin](/jobs-in-germany/healthcare/arzt-aerztin/) <span class="jig-en">Physician</span> | Ärzteversorgung — the largest and oldest group |
+| [Apotheker/in](/jobs-in-germany/healthcare/apotheker-in/) <span class="jig-en">Pharmacist</span> | Apothekerversorgung |
+| [Zahnarzt / Zahnärztin](/jobs-in-germany/healthcare/zahnarzt-zahnaerztin/) <span class="jig-en">Dentist</span> | Zahnärzteversorgung |
+| [Psychotherapeut/in](/jobs-in-germany/healthcare/psychotherapeut-in/) <span class="jig-en">Psychotherapist</span> | Via the Psychotherapeutenkammer; arrangements vary by state |
+| [Architekt/in](/jobs-in-germany/engineering/architekt-in/) <span class="jig-en">Architect</span> | Architektenversorgung in most states; joint schemes in others |
 | **Rechtsanwalt/-anwältin**, **Notar/in** | Rechtsanwaltsversorgung — reachable from [Rechtsanwaltsfachangestellte/r](/jobs-in-germany/commercial/rechtsanwaltsfachangestellte-r/) |
 | **Steuerberater/in** | Steuerberaterversorgung — reachable from [Steuerfachangestellte/r](/jobs-in-germany/commercial/steuerfachangestellte-r/) |
 

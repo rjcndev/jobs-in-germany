@@ -29,8 +29,8 @@ This is a sharper version of the point made in the [restaurant service file](/jo
 
 | Route | What it is |
 |---|---|
-| [Fachmann/-frau für Restaurants und Veranstaltungsgastronomie](/jobs-in-germany/hospitality/fachmann-frau-restaurants-veranstaltungsgastronomie/) | The nearest state qualification; drinks service is part of it |
-| [Hotelfachmann/-frau](/jobs-in-germany/hospitality/hotelfachmann-frau/) | Covers bar work among other departments |
+| [Fachmann/-frau für Restaurants und Veranstaltungsgastronomie](/jobs-in-germany/hospitality/fachmann-frau-restaurants-veranstaltungsgastronomie/) <span class="jig-en">Restaurant Specialist / Waiter</span> | The nearest state qualification; drinks service is part of it |
+| [Hotelfachmann/-frau](/jobs-in-germany/hospitality/hotelfachmann-frau/) <span class="jig-en">Hotel Specialist</span> | Covers bar work among other departments |
 | Fachkraft für Gastronomie | The 2-year qualification from the 2022 reform |
 | **IHK certificate courses / Deutsche Barkeeper-Union** | Short industry certification — respected in the trade, **not a state qualification** |
 | Nothing | The most common case |
