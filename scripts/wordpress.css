@@ -18,7 +18,7 @@
   --global-palette4: #d9dfe7;  /* strong text */
   --global-palette5: #b7c1cd;  /* body text */
   --global-palette6: #8a97a8;  /* muted text */
-  --global-palette7: #222a35;  /* borders, title banner */
+  --global-palette7: #2c3643;  /* borders, title banner */
   --global-palette8: #0f1419;  /* page background */
   --global-palette9: #171d25;  /* content background */
   --global-palette9rgb: 23, 29, 37;
@@ -33,7 +33,7 @@
     --global-palette4: #d9dfe7;  /* strong text */
     --global-palette5: #b7c1cd;  /* body text */
     --global-palette6: #8a97a8;  /* muted text */
-    --global-palette7: #222a35;  /* borders, title banner */
+    --global-palette7: #2c3643;  /* borders, title banner */
     --global-palette8: #0f1419;  /* page background */
     --global-palette9: #171d25;  /* content background */
     --global-palette9rgb: 23, 29, 37;
@@ -48,6 +48,14 @@
 #masthead .kadence-sticky-header.item-is-fixed:not(.item-at-start):not(.site-header-row-container):not(.site-main-header-wrap),
 #masthead .kadence-sticky-header.item-is-fixed:not(.item-at-start) > .site-header-row-container-inner {
   background: var(--global-palette9);
+}
+
+/* The mobile menu drawer is near-black in both modes, but Kadence colours its
+ * links with palette 8, which dark mode turns near-black too. Pin them to the
+ * light-mode value. */
+.mobile-navigation ul li > a,
+.mobile-navigation ul li.menu-item-has-children > .drawer-nav-drop-wrap {
+  color: #f7fafc;
 }
 
 /* Light/dark switch in the header (added by scripts/theme-toggle.html) */
@@ -272,6 +280,7 @@ body:has(.entry-content > .jig-page) .kadence-breadcrumbs { display: none; }
 }
 
 @media (max-width: 600px) {
+  .jig-theme-toggle { width: 2.5rem; height: 2.5rem; }
   .entry-content:has(> .jig-page) { font-size: 1rem; }
   .entry-content .jig-facts + table td:first-child { width: 40%; }
   .entry-content:has(> .jig-page) h2 { font-size: 1.35rem; }
